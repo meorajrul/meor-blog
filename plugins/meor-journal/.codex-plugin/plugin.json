@@ -1,0 +1,25 @@
+{
+  "name": "meor-journal",
+  "version": "1.0.1",
+  "description": "Personal journal topic discovery, research, thinking, drafting, evidence review and GitHub Pages publishing.",
+  "author": {
+    "name": "Meor Ajrul"
+  },
+  "skills": "./skills/",
+  "keywords": [
+    "personal-journal",
+    "blog",
+    "research",
+    "evidence",
+    "github-pages"
+  ],
+  "interface": {
+    "displayName": "Meor Journal",
+    "shortDescription": "A personal journal with thoughtful research and clear prose.",
+    "longDescription": "Seven reusable skills, article templates, traceable evidence packets and structural publication checks for a broad personal journal.",
+    "developerName": "Meor Ajrul",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me turn my notes into a thoughtful personal journal entry."
+  }
+}

@@ -1,0 +1,13 @@
+date,pass,platform,query,decision
+2026-10-18,scope,web search,site.barbaraminto.com pyramid principle SCQ,Minto author page; adopted for argument organization
+2026-10-18,scope,web search,SANRA scale quality assessment narrative review articles Baethge Goldbeck Wood Mertens 2019,Original paper; adopted with medical-setting caveat
+2026-10-18,scope,web search,Gibbs Learning by Doing 1988 reflective cycle Oxford Polytechnic original,Publisher record inspected; original PDF inaccessible
+2026-10-18,scope,web search,site.duarte.com what is what could be story structure,Duarte author account selected; vendor outcome claims not adopted
+2026-10-18,validation,web search,PRISMA S Rethlefsen 2021 literature searches systematic reviews 10.1186,Original paper; search-reporting subset adapted
+2026-10-18,validation,web search,Wineburg McGrew 2019 lateral reading reading less learning more evaluating digital information primary study,Original abstract and author summary inspected
+2026-10-18,validation,web search,site.nature.com articles sdata201618 FAIR guiding principles,Original fetch failed; principles steward used instead
+2026-10-18,validation,web search,site.w3.org WAI tutorials images complex,Official accessibility guidance adopted
+2026-10-18,implementation,web search,site.docs.github.com pages custom domain apex github actions Hugo,GitHub and Hugo docs selected
+2026-10-18,implementation,web search,site.developers.openai.com codex plugins plugin.json marketplace skills install,Official packaging page and local CLI help used
+2026-10-18,countercheck,web search,site.cloudflare.com developers dns github pages custom domain proxy DNS only,Cloudflare general proxy recommendation retained as a caveat; DNS-only is our initial setup choice
+2026-10-18,countercheck,web search,site.brookes.ac.uk learning doing Gibbs 1988 description feelings evaluation analysis conclusion action plan,Original PDF remained inaccessible; no full-book claim

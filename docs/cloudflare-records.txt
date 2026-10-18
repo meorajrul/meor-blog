@@ -1,0 +1,7 @@
+; Web records for meorajrul.com. Inspect existing records before importing.
+; Cloudflare proxy: DNS only for every web record below. TTL: Auto in dashboard.
+meorajrul.com. 300 IN A 185.199.108.153
+meorajrul.com. 300 IN A 185.199.109.153
+meorajrul.com. 300 IN A 185.199.110.153
+meorajrul.com. 300 IN A 185.199.111.153
+www.meorajrul.com. 300 IN CNAME meorajrul.github.io.

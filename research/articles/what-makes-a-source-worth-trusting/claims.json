@@ -1,0 +1,52 @@
+[
+  {
+    "id": "C1",
+    "text": "The lateral-reading research compares fact-checkers, historians and students evaluating online information.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Abstract / author summary",
+    "status": "supported",
+    "confidence": "bounded",
+    "limitations": "No numeric effect or claim that the plugin is validated."
+  },
+  {
+    "id": "C2",
+    "text": "SANRA attends to purpose, search, references, reasoning and relevant data.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S2"
+    ],
+    "locator": "Abstract; Methods",
+    "status": "supported",
+    "confidence": "high within its definition",
+    "limitations": "Medical narrative-review setting."
+  },
+  {
+    "id": "C3",
+    "text": "PRISMA-S guides reporting literature searches.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S3"
+    ],
+    "locator": "Abstract",
+    "status": "supported",
+    "confidence": "high within its definition",
+    "limitations": "Not a certificate of search completeness."
+  },
+  {
+    "id": "C4",
+    "text": "The journal can borrow these practices while distinguishing experience, interpretation and evidence.",
+    "kind": "inference",
+    "source_ids": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "locator": "Article synthesis, paragraphs under each cited section",
+    "status": "qualified",
+    "confidence": "proposed practice",
+    "limitations": "No real-use benefit evaluation has been run."
+  }
+]

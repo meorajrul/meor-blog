@@ -1,0 +1,35 @@
+[
+  {
+    "id": "S1",
+    "title": "Lateral Reading and the Nature of Expertise",
+    "url": "https://doi.org/10.1177/016146811912101102",
+    "publisher": "Wineburg and McGrew / Teachers College Record",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Abstract; author research summary at cor.inquirygroup.org",
+    "origin_group": "wineburg-mcgrew-2019",
+    "appraisal": "Original abstract and author summary inspected; do not make quantitative or causal performance claims from this example."
+  },
+  {
+    "id": "S2",
+    "title": "SANRA",
+    "url": "https://doi.org/10.1186/s41073-019-0064-8",
+    "publisher": "Baethge, Goldbeck-Wood, Mertens / Research Integrity and Peer Review",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Abstract; Methods; Discussion: limitations",
+    "origin_group": "sanra-2019",
+    "appraisal": "Medical narrative-review instrument; small sample and author-raters; does not validate our blog adaptation."
+  },
+  {
+    "id": "S3",
+    "title": "PRISMA-S",
+    "url": "https://doi.org/10.1186/s13643-020-01542-z",
+    "publisher": "Rethlefsen et al. / Systematic Reviews",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Abstract and search-reporting checklist explanations",
+    "origin_group": "prisma-s-2021",
+    "appraisal": "Reporting guideline; borrowing selected practices does not establish systematic review completeness."
+  }
+]

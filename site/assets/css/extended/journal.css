@@ -1,5 +1,5 @@
-:root { --theme: #fbf9f4; --entry: #fffdf9; --primary: #272a26; --secondary: #676d62; --content: #343a31; --border: #dfdfd4; --main-width: 760px; }
-.dark { --theme: #1d211e; --entry: #252b26; --primary: #eaece1; --secondary: #b2b9ab; --content: #d5dbcc; --border: #394238; }
+:root, :root[data-theme="light"] { --theme: #fbf9f4; --entry: #fffdf9; --primary: #272a26; --secondary: #676d62; --content: #343a31; --border: #dfdfd4; --main-width: 760px; }
+:root[data-theme="dark"] { --theme: #1d211e; --entry: #252b26; --primary: #eaece1; --secondary: #b2b9ab; --content: #d5dbcc; --border: #394238; }
 body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
 .logo a { font-family: Georgia, serif; font-weight: 500; letter-spacing: -.5px; }
 .nav { max-width: 1120px; }

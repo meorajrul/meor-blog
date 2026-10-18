@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "status": "pending",
+  "author_approved": false,
+  "reviewer": "",
+  "reviewed_on": "",
+  "review_by": "",
+  "content_sha256": "",
+  "unresolved_issues": [
+    "Await author selection, voice edits and actual publication approval"
+  ],
+  "claims_complete": false,
+  "citations_checked": false,
+  "numbers_checked": false,
+  "rights_checked": false,
+  "privacy_checked": false,
+  "first_person_checked": false,
+  "counterevidence_checked": false
+}
