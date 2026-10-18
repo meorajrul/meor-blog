@@ -1,0 +1,41 @@
+{{- /* Journal metadata uses JSON serialization so titles and names remain safely escaped. */ -}}
+{{- if partial "seo/indexable.html" . -}}
+  {{- $person := dict "@type" "Person" "@id" (printf "%s#meor" site.Home.Permalink) "name" site.Params.author "url" ("about/" | absURL) -}}
+  {{- with site.Params.schema.sameAs -}}{{- $person = merge $person (dict "sameAs" .) -}}{{- end -}}
+  {{- $nodes := slice -}}
+  {{- if .IsHome -}}
+    {{- $website := dict "@type" "WebSite" "@id" (printf "%s#website" .Permalink) "name" site.Title "url" .Permalink "description" site.Params.description "publisher" $person -}}
+    {{- $nodes = slice $website $person -}}
+  {{- else -}}
+    {{- $items := slice -}}
+    {{- range .Ancestors.Reverse -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" .Title "item" .Permalink) -}}
+    {{- end -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" .Title "item" .Permalink) -}}
+    {{- $nodes = $nodes | append (dict "@type" "BreadcrumbList" "itemListElement" $items) -}}
+    {{- if and .IsPage (eq .Section "posts") -}}
+      {{- $authors := slice -}}
+      {{- $names := .Params.author | default site.Params.author -}}
+      {{- if not (reflect.IsSlice $names) -}}{{- $names = slice $names -}}{{- end -}}
+      {{- range $names -}}
+        {{- $author := dict "@type" "Person" "name" . -}}
+        {{- if eq . site.Params.author -}}{{- $author = $person -}}{{- end -}}
+        {{- $authors = $authors | append $author -}}
+      {{- end -}}
+      {{- $article := dict "@type" "BlogPosting" "headline" (.Title | plainify) "description" .Description "url" .Permalink "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink) "author" $authors "publisher" $person "inLanguage" .Language.Lang -}}
+      {{- if not .PublishDate.IsZero -}}{{- $article = merge $article (dict "datePublished" (.PublishDate.Format "2006-01-02T15:04:05-07:00")) -}}{{- end -}}
+      {{- if not .Lastmod.IsZero -}}{{- $article = merge $article (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")) -}}{{- end -}}
+      {{- with .Params.cover.image -}}
+        {{- $image := . | absURL -}}
+        {{- if $.Params.cover.relative -}}{{- $image = (path.Join $.RelPermalink .) | absURL -}}{{- end -}}
+        {{- $article = merge $article (dict "image" $image) -}}
+      {{- end -}}
+      {{- $nodes = $nodes | append $article -}}
+    {{- else if eq .RelPermalink "/about/" -}}
+      {{- $profile := dict "@type" "ProfilePage" "url" .Permalink "name" .Title "mainEntity" $person -}}
+      {{- if not .Lastmod.IsZero -}}{{- $profile = merge $profile (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")) -}}{{- end -}}
+      {{- $nodes = $nodes | append $profile -}}
+    {{- end -}}
+  {{- end -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $nodes | jsonify | safeJS }}</script>
+{{- end -}}

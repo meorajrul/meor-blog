@@ -1,0 +1,1341 @@
+{
+  "as_of": "2026-10-18",
+  "timezone": "Asia/Kuala_Lumpur",
+  "scope": "All 9 locally generated HTML files and 11 public URL requests. Not a ranking, backlink or user-performance audit.",
+  "live": [
+    {
+      "requested_url": "http://meorajrul.com/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Meor Ajrul",
+        "h1": [
+          "Life, learning, and things worth understanding."
+        ],
+        "meta": {
+          "generator": [
+            "Hugo 0.167.0"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Meor Ajrul"
+          ],
+          "og:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "website"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Meor Ajrul"
+          ],
+          "twitter:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "/about/",
+          "/index.xml",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": [
+          {
+            "@type": "Organization",
+            "name": "Meor Ajrul",
+            "sameAs": [],
+            "url": "https://meorajrul.com/"
+          }
+        ]
+      }
+    },
+    {
+      "requested_url": "https://www.meorajrul.com/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Meor Ajrul",
+        "h1": [
+          "Life, learning, and things worth understanding."
+        ],
+        "meta": {
+          "generator": [
+            "Hugo 0.167.0"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Meor Ajrul"
+          ],
+          "og:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "website"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Meor Ajrul"
+          ],
+          "twitter:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "/about/",
+          "/index.xml",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": [
+          {
+            "@type": "Organization",
+            "name": "Meor Ajrul",
+            "sameAs": [],
+            "url": "https://meorajrul.com/"
+          }
+        ]
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Meor Ajrul",
+        "h1": [
+          "Life, learning, and things worth understanding."
+        ],
+        "meta": {
+          "generator": [
+            "Hugo 0.167.0"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Meor Ajrul"
+          ],
+          "og:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "website"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Meor Ajrul"
+          ],
+          "twitter:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "/about/",
+          "/index.xml",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": [
+          {
+            "@type": "Organization",
+            "name": "Meor Ajrul",
+            "sameAs": [],
+            "url": "https://meorajrul.com/"
+          }
+        ]
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/about/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/about/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "About me | Meor Ajrul",
+        "h1": [
+          "About me"
+        ],
+        "meta": {
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "keywords": [
+            null
+          ],
+          "description": [
+            "Meor Ajrul on software, practical AI, learning, and the questions behind this personal journal."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/about/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "About me"
+          ],
+          "og:description": [
+            "Meor Ajrul on software, practical AI, learning, and the questions behind this personal journal."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "article"
+          ],
+          "article:published_time": [
+            "2026-10-18T00:00:00+08:00"
+          ],
+          "article:modified_time": [
+            "2026-10-18T00:00:00+08:00"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "About me"
+          ],
+          "twitter:description": [
+            "Meor Ajrul on software, practical AI, learning, and the questions behind this personal journal."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/about/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "/",
+          "#my-background",
+          "#how-i-approach-things",
+          "#why-this-journal",
+          "#my-background",
+          "https://www.linkedin.com/in/meorajrul/",
+          "#how-i-approach-things",
+          "#why-this-journal",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": [
+          {
+            "@type": "BreadcrumbList"
+          },
+          {
+            "@type": "BlogPosting",
+            "name": "About me",
+            "author": {
+              "@type": "Person",
+              "name": "Meor Ajrul"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meor Ajrul",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://meorajrul.com/favicon.ico"
+              }
+            },
+            "datePublished": "2026-10-18T00:00:00+08:00",
+            "dateModified": "2026-10-18T00:00:00+08:00"
+          }
+        ]
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/posts/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/posts/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Journal | Meor Ajrul",
+        "h1": [
+          "Journal"
+        ],
+        "meta": {
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "keywords": [
+            null
+          ],
+          "description": [
+            "Reflections, field notes, and essays."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/posts/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Journal"
+          ],
+          "og:description": [
+            "Reflections, field notes, and essays."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "website"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Journal"
+          ],
+          "twitter:description": [
+            "Reflections, field notes, and essays."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/posts/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "/",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": [
+          {
+            "@type": "BreadcrumbList"
+          }
+        ]
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/search/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/search/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Search | Meor Ajrul",
+        "h1": [
+          "Search "
+        ],
+        "meta": {
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "noindex, nofollow",
+            "noindex, nofollow"
+          ],
+          "keywords": [
+            null
+          ],
+          "description": [
+            "Search - Meor Ajrul"
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/search/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Search"
+          ],
+          "og:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "article"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Search"
+          ],
+          "twitter:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/search/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": [
+          {
+            "@type": "BreadcrumbList"
+          },
+          {
+            "@type": "BlogPosting",
+            "name": "Search",
+            "author": {
+              "@type": "Person",
+              "name": "Meor Ajrul"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meor Ajrul",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://meorajrul.com/favicon.ico"
+              }
+            },
+            "datePublished": "0001-01-01T00:00:00Z",
+            "dateModified": "0001-01-01T00:00:00Z"
+          }
+        ]
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/categories/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/categories/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Categories | Meor Ajrul",
+        "h1": [
+          "Categories"
+        ],
+        "meta": {
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "keywords": [
+            null
+          ],
+          "description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/categories/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Categories"
+          ],
+          "og:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "website"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Categories"
+          ],
+          "twitter:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/categories/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": []
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/tags/",
+      "status": 200,
+      "final_url": "https://meorajrul.com/tags/",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8"
+      },
+      "page": {
+        "title": "Tags | Meor Ajrul",
+        "h1": [
+          "Tags"
+        ],
+        "meta": {
+          "viewport": [
+            "width=device-width,initial-scale=1,shrink-to-fit=no"
+          ],
+          "robots": [
+            "index, follow"
+          ],
+          "keywords": [
+            null
+          ],
+          "description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "author": [
+            "Meor Ajrul"
+          ],
+          "theme-color": [
+            "#2e2e33"
+          ],
+          "msapplication-TileColor": [
+            "#2e2e33"
+          ],
+          "og:url": [
+            "https://meorajrul.com/tags/"
+          ],
+          "og:site_name": [
+            "Meor Ajrul"
+          ],
+          "og:title": [
+            "Tags"
+          ],
+          "og:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ],
+          "og:locale": [
+            "en"
+          ],
+          "og:type": [
+            "website"
+          ],
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "Tags"
+          ],
+          "twitter:description": [
+            "A personal journal about life, learning, and things worth understanding."
+          ]
+        },
+        "canonicals": [
+          "https://meorajrul.com/tags/"
+        ],
+        "links": [
+          "https://meorajrul.com/",
+          "https://meorajrul.com/posts/",
+          "https://meorajrul.com/about/",
+          "https://meorajrul.com/search/",
+          "https://meorajrul.com/",
+          "https://gohugo.io/?utm_source=papermod",
+          "https://github.com/adityatelange/hugo-PaperMod/",
+          "#top"
+        ],
+        "jsonld": []
+      }
+    },
+    {
+      "requested_url": "https://meorajrul.com/robots.txt",
+      "status": 200,
+      "final_url": "https://meorajrul.com/robots.txt",
+      "headers": {
+        "Content-Type": "text/plain; charset=utf-8"
+      },
+      "body": "User-agent: *\nDisallow:\nSitemap: https://meorajrul.com/sitemap.xml\n"
+    },
+    {
+      "requested_url": "https://meorajrul.com/sitemap.xml",
+      "status": 200,
+      "final_url": "https://meorajrul.com/sitemap.xml",
+      "headers": {
+        "Content-Type": "application/xml"
+      },
+      "body": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\"><url><loc>https://meorajrul.com/about/</loc><lastmod>2026-10-18T00:00:00+08:00</lastmod></url><url><loc>https://meorajrul.com/</loc><lastmod>2026-10-18T00:00:00+08:00</lastmod></url><url><loc>https://meorajrul.com/categories/</loc></url><url><loc>https://meorajrul.com/posts/</loc></url><url><loc>https://meorajrul.com/search/</loc></url><url><loc>https://meorajrul.com/tags/</loc></url></urlset>"
+    },
+    {
+      "requested_url": "https://meorajrul.com/seo-audit-nonexistent-20261018/",
+      "status": 404,
+      "final_url": "https://meorajrul.com/seo-audit-nonexistent-20261018/"
+    }
+  ],
+  "local": {
+    "index.html": {
+      "title": "Meor Ajrul",
+      "h1": [
+        "Life, learning, and things worth understanding."
+      ],
+      "meta": {
+        "generator": [
+          "Hugo 0.167.0"
+        ],
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "Meor Ajrul"
+        ],
+        "og:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "Meor Ajrul"
+        ],
+        "twitter:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "/about/",
+        "/index.xml",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": [
+        {
+          "@type": "Organization",
+          "name": "Meor Ajrul",
+          "sameAs": [],
+          "url": "https://meorajrul.com/"
+        }
+      ]
+    },
+    "404.html": {
+      "title": "404 Page not found | Meor Ajrul",
+      "h1": [],
+      "meta": {
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "keywords": [
+          null
+        ],
+        "description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/404.html"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "404 Page not found"
+        ],
+        "og:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "404 Page not found"
+        ],
+        "twitter:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/404.html"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": []
+    },
+    "categories/index.html": {
+      "title": "Categories | Meor Ajrul",
+      "h1": [
+        "Categories"
+      ],
+      "meta": {
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "keywords": [
+          null
+        ],
+        "description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/categories/"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "Categories"
+        ],
+        "og:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "Categories"
+        ],
+        "twitter:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/categories/"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": []
+    },
+    "posts/index.html": {
+      "title": "Journal | Meor Ajrul",
+      "h1": [
+        "Journal"
+      ],
+      "meta": {
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "keywords": [
+          null
+        ],
+        "description": [
+          "Reflections, field notes, and essays."
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/posts/"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "Journal"
+        ],
+        "og:description": [
+          "Reflections, field notes, and essays."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "Journal"
+        ],
+        "twitter:description": [
+          "Reflections, field notes, and essays."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/posts/"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "/",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": [
+        {
+          "@type": "BreadcrumbList"
+        }
+      ]
+    },
+    "tags/index.html": {
+      "title": "Tags | Meor Ajrul",
+      "h1": [
+        "Tags"
+      ],
+      "meta": {
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "keywords": [
+          null
+        ],
+        "description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/tags/"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "Tags"
+        ],
+        "og:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "Tags"
+        ],
+        "twitter:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/tags/"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": []
+    },
+    "about/index.html": {
+      "title": "About me | Meor Ajrul",
+      "h1": [
+        "About me"
+      ],
+      "meta": {
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "keywords": [
+          null
+        ],
+        "description": [
+          "Meor Ajrul on software, practical AI, learning, and the questions behind this personal journal."
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/about/"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "About me"
+        ],
+        "og:description": [
+          "Meor Ajrul on software, practical AI, learning, and the questions behind this personal journal."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "article"
+        ],
+        "article:published_time": [
+          "2026-10-18T00:00:00+08:00"
+        ],
+        "article:modified_time": [
+          "2026-10-18T00:00:00+08:00"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "About me"
+        ],
+        "twitter:description": [
+          "Meor Ajrul on software, practical AI, learning, and the questions behind this personal journal."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/about/"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "/",
+        "#my-background",
+        "#how-i-approach-things",
+        "#why-this-journal",
+        "#my-background",
+        "https://www.linkedin.com/in/meorajrul/",
+        "#how-i-approach-things",
+        "#why-this-journal",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": [
+        {
+          "@type": "BreadcrumbList"
+        },
+        {
+          "@type": "BlogPosting",
+          "name": "About me",
+          "author": {
+            "@type": "Person",
+            "name": "Meor Ajrul"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Meor Ajrul",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://meorajrul.com/favicon.ico"
+            }
+          },
+          "datePublished": "2026-10-18T00:00:00+08:00",
+          "dateModified": "2026-10-18T00:00:00+08:00"
+        }
+      ]
+    },
+    "search/index.html": {
+      "title": "Search | Meor Ajrul",
+      "h1": [
+        "Search "
+      ],
+      "meta": {
+        "viewport": [
+          "width=device-width,initial-scale=1,shrink-to-fit=no"
+        ],
+        "robots": [
+          "noindex, nofollow",
+          "noindex, nofollow"
+        ],
+        "keywords": [
+          null
+        ],
+        "description": [
+          "Search - Meor Ajrul"
+        ],
+        "author": [
+          "Meor Ajrul"
+        ],
+        "theme-color": [
+          "#2e2e33"
+        ],
+        "msapplication-TileColor": [
+          "#2e2e33"
+        ],
+        "og:url": [
+          "https://meorajrul.com/search/"
+        ],
+        "og:site_name": [
+          "Meor Ajrul"
+        ],
+        "og:title": [
+          "Search"
+        ],
+        "og:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ],
+        "og:locale": [
+          "en"
+        ],
+        "og:type": [
+          "article"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:title": [
+          "Search"
+        ],
+        "twitter:description": [
+          "A personal journal about life, learning, and things worth understanding."
+        ]
+      },
+      "canonicals": [
+        "https://meorajrul.com/search/"
+      ],
+      "links": [
+        "https://meorajrul.com/",
+        "https://meorajrul.com/posts/",
+        "https://meorajrul.com/about/",
+        "https://meorajrul.com/search/",
+        "https://meorajrul.com/",
+        "https://gohugo.io/?utm_source=papermod",
+        "https://github.com/adityatelange/hugo-PaperMod/",
+        "#top"
+      ],
+      "jsonld": [
+        {
+          "@type": "BreadcrumbList"
+        },
+        {
+          "@type": "BlogPosting",
+          "name": "Search",
+          "author": {
+            "@type": "Person",
+            "name": "Meor Ajrul"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Meor Ajrul",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://meorajrul.com/favicon.ico"
+            }
+          },
+          "datePublished": "0001-01-01T00:00:00Z",
+          "dateModified": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    "page/1/index.html": {
+      "title": "https://meorajrul.com/",
+      "h1": [],
+      "meta": {},
+      "canonicals": [
+        "https://meorajrul.com/"
+      ],
+      "links": [],
+      "jsonld": []
+    },
+    "posts/page/1/index.html": {
+      "title": "https://meorajrul.com/posts/",
+      "h1": [],
+      "meta": {},
+      "canonicals": [
+        "https://meorajrul.com/posts/"
+      ],
+      "links": [],
+      "jsonld": []
+    }
+  },
+  "baseline": {
+    "public_posts": 0,
+    "draft_posts": 1,
+    "hugo": "0.167.0",
+    "content_check": "passed",
+    "production_build": "passed",
+    "output_check": "passed",
+    "html_pages": 9,
+    "build_warnings": [
+      "PaperMod LanguageDirection deprecation",
+      "PaperMod LanguageCode deprecation"
+    ]
+  }
+}

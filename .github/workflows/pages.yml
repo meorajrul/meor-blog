@@ -17,8 +17,6 @@ jobs:
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.12'
-      - name: Test publication checks
-        run: python -m unittest discover -s plugins/meor-journal/tests -v
       - name: Validate article packets
         run: python scripts/blog.py check
       - name: Validate and package plugin
@@ -37,6 +35,8 @@ jobs:
           grep " $asset$" checksums.txt | sha256sum --check --strict
           tar -xzf "$asset" hugo
           echo "$RUNNER_TEMP/hugo" >> "$GITHUB_PATH"
+      - name: Test publication and SEO checks
+        run: python -m unittest discover -s plugins/meor-journal/tests -v
       - name: Build production site
         run: hugo --source site --environment production --minify --cleanDestinationDir
       - name: Check output boundaries and local links

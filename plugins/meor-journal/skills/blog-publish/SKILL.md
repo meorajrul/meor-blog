@@ -17,3 +17,5 @@ After approval, set the article draft flag false and record the reviewed final d
 For custom domains, set the repository Pages domain as well as DNS. With Actions, CNAME alone is insufficient. Use the official GitHub docs for current records, inspect existing DNS before changes, preserve mail/TXT records, and verify DNS and certificate state separately. Do not claim HTTPS complete while issuance is pending.
 
 Record the published URL, commit, actual checks, and unresolved dependencies. Corrections require updated evidence, a fresh review, and a material correction note where appropriate. Do not schedule a recurring monitor unless requested.
+
+Use [the SEO workflow](../../references/seo-workflow.md) for release and maintenance. Verify exact canonicals, intended index directives, sitemap consistency, article-only BlogPosting metadata and draft exclusion from HTML, feeds and search. Use codex/ branches and PRs targeting staging in this project; never commit to or push main. After an authorized release, use Search Console when access exists and record unknowns otherwise. Keep performance exports private and measurements distinct from causal claims.

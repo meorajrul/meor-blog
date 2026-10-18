@@ -12,3 +12,12 @@ Genre: {{GENRE}}. Created: {{DATE}}.
 - Thinking/story framework and why it fits:
 - Private material to exclude:
 - Research stopping decision and remaining limits:
+
+## Search discovery (optional for personal reflection)
+
+- Discovery goal and likely reader-search question (hypothesis unless measured):
+- Reader intent and original contribution:
+- Actual query/date, inspected result patterns and evidence limits, if researched:
+- Proposed title, accurate description and stable slug:
+- Existing entry overlap and related published links (or none yet):
+- Measurement baseline and follow-up, if available; keep private exports private:

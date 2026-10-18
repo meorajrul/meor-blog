@@ -15,3 +15,5 @@ Give 1–2 outline options only when they would produce materially different goo
 Keep personal experience, external evidence and interpretation separate in the thought brief. Test the strongest alternative before fixing the headline. If sources weaken the thesis, revise the outline. Leave unresolved matters open when that is the honest conclusion. Do not invent scenes, dialogue, conflict or emotional transformation.
 
 Save the thought brief and outline in the article packet, then hand off to drafting or research within the current request. An outline does not authorize publication.
+
+When search discovery is relevant, use [the SEO workflow](../../references/seo-workflow.md) to check that the proposed title, outline and opening answer the same reader question. Preserve a reflective structure when it fits; search intent is a discovery aid, not a required theme or formula.

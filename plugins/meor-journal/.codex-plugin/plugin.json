@@ -1,7 +1,7 @@
 {
   "name": "meor-journal",
-  "version": "1.0.1",
-  "description": "Personal journal topic discovery, research, thinking, drafting, evidence review and GitHub Pages publishing.",
+  "version": "1.1.0",
+  "description": "Personal journal research, drafting, SEO discovery, evidence review and approval-gated GitHub Pages publishing.",
   "author": {
     "name": "Meor Ajrul"
   },
@@ -16,7 +16,7 @@
   "interface": {
     "displayName": "Meor Journal",
     "shortDescription": "A personal journal with thoughtful research and clear prose.",
-    "longDescription": "Seven reusable skills, article templates, traceable evidence packets and structural publication checks for a broad personal journal.",
+    "longDescription": "Seven reusable skills, SEO-aware article templates, traceable evidence packets and structural publication checks for a broad personal journal.",
     "developerName": "Meor Ajrul",
     "category": "Productivity",
     "capabilities": [],

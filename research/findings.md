@@ -24,4 +24,9 @@ Initial survey plus targeted validation and countercheck searches have supplied 
 
 ## Open questions
 
-Which personal themes recur will emerge from actual entries. The owner's voice needs supplied notes and editorial feedback. The plugin's effect on accuracy, writing effort and reader response is unknown; assess after real use before claiming improvement. The owner chose to apply Cloudflare DNS manually. Exact records are prepared; public DNS and HTTPS remain pending that action. This does not require continued setup research.
+Which personal themes recur will emerge from actual entries. The owner's voice needs supplied notes and editorial feedback. The plugin's effect on accuracy, writing effort and reader response is unknown; assess after real use before claiming improvement. The owner configured Cloudflare DNS manually. A later SEO audit directly verified HTTPS and redirects on 18 October 2026; earlier pending-domain notes are historical. This does not establish Search Console setup or search performance.
+
+
+## SEO workflow implementation
+
+The approved SEO work adds optional discovery intent to briefs, a discovery review before final approval, and manual post-publication measurement. Local sitemap/indexing, identity/schema and pagination fixes are verified with 55 engineering tests and the production checks; plugin 1.1.0 is installed and enabled. The article remains draft=true and author_approved=false. No deployment or search-impact measurement occurred. See [implementation evidence](seo/2026-10-18/implementation.md). These structural improvements do not establish reader benefit or ranking gains.

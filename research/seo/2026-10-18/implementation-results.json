@@ -1,0 +1,28 @@
+{
+  "as_of": "2026-10-18",
+  "branch": "codex/journal-seo-workflow",
+  "test_count": 55,
+  "article_gate_tests": 23,
+  "output_tests": 29,
+  "render_integration_tests": 3,
+  "hugo": "0.167.0",
+  "production_build": "passed",
+  "production_html_files": 9,
+  "sitemap_urls": 3,
+  "public_posts": 0,
+  "draft_posts": 1,
+  "article_and_approval_files_changed": false,
+  "vendored_theme_changed": false,
+  "plugin_version": "1.1.0",
+  "plugin_installed": true,
+  "plugin_enabled": true,
+  "installed_files_compared": 27,
+  "installed_file_mismatches": 0,
+  "skills_validated": 7,
+  "deployments": 0,
+  "known_limitations": [
+    "Two existing theme deprecation warnings",
+    "No new mobile/browser performance QA",
+    "No Search Console, ranking or traffic measurements"
+  ]
+}

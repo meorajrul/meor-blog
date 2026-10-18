@@ -33,3 +33,11 @@ The setup heartbeat is removed at conclusion. No ongoing research, newsletter or
 The owner supplied the LinkedIn profile to build the About page. The rendered profile's headline, About, Experience and Education sections were inspected, and a first-person introduction was written from those sections. Source mapping and editorial review are in research/pages/about/source-notes.md. The current role is Pre-Sales AI Solution Architect at Singularity Connect; no quantitative career achievements or private account information were used.
 
 The owner reports Cloudflare DNS configured. The apex A records and www CNAME were checked and match GitHub Pages. Certificate issuance and Enforce HTTPS remain pending until the next observed status update. The content gate, production build, internal-link/canonical checks and source-boundary checks pass for the updated page.
+
+## SEO workflow implementation — 18 October 2026
+
+The user authorized adding SEO to the workflow/skills and fixing technical SEO while keeping articles as drafts until explicit approval. Implemented locally on codex/journal-seo-workflow: shared SEO guidance, optional brief/review fields, seven updated skills, local Hugo indexing/sitemap/canonical/schema/byline overrides and stronger output validation. Meor Journal 1.1.0 was packaged, refreshed through the repo marketplace, observed installed/enabled and compared byte-for-byte against all 27 source files.
+
+All 55 tests pass, including 23 existing publication-gate tests, 29 output checks and three disposable Hugo integration builds covering production, development, pagination, populated taxonomies and escaped article metadata. The pinned production build and required check/check-output pass: zero public posts, one draft, nine HTML files and three sitemap URLs. All seven skills validate. Existing article files, approval packets and the vendored theme are unchanged. Two existing theme deprecation warnings remain.
+
+No push, PR, merge, deployment, Search Console access, ranking experiment or new mobile/performance test occurred. Main remains owner-managed. Detailed observed results and limits: [SEO implementation](../research/seo/2026-10-18/implementation.md).

@@ -9,6 +9,7 @@ from pathlib import Path
 import re
 import sys
 import tomllib
+import xml.etree.ElementTree as ET
 from urllib.parse import unquote, urljoin, urlparse
 
 GENRES = ('reflection', 'field-note', 'essay', 'review')
@@ -216,52 +217,169 @@ def validate_workspace(root):
 
 class Links(HTMLParser):
     def __init__(self):
-        super().__init__(); self.urls=[]; self.canonical=[]
+        super().__init__()
+        self.urls=[]; self.anchors=[]; self.canonical=[]; self.meta={}; self.titles=[]; self.jsonld=[]
+        self.refresh=None; self._title=False; self._json=False; self._buffer=''
     def handle_starttag(self, tag, attrs):
         at=dict(attrs)
         for key in ('href','src'):
             if key in at: self.urls.append(at[key])
-        if tag == 'link' and at.get('rel') == 'canonical':
-            self.canonical.append(at.get('href',''))
+        if tag == 'a' and 'href' in at: self.anchors.append(at['href'])
+        if tag == 'link' and 'canonical' in at.get('rel','').split():
+            self.canonical.append(at.get('href','').strip())
+        if tag == 'meta':
+            name=at.get('name','').lower()
+            if name: self.meta.setdefault(name,[]).append(at.get('content',''))
+            if at.get('http-equiv','').lower() == 'refresh':
+                self.refresh=at.get('content','')
+        if tag == 'title': self._title=True; self.titles.append('')
+        if tag == 'script' and at.get('type','').lower() == 'application/ld+json':
+            self._json=True; self._buffer=''
+    def handle_endtag(self,tag):
+        if tag == 'title': self._title=False
+        if tag == 'script' and self._json:
+            try: self.jsonld.append(json.loads(self._buffer))
+            except ValueError as exc: raise GateError('Invalid structured data JSON') from exc
+            self._json=False
+    def handle_data(self,data):
+        if self._title: self.titles[-1]+=data
+        if self._json: self._buffer+=data
+
+
+def schema_nodes(value):
+    if isinstance(value,list):
+        for item in value: yield from schema_nodes(item)
+    elif isinstance(value,dict):
+        yield value
+        for item in value.values(): yield from schema_nodes(item)
+
+
+def page_url(rel):
+    if rel == 'index.html': return BASE
+    return BASE+(rel[:-len('index.html')] if rel.endswith('/index.html') else rel)
+
 
 def check_output(root, directory):
     out = directory.resolve()
-    if not out.is_dir():
-        raise GateError('Production output does not exist')
+    if not out.is_dir(): raise GateError('Production output does not exist')
     for name in ('index.html','about/index.html','posts/index.html','search/index.html','index.xml','index.json','sitemap.xml','robots.txt','CNAME','.nojekyll'):
-        if not (out/name).is_file():
-            raise GateError(f'Missing production file: {name}')
-    if (out/'CNAME').read_text().strip() != 'meorajrul.com':
+        if not (out/name).is_file(): raise GateError(f'Missing production file: {name}')
+    if (out/'CNAME').read_text().strip() != urlparse(BASE).hostname:
         raise GateError('Unexpected custom domain')
     bad = ('admin','research','private','plugins','.git','editorial')
     for path in out.rglob('*'):
         rel=path.relative_to(out)
         if any(part in bad for part in rel.parts) or path.suffix in ('.md','.py','.toml'):
             raise GateError(f'Non-public source in production output: {rel}')
-    pages=0
-    for html in out.rglob('*.html'):
-        parser=Links(); parser.feed(html.read_text(encoding='utf-8'))
-        rel=html.relative_to(out).as_posix()
-        if rel != '404.html' and (not parser.canonical or any(not c.startswith(BASE) for c in parser.canonical)):
-            raise GateError(f'Missing/incorrect canonical: {rel}')
-        for value in parser.urls:
-            url=urlparse(urljoin(BASE+rel,value))
-            if url.scheme not in ('http','https') or url.netloc != urlparse(BASE).netloc:
-                continue
-            local=unquote(url.path).lstrip('/')
-            target=(out/local).resolve()
-            if not target.is_relative_to(out):
-                raise GateError('Production link escapes output')
-            if not target.is_file() and not (target/'index.html').is_file():
-                raise GateError(f'Broken local link in {rel}: {value}')
-        pages+=1
+    public=set(); drafts=set(); noindex={'search/index.html','404.html'}
     for article in (root/'site/content/posts').rglob('index.md'):
         meta,_=parse_article(article)
-        if meta.get('draft') is True and (out/'posts'/meta['slug']/'index.html').exists():
-            raise GateError('Draft leaked into production output')
-    if 'Disallow: /\n' in (out/'robots.txt').read_text():
-        raise GateError('Production robots blocks all crawling')
-    return {'html_pages':pages,'internal_links':'passed','source_boundary':'passed','draft_exclusion':'passed'}
+        url=BASE+'posts/'+meta['slug']+'/'
+        (drafts if meta.get('draft') is True else public).add(url)
+    # Explicit noindex is checked against source, rather than trusting generated directives.
+    for content in (root/'site/content').rglob('*.md'):
+        meta,_=parse_article(content)
+        if meta.get('robotsNoIndex') is True:
+            rel=content.relative_to(root/'site/content')
+            if content.name in ('index.md','_index.md'): rel=rel.parent/'index.html'
+            else: rel=rel.with_suffix('')/'index.html'
+            noindex.add(rel.as_posix())
+    pages={}
+    for file in out.rglob('*.html'):
+        parser=Links(); parser.feed(file.read_text(encoding='utf-8'))
+        pages[file.relative_to(out).as_posix()]=parser
+    for taxonomy in ('tags','categories'):
+        if not any(rel.startswith(taxonomy+'/') and rel != taxonomy+'/index.html' for rel in pages):
+            noindex.add(taxonomy+'/index.html')
+    aliases=set(); indexable={}; inbound=set(); titles=set()
+    for rel,parser in pages.items():
+        expected=page_url(rel)
+        if parser.refresh is not None:
+            match=re.fullmatch(r'\s*0\s*;\s*url\s*=\s*(.+?)\s*',parser.refresh,re.I)
+            if not match or match[1] == expected or not match[1].startswith(BASE):
+                raise GateError(f'Invalid redirect alias: {rel}')
+            expected=match[1]; aliases.add(rel)
+        if rel != '404.html' and parser.canonical != [expected]:
+            raise GateError(f'Missing/incorrect exact canonical: {rel}')
+        if rel not in aliases:
+            if len(parser.titles) != 1 or not parser.titles[0].strip():
+                raise GateError(f'Missing/duplicate page title: {rel}')
+            if rel != '404.html' and (len(parser.meta.get('description',[])) != 1 or not parser.meta['description'][0].strip()):
+                raise GateError(f'Missing/duplicate description: {rel}')
+            robots=parser.meta.get('robots',[])
+            if len(robots) != 1:
+                raise GateError(f'Missing/duplicate robots directive: {rel}')
+            directives={v.strip().lower() for v in robots[0].split(',')}
+            required='noindex' if rel in noindex else 'index'
+            if required not in directives or {'index','noindex'} <= directives or 'none' in directives:
+                raise GateError(f'Unexpected indexing directive: {rel}')
+            indexable[expected]=required == 'index'
+            if required == 'index':
+                if parser.titles[0] in titles: raise GateError(f'Duplicate indexable title: {rel}')
+                titles.add(parser.titles[0])
+            nodes=list(schema_nodes(parser.jsonld))
+            for node in nodes:
+                for key in ('datePublished','dateModified'):
+                    if key in node:
+                        try:
+                            value=dt.datetime.fromisoformat(node[key].replace('Z','+00:00'))
+                            if value.year == 1 or value.tzinfo is None: raise ValueError()
+                        except (ValueError,TypeError,AttributeError):
+                            raise GateError(f'Invalid structured date: {rel}')
+            articles=[n for n in nodes if n.get('@type') == 'BlogPosting']
+            if expected not in public and articles:
+                raise GateError(f'BlogPosting on a non-article page: {rel}')
+            if expected in public:
+                if len(articles) != 1 or articles[0].get('url') != expected:
+                    raise GateError(f'Missing/incorrect article structured data: {rel}')
+                authors=articles[0].get('author',[])
+                if isinstance(authors,dict): authors=[authors]
+                if not isinstance(authors,list) or not authors or any(not isinstance(a,dict) or not a.get('name') for a in authors):
+                    raise GateError(f'Missing article author: {rel}')
+                if any(a.get('name') == 'Meor Ajrul' and a.get('url') != BASE+'about/' for a in authors):
+                    raise GateError(f'Missing author profile link: {rel}')
+            if rel == 'index.html' and not any(n.get('@type') == 'Person' and n.get('url') == BASE+'about/' for n in nodes):
+                raise GateError('Missing homepage Person identity')
+            if rel == 'about/index.html' and not any(n.get('@type') == 'ProfilePage' for n in nodes):
+                raise GateError('Missing About ProfilePage metadata')
+        for value in parser.urls:
+            url=urlparse(urljoin(page_url(rel),value))
+            if url.scheme not in ('http','https') or url.netloc != urlparse(BASE).netloc: continue
+            local=unquote(url.path).lstrip('/')
+            target=(out/local).resolve()
+            if not target.is_relative_to(out): raise GateError('Production link escapes output')
+            if not target.is_file() and not (target/'index.html').is_file():
+                raise GateError(f'Broken local link in {rel}: {value}')
+            destination=url._replace(query='',fragment='').geturl()
+            if rel not in aliases and value in parser.anchors and destination != page_url(rel): inbound.add(destination)
+    try:
+        xml=ET.fromstring((out/'sitemap.xml').read_text(encoding='utf-8'))
+    except ET.ParseError as exc: raise GateError('Invalid sitemap XML') from exc
+    namespace='{http://www.sitemaps.org/schemas/sitemap/0.9}'
+    if xml.tag != namespace+'urlset': raise GateError('Expected sitemap urlset')
+    sitemap=[]
+    for entry in xml.findall(namespace+'url'):
+        value=entry.findtext(namespace+'loc','').strip()
+        if value in sitemap or not indexable.get(value):
+            raise GateError(f'Sitemap URL is duplicate, missing, redirected or noindex: {value}')
+        sitemap.append(value)
+    if not ({BASE,BASE+'about/',BASE+'posts/'} | public).issubset(sitemap):
+        raise GateError('Sitemap missing an intended public page')
+    for url in public:
+        if url not in indexable or not indexable[url]: raise GateError(f'Public article missing or noindex: {url}')
+        if url not in inbound: raise GateError(f'Public article has no inbound page link: {url}')
+    for path in out.rglob('*'):
+        if path.is_file() and path.suffix in ('.html','.xml','.json'):
+            text=path.read_text(encoding='utf-8').replace('\\/','/')
+            if any(url in text or urlparse(url).path in text for url in drafts):
+                raise GateError(f'Draft leaked into production output: {path.relative_to(out)}')
+    robots=(out/'robots.txt').read_text(encoding='utf-8')
+    if re.search(r'^Disallow:\s*/\s*$',robots,re.M|re.I): raise GateError('Production robots blocks all crawling')
+    if BASE+'sitemap.xml' not in robots: raise GateError('Robots is missing the canonical sitemap')
+    return {'html_pages':len(pages),'sitemap_urls':len(sitemap),'internal_links':'passed',
+            'source_boundary':'passed','draft_exclusion':'passed','seo_metadata':'passed',
+            'sitemap_consistency':'passed','article_discovery':'passed'}
+
 
 def new_article(root, slug, genre):
     slug_ok(slug)

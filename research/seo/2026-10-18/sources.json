@@ -1,0 +1,112 @@
+[
+  {
+    "id": "S1",
+    "title": "Creating helpful, reliable, people-first content",
+    "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Self-assess your content; Who, How, and Why; Why was the content created?",
+    "origin_group": "google-search",
+    "appraisal": "Primary search-provider guidance, not an independent effect-size study. Supports originality, sourcing and transparent authorship; does not validate this journal workflow."
+  },
+  {
+    "id": "S2",
+    "title": "SEO Starter Guide",
+    "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "How long until I see impact; Help Google find your content; Things you should not focus on",
+    "origin_group": "google-search",
+    "appraisal": "Primary operational guidance. No promised rankings, word-count target or requirement to narrow the journal to a single niche."
+  },
+  {
+    "id": "S3",
+    "title": "Influencing title links in search results",
+    "url": "https://developers.google.com/search/docs/appearance/title-link",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Best practices for influencing title links, especially descriptive and concise text and branding",
+    "origin_group": "google-search",
+    "appraisal": "Titles influence Google preferences; actual displayed titles are selected automatically. No fixed character limit."
+  },
+  {
+    "id": "S4",
+    "title": "How to write meta descriptions",
+    "url": "https://developers.google.com/search/docs/appearance/snippet",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Best practices for creating quality meta descriptions; Create unique descriptions for each page",
+    "origin_group": "google-search",
+    "appraisal": "Google sometimes uses the description. A proposed snippet is not guaranteed display or a demonstrated ranking improvement."
+  },
+  {
+    "id": "S5",
+    "title": "SEO link best practices",
+    "url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Make your links crawlable; Internal links: cross-reference your own content; External links",
+    "origin_group": "google-search",
+    "appraisal": "Supports crawlable links and contextual internal navigation. Does not prescribe a link quota."
+  },
+  {
+    "id": "S6",
+    "title": "Build and submit a sitemap",
+    "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Sitemap best practices; Additional notes about XML sitemaps; Submit your sitemap to Google",
+    "origin_group": "google-search",
+    "appraisal": "Sitemap submission is a hint, not a guarantee of indexing. Supports preferred URLs and accurate significant-update dates."
+  },
+  {
+    "id": "S7",
+    "title": "Article structured data",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/article",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "How to add structured data; Article objects; author.url, dateModified, datePublished",
+    "origin_group": "google-search",
+    "appraisal": "Supports accurate applicable article metadata and validation. No required Article properties; markup is not a prerequisite for ordinary search visibility."
+  },
+  {
+    "id": "S8",
+    "title": "About Search Console",
+    "url": "https://support.google.com/webmasters/answer/9128668",
+    "publisher": "Google Search Console Help",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "About Search Console, tools and reports list",
+    "origin_group": "google-search",
+    "appraisal": "Documents available reports. Does not establish whether the owner already has a verified property."
+  },
+  {
+    "id": "S9",
+    "title": "Performance report: Search results",
+    "url": "https://support.google.com/webmasters/answer/7576553?hl=en",
+    "publisher": "Google Search Console Help",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Choosing metrics; Choosing dimensions; Reading the chart and table; Sharing and exporting data",
+    "origin_group": "google-search",
+    "appraisal": "Primary metric definitions. Differences in period, query mix, position and aggregation prevent simple causal claims."
+  },
+  {
+    "id": "S10",
+    "title": "Understanding Core Web Vitals and Google search results",
+    "url": "https://developers.google.com/search/docs/appearance/core-web-vitals",
+    "publisher": "Google Search Central",
+    "accessed": "2026-10-18",
+    "inspection": "inspected",
+    "locator": "Core Web Vitals metrics; Optimizing your Core Web Vitals",
+    "origin_group": "google-search",
+    "appraisal": "Explains real-world loading, responsiveness and stability metrics. No performance measurements were run in this audit."
+  }
+]

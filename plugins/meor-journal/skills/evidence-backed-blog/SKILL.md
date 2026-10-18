@@ -13,7 +13,7 @@ For writing, read [evidence-package.md](references/evidence-package.md) for deli
 
 ## Brief and scope
 
-Establish the reader question, audience, intended outcome, geography, time period, length, format, supplied materials, and destination. Infer reasonable defaults; ask only where missing information changes the work materially. Default to Markdown and approximately 1,200–1,800 article words when appropriate.
+Establish the reader question, audience, intended outcome, geography, time period, length, format, supplied materials, and destination. Infer reasonable defaults; ask only where missing information changes the work materially. Default to Markdown; let the question and the author's intended form determine length.
 
 Record scope, exclusions, freshness requirements, cutoff, and evidence questions. Keep the thesis provisional. Capture all resources consulted or used within that scope; do not promise exhaustive literature coverage.
 
@@ -64,3 +64,5 @@ Confirm register links resolve, capture statuses are truthful, visuals match the
 Deliver article, evidence package, and verification summary with actual checks, gaps, and freshness. If file writing is unavailable, supply structured content inline and say it was not saved. Never describe unavailable files as delivered or unrun checks as passed.
 
 Publishing externally remains a separate action requiring authorization. A polished article with fabricated evidence fails this workflow.
+
+For this journal, also use [the SEO workflow](../../references/seo-workflow.md) when discovery matters. Keep titles, descriptions and related links aligned with the actual article; apply the discovery review before its final digest. The article stays draft = true until the author explicitly approves it. SEO does not impose an article length or narrow the journal to one niche.

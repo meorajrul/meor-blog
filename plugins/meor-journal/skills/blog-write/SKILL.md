@@ -17,3 +17,5 @@ For material factual claims, use inspected evidence in the ledger and place read
 Use a visual only if it answers a reader question. Preserve source data and transformations for charts, state reuse rights, and provide accessible text. Label conceptual or generated imagery. Do not manufacture data to fill a layout.
 
 Save to the page bundle with `draft = true`. Update the claim ledger when wording changes. Produce a concise note on unresolved evidence and needed author input. Do not set author_approved or remove review issues merely because the prose is polished.
+
+Apply [the SEO workflow](../../references/seo-workflow.md): make the topic clear in the title, opening and headings; supply a specific description and readable stable slug; link naturally to relevant published entries. Avoid forced keywords and word-count targets. Keep the article a draft and finalize SEO wording before author approval and the review digest.

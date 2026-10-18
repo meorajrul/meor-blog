@@ -15,7 +15,7 @@ timeZone = "Asia/Kuala_Lumpur"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 [params]
-  env = "production"
+  homeTitle = "Meor Ajrul — A Personal Journal"
   author = "Meor Ajrul"
   description = "A personal journal about life, learning, and things worth understanding."
   defaultTheme = "auto"
@@ -25,6 +25,8 @@ timeZone = "Asia/Kuala_Lumpur"
   ShowCodeCopyButtons = true
   ShowToc = true
   disableSpecial1stPost = true
+  [params.schema]
+    sameAs = ["https://www.linkedin.com/in/meorajrul/"]
   [params.homeInfoParams]
     Title = "Life, learning, and things worth understanding."
     Content = "A personal journal by Meor Ajrul. Reflections, field notes, and researched essays — with room to change my mind."

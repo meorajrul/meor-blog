@@ -1,0 +1,6 @@
+{{- /* Shared by the head and sitemap. Production excludes drafts and empty taxonomy pages. */ -}}
+{{- $indexable := and hugo.IsProduction (not .Draft) (ne .Params.robotsNoIndex true) (ne .Kind "404") -}}
+{{- if and (in (slice "taxonomy" "term") .Kind) (eq (len .Pages) 0) -}}
+  {{- $indexable = false -}}
+{{- end -}}
+{{- return $indexable -}}

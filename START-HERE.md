@@ -6,9 +6,9 @@ This is your personal journal. A reflection can be short and unfinished in thoug
 2. Create a draft: `python scripts/blog.py new my-topic --genre reflection` (or `essay`, `field-note`, `review`).
 3. Write in `site/content/posts/my-topic/index.md`. Keep private raw notes in `private/`, not in a tracked draft.
 4. For external claims, use `research/articles/my-topic/`: brief, search log, inspected sources, and claim ledger. A reflection with no external factual claims can leave its source and claim arrays empty.
-5. Choose a framework from `docs/frameworks.md`; it is a thinking aid, not a mandatory voice.
+5. Choose a framework from `docs/frameworks.md`; it is a thinking aid, not a mandatory voice. When discovery matters, add the optional reader-search question, intent and original contribution to the brief; follow the SEO steps in `editorial/workflow.md`.
 6. Use the blog review skill. Resolve gaps, record the actual review and author approval in `review.json`, then set `draft = false`. Agents must never invent author approval.
-7. Run `python scripts/blog.py check`, preview the production build, and push to `main` when publication is authorized. GitHub Pages deploys automatically after validation.
+7. Run `python scripts/blog.py check`, build Hugo in production, and run `python scripts/blog.py check-output --directory site/public`. Use a `codex/` branch and a PR targeting `staging`; the owner handles `main` and deployment. Keep articles as drafts until the author explicitly approves them. After authorized publication, review indexing and search data when available.
 
 Ask Codex naturally:
 

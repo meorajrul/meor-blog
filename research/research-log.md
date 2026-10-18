@@ -19,3 +19,7 @@ The sourced workflow is implemented. 23 synthetic gate scenarios pass; raw outpu
 GitHub Actions run 39106098401 passed build and deploy for f072b60. The Pages custom domain is set. Direct HTTP origin routing returned the expected page (200), independently of public DNS. The owner chose manual Cloudflare DNS; records are prepared and public DNS/HTTPS remain explicitly incomplete.
 
 Core research criteria are sufficient: every requested component has a source-backed or explicitly authored rationale, practical artifacts, a bounded limitation statement and appropriate checks. Additional unstructured searching would not resolve the remaining author-voice or reader-impact questions; those need real writing. Conclude setup research and remove the temporary heartbeat.
+
+## 18 October 2026 — SEO workflow and local implementation
+
+Reviewed the live site and existing workflow against inspected primary Google guidance, then implemented the owner's authorized workflow/skill and technical SEO changes. Source is on codex/journal-seo-workflow. Article content, approval packets and vendored theme remain unchanged; zero public posts and one draft. All 55 tests, the pinned production build, output checks, skill validation and plugin packaging pass. Plugin 1.1.0 is installed/enabled and its 27 source files match. No push, merge, deployment or search-performance experiment occurred. Details: [SEO implementation](seo/2026-10-18/implementation.md).

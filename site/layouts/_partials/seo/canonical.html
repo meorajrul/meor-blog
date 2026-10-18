@@ -1,0 +1,13 @@
+{{- $url := .Permalink -}}
+{{- /* Match PaperMod's list collection before pagination, including the home filters. */ -}}
+{{- if in (slice "home" "section" "term") .Kind -}}
+  {{- $pages := union .RegularPages .Sections -}}
+  {{- if .IsHome -}}
+    {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections -}}
+    {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" -}}
+  {{- end -}}
+  {{- $paginator := .Paginate $pages -}}
+  {{- $url = $paginator.URL | absURL -}}
+{{- end -}}
+{{- with .Params.canonicalURL -}}{{- $url = trim . " " -}}{{- end -}}
+{{- return $url -}}

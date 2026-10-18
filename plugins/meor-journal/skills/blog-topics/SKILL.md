@@ -15,3 +15,5 @@ Offer a small varied shortlist: a reflection, a concrete field note, a question 
 Prioritize interest, specificity, reader value and available material. Optional 0–2 scores are local decision aids, not research results or market-demand measurements. Never invent search volume, trends or audience analytics. Record rejected/deferred ideas and why when it helps future selection.
 
 Save appropriate rows in `editorial/topics.csv` without replacing existing rows. Recommend one next entry and identify the author input or evidence it needs. Use the bundled `scripts/blog.py new <slug> --genre <genre>` through the project entry point to create a draft only when asked to start it. No publication or recurring automation is implied.
+
+For ideas where search discovery matters, use [the SEO workflow](../../references/seo-workflow.md) to record a likely reader-search question and distinct contribution in the topic brief. Treat query demand as unverified unless actual data supports it. Keep personal interest and a varied journal central.
