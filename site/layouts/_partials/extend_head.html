@@ -1,0 +1,3 @@
+{{- if or (ne hugo.Environment "production") .Params.robotsNoIndex -}}
+<meta name="robots" content="noindex, nofollow">
+{{- end -}}

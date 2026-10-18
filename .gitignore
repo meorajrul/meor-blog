@@ -1,0 +1,17 @@
+# Previous prototypes stay on disk, outside the new repository.
+blog-staging/
+plugins/meor-blog-plugins/
+.agents/skills/
+.codex/
+output/
+.tools/
+site/public/
+site/resources/
+site/.hugo_build.lock
+__pycache__/
+*.pyc
+.env
+.env.*
+# Personal notes and evidence not cleared for a public repository.
+private/
+research/articles/*/private/

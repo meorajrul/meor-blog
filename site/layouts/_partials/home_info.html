@@ -1,0 +1,6 @@
+<article class="first-entry home-info">
+  <div class="journal-kicker">A PERSONAL JOURNAL</div>
+  <header class="entry-header"><h1>{{ .Title | markdownify }}</h1></header>
+  <div class="entry-content">{{ .Content | markdownify }}</div>
+  <div class="journal-intro-links"><a href="{{ "about/" | relURL }}">About this journal <span aria-hidden="true">↗</span></a><a href="{{ "index.xml" | relURL }}">Follow via RSS <span aria-hidden="true">↗</span></a></div>
+</article>

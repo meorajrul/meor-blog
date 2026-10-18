@@ -1,0 +1,17 @@
+:root { --theme: #fbf9f4; --entry: #fffdf9; --primary: #272a26; --secondary: #676d62; --content: #343a31; --border: #dfdfd4; --main-width: 760px; }
+.dark { --theme: #1d211e; --entry: #252b26; --primary: #eaece1; --secondary: #b2b9ab; --content: #d5dbcc; --border: #394238; }
+body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+.logo a { font-family: Georgia, serif; font-weight: 500; letter-spacing: -.5px; }
+.nav { max-width: 1120px; }
+.main { padding-top: 46px; }
+.home-info { border-bottom: 1px solid var(--border); margin-bottom: 46px; padding-bottom: 48px; }
+.journal-kicker { font-size: 11px; letter-spacing: .19em; color: var(--secondary); margin-bottom: 24px; }
+.home-info .entry-header h1 { font-family: Georgia, serif; font-size: clamp(36px, 6vw, 58px); font-weight: 400; line-height: 1.12; letter-spacing: -1.5px; max-width: 670px; }
+.home-info .entry-content { margin-top: 24px; max-width: 580px; font-size: 17px; line-height: 1.7; }
+.journal-intro-links { display: flex; flex-wrap: wrap; gap: 26px; margin-top: 26px; font-size: 13px; }
+.journal-intro-links a { border-bottom: 1px solid var(--secondary); padding-bottom: 3px; }
+.post-title, .post-content h2, .post-content h3 { font-family: Georgia, serif; font-weight: 400; }
+.post-content { font-family: Georgia, serif; font-size: 19px; line-height: 1.8; }
+.post-entry { border-radius: 2px; padding: 26px; }
+a:focus-visible, button:focus-visible { outline: 3px solid #8b6743; outline-offset: 5px; }
+@media(max-width: 600px) { .main { padding-top: 24px; } .home-info { min-height: auto; } .post-content { font-size: 18px; } }

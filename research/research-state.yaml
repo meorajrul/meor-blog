@@ -1,0 +1,18 @@
+project: meor-personal-journal
+as_of: 2026-10-18
+timezone: Asia/Kuala_Lumpur
+stage: implement-and-verify
+direction: deepen
+question: How can a broad personal journal combine authentic reflection with traceable research and repeatable publication on GitHub Pages?
+continuity: Codex heartbeat blog-research-and-setup every 20 minutes; deactivate after sufficiency and implementation checks
+scope: source-backed workflow design and engineering validation; no claim of demonstrated reader impact
+hypotheses:
+  H1: A genre-aware workflow allows personal reflection without invented experience or unnecessary citations.
+  H2: A claim ledger plus source locators makes factual assertions reviewable.
+  H3: A structural publishing gate can reject incomplete packets but cannot certify truth.
+  H4: Publishing only Hugo output prevents research packets and local CMS files from entering the served site.
+remaining:
+  - Implement and exercise workflow, plugin and production gate.
+  - Install the versioned plugin and verify discovery.
+  - Push repository and enable GitHub Pages.
+  - Complete Cloudflare DNS if authenticated access becomes available.

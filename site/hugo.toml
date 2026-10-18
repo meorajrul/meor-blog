@@ -1,0 +1,45 @@
+baseURL = "https://meorajrul.com/"
+languageCode = "en"
+title = "Meor Ajrul"
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+timeZone = "Asia/Kuala_Lumpur"
+
+[pagination]
+  pagerSize = 8
+[permalinks]
+  posts = "/posts/:slug/"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+[params]
+  env = "production"
+  author = "Meor Ajrul"
+  description = "A personal journal about life, learning, and things worth understanding."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  disableSpecial1stPost = true
+  [params.homeInfoParams]
+    Title = "Life, learning, and things worth understanding."
+    Content = "A personal journal by Meor Ajrul. Reflections, field notes, and researched essays — with room to change my mind."
+[menu]
+  [[menu.main]]
+    name = "Journal"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 30
+[markup.goldmark.renderer]
+  unsafe = false
