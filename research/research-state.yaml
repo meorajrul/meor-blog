@@ -1,7 +1,7 @@
 project: meor-personal-journal
 as_of: 2026-10-18
 timezone: Asia/Kuala_Lumpur
-stage: complete-with-manual-dns-step
+stage: complete-with-domain-verification-pending
 direction: conclude
 question: How can a broad personal journal combine authentic reflection with traceable research and repeatable publication on GitHub Pages?
 continuity: setup heartbeat removed at conclusion; resume manually for a new article or observed workflow failure
@@ -20,11 +20,11 @@ outcomes:
   custom_domain: meorajrul.com
   deployed_origin_http: 200
 external_step:
-  owner_choice: manual Cloudflare DNS
+  owner_choice: Cloudflare DNS configured by owner
   records: docs/cloudflare-records.txt
-  public_dns_verified: false
+  public_dns_verified: true
   https_verified: false
-  follow_up: Apply records, wait for certificate, and enable Enforce HTTPS.
+  follow_up: Wait for GitHub certificate issuance, then enable Enforce HTTPS.
 research_limits:
   - Gibbs original book PDF inaccessible; publisher record only.
   - No reader study or skill-versus-prompt benchmark.

@@ -27,3 +27,9 @@ The local browser confirmed Home, About and Search navigation, a search result f
 The owner selected manual DNS setup. Five exact records are prepared in [the domain guide](github-pages-and-domain.md) and [record file](cloudflare-records.txt). Public DNS is not yet connected; GitHub reports no certificate and https_enforced=false. After records propagate and a certificate is issued, enable Enforce HTTPS in repository Pages settings. This is the remaining launch step, not a completed state.
 
 The setup heartbeat is removed at conclusion. No ongoing research, newsletter or publishing automation is scheduled.
+
+## About page and DNS update — 18 October 2026
+
+The owner supplied the LinkedIn profile to build the About page. The rendered profile's headline, About, Experience and Education sections were inspected, and a first-person introduction was written from those sections. Source mapping and editorial review are in research/pages/about/source-notes.md. The current role is Pre-Sales AI Solution Architect at Singularity Connect; no quantitative career achievements or private account information were used.
+
+The owner reports Cloudflare DNS configured. The apex A records and www CNAME were checked and match GitHub Pages. Certificate issuance and Enforce HTTPS remain pending until the next observed status update. The content gate, production build, internal-link/canonical checks and source-boundary checks pass for the updated page.
