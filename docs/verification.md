@@ -16,4 +16,14 @@ The gate checks declarations and structure; it cannot establish truth, actual ap
 
 The pinned PaperMod theme emits two Hugo deprecation warnings about language properties. Builds pass; review theme compatibility before a future Hugo upgrade. The theme's source remains unchanged.
 
-The remote push, GitHub Pages deployment and custom-domain repository setting are pending this report's final update. The owner selected manual Cloudflare setup. Five exact DNS records are prepared in github-pages-and-domain.md and cloudflare-records.txt; DNS resolution and HTTPS cannot be marked complete until those changes propagate and GitHub issues the certificate.
+## Confirmed on GitHub
+
+The source was pushed to main. Build and deploy jobs both succeeded for commit f072b6016177f6d65d1ffed9baf9dd0e0024f54a in [Actions run 39106098401](https://github.com/meorajrul/meor-blog/actions/runs/39106098401). The repository uses the workflow build source and has cname=meorajrul.com. A direct HTTP request to GitHub's documented Pages origin using that Host returned 200 and the expected homepage. This tests deployed origin routing independently of DNS; it is not verification of public domain resolution or HTTPS.
+
+The local browser confirmed Home, About and Search navigation, a search result for the About page, readable homepage text and the theme toggle. No mobile browser QA or external-link availability audit is claimed. All 24 installed plugin files match the maintained source.
+
+## Manual Cloudflare action
+
+The owner selected manual DNS setup. Five exact records are prepared in [the domain guide](github-pages-and-domain.md) and [record file](cloudflare-records.txt). Public DNS is not yet connected; GitHub reports no certificate and https_enforced=false. After records propagate and a certificate is issued, enable Enforce HTTPS in repository Pages settings. This is the remaining launch step, not a completed state.
+
+The setup heartbeat is removed at conclusion. No ongoing research, newsletter or publishing automation is scheduled.

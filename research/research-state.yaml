@@ -1,18 +1,31 @@
 project: meor-personal-journal
 as_of: 2026-10-18
 timezone: Asia/Kuala_Lumpur
-stage: implement-and-verify
-direction: deepen
+stage: complete-with-manual-dns-step
+direction: conclude
 question: How can a broad personal journal combine authentic reflection with traceable research and repeatable publication on GitHub Pages?
-continuity: Codex heartbeat blog-research-and-setup every 20 minutes; deactivate after sufficiency and implementation checks
-scope: source-backed workflow design and engineering validation; no claim of demonstrated reader impact
-hypotheses:
-  H1: A genre-aware workflow allows personal reflection without invented experience or unnecessary citations.
-  H2: A claim ledger plus source locators makes factual assertions reviewable.
-  H3: A structural publishing gate can reject incomplete packets but cannot certify truth.
-  H4: Publishing only Hugo output prevents research packets and local CMS files from entering the served site.
-remaining:
-  - Implement and exercise workflow, plugin and production gate.
-  - Install the versioned plugin and verify discovery.
-  - Push repository and enable GitHub Pages.
-  - Complete Cloudflare DNS if authenticated access becomes available.
+continuity: setup heartbeat removed at conclusion; resume manually for a new article or observed workflow failure
+scope: sourced editorial workflow and engineering checks; no demonstrated reader-impact claim
+outcomes:
+  reference_records: 13
+  publisher_record_only: 1
+  reusable_skills: 7
+  plugin_version: 1.0.1
+  plugin_installed_and_enabled: true
+  scenario_tests_passed: 23
+  production_html_pages_checked: 9
+  worked_essays: 1
+  author_approved_essays: 0
+  github_build_and_deploy: success
+  custom_domain: meorajrul.com
+  deployed_origin_http: 200
+external_step:
+  owner_choice: manual Cloudflare DNS
+  records: docs/cloudflare-records.txt
+  public_dns_verified: false
+  https_verified: false
+  follow_up: Apply records, wait for certificate, and enable Enforce HTTPS.
+research_limits:
+  - Gibbs original book PDF inaccessible; publisher record only.
+  - No reader study or skill-versus-prompt benchmark.
+  - Structural checks do not certify truth or author approval.

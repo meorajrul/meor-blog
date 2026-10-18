@@ -24,7 +24,7 @@ Only `site/public/` is deployed to Pages. **Every tracked file, including drafts
 
 ## Build and check
 
-Python 3.11+ and Hugo 0.167.0 are sufficient; Node, a database, and Docker are not required.
+Python 3.11+ and Hugo 0.167.0 are sufficient; Node, a database, and Docker are not required. On Windows, `./scripts/Preview.ps1` installs the pinned Hugo tool and starts a local preview.
 
 ```powershell
 python scripts/blog.py new my-topic --genre reflection

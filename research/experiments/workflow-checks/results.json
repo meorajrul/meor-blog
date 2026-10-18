@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-10-18",
+  "kind": "synthetic engineering scenarios",
+  "python": "3.14.6",
+  "test_count": 23,
+  "exit_code": 0,
+  "all_passed": true,
+  "elapsed_seconds": 0.857,
+  "quality_benchmark_run": false,
+  "reader_study_run": false
+}

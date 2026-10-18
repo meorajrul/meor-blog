@@ -20,8 +20,8 @@ Preserve old staging but make one new source of truth. Keep private notes out of
 
 ## Research coverage and stopping decision
 
-Initial survey plus targeted validation and countercheck searches have supplied a usable basis for all requested components. Later passes changed caveats and deployment detail, while the core design remained stable. This is sufficient to implement and test the workflow; it is not an exhaustive review. Engineering checks and a worked draft remain required before the setup report can conclude.
+Initial survey plus targeted validation and countercheck searches have supplied a usable basis for all requested components. Later passes changed caveats and deployment detail, while the core design remained stable. This is sufficient to implement and test the workflow; it is not an exhaustive review. Engineering checks and the worked draft are now complete: 23 synthetic scenarios passed, the production artifact passed its boundary and internal-link checks, the installed plugin matches its source, and GitHub build/deploy succeeded. See the results and verification report.
 
 ## Open questions
 
-Which personal themes recur will emerge from actual entries. The owner's voice needs supplied notes and editorial feedback. The plugin's effect on accuracy, writing effort and reader response is unknown; assess after real use before claiming improvement. Cloudflare account access and live DNS/TLS verification remain external dependencies until observed.
+Which personal themes recur will emerge from actual entries. The owner's voice needs supplied notes and editorial feedback. The plugin's effect on accuracy, writing effort and reader response is unknown; assess after real use before claiming improvement. The owner chose to apply Cloudflare DNS manually. Exact records are prepared; public DNS and HTTPS remain pending that action. This does not require continued setup research.

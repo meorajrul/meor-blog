@@ -20,3 +20,7 @@ Ask Codex naturally:
 - “Use blog-publish to check and publish the article I have approved.”
 
 For the first launch, home and About can go live without pretending sample articles are finished. The included example article stays a draft.
+
+## Local preview
+
+On this Windows computer, run `./scripts/Preview.ps1`. The helper installs the pinned Hugo tool if missing and serves only on localhost. Use `-IncludeDrafts` when intentionally reviewing drafts; stop with Ctrl+C. No files are published.

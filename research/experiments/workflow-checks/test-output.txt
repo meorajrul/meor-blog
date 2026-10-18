@@ -1,0 +1,28 @@
+test_asset_escape (test_gate.PublicationGate.test_asset_escape) ... ok
+test_asset_rights (test_gate.PublicationGate.test_asset_rights) ... ok
+test_author_approval_required (test_gate.PublicationGate.test_author_approval_required) ... ok
+test_changed_article (test_gate.PublicationGate.test_changed_article) ... ok
+test_changed_evidence (test_gate.PublicationGate.test_changed_evidence) ... ok
+test_complete_reflection (test_gate.PublicationGate.test_complete_reflection) ... ok
+test_complete_structural_essay (test_gate.PublicationGate.test_complete_structural_essay) ... ok
+test_draft_hash_normalization (test_gate.PublicationGate.test_draft_hash_normalization) ... ok
+test_duplicate_sources (test_gate.PublicationGate.test_duplicate_sources) ... ok
+test_essay_cannot_have_empty_ledger (test_gate.PublicationGate.test_essay_cannot_have_empty_ledger) ... ok
+test_expired_freshness (test_gate.PublicationGate.test_expired_freshness) ... ok
+test_future_review (test_gate.PublicationGate.test_future_review) ... ok
+test_missing_check (test_gate.PublicationGate.test_missing_check) ... ok
+test_missing_draft_flag (test_gate.PublicationGate.test_missing_draft_flag) ... ok
+test_missing_locator (test_gate.PublicationGate.test_missing_locator) ... ok
+test_missing_packet (test_gate.PublicationGate.test_missing_packet) ... ok
+test_missing_prose_citation (test_gate.PublicationGate.test_missing_prose_citation) ... ok
+test_no_overwrite (test_gate.PublicationGate.test_no_overwrite) ... ok
+test_pending_issue (test_gate.PublicationGate.test_pending_issue) ... ok
+test_traversal_rejected (test_gate.PublicationGate.test_traversal_rejected) ... ok
+test_uninspected_source (test_gate.PublicationGate.test_uninspected_source) ... ok
+test_unknown_source (test_gate.PublicationGate.test_unknown_source) ... ok
+test_unsupported_claim (test_gate.PublicationGate.test_unsupported_claim) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.639s
+
+OK

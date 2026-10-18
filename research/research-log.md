@@ -11,3 +11,11 @@ Initial search covered Minto, Duarte, Gibbs, SANRA, PRISMA-S, lateral reading, F
 ## Outer reflection 1 — scope adjustment
 
 A universal academic workflow would overburden a personal journal. Keep a light path for reflection and a fuller path for researched essays. Separate thinking aids from evidence appraisal. Consultant frameworks organize prose; they do not validate truth. Adopt a public repository / private-notes boundary and a production-only artifact.
+
+## Outer reflection 2 — conclude implementation research
+
+The sourced workflow is implemented. 23 synthetic gate scenarios pass; raw output and measured run metadata are preserved. A real three-source, four-claim worked essay remains a draft without author approval. Production output passes local-link, canonical and source-boundary checks. Browser inspection led to fixes for homepage context, encoding and theme selectors. Codex installed and enabled Meor Journal 1.0.1; all 24 cached files match source.
+
+GitHub Actions run 39106098401 passed build and deploy for f072b60. The Pages custom domain is set. Direct HTTP origin routing returned the expected page (200), independently of public DNS. The owner chose manual Cloudflare DNS; records are prepared and public DNS/HTTPS remain explicitly incomplete.
+
+Core research criteria are sufficient: every requested component has a source-backed or explicitly authored rationale, practical artifacts, a bounded limitation statement and appropriate checks. Additional unstructured searching would not resolve the remaining author-voice or reader-impact questions; those need real writing. Conclude setup research and remove the temporary heartbeat.
