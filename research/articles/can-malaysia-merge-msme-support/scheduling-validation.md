@@ -18,6 +18,8 @@ No validator or deployment workflow was changed. Existing Hugo theme deprecation
 
 ## Scheduling boundary
 
-A single thread heartbeat is to run the release check at the requested time. It must verify the approved digest, flip only this article’s draft flag after the time arrives, run current release checks and update or create a PR targeting staging. Actual PR/automation identifiers are recorded in schedule.json once returned by their tools.
+A single thread heartbeat was created and confirmed ACTIVE to run the release check at the requested time (automation ID: msme-essay-release-check-20-october-9am). It must verify the approved digest, flip only this article’s draft flag after the time arrives, run current release checks and update or create a PR targeting staging. Actual PR/automation identifiers are recorded in schedule.json once returned by their tools.
 
 The standing repository instructions reserve main and production deployment for the owner. The automation cannot guarantee live publication at 09:00; it prepares the release and reports the remaining manual merge/deployment. It must not touch main, dispatch its deployment or claim publication without checking the live page.
+
+Preparation PR: https://github.com/meorajrul/meor-blog/pull/4, targeting staging. Its initial build CI passed; deployment was skipped as expected for a PR. The PR is attached to this chat. The main branch was not changed.

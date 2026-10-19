@@ -11,5 +11,10 @@
   "release_branch": "codex/schedule-msme-oct20",
   "main_and_deployment": "Owner-managed under standing instructions; no automated main modification or deployment.",
   "live_url": "https://meorajrul.com/posts/can-malaysia-merge-msme-support/",
-  "automation_scope": "At the requested time verify approval and checks, prepare the article release through a staging PR, and report the remaining owner-managed merge/deployment step. Do not claim a live release without verification."
+  "automation_scope": "At the requested time verify approval and checks, prepare the article release through a staging PR, and report the remaining owner-managed merge/deployment step. Do not claim a live release without verification.",
+  "automation_id": "msme-essay-release-check-20-october-9am",
+  "automation_kind": "one-time thread heartbeat",
+  "automation_status": "ACTIVE",
+  "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/4",
+  "release_worktree": "C:/Users/meor2/.codex/worktrees/schedule-msme-oct20/211 Blog"
 }
