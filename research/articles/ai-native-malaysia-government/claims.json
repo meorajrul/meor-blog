@@ -1,0 +1,309 @@
+[
+  {
+    "id": "C01",
+    "text": "KRI's 2025 qualitative report draws on 21 interviews, a 36-person roundtable and desk research, and identifies coordination/capacity problems.",
+    "kind": "external-fact",
+    "source_ids": [
+      "K01"
+    ],
+    "locator": "Printed pp.3–4,26–27,35,39–41",
+    "status": "supported",
+    "confidence": "High for the study's account; bounded for generalisation",
+    "limitations": "Not representative prevalence or causal fiscal effects."
+  },
+  {
+    "id": "C02",
+    "text": "KRI's related commentary supports adaptive sector-sensitive governance.",
+    "kind": "external-fact",
+    "source_ids": [
+      "K02"
+    ],
+    "locator": "Agile framework; legal considerations",
+    "status": "supported",
+    "confidence": "High for authors' view",
+    "limitations": "Same origin as K01; not independent evidence."
+  },
+  {
+    "id": "C03",
+    "text": "Malaysia reported 373,346 active AI@Work users as of December 2025.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M01"
+    ],
+    "locator": "AI@Work paragraph",
+    "status": "qualified",
+    "confidence": "High for attributed report; unverified metric",
+    "limitations": "No controlled productivity estimate or current 2026 usage inferred."
+  },
+  {
+    "id": "C04",
+    "text": "The World Bank 2026 overview reports >16,500 survey responses across 28 ministries and institutional/digital-capability constraints.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M02"
+    ],
+    "locator": "Survey paragraph; Key Findings",
+    "status": "qualified",
+    "confidence": "Publisher overview",
+    "limitations": "Full report methods not appraised; not a causal AI evaluation."
+  },
+  {
+    "id": "C05",
+    "text": "MD2030 announcement sets a RM4.5bn public-sector digitalisation savings target towards 2030.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M03"
+    ],
+    "locator": "2030 targets",
+    "status": "supported",
+    "confidence": "High for announced target",
+    "limitations": "Not realised, necessarily net, annual, cumulative, or AI-only."
+  },
+  {
+    "id": "C06",
+    "text": "AI Malaysia was announced in July 2026 as institutionalisation of NAIO.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M04"
+    ],
+    "locator": "Opening; institutionalisation",
+    "status": "supported",
+    "confidence": "High for announced institutional change",
+    "limitations": "No outcomes or duplication judgement inferred."
+  },
+  {
+    "id": "C07",
+    "text": "JDN FAQ states Act 864 commenced 28 April 2025 and applies to Federal Government.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M05"
+    ],
+    "locator": "FAQ enforcement and scope",
+    "status": "qualified",
+    "confidence": "High for administrative explanation",
+    "limitations": "Exact provisions and application to particular entities not legally appraised."
+  },
+  {
+    "id": "C08",
+    "text": "MOF carried a February 2025 account of a federal statutory-body rationalisation process.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M06"
+    ],
+    "locator": "Secretariat and committee paragraphs",
+    "status": "qualified",
+    "confidence": "Attributed statement",
+    "limitations": "Not evidence of completed closures or savings."
+  },
+  {
+    "id": "C09",
+    "text": "Revised Oxford 2025 ranks are Singapore7, Thailand34, Malaysia38, Vietnam45, Indonesia46 among195.",
+    "kind": "external-fact",
+    "source_ids": [
+      "R01"
+    ],
+    "locator": "PDF pp.62,64,66–68; p.2 supersession notice; p.5 framework",
+    "status": "supported",
+    "confidence": "High for published ranks",
+    "limitations": "Composite readiness only; January revision supersedes December; methodology changed."
+  },
+  {
+    "id": "C10",
+    "text": "Singapore documents shared Pair, VICA and WOGAA services with iterative Pair releases and an evaluation suite.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S01",
+      "S02"
+    ],
+    "locator": "Products; Q4 2024 update",
+    "status": "qualified",
+    "confidence": "High for documented features",
+    "limitations": "Operator self-report; no independent effect or agency closure evaluation."
+  },
+  {
+    "id": "C11",
+    "text": "Thailand's DGA–Microsoft programme reports training sign-ups and hackathon prototypes.",
+    "kind": "external-fact",
+    "source_ids": [
+      "T01"
+    ],
+    "locator": "Training; hackathon and winners",
+    "status": "qualified",
+    "confidence": "Primary partner account",
+    "limitations": "Commercial interest; pilot evidence does not establish production or fiscal effect."
+  },
+  {
+    "id": "C12",
+    "text": "INA Digital's 2024 programme sought integration across agencies; ministry attributed roughly27,000 government apps and Cabinet described limited rollout.",
+    "kind": "external-fact",
+    "source_ids": [
+      "I01",
+      "I02"
+    ],
+    "locator": "Integration commitment; limited release",
+    "status": "qualified",
+    "confidence": "High for historical official statements",
+    "limitations": "I01 indexed text only; historical count not independently verified or current."
+  },
+  {
+    "id": "C13",
+    "text": "Vietnam's 2025 reorganisation specified14 ministries and3 ministerial-level agencies, alongside a separate public-administration AI strategy.",
+    "kind": "external-fact",
+    "source_ids": [
+      "V01",
+      "V02"
+    ],
+    "locator": "Structure list and March1 commencement; strategy2025 targets",
+    "status": "qualified",
+    "confidence": "High for dated announcement and strategy",
+    "limitations": "Not evidence AI caused restructuring, current status or net savings."
+  },
+  {
+    "id": "C14",
+    "text": "World Bank 2022 review maps >270 distinct SME programmes available in2016–2019.",
+    "kind": "external-fact",
+    "source_ids": [
+      "B01"
+    ],
+    "locator": "Printed p.37/PDF p.59",
+    "status": "supported",
+    "confidence": "High for historical mapping",
+    "limitations": "Not today's programme count; coverage exclusions apply."
+  },
+  {
+    "id": "C15",
+    "text": "World Bank 2020 review identifies coordination constraints and coordinator/implementer tension for SME Corp.",
+    "kind": "external-fact",
+    "source_ids": [
+      "B02"
+    ],
+    "locator": "Printed pp.43,50",
+    "status": "qualified",
+    "confidence": "Historical review",
+    "limitations": "Not a finding of current legal deficiency, failure or current management performance."
+  },
+  {
+    "id": "C16",
+    "text": "SMEIPA2025 publisher description identifies coordination, monitoring and evaluation as objectives.",
+    "kind": "external-fact",
+    "source_ids": [
+      "B03"
+    ],
+    "locator": "Description paragraph",
+    "status": "qualified",
+    "confidence": "Partial publisher-text inspection",
+    "limitations": "Direct403; no full report or current totals inspected."
+  },
+  {
+    "id": "C17",
+    "text": "The ministry describes distinct JDN/GovTech, MDEC, MyDIGITAL and NAIO roles, updated for AI Malaysia in July.",
+    "kind": "external-fact",
+    "source_ids": [
+      "M03",
+      "M04"
+    ],
+    "locator": "Integrated implementation; July opening",
+    "status": "supported",
+    "confidence": "High for published role descriptions",
+    "limitations": "Not complete legal mandates; proposed role table extends them."
+  },
+  {
+    "id": "C18",
+    "text": "OECD describes institutional/technical enablers and risks in government AI adoption.",
+    "kind": "external-fact",
+    "source_ids": [
+      "C01"
+    ],
+    "locator": "Introduction; enablers; risks",
+    "status": "qualified",
+    "confidence": "Cross-country synthesis overview",
+    "limitations": "Not a causal estimate or country ranking."
+  },
+  {
+    "id": "C19",
+    "text": "NAO's merger lessons emphasise objectives, costs, integration, capability and service continuity.",
+    "kind": "external-fact",
+    "source_ids": [
+      "C02"
+    ],
+    "locator": "Sections1–6",
+    "status": "supported",
+    "confidence": "High for source's lessons",
+    "limitations": "UK context; no claim Malaysian mergers necessarily fail."
+  },
+  {
+    "id": "C20",
+    "text": "GDS benefits guidance distinguishes productivity and cost reductions, advocates sensitivity and avoiding double counting.",
+    "kind": "external-fact",
+    "source_ids": [
+      "C03"
+    ],
+    "locator": "1.2;1.3;2.2;2.3.1",
+    "status": "supported",
+    "confidence": "High for appraisal guidance",
+    "limitations": "Not a realised savings study or Malaysian estimate."
+  },
+  {
+    "id": "C21",
+    "text": "MSME support is a defensible first cluster for a new functional review.",
+    "kind": "inference",
+    "source_ids": [
+      "B01",
+      "B02",
+      "B03"
+    ],
+    "locator": "Historical fragmentation and existing inventory mechanism",
+    "status": "qualified",
+    "confidence": "Moderate for case selection",
+    "limitations": "Current mandates, accounts, programmes and recipient outcomes still needed. No named closure established."
+  },
+  {
+    "id": "C22",
+    "text": "The inspected regional cases do not establish that AI caused agency closures and net fiscal savings.",
+    "kind": "inference",
+    "source_ids": [
+      "S01",
+      "I02",
+      "T01",
+      "V01",
+      "V02"
+    ],
+    "locator": "Case-specific evidence types and outcome gaps",
+    "status": "qualified",
+    "confidence": "High within inspected set",
+    "limitations": "Bounded absence-of-evidence statement, not proof no country has such a case."
+  },
+  {
+    "id": "C23",
+    "text": "Use separate fiscal, released-capacity and public-benefit ledgers and compare total costs with a credible counterfactual.",
+    "kind": "inference",
+    "source_ids": [
+      "C03",
+      "C02"
+    ],
+    "locator": "Adapted appraisal and merger lessons",
+    "status": "qualified",
+    "confidence": "Analytical recommendation",
+    "limitations": "Proposed local accounting design; not an evaluated Malaysian intervention."
+  },
+  {
+    "id": "C24",
+    "text": "Hypothetical first-year net saving12-4-10=-2 and steady-state12-4=8; downside5-4-10=-9 and5-4=1, RM million.",
+    "kind": "calculation",
+    "source_ids": [],
+    "locator": "to_human/research-briefing.md section7; data/savings-illustration.csv",
+    "status": "illustrative",
+    "confidence": "Arithmetic only",
+    "limitations": "All inputs invented for transparent illustration, explicitly not agency data or forecasts."
+  },
+  {
+    "id": "C25",
+    "text": "Proposed AI-native definition, institutional roles, closure gates and pilot timetable.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Briefing sections4–8",
+    "status": "proposal",
+    "confidence": "Untested",
+    "limitations": "No implementation, authority assignment, experiment, independent audit, or author endorsement claimed."
+  }
+]

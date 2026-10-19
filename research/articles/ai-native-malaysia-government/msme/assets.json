@@ -1,0 +1,15 @@
+[
+  {
+    "id": "A01",
+    "path": "research/articles/ai-native-malaysia-government/msme/to_human/quadrant-fragment.html",
+    "alt": "Quadrant of13 selected MSME institutions: passing transferable delivery, passing distinct role, below-framework distinct role, and unknown evidence.",
+    "rights": "Original analysis and layout; factual numeric data from cited official publications. No source images reproduced.",
+    "attribution": "Codex-assisted analysis for Meor; performance data SME Corp SMEIPA2025",
+    "source_url": "https://smecorp.gov.my/index.php/my/artikel-popular/9-uncategorised/5133-sme-integrated-plan-of-action-smeipa-2025",
+    "kind": "interactive-conceptual-classification",
+    "input_paths": [
+      "research/articles/ai-native-malaysia-government/msme/data/agencies.json",
+      "research/articles/ai-native-malaysia-government/msme/src/build_outputs.py"
+    ]
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "id": "C01",
+    "text": "KRI identifies coordination and capacity concerns in Malaysian AI governance.",
+    "kind": "external-fact",
+    "source_ids": [
+      "K01"
+    ],
+    "locator": "Executive summary vii–viii; printed pp.39–48",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Qualitative governance study; no endorsement of this essay’s agency closures or fiscal model."
+  },
+  {
+    "id": "C02",
+    "text": "ASEAN SME Policy Index 2024 describes an advanced Malaysian institutional framework and recommends better Thai coordination and data sharing.",
+    "kind": "external-fact",
+    "source_ids": [
+      "R01"
+    ],
+    "locator": "Printed pp.337 and 429",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Policy-framework assessment, not an outcome ranking or a current ministry census."
+  },
+  {
+    "id": "C03",
+    "text": "IE Singapore and SPRING merged into Enterprise Singapore on 1 April 2018; related capability and internationalisation grants became EDG.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S01",
+      "S03"
+    ],
+    "locator": "Directory description; evaluation introduction p.42",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Completed organisational and programme changes do not isolate merger benefits."
+  },
+  {
+    "id": "C04",
+    "text": "For EDG recipients in 2019–2022, a typical grant was associated with annual revenue 1.9% higher and value added 1.6% higher.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "Printed pp.42–45, especially p.44",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Observational firm/year fixed-effects analysis controlling other grants; remaining time-varying selection possible. Not an agency-merger evaluation."
+  },
+  {
+    "id": "C05",
+    "text": "EnterpriseSG’s S$118m expected annual cost reductions for 2025-supported businesses are recipient benefits.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S04"
+    ],
+    "locator": "Release pp.1–2",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Expected company benefits; not audited public expenditure savings."
+  },
+  {
+    "id": "C06",
+    "text": "EnterpriseSG financial highlights report S$326.5m FY2024 operating expense for the year ended March 2025.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S06"
+    ],
+    "locator": "Printed pp.25–26",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Agency financial highlights, not total MSME support or an unmerged counterfactual. No audit opinion inferred."
+  },
+  {
+    "id": "C07",
+    "text": "Thailand’s BDS uses SME ONE ID, proposals and support agreements; its December 2025 release reports over 1,000 services and THB300m funding for fiscal 2026.",
+    "kind": "external-fact",
+    "source_ids": [
+      "T02",
+      "T03"
+    ],
+    "locator": "Results release; SME application steps",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Agency-reported operating integration; funding is not a saving; no causal merger return established."
+  },
+  {
+    "id": "C08",
+    "text": "Indonesia’s UMi holding retains BRI, PNM and Pegadaian specialisms; BRI reported 1,035 shared SenyuM outlets in September 2025 and describes a differentiated customer journey.",
+    "kind": "external-fact",
+    "source_ids": [
+      "I02",
+      "I03"
+    ],
+    "locator": "Holding/outlet and customer-journey paragraphs",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Bank self-report and operating stocks; additional inclusion and net government savings not isolated."
+  },
+  {
+    "id": "C09",
+    "text": "SME Bank joined the BPMB group in May 2025.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D06"
+    ],
+    "locator": "Opening overview and leadership discussion",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Existing integration must not be counted again as a new saving. No net integration saving established here."
+  },
+  {
+    "id": "C10",
+    "text": "The preserved data reproduce eleven 2024 IAFSP scores: eight at or above 70; BSN 41.8, CGC 66.7 and RISDA 67.4 below; no comparable SKM/TERAJU score established here.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D03"
+    ],
+    "locator": "Printed p.12 framework; agency profiles pp.28–32,48,56,66–67; data/agencies.json",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Reported MSME programme framework, not whole-agency KPI attainment, percentage of targets achieved or causal impact. Unknowns are not zero."
+  },
+  {
+    "id": "C11",
+    "text": "KUSKOP’s 2025 internal audit identifies inconsistent payment processes and beneficiary records in cross-agency halal support.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D05"
+    ],
+    "locator": "Printed pp.26–35",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Different grants can fund complementary activities; repeated beneficiaries alone do not prove duplication or recoverable savings."
+  },
+  {
+    "id": "C12",
+    "text": "INSKEN supplies training/coaching; PERNAS has franchise and commercial functions; PUNB offers Bumiputera business financing.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D12",
+      "D13",
+      "D14"
+    ],
+    "locator": "Current service descriptions",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Mandates do not establish legal transferability, full costs or net closure savings."
+  },
+  {
+    "id": "C13",
+    "text": "MARA’s budget covers education, RISDA has wider statutory smallholder functions and BSN states a financial-inclusion mission.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D08",
+      "D16",
+      "D15"
+    ],
+    "locator": "MARA budget programmes; official profiles",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Wider mandates do not prove every programme effective; measured MSME scores cannot justify whole-entity closure alone."
+  },
+  {
+    "id": "C14",
+    "text": "Proposed 2027 budget anchors are SME Corp operating grant RM42.7564m, INSKEN RM12.0009m and ministry management supplies/services RM29.836m.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D01"
+    ],
+    "locator": "B.26, selected grant lines and P1 management supplies/services",
+    "status": "qualified",
+    "confidence": "High within stated scope",
+    "limitations": "Proposed estimates, not actual expenditure or verified duplicated overhead. Management services aggregate not added to its own subcomponents."
+  },
+  {
+    "id": "C15",
+    "text": "Conditional central model: mature gross RM2.779063875m minus recurring RM1.5m yields RM1.279063875m annual net; RM4.5m transition and staged rollout yield -RM3.44187225m cumulatively over three years.",
+    "kind": "calculation",
+    "source_ids": [
+      "D01"
+    ],
+    "locator": "data/savings-model.json; data/savings-assumptions.csv; src/build_charts.py",
+    "status": "qualified",
+    "confidence": "Arithmetic verified; forecast confidence not established",
+    "limitations": "Shares, retirement fractions and new costs are analyst assumptions. Nominal MYR, no discounting or forecast probability; no observed AI savings."
+  },
+  {
+    "id": "C16",
+    "text": "Illustrative three-year balances are low -RM9.160516m, central -RM3.44187225m, high +RM3.182709m.",
+    "kind": "calculation",
+    "source_ids": [
+      "D01"
+    ],
+    "locator": "Same model and annual/cumulative CSV; formula recomputed in chart builder",
+    "status": "qualified",
+    "confidence": "Arithmetic verified; forecast confidence not established",
+    "limitations": "Planning cases, not confidence intervals. Savings require actual cost retirement."
+  },
+  {
+    "id": "C17",
+    "text": "Function transfer, a shared business case, generic procurement and conditional INSKEN/PERNAS/PUNB administration reviews are the essay’s policy proposals.",
+    "kind": "inference",
+    "source_ids": [
+      "K01",
+      "S01",
+      "T02",
+      "T03",
+      "I02",
+      "I03",
+      "D05",
+      "D12",
+      "D13",
+      "D14"
+    ],
+    "locator": "Draft proposal paragraphs; upstream domestic and regional synthesis",
+    "status": "qualified",
+    "confidence": "Conditional policy judgment",
+    "limitations": "No implementation, agency endorsement, priced transfer or legal/workforce assessment claimed."
+  },
+  {
+    "id": "C18",
+    "text": "The quadrant separates analyst institutional-distinctiveness categories from reported programme scores; all three transfer-review candidates meet the threshold.",
+    "kind": "inference",
+    "source_ids": [
+      "D03",
+      "D08",
+      "D12",
+      "D13",
+      "D14",
+      "D15",
+      "D16"
+    ],
+    "locator": "data/agencies.json and agency-quadrant.csv; upstream agency rationales",
+    "status": "qualified",
+    "confidence": "Programme scores sourced; institutional classifications are contestable judgments",
+    "limitations": "Not an official relevance score, a validated metric or an automatic closure rule. SKM/TERAJU unplaced. CGC is public-linked."
+  },
+  {
+    "id": "C19",
+    "text": "None of the selected inspected case records establishes a reconciled net government saving attributable to the restructuring.",
+    "kind": "inference",
+    "source_ids": [
+      "S03",
+      "S04",
+      "S06",
+      "T02",
+      "I02",
+      "I03",
+      "D06"
+    ],
+    "locator": "Upstream regional money ledger and source appraisals",
+    "status": "qualified",
+    "confidence": "Bounded by selected records and documented access limits",
+    "limitations": "Bounded desk review, not proof that savings are zero or that no further evidence exists. Full BRI 2025 accounts inaccessible."
+  },
+  {
+    "id": "C20",
+    "text": "AI document checks, sourced rule explanations, summaries and inconsistency flags are proposed tasks with human review and appeals.",
+    "kind": "opinion",
+    "source_ids": [
+      "K01",
+      "D05"
+    ],
+    "locator": "Draft AI paragraph",
+    "status": "qualified",
+    "confidence": "Explicit proposal",
+    "limitations": "Proposed design, not demonstrated efficacy, deployment or fiscal benefit."
+  }
+]

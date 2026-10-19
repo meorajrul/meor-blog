@@ -1,0 +1,79 @@
+<div id="msme-quadrant-261019">
+  <style>
+    #msme-quadrant-261019 { color:var(--foreground); }
+    #msme-quadrant-261019 .axis { margin:1em 0 .6em; }
+    #msme-quadrant-261019 .matrix { display:grid;grid-template-columns:85px minmax(0,1fr) minmax(0,1fr);gap:0; }
+    #msme-quadrant-261019 .col-label { padding:.6em;text-align:center;font-weight:500; }
+    #msme-quadrant-261019 .row-label { padding:.8em .5em .8em 0;align-self:center; }
+    #msme-quadrant-261019 .cell { padding:.6em;display:flex;flex-direction:column;align-items:stretch;gap:.5em;min-height:110px;border-top:1px solid var(--border); }
+    #msme-quadrant-261019 .cell.left { border-right:1px solid var(--border); }
+    #msme-quadrant-261019 .met { background:color-mix(in srgb,var(--viz-series-1) 7%,transparent); }
+    #msme-quadrant-261019 .below { background:color-mix(in srgb,var(--viz-series-2) 7%,transparent); }
+    #msme-quadrant-261019 .unknown { display:flex;gap:.5em;flex-wrap:wrap;align-items:center;margin:1em 0; }
+    #msme-quadrant-261019 .empty { align-self:center;margin:auto;text-align:center;color:var(--muted-foreground); }
+    #msme-quadrant-261019 .detail { margin-top:1em; }
+    #msme-quadrant-261019 h3 { padding-right:90px; }
+  </style>
+  <h3>MSME institutions: relevance × reported performance</h3>
+  <div class="text-small axis">Case for a separate institution → <span class="text-muted">Analyst judgement</span></div>
+  <div class="matrix" role="group" aria-label="Four quadrants: institutional distinctiveness versus published 2024 MSME programme performance">
+    <div></div><div class="col-label">Transferable delivery</div><div class="col-label">Distinct institution case</div>
+    <div class="row-label text-small">Meets<br>IAFSP ≥70</div>
+    <div class="cell left met" data-cell="met-transfer" aria-label="Meets framework, transferable delivery"></div>
+    <div class="cell met" data-cell="met-retain" aria-label="Meets framework, distinct institution"></div>
+    <div class="row-label text-small">Below<br>IAFSP &lt;70</div>
+    <div class="cell left below" data-cell="below-transfer" aria-label="Below framework, transferable delivery"><span class="empty text-small">None established</span></div>
+    <div class="cell below" data-cell="below-retain" aria-label="Below framework, distinct institution"></div>
+  </div>
+  <div class="unknown"><span class="text-small">Unscored / mixed:</span><span data-unknown="true"></span></div>
+  <div class="card detail" aria-live="polite" data-detail="true"></div>
+  <div class="text-small text-muted" style="margin-top:.7em">Programme scores: 2024, reported in SMEIPA 2025. Whole-agency KPI failure is not established. <a href="https://smecorp.gov.my/index.php/my/artikel-popular/9-uncategorised/5133-sme-integrated-plan-of-action-smeipa-2025" target="_blank" rel="noreferrer">Source</a></div>
+  <script>
+  (() => {
+    const root=document.getElementById('msme-quadrant-261019');
+    const rows=[
+      {id:'insken',name:'INSKEN',score:95.4,side:'transfer',note:'Test a shared capability host. Older IBBC employment KPI missed; audit committee issues reported completed by January 2025.'},
+      {id:'pernas',name:'PERNAS',score:87.1,side:'transfer',note:'Transfer common financing administration; full closure depends on franchise, asset and liability separation.'},
+      {id:'punb',name:'PUNB',score:99.5,side:'transfer',note:'Test a protected Bumiputera financing desk in existing infrastructure; current full operating costs remain unverified.'},
+      {id:'smecorp',name:'SME Corp',score:99.5,side:'retain',note:'Retain coordination and evaluation; merge routine delivery. Micro Connector 2023 attendance missed target.'},
+      {id:'smebank',name:'SME Bank',score:70.3,side:'retain',note:'Retain regulated SME financing. FY2025 financing approvals exceeded target; BPMB group consolidation already began in 2025.'},
+      {id:'tekun',name:'TEKUN',score:87.2,side:'retain',note:'Preserve microfinance access; share administration. TEMAN 2025 financing exceeded its volume target.'},
+      {id:'aim',name:'AIM',score:97.2,side:'retain',note:'Preserve inclusive microfinance access; compare back-office integration without assuming identical clients.'},
+      {id:'mara',name:'MARA',score:99.1,side:'retain',note:'Merge common entrepreneurship administration; the organisation also has education and skills duties.'},
+      {id:'bsn',name:'BSN',score:41.8,side:'retain',note:'Review weak measured MSME programmes; the bank also has a national financial-inclusion mandate.'},
+      {id:'cgc',name:'CGC',score:66.7,side:'retain',note:'Review guarantee-programme outcomes. A public-linked financing institution; this score does not assess every corporate duty.'},
+      {id:'risda',name:'RISDA',score:67.4,side:'retain',note:'Repair measured entrepreneurship support; preserve distinct smallholder functions pending a wider review.'},
+      {id:'skm',name:'SKM',score:null,side:'retain',note:'Comparable separate index not established. SCOPE upgrades missed an output target while new-centre delivery exceeded another.'},
+      {id:'teraju',name:'TERAJU',score:null,side:'mixed',note:'Separate coordination from transferable delivery before classifying. Reported 2025 financing exceeded its target.'}
+    ];
+    let selected='insken';
+    function restore(state){
+      const id=state?.modelContent?.selectedAgency;
+      if(rows.some(d=>d.id===id))selected=id;
+    }
+    restore(window.openai?.widgetState);
+    const buttons=[];
+    function update(){
+      const d=rows.find(d=>d.id===selected);
+      for(const b of buttons)b.setAttribute('aria-pressed',String(b.dataset.id===selected));
+      const detail=root.querySelector('[data-detail]');
+      detail.replaceChildren();
+      const value=document.createElement('div');value.className='tabular-nums';
+      const result=d.score===null?'Unscored':d.score>=80?'Exceeds reported threshold':d.score>=70?'Meets reported threshold':'Below reported threshold';
+      value.textContent=d.name+' · '+(d.score===null?'Unknown':d.score.toFixed(1)+'/100')+' · '+result;
+      const note=document.createElement('div');note.className='text-small';note.textContent=d.note;
+      detail.append(value,note);
+    }
+    for(const d of rows){
+      const button=document.createElement('button');button.type='button';button.className='btn viz-tile';button.dataset.id=d.id;button.textContent=d.name;
+      button.setAttribute('aria-label',d.name+': '+(d.score===null?'unscored':d.score+' points in the 2024 reported MSME programme framework'));
+      button.addEventListener('click',()=>{selected=d.id;update();window.openai?.setWidgetState({modelContent:{selectedAgency:selected},privateContent:null}).catch(()=>{});});
+      const host=d.score===null?root.querySelector('[data-unknown]'):root.querySelector('[data-cell="'+(d.score>=70?'met':'below')+'-'+d.side+'"]');
+      host.append(button);buttons.push(button);
+    }
+    root.querySelector('[data-unknown]').className='viz-row';
+    window.addEventListener('openai:set_globals',e=>{restore(e.detail?.globals?.widgetState);update();});
+    update();
+  })();
+  </script>
+</div>

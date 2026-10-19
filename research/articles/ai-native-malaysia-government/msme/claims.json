@@ -1,0 +1,197 @@
+[
+  {
+    "id": "M01",
+    "text": "Current mandates and funding lines differ; no common entity-wide overhead base exists in the inspected evidence.",
+    "kind": "source-based-inference",
+    "source_ids": [
+      "D01",
+      "D02",
+      "D06",
+      "D07",
+      "D08",
+      "D09",
+      "D12",
+      "D13",
+      "D14",
+      "D15",
+      "D16",
+      "D17"
+    ],
+    "locator": "Budget and mandate tables",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Missing current expense not zero or failure."
+  },
+  {
+    "id": "M02",
+    "text": "The 2024 IAFSP scores and programme flows are recorded in agency data. All six selected KUSKOP core delivery agencies meet the source threshold.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D03"
+    ],
+    "locator": "Printedpp12,28–32,56",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Reported programme framework, not all duties or causal impact."
+  },
+  {
+    "id": "M03",
+    "text": "BSN41.8, CGC66.7, RISDA67.4 are below the published70-point threshold for the measured2024 MSME programmes.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D03"
+    ],
+    "locator": "Printedpp48,66–67",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Do not generalise to whole organisation."
+  },
+  {
+    "id": "M04",
+    "text": "Historical Micro Connector, IBBC employment and SCOPE upgrades missed selected targets; other outputs and overall audit ratings differ.",
+    "kind": "calculation",
+    "source_ids": [
+      "D04"
+    ],
+    "locator": "Tables51,54,58–59 and SCOPE chapter",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Data conflicts, changed cohorts and mixed outputs disclosed."
+  },
+  {
+    "id": "M05",
+    "text": "Audit committee table reports presented INSKEN and BIZME issues completed by14January2025.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D04"
+    ],
+    "locator": "Table89 p161",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Issue closure not proof of sustained outcome recovery."
+  },
+  {
+    "id": "M06",
+    "text": "Halal audit reconciles288/351 applications and identifies inconsistent cross-agency administration;50% outcome target differs from full-cohort count.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D05"
+    ],
+    "locator": "Printedpp26–35",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Management responses included; complementary grants not all duplicate spend."
+  },
+  {
+    "id": "M07",
+    "text": "2025 financing target comparisons for SME Bank, TEMAN and TERAJU pass their respective reported volume targets.",
+    "kind": "calculation",
+    "source_ids": [
+      "D06",
+      "D10",
+      "D11"
+    ],
+    "locator": "KPI05–08 in data",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Different programmes; self-report/minister statement; not causal outcomes."
+  },
+  {
+    "id": "M08",
+    "text": "SME Bank bank-only2025 operating expense303.201m and candidate expense pool19.025m derive from accounts.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D06"
+    ],
+    "locator": "Printedpp235,298 Note25",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Own-bank costs not federal spending; candidate pool not verified cash or duplicated."
+  },
+  {
+    "id": "M09",
+    "text": "INSKEN and PERNAS are conditional standalone closure candidates following service transfer.",
+    "kind": "policy-proposal",
+    "source_ids": [
+      "D01",
+      "D03",
+      "D04",
+      "D05",
+      "D06",
+      "D12",
+      "D13"
+    ],
+    "locator": "Report sections5–6",
+    "status": "explicitly-conditional",
+    "confidence": "Moderate function merger; low whole-entity closure",
+    "limitations": "No completed legal, workforce or costed transfer case; not whole-agency failure findings."
+  },
+  {
+    "id": "M10",
+    "text": "Budget-supported savings scenarios range from−0.580m to3.591m net annually; central1.279m, three-year−3.442m.",
+    "kind": "scenario",
+    "source_ids": [
+      "D01"
+    ],
+    "locator": "Data savings-assumptions and savings-scenarios",
+    "status": "explicitly-conditional",
+    "confidence": "Arithmetic high; forecast confidence not established",
+    "limitations": "Assumed overhead share, retirement fractions, recurring cost and transition; grants may contain pass-through spending. No observed savings."
+  },
+  {
+    "id": "M11",
+    "text": "Old deferred grants are not current or annual savings; management identified9.97m without commitments in2024 response.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D04"
+    ],
+    "locator": "Printedpp148–157",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "End2022 stock and later management plan; current recoverability unverified."
+  },
+  {
+    "id": "M12",
+    "text": "Institutional distinctiveness classification is analyst judgement, independent of reported programme score.",
+    "kind": "policy-proposal",
+    "source_ids": [
+      "D01",
+      "D03",
+      "D08",
+      "D09",
+      "D12",
+      "D13",
+      "D14",
+      "D15",
+      "D16"
+    ],
+    "locator": "Quadrant and agency rationale records",
+    "status": "explicitly-conditional",
+    "confidence": "Bounded by source scope",
+    "limitations": "Not official relevance rating, empirical validation or automatic closure rule."
+  },
+  {
+    "id": "M13",
+    "text": "KRI establishes governance-coordination and capacity concerns; proposed named closure cases and savings are this extension.",
+    "kind": "source-based-inference",
+    "source_ids": [
+      "K01"
+    ],
+    "locator": "Prior report relevant passages and present model",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "No KRI endorsement of proposals."
+  },
+  {
+    "id": "M14",
+    "text": "SME Bank already joined the BPMB group inMay2025.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D06"
+    ],
+    "locator": "Opening overview and leadership discussion",
+    "status": "supported",
+    "confidence": "Bounded by source scope",
+    "limitations": "Do not count existing integration again as new savings."
+  }
+]

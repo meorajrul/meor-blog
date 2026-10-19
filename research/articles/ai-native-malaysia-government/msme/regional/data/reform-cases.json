@@ -1,0 +1,60 @@
+[
+  {
+    "country": "Malaysia",
+    "mechanism": "Existing coordinator plus BPMB-group integration",
+    "completed_change": "SME Bank/EXIM/BPMB common group in2025",
+    "government_net_saving": null,
+    "saving_status": "not established",
+    "assessment": "Existing structure and measured programme outputs; fiscal scenario remains conditional",
+    "sources": [
+      "D01",
+      "D04",
+      "D05",
+      "D06",
+      "R01"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "mechanism": "Statutory agency merger plus programme harmonisation",
+    "completed_change": "IE+SPRING formedEnterpriseSG1April2018;CDG+GCP harmonised intoEDG",
+    "government_net_saving": null,
+    "saving_status": "not established",
+    "assessment": "Institutional integration delivered; grant effects supported by bounded observational evaluation; merger effect not isolated",
+    "sources": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "mechanism": "Shared identity and service-provider platform",
+    "completed_change": "SME ONE ID andBDS operational;no comparable closure case established in inspected records",
+    "government_net_saving": null,
+    "saving_status": "not established",
+    "assessment": "Operating integration output; coordination and impact-evaluation gaps remain",
+    "sources": [
+      "T01",
+      "T02",
+      "T03",
+      "R01"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "mechanism": "Public financial holding plus shared service outlets",
+    "completed_change": "UMi holdingSeptember2021;specialist entities remain",
+    "government_net_saving": null,
+    "saving_status": "not established",
+    "assessment": "Shared outlets/referral journey delivered; access causality and net fiscal saving not established",
+    "sources": [
+      "I01",
+      "I02",
+      "I03"
+    ]
+  }
+]

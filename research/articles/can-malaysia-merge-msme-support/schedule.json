@@ -1,0 +1,15 @@
+{
+  "article_id": "can-malaysia-merge-msme-support",
+  "publish_at": "2026-10-20T09:00:00+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
+  "utc_time": "2026-10-20T01:00:00Z",
+  "state": "approved-awaiting-scheduled-release-preparation",
+  "author_approved_on": "2026-10-19",
+  "approval_instruction": "set this to be release on 20th october 9am",
+  "approved_content_sha256": "19ff25e63231984ec5e4e9d0d9b42f6a2f92264b954850b175b93897fa151e4f",
+  "target_branch": "staging",
+  "release_branch": "codex/schedule-msme-oct20",
+  "main_and_deployment": "Owner-managed under standing instructions; no automated main modification or deployment.",
+  "live_url": "https://meorajrul.com/posts/can-malaysia-merge-msme-support/",
+  "automation_scope": "At the requested time verify approval and checks, prepare the article release through a staging PR, and report the remaining owner-managed merge/deployment step. Do not claim a live release without verification."
+}

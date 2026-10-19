@@ -1,0 +1,18 @@
+{
+  "origin": "../data/savings-model.json",
+  "central_case": {
+    "scenario": "central",
+    "gross_annual_rm_million": 2.7790638750000003,
+    "incremental_annual_rm_million": 1.5,
+    "net_mature_annual_rm_million": 1.2790638750000003,
+    "transition_once_rm_million": 4.5,
+    "year1_net_rm_million": -5.30523403125,
+    "year2_net_rm_million": 0.5842979062500002,
+    "year3_net_rm_million": 1.2790638750000003,
+    "three_year_net_rm_million": -3.44187225,
+    "approx_payback_years": 5.690930701173934,
+    "model_status": "Conditional sensitivity; unverified addressable overhead, retirement fractions and delivery costs. Not a forecast or observed saving."
+  },
+  "three_year_transition_ceiling_rm_million": 1.0581277500000006,
+  "caveat": "Conditional assumptions retained unchanged;no foreignsavingsmultiplierused."
+}
