@@ -1,0 +1,108 @@
+[
+  {
+    "id": "A01",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/hero.png",
+    "alt": "Conceptual Malaysian civic courtyard: one gateway connects several specialist service pavilions.",
+    "rights": "AI-generated conceptual illustration created for this draft. No third-party source image or real person supplied.",
+    "attribution": "Created with the built-in OpenAI image-generation tool on 19 October 2026.",
+    "source_url": "",
+    "kind": "illustration",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/hero-prompt.md"
+    ]
+  },
+  {
+    "id": "A02",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/programme-performance.png",
+    "alt": "Eleven reported 2024 IAFSP scores; eight at or above 70, three below; not whole-agency KPI attainment.",
+    "rights": "Original figure rendering from attributed facts and explicit analyst assumptions; no source graphic reproduced.",
+    "attribution": "SME Corp, SMEIPA 2025 (D03), framework and agency profiles.",
+    "source_url": "",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/data/programme-performance.csv",
+      "research/articles/can-malaysia-merge-msme-support/data/agencies.json",
+      "research/articles/can-malaysia-merge-msme-support/src/build_charts.py",
+      "research/articles/can-malaysia-merge-msme-support/sources.json"
+    ]
+  },
+  {
+    "id": "A03",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/programme-performance.pdf",
+    "alt": "Eleven reported 2024 IAFSP scores; eight at or above 70, three below; not whole-agency KPI attainment.",
+    "rights": "Original figure rendering from attributed facts and explicit analyst assumptions; no source graphic reproduced.",
+    "attribution": "SME Corp, SMEIPA 2025 (D03), framework and agency profiles.",
+    "source_url": "",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/data/programme-performance.csv",
+      "research/articles/can-malaysia-merge-msme-support/data/agencies.json",
+      "research/articles/can-malaysia-merge-msme-support/src/build_charts.py",
+      "research/articles/can-malaysia-merge-msme-support/sources.json"
+    ]
+  },
+  {
+    "id": "A04",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/savings-scenarios.png",
+    "alt": "Illustrative three-year cumulative net savings: low -RM9.16m, central -RM3.44m, high +RM3.18m. These are planning cases.",
+    "rights": "Original figure rendering from attributed facts and explicit analyst assumptions; no source graphic reproduced.",
+    "attribution": "Proposed 2027 KUSKOP estimates (D01) and explicit analyst assumptions.",
+    "source_url": "",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/data/savings-model.json",
+      "research/articles/can-malaysia-merge-msme-support/data/savings-assumptions.csv",
+      "research/articles/can-malaysia-merge-msme-support/data/savings-scenarios.csv",
+      "research/articles/can-malaysia-merge-msme-support/model-notes.md",
+      "research/articles/can-malaysia-merge-msme-support/src/build_charts.py",
+      "research/articles/can-malaysia-merge-msme-support/sources.json"
+    ]
+  },
+  {
+    "id": "A05",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/savings-scenarios.pdf",
+    "alt": "Illustrative three-year cumulative net savings: low -RM9.16m, central -RM3.44m, high +RM3.18m. These are planning cases.",
+    "rights": "Original figure rendering from attributed facts and explicit analyst assumptions; no source graphic reproduced.",
+    "attribution": "Proposed 2027 KUSKOP estimates (D01) and explicit analyst assumptions.",
+    "source_url": "",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/data/savings-model.json",
+      "research/articles/can-malaysia-merge-msme-support/data/savings-assumptions.csv",
+      "research/articles/can-malaysia-merge-msme-support/data/savings-scenarios.csv",
+      "research/articles/can-malaysia-merge-msme-support/model-notes.md",
+      "research/articles/can-malaysia-merge-msme-support/src/build_charts.py",
+      "research/articles/can-malaysia-merge-msme-support/sources.json"
+    ]
+  },
+  {
+    "id": "A06",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/agency-quadrant.png",
+    "alt": "Categorical matrix separates analyst institutional judgments from reported programme scores; three transfer-review candidates all meet the threshold.",
+    "rights": "Original figure rendering from attributed facts and explicit analyst assumptions; no source graphic reproduced.",
+    "attribution": "SMEIPA 2025 programme scores and the documented mandate review; classifications are analyst judgments.",
+    "source_url": "",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/data/agency-quadrant.csv",
+      "research/articles/can-malaysia-merge-msme-support/data/agencies.json",
+      "research/articles/can-malaysia-merge-msme-support/src/build_charts.py",
+      "research/articles/can-malaysia-merge-msme-support/sources.json"
+    ]
+  },
+  {
+    "id": "A07",
+    "path": "site/content/posts/can-malaysia-merge-msme-support/agency-quadrant.pdf",
+    "alt": "Categorical matrix separates analyst institutional judgments from reported programme scores; three transfer-review candidates all meet the threshold.",
+    "rights": "Original figure rendering from attributed facts and explicit analyst assumptions; no source graphic reproduced.",
+    "attribution": "SMEIPA 2025 programme scores and the documented mandate review; classifications are analyst judgments.",
+    "source_url": "",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/can-malaysia-merge-msme-support/data/agency-quadrant.csv",
+      "research/articles/can-malaysia-merge-msme-support/data/agencies.json",
+      "research/articles/can-malaysia-merge-msme-support/src/build_charts.py",
+      "research/articles/can-malaysia-merge-msme-support/sources.json"
+    ]
+  }
+]

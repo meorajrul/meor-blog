@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "status": "pending",
+  "author_approved": false,
+  "reviewer": "Codex — AI-assisted research appraisal, not independent peer review",
+  "reviewed_on": "2026-10-19",
+  "review_by": "2026-12-19",
+  "content_sha256": "",
+  "unresolved_issues": [
+    "No article or author approval; stronger named closure and savings claims require agency-level evidence."
+  ],
+  "claims_complete": false,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true
+}

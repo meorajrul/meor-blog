@@ -1,0 +1,30 @@
+project: ai-native-malaysia-government
+as_of: 2026-10-19
+timezone: Asia/Kuala_Lumpur
+stage: desk-research-briefing-complete
+direction: conclude-bounded-phase
+question: Can Malaysian public agencies use AI and service redesign to remove duplication and deliver net savings, with evidence-based institutional consolidation?
+deliverable: to_human/research-briefing.md
+author_approved: false
+article_created: false
+published: false
+deployed: false
+continuity: bounded research under journal workflow; no background schedule created
+research_design: exploratory comparative desk research; no preregistered experiment or causal test
+sources:
+  registered: 22
+  partial_indexed_text: [B03, I01]
+  publisher_overview_only: [M02, C01]
+limits:
+  - No current agency-level closure recommendation established.
+  - No estimated or observed Malaysian net savings produced.
+  - Illustrative arithmetic is hypothetical, not research data.
+  - No full World Bank 2026 survey-method appraisal.
+next_evidence: current mandates, accounts, programme outcomes, contracts, workforce obligations, beneficiary access and operational pilot
+follow_up_msme:
+  as_of: 2026-10-19
+  deliverable: msme/to_human/msme-agency-review.html
+  evidence_packet: msme/
+  status: bounded-review-complete
+  advance: mandates and funding compared; conditional closure candidates and budget-anchored savings sensitivities added
+  limit: no verified current whole-agency failure or observed savings; scenarios are not forecasts

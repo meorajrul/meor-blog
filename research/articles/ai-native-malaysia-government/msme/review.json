@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "pending",
+  "author_approved": false,
+  "reviewer": "Codex — AI-assisted desk review, not independent peer review",
+  "reviewed_on": "2026-10-19",
+  "review_by": "2026-12-19",
+  "content_sha256": "",
+  "unresolved_issues": [
+    "No author approval or publishable article.",
+    "Current entity functional cost ledgers and legal transfer cases are incomplete.",
+    "Savings assumptions are not calibrated forecasts or observed savings.",
+    "Published programme indices do not establish whole-agency KPI failure or causal impact.",
+    "Interactive visual browser layout preview blocked by file-URL security policy."
+  ],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true
+}

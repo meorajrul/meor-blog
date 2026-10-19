@@ -1,0 +1,185 @@
+[
+  {
+    "id": "RC01",
+    "text": "Singapore completed the IE/SPRING agency merger and CDG/GCP programme harmonisation.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "locator": "Official agency description; Budget Annex A-3; study introduction",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "No fiscal merger effect inferred."
+  },
+  {
+    "id": "RC02",
+    "text": "The EDG study finds a typical grant associated with 1.9% revenue and 1.6% value-added annual gains in 2019–2022.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "Printed p.44",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Observational fixed-effects programme analysis; not an evaluation of the merger."
+  },
+  {
+    "id": "RC03",
+    "text": "Singapore S$118m expected annual cost reduction and S$200k average are company benefits.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S04",
+      "S05"
+    ],
+    "locator": "Release pp.1–2; parliamentary reply paragraph 1",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Different populations and measurement status; no multiplication across all firms or addition of overlapping benefits."
+  },
+  {
+    "id": "RC04",
+    "text": "EnterpriseSG FY2024 operating expense was S$326.5m: manpower187.3m and other139.2m; surplus2.5m.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S06"
+    ],
+    "locator": "Printed pp.25–26",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Financial highlights; not all support funding or avoided merger cost."
+  },
+  {
+    "id": "RC05",
+    "text": "Thailand BDS uses common membership/identity and service providers; reported programme funding and economic value are not government savings.",
+    "kind": "external-fact",
+    "source_ids": [
+      "T02",
+      "T03"
+    ],
+    "locator": "Results release; application steps",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Agency self-report, not causal return on investment."
+  },
+  {
+    "id": "RC06",
+    "text": "SME ONE ID FY2023 registrations were119,173 versus75,500 target, and disbursementTHB5,418,423.72 versus5,472,000 budget.",
+    "kind": "external-fact",
+    "source_ids": [
+      "T01"
+    ],
+    "locator": "Indexed original publisher passage, printed p.64",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Partial access; not unique business outcomes or public merger savings."
+  },
+  {
+    "id": "RC07",
+    "text": "Indonesia UMi holding preserves specialist entities and operates shared SenyuM outlets.",
+    "kind": "external-fact",
+    "source_ids": [
+      "I01",
+      "I02",
+      "I03"
+    ],
+    "locator": "Holding history and operating paragraphs",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Partial history access; operating counts are not causal effects."
+  },
+  {
+    "id": "RC08",
+    "text": "None of the selected inspected records establishes a reconciled net government saving attributable to the restructuring.",
+    "kind": "bounded-source-inference",
+    "source_ids": [
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "T01",
+      "T02",
+      "I02",
+      "I03"
+    ],
+    "locator": "Inspected records and money ledger",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Not a comprehensive claim that no such evidence exists. Unknown is not zero; full BRI accounts were not inspected."
+  },
+  {
+    "id": "RC09",
+    "text": "ASEAN2024 describes Malaysia as advanced and still recommends better Thai coordination and data sharing.",
+    "kind": "external-fact",
+    "source_ids": [
+      "R01"
+    ],
+    "locator": "Printed pp.337,429",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Policy-framework assessment, not a current2026 census or merger-savings ranking."
+  },
+  {
+    "id": "RC10",
+    "text": "The Malaysian central case has RM1.279m annual net savings but−3.442m three-year cumulative savings, and a transition ceiling of1.058m.",
+    "kind": "calculation",
+    "source_ids": [
+      "D01"
+    ],
+    "locator": "Prior packet model and money ledger N13–15",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Assumed overhead, retirement and new costs; not a forecast or actual saving."
+  },
+  {
+    "id": "RC11",
+    "text": "Malaysia has already grouped SME Bank/EXIM/BPMB; that integration must not be booked again as a new reform.",
+    "kind": "external-fact",
+    "source_ids": [
+      "D06"
+    ],
+    "locator": "Bank2025 opening overview",
+    "status": "supported-with-scope-limit",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "No existing net integration benefit verified here."
+  },
+  {
+    "id": "RC12",
+    "text": "Copy joined case ownership, shared provider procurement and assisted access before committing to full closure.",
+    "kind": "policy-proposal",
+    "source_ids": [
+      "S01",
+      "S02",
+      "T02",
+      "T03",
+      "I02",
+      "I03",
+      "D04",
+      "D05",
+      "K01"
+    ],
+    "locator": "Report section6",
+    "status": "conditional-proposal",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Analyst adaptation; legal, access and costed transfer work remains."
+  },
+  {
+    "id": "RC13",
+    "text": "Regional comparison does not upgrade conditional INSKEN/PERNAS options to confirmed fiscal wins.",
+    "kind": "policy-proposal",
+    "source_ids": [
+      "D01",
+      "D04",
+      "D05",
+      "D06",
+      "S03",
+      "T02",
+      "I02"
+    ],
+    "locator": "Report sections1,6–7",
+    "status": "conditional-proposal",
+    "confidence": "Bounded by evidence design and access",
+    "limitations": "Complete current agency ledgers and transfer obligations remain unavailable."
+  }
+]

@@ -1,0 +1,4 @@
+scenario,gross_spending_removed_rm_million,added_recurring_cost_rm_million,one_off_transition_cost_rm_million,first_year_net_rm_million,later_annual_net_rm_million,input_status
+illustrative_base,12,4,10,-2,8,hypothetical_not_observed
+illustrative_downside,5,4,10,-9,1,hypothetical_not_observed
+illustrative_no_retirement,0,4,10,-14,-4,hypothetical_not_observed

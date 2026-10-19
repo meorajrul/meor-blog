@@ -1,0 +1,10 @@
+﻿scenario,anchor,baseline_rm_million,baseline,assumed_addressable_share,assumed_retired_share,gross_rm_million
+low,SME Corp operating grant,42.7564,Proposed2027; D01 B.26,0.1,0.15,0.641346
+low,INSKEN operating grant,12.0009,Proposed2027; D01 B.26,0.2,0.2,0.4800360000000001
+low,KUSKOP management supplies and services,29.836,Proposed2027; D01 B.26,0.1,0.1,0.29836
+central,SME Corp operating grant,42.7564,Proposed2027; D01 B.26,0.15,0.2,1.282692
+central,INSKEN operating grant,12.0009,Proposed2027; D01 B.26,0.275,0.25,0.8250618750000001
+central,KUSKOP management supplies and services,29.836,Proposed2027; D01 B.26,0.15,0.15,0.67131
+high,SME Corp operating grant,42.7564,Proposed2027; D01 B.26,0.2,0.25,2.13782
+high,INSKEN operating grant,12.0009,Proposed2027; D01 B.26,0.35,0.3,1.2600945
+high,KUSKOP management supplies and services,29.836,Proposed2027; D01 B.26,0.2,0.2,1.19344

@@ -1,0 +1,20 @@
+{
+  "prepared": "2026-10-19",
+  "selection": "User selected outline 1 from upstream regional essay-outlines.md.",
+  "upstream_packet": "research/articles/ai-native-malaysia-government/msme",
+  "upstream_sources_preserved": true,
+  "scope": "Selected inspected evidence carried forward. No new search or inspection is implied.",
+  "unknowns": "No comparable score for SKM/TERAJU; no established reconciled net fiscal merger saving in selected regional records.",
+  "partial_records_excluded": [
+    "S02",
+    "T01",
+    "I01",
+    "I04"
+  ],
+  "data_rules": [
+    "No cross-country monetary bar chart: benefits and currencies are not comparable.",
+    "No percentage sign on IAFSP scores.",
+    "No numeric relevance score invented for the quadrant.",
+    "No probability band on illustrative scenarios."
+  ]
+}

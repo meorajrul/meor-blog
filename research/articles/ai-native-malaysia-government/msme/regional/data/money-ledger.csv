@@ -1,0 +1,16 @@
+﻿id,country,currency,amount,period,category,status,source_id,government_merger_saving,notes
+N01,Singapore,SGD,118000000,"2025supportedprojects,expectedannualbenefit",recipient company operating-cost reduction,expected,S04,False,Not agency saving; do not add average saving from another population.
+N02,Singapore,SGD,200000,"2025,annualaverage",company cost reduction per relevant project/company,expected in release,S04,False,Not all11700 supportedfirms.
+N03,Singapore,SGD,200000,"2025,annualaverage",EDG recipient company cost reduction,reported/estimated in parliamentary reply,S05,False,Not an independent audit or additional amount to sum withN01.
+N04,Singapore,SGD,326500000,"FY2024,ended31March2025",agency operating expenditure,published financial highlights,S06,False,Not all SingaporeMSME funding;no unmerged counterfactual.
+N05,Singapore,SGD,187300000,FY2024,agency manpower expenditure,published financial highlights,S06,False,Component ofN04;do not doublecount.
+N06,Singapore,SGD,139200000,FY2024,agency other operating expenditure,published financial highlights,S06,False,Component ofN04.
+N07,Singapore,SGD,2500000,FY2024,agency net surplus,published financial highlights,S06,False,"Accounting surplus,not merger costavoidance."
+N08,Thailand,THB,6000000000,cumulative asreported1December2025,programme economic value,agency claim;more than,T02,False,No counterfactual method in article;not savings orverifiedROI.
+N09,Thailand,THB,260000000,earlier programme operation asreported1December2025,programme support funding,agency report;more than,T02,False,Source descriptions ofcumulativeperiod vary;not treatedasprecise costbase.
+N10,Thailand,THB,300000000,FY2569/2026,BDS programme budget,approved funding described byagency,T02,False,Not wholeagencybudget or saving.
+N11,Thailand,THB,5418423.72,FY2023,SMEONEID projectdisbursement,partial indexed annualreport,T01,False,Original fullreport inaccessible.
+N12,Thailand,THB,5472000,FY2023,SMEONEID projectbudget,partial indexed annualreport,T01,False,"Budgetminusdisbursement53576.28 isunderspend,notmergersaving."
+N13,Malaysia,MYR,1279063.8750000002,"prospective,matureannual",net budget-supported savings scenario,"conditional model,not forecast orachieved",D01,False,Based onprior packet assumptions;no crosscountry scaling.
+N14,Malaysia,MYR,-3441872.25,prospectiveyears1–3,cumulativenet savings scenario,conditional model;negative meansnetcost,D01,False,Includestransitionandrollout;notachieved.
+N15,Malaysia,MYR,1058127.7500000007,prospectivefirstthreeyears,max transition compatiblewithcentralbreak-even,"derived ceiling,notprocurementestimate",D01,False,2timescentralgross less3timesincrementalcost.
