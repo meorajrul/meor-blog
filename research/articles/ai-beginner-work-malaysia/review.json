@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "author_approved": true,
+  "reviewer": "Codex - AI-assisted evidence and visual review; owner approved publication",
+  "reviewed_on": "2026-10-19",
+  "review_by": "2026-11-19",
+  "content_sha256": "cbb46073e62dfb71c9faef6aacb79aca610643f5c5d13654fc2f839aa122d799",
+  "unresolved_issues": [],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true,
+  "author_approval": {
+    "source": "Direct owner instruction in this chat",
+    "instruction": "publish this on 23 october",
+    "approved_on": "2026-10-19",
+    "scope": "Illustrated essay with existing hero and two charts; planned publication 23 October 2026. Main and production deployment remain owner-managed."
+  }
+}
