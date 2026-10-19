@@ -1,0 +1,124 @@
+[
+  {
+    "id": "C1",
+    "text": "BetterUp describes workslop and recipient effort on a page reporting a US desk-worker survey.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E1"
+    ],
+    "locator": "Definition; survey footnote",
+    "status": "qualified",
+    "confidence": "bounded to publisher account",
+    "limitations": "No causal reading decline, population-wide prevalence or numerical result asserted."
+  },
+  {
+    "id": "C2",
+    "text": "Noy and Zhang report improved writing speed and assessed quality in their account of bounded professional tasks.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E2"
+    ],
+    "locator": "Experimental design; Results; Conclusion",
+    "status": "qualified",
+    "confidence": "bounded to authors’ summary",
+    "limitations": "Full paper not appraised; no effect size or recipient-understanding outcome stated."
+  },
+  {
+    "id": "C3",
+    "text": "The guidance describes retrieval and compaction, including possible loss from excessive compression.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E3"
+    ],
+    "locator": "Context retrieval and agentic search; Compaction",
+    "status": "qualified",
+    "confidence": "high for described design",
+    "limitations": "Does not establish actual failure causes, universal model behavior or market prevalence."
+  },
+  {
+    "id": "C4",
+    "text": "Skills can package instructions, scripts and resources for loading as needed.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E4"
+    ],
+    "locator": "Anatomy; progressive disclosure and context example",
+    "status": "supported",
+    "confidence": "high for documented technique",
+    "limitations": "No assertion that a skill guarantees source use, correctness or improved product quality."
+  },
+  {
+    "id": "C5",
+    "text": "Khattab’s translation of Quran 96:1 calls for reading in the name of the Creator.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E5"
+    ],
+    "locator": "96:1; translator attribution",
+    "status": "supported",
+    "confidence": "textual",
+    "limitations": "The application to workplace decisions is explicitly personal interpretation."
+  },
+  {
+    "id": "C6",
+    "text": "Hasrizal’s related reflection connects Iqra and AI with provenance, checking and accountability.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E6"
+    ],
+    "locator": "Echoes; Time-Tested Safeguards",
+    "status": "supported",
+    "confidence": "high for the author’s stated position",
+    "limitations": "Attribution, not independent validation of underlying historical claims."
+  },
+  {
+    "id": "C7",
+    "text": "A useful handoff should provide enough current context to explain and question the next action.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Normative argument and proposed handoff list",
+    "status": "qualified",
+    "confidence": "author proposal",
+    "limitations": "No intervention evaluation or productivity guarantee."
+  },
+  {
+    "id": "C8",
+    "text": "Useful output may arrive faster than a team can examine it, shifting pressure to recipients.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Paragraph beginning My question goes beyond poor-quality output",
+    "status": "qualified",
+    "confidence": "possibility to investigate",
+    "limitations": "Explicitly not presented as a measured document-volume or attention effect."
+  },
+  {
+    "id": "C9",
+    "text": "Navigation illustrates the distinction between following an answer and explaining the route.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Clearly imagined navigation analogy",
+    "status": "qualified",
+    "confidence": "analogy",
+    "limitations": "No author trip or causal GPS/AI memory claim."
+  },
+  {
+    "id": "C10",
+    "text": "Skipped source checks and stale assumptions need case-specific investigation rather than a motive of laziness.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Paragraph beginning This is also why I would be careful",
+    "status": "qualified",
+    "confidence": "editorial interpretation",
+    "limitations": "Alternative causes are possibilities, not findings from an agent trace."
+  },
+  {
+    "id": "C11",
+    "text": "Iqra gives the owner a personal framing for careful engagement with knowledge before acting.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Final religious reflection",
+    "status": "qualified",
+    "confidence": "supplied viewpoint",
+    "limitations": "Contemporary reflection, not a ruling or invented religious biography."
+  }
+]

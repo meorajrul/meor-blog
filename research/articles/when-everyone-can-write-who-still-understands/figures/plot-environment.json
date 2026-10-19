@@ -1,0 +1,6 @@
+{
+  "python": "3.12.14",
+  "matplotlib": "3.11.2",
+  "data": "gps-navigation-effects.csv",
+  "method": "Plot rounded published pooled r and CI values verbatim. No new meta-analysis, digitization, participant simulation or conversion to percentages."
+}

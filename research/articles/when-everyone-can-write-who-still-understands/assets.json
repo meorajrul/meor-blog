@@ -1,0 +1,63 @@
+[
+  {
+    "id": "hero-01",
+    "path": "site/content/posts/when-everyone-can-write-who-still-understands/hero.png",
+    "alt": "A reader and a geometric AI assistant focus on a highlighted source passage amid streams of documents and branching map routes.",
+    "rights": "Generated for this project using the built-in image generation tool with no third-party reference images.",
+    "attribution": "Conceptual illustration, generated with AI.",
+    "source_url": "",
+    "kind": "conceptual-illustration",
+    "input_paths": [
+      "research/articles/when-everyone-can-write-who-still-understands/hero-prompt.md"
+    ],
+    "generated_on": "2026-10-18",
+    "generated_with": "built-in image_gen",
+    "prompt_path": "research/articles/when-everyone-can-write-who-still-understands/hero-prompt.md",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2774618,
+    "sha256": "60ab073acb894fa72fd50f7ddd50976098b91ce37bdd1a0e74d5e9a770164f7b",
+    "status": "superseded-by-hero-02"
+  },
+  {
+    "id": "hero-02",
+    "path": "site/content/posts/when-everyone-can-write-who-still-understands/hero-v2.png",
+    "alt": "A reader studies a source document while a geometric AI robot scans its highlighted passage with blue light amid streams of papers and map routes.",
+    "rights": "Edited from the project-generated hero-01 using the built-in image generation tool; no third-party reference imagery.",
+    "attribution": "Conceptual illustration, generated with AI.",
+    "source_url": "",
+    "kind": "conceptual-illustration",
+    "input_paths": [
+      "site/content/posts/when-everyone-can-write-who-still-understands/hero.png",
+      "research/articles/when-everyone-can-write-who-still-understands/hero-edit-prompt.md"
+    ],
+    "generated_on": "2026-10-18",
+    "generated_with": "built-in image_gen",
+    "prompt_path": "research/articles/when-everyone-can-write-who-still-understands/hero-edit-prompt.md",
+    "edit_of": "hero-01",
+    "status": "active-cover",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2564725,
+    "sha256": "d0b0ab2e1ee5eee702860ece86aebe5c794f32285a7a0a40c1ec3446a6d5ad78"
+  },
+  {
+    "id": "gps-navigation-meta",
+    "path": "site/content/posts/when-everyone-can-write-who-still-understands/gps-navigation-research.png",
+    "alt": "Pooled navigation results with 95% confidence intervals: environmental knowledge r=-0.18, self-reported sense of direction r=-0.25, and inconclusive wayfinding r=0.07.",
+    "rights": "Original visualization of published numerical estimates; no publisher figure artwork reproduced. Source publication is attributed and its separate CC BY-NC-ND 4.0 license is recorded in figures/README.md.",
+    "attribution": "Chart prepared for this journal from Miola et al. (2024), Journal of Environmental Psychology, doi:10.1016/j.jenvp.2024.102417.",
+    "source_url": "https://doi.org/10.1016/j.jenvp.2024.102417",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/when-everyone-can-write-who-still-understands/figures/gps-navigation-effects.csv",
+      "research/articles/when-everyone-can-write-who-still-understands/figures/gen_fig_gps_navigation.py",
+      "research/articles/when-everyone-can-write-who-still-understands/figures/plot-environment.json"
+    ],
+    "vector_path": "research/articles/when-everyone-can-write-who-still-understands/figures/gps-navigation-research.pdf",
+    "width": 3240,
+    "height": 1920,
+    "sha256": "2cbb5a865a8d04faf3c029650da8c58737a1a76b834990f810d7026124203b13",
+    "created_on": "2026-10-18"
+  }
+]
