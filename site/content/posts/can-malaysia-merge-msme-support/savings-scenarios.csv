@@ -1,0 +1,10 @@
+scenario,year,rollout_share,gross_realised_rm_million,new_recurring_rm_million,transition_rm_million,annual_net_rm_million,cumulative_net_rm_million,status
+low,1,0.25,0.3549355,2.0,6.0,-7.6450645,-7.6450645,"Illustrative planning case, not a forecast or observed saving"
+low,2,0.75,1.0648065,2.0,0.0,-0.9351935,-8.580258,"Illustrative planning case, not a forecast or observed saving"
+low,3,1,1.419742,2.0,0.0,-0.580258,-9.160516,"Illustrative planning case, not a forecast or observed saving"
+central,1,0.25,0.694765969,1.5,4.5,-5.305234031,-5.305234031,"Illustrative planning case, not a forecast or observed saving"
+central,2,0.75,2.084297906,1.5,0.0,0.584297906,-4.720936125,"Illustrative planning case, not a forecast or observed saving"
+central,3,1,2.779063875,1.5,0.0,1.279063875,-3.44187225,"Illustrative planning case, not a forecast or observed saving"
+high,1,0.25,1.147838625,1.0,3.0,-2.852161375,-2.852161375,"Illustrative planning case, not a forecast or observed saving"
+high,2,0.75,3.443515875,1.0,0.0,2.443515875,-0.4086455,"Illustrative planning case, not a forecast or observed saving"
+high,3,1,4.5913545,1.0,0.0,3.5913545,3.182709,"Illustrative planning case, not a forecast or observed saving"

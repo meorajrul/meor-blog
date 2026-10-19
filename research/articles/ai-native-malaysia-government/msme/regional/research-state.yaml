@@ -1,0 +1,25 @@
+project: malaysia-msme-regional-comparison
+as_of: 2026-10-19
+stage: bounded-review-and-outlines-complete
+direction: conclude
+deliverable: to_human/regional-comparison.html
+outlines: to_human/essay-outlines.html
+countries: [Malaysia, Singapore, Thailand, Indonesia]
+sources: 19
+inspected_relevant_passages: 15
+partial_indexed_sources: [S02, T01, I01]
+inaccessible_source: I04
+claim_records: 13
+money_records: 15
+government_merger_savings_established: false
+unknown_savings_are_zero: false
+malaysia_scenario_recalibrated: false
+article_created: true
+selected_outline: 1
+draft_packet: research/articles/can-malaysia-merge-msme-support
+draft_preview: research/articles/can-malaysia-merge-msme-support/to_human/essay-preview.html
+author_approved: false
+published: false
+deployed: false
+next_evidence: comparable cost ledgers, merger benefit reconciliations, transition and contract retirement costs, access outcomes and institutional responses
+continuity: manual resumption only; no background schedule

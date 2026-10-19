@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "pending",
+  "author_approved": false,
+  "reviewer": "Codex — AI-assisted desk research and outline appraisal",
+  "reviewed_on": "2026-10-19",
+  "review_by": "2026-12-19",
+  "content_sha256": "",
+  "unresolved_issues": [
+    "No author approval or article draft.",
+    "No selected case has a verified merger-specific net government savings reconciliation in the inspected evidence.",
+    "Thai annual report and PNM history have partial indexed access; full BRI2025 accounts were not inspected.",
+    "Malaysian savings model remains conditional and uncalibrated; complete transfer obligations and cost ledgers are unavailable.",
+    "Browser layout has not been visually verified."
+  ],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true
+}

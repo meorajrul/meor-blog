@@ -1,0 +1,10 @@
+﻿id,agency,programme,year,actual,target,unit,higher_is_better,source,locator,limit,target_attainment_percent,meets_stated_target
+KPI01,SME Corp,Micro Connector,2023,877,1060,participants,True,D04,Table54 printedp98,"Table51 instead reports886; detailed table sums877. Historical programme output, not agency-wide current failure.",82.73584905660377,False
+KPI02,INSKEN,IBBC employment,2022–2023,28.060768543342267,50,percent of outcome dataset offering jobs,True,D04,Tables58–59 printedp106,Reported outcome dataset1119; not enrolment denominator. Changed targets2024. Committee issues reported completedJan2025.,56.12153708668453,False
+KPI03,SKM,SCOPE existing centre upgrades,audit2024 scope2021–2024,9,20,centres,True,D04,SCOPE chapter printedpp119–140,One output; new-centre output exceeded target. Not entire regulatory role.,45.0,False
+KPI04,SKM,SCOPE new centres,audit2024 scope2021–2024,30,20,centres,True,D04,SCOPE chapter,"Output, not independently measured business outcome.",150.0,True
+KPI05,SME Bank,Financing approvals,2025,4300,3300,RMmillion,True,D06,Printedpp38–39,Management volume report; no causal attribution.,130.3030303030303,True
+KPI06,SME Bank,Average turnaround time,2025,88,104,days upper limit,False,D06,Printedpp210–211,Average can hide distribution and client experiences.,118.18181818181819,True
+KPI07,TEKUN,TEMAN financing,2025,162.05,155,RMmillion,True,D11,National programme volume paragraph,"Minister statement; one programme, not whole entity.",104.5483870967742,True
+KPI08,TERAJU,Financing volume,2025,1228,1000,RMmillion,True,D10,p2,Self-reported; facilitated/distributed financing not own operating budget.,122.8,True
+KPI09,Multiple agencies,PPKUIH applications reconciled,2021–June2025,82.05128205128204,50,percent grant recipients applying,True,D05,Printedpp27–29 Tables5–8,288 reconciled versus initial348. Outcome target50%; cannot call24/27 at PERNAS a failure of that target.,164.1025641025641,True

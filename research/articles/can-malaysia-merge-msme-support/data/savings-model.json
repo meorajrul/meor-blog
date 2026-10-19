@@ -1,0 +1,71 @@
+{
+  "currency": "RMmillion nominal",
+  "source": "D01",
+  "anchors": {
+    "SME Corp operating grant": 42.7564,
+    "INSKEN operating grant": 12.0009,
+    "KUSKOP management supplies and services": 29.836
+  },
+  "rollout": [
+    0.25,
+    0.75,
+    1
+  ],
+  "discounting": false,
+  "scenarios": [
+    {
+      "scenario": "low",
+      "gross_annual_rm_million": 1.419742,
+      "incremental_annual_rm_million": 2.0,
+      "net_mature_annual_rm_million": -0.5802579999999999,
+      "transition_once_rm_million": 6.0,
+      "year1_net_rm_million": -7.6450645,
+      "year2_net_rm_million": -0.9351935,
+      "year3_net_rm_million": -0.5802579999999999,
+      "three_year_net_rm_million": -9.160516,
+      "approx_payback_years": null,
+      "model_status": "Conditional sensitivity; unverified addressable overhead, retirement fractions and delivery costs. Not a forecast or observed saving."
+    },
+    {
+      "scenario": "central",
+      "gross_annual_rm_million": 2.7790638750000003,
+      "incremental_annual_rm_million": 1.5,
+      "net_mature_annual_rm_million": 1.2790638750000003,
+      "transition_once_rm_million": 4.5,
+      "year1_net_rm_million": -5.30523403125,
+      "year2_net_rm_million": 0.5842979062500002,
+      "year3_net_rm_million": 1.2790638750000003,
+      "three_year_net_rm_million": -3.44187225,
+      "approx_payback_years": 5.690930701173934,
+      "model_status": "Conditional sensitivity; unverified addressable overhead, retirement fractions and delivery costs. Not a forecast or observed saving."
+    },
+    {
+      "scenario": "high",
+      "gross_annual_rm_million": 4.5913545,
+      "incremental_annual_rm_million": 1.0,
+      "net_mature_annual_rm_million": 3.5913544999999996,
+      "transition_once_rm_million": 3.0,
+      "year1_net_rm_million": -2.852161375,
+      "year2_net_rm_million": 2.4435158749999997,
+      "year3_net_rm_million": 3.5913544999999996,
+      "three_year_net_rm_million": 3.182708999999999,
+      "approx_payback_years": null,
+      "model_status": "Conditional sensitivity; unverified addressable overhead, retirement fractions and delivery costs. Not a forecast or observed saving."
+    }
+  ],
+  "central_max_transition_for_three_year_break_even": 1.0581277500000006,
+  "bank_separate": {
+    "source": "D06 Note25 p298",
+    "expense_pool": 19.025,
+    "assumed_retirement_range": [
+      0.05,
+      0.1
+    ],
+    "gross_range": [
+      0.9512499999999999,
+      1.9024999999999999
+    ],
+    "net_estimate": null,
+    "federal_savings": null
+  }
+}

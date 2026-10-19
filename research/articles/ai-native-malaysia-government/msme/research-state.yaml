@@ -1,0 +1,26 @@
+project: ai-native-malaysia-government-msme
+as_of: 2026-10-19
+stage: bounded-desk-review-complete
+direction: conclude
+deliverable: to_human/msme-agency-review.html
+scope: mandates, funding, programme outcomes, conditional functional mergers and closures, savings sensitivity, relevance-performance quadrant
+institutions: 13
+comparable_2024_scores: 11
+sources: 18
+claims: 14
+author_approved: false
+article_created: false
+published: false
+deployed: false
+observed_savings: null
+scenario_is_forecast: false
+institutional_axis: analyst qualitative judgement
+performance_axis: reported IAFSP2024, threshold70, not whole-entity KPI
+next_evidence: current functional expense ledgers, contracts, staffing, legal duties, linked beneficiary outcomes and pilot
+continuity: manual resumption only; no background schedule
+regional_follow_up:
+  as_of: 2026-10-19
+  deliverable: regional/to_human/regional-comparison.html
+  outlines: regional/to_human/essay-outlines.html
+  status: complete-bounded-desk-review
+  result: distinct merger, holding and shared-service models; no attributable net government saving established in selected records
