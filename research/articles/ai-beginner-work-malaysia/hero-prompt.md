@@ -10,4 +10,3 @@ Style: sophisticated editorial illustration, textured gouache and restrained col
 Composition: landscape approximately 16:9, strong focal structure, generous breathing room, legible at blog cover size. Center the shared worktable and unequal starting paths; keep faces understated, not portraits. No need for title text in the image.
 Lighting: warm natural daylight, serious but hopeful. Palette: deep teal, muted slate, warm cream, small amber accents.
 Constraints: this is conceptual imagery, not documentary evidence. No flags, national costumes, political symbols, identifiable companies, logos, watermarks, text, charts, numbers, robots, sci-fi neon, humiliating or defeated expressions. Do not portray experience as a guarantee of success or the newcomer as incapable.
-

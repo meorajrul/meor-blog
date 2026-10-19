@@ -85,4 +85,3 @@ for name in ['malaysia-ai-exposure-by-age.csv','ai-learning-curve.csv']:
  'source_checks':'World Bank Figure 6–7 visually inspected; QJE V.B.3 and Figure V caption inspected.',
 },indent=2)+'\n',encoding='utf-8')
 print('Created two PNGs, two vector PDFs, and their downloadable CSV inputs.')
-

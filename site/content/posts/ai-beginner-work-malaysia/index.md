@@ -99,4 +99,3 @@ There is a responsibility for experienced people here too. Their judgment was de
 The concern is that AI could help those already inside a profession while making its entrance more demanding. The hopeful possibility is that the same technology could make good guidance available earlier.
 
 What China can offer Malaysia is a reason to examine that choice now. The outcome will depend partly on whether a beginner is treated as a person worth developing, and given enough real work to become experienced.
-
