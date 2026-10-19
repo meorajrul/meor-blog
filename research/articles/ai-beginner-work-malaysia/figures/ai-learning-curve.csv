@@ -1,0 +1,3 @@
+group,months_lower,months_upper,approximate_target_resolved_issues_per_hour,estimate_type,source_id,locator
+AI from joining,2,2,2.5,authors narrative approximation; not exact time-to-target estimate,S7,Section V.B.3 / Figure V
+Without AI,8,10,2.5,authors narrative range; not a confidence interval,S7,Section V.B.3 / Figure V

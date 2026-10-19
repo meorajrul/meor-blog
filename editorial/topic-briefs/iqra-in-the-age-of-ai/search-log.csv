@@ -1,0 +1,21 @@
+date,platform,query,purpose
+2026-10-18,web search,site.microsoft.com research generative AI critical thinking knowledge workers 2025,Locate original AI/critical-thinking research
+2026-10-18,web search,site.nature.com habitual use GPS negatively impacts spatial memory navigation Dahmani Bohbot 2020,Locate original navigation study
+2026-10-18,web search,site.quran.com 96 1 read name Lord created,Verify verse and translation context
+2026-10-18,web search,Noy Zhang Experimental evidence productivity effects generative artificial intelligence 2023 Science adh2586,Look for balancing productivity evidence
+2026-10-18,web search,Retrieval Augmented Generation Knowledge Intensive NLP Tasks Lewis 2020 arxiv 2005.11401,Locate technical background on supplied evidence
+2026-10-18,web open,https://www.betterup.com/workslop,Inspect original position for comparison; V1
+2026-10-18,web open,https://www.linkedin.com/posts/willkelly_your-team-starts-using-ai-for-summaries-activity-7447372647828533249-6fFL,Inspect original position for comparison; V2
+2026-10-18,web open,https://dev.to/itsaalaa7/ai-is-the-gps-that-made-me-forget-how-to-read-a-map-you-can-still-get-anywhere-but-you-couldnt-3p0b,Inspect original position for comparison; V3
+2026-10-18,web open,https://www.psychologytoday.com/us/blog/the-digital-self/202312/llms-are-todays-gps-for-thought,Inspect original position for comparison; V4
+2026-10-18,web open,https://hasrizal.substack.com/p/from-iqra-to-the-age-of-ai-what-al,Inspect original position for comparison; V5
+2026-10-18,rendered browser,https://hackedu.tech/articles/iqra-in-the-age-of-ai-what-islam-actually-says-about-learning-with-technology,Inspect original position for comparison; V6
+2026-10-18,web open,https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents,Inspect original position for comparison; V7
+2026-10-18,web open,https://thinkfuture.substack.com/p/your-smartphone-isnt-making-you-stupid,Inspect original position for comparison; V8
+2026-10-18,web search,site.agentskills.io specification progressive disclosure context skills,Find official skill format and countercheck what loading actually means
+2026-10-18,web search,site.microsoft.com research LLMs Get Lost In Multi-Turn Conversation 2025 Laban,Check an alternative to attributing every conversational failure to context size
+2026-10-18,web open,https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents,Technical extension S7; inspected
+2026-10-18,web open,https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills,Technical extension S8; inspected
+2026-10-18,web open,https://agentskills.io/specification,Technical extension S9; inspected
+2026-10-18,web open,https://aclanthology.org/2024.tacl-1.9.pdf,Technical extension S10; inspected
+2026-10-18,web open,https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-multi-turn-conversation/,Technical extension S11; author-summary-only

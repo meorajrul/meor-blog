@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "author_approved": true,
+  "reviewer": "Codex — AI-assisted draft review, not independent peer review",
+  "reviewed_on": "2026-10-19",
+  "review_by": "",
+  "content_sha256": "a068cdf2c4453d9a58799825bd253837c504899bbb64729dfe2beb37c4e418bd",
+  "unresolved_issues": [],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true,
+  "author_approval": {
+    "source": "Direct owner instruction in this conversation",
+    "instruction": "publish this first",
+    "approved_on": "2026-10-19",
+    "scope": "The latest simple-English essay with its existing hero and navigation chart; release via a codex/ branch and PR to staging. Main and live deployment remain owner-managed."
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "C2",
+    "text": "In the authors’ writing experiment, participants completed specific writing tasks faster and received better quality ratings.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E2"
+    ],
+    "locator": "Experimental design; Results; Conclusion",
+    "status": "qualified",
+    "confidence": "bounded to authors’ summary",
+    "limitations": "Full paper not appraised; no effect size or recipient-understanding outcome stated."
+  },
+  {
+    "id": "C3",
+    "text": "Summarizing long agent conversations can lose important details.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E3"
+    ],
+    "locator": "Context retrieval and agentic search; Compaction",
+    "status": "qualified",
+    "confidence": "high for described design",
+    "limitations": "A plain-language paraphrase of the documented compaction tradeoff, not proof that every summary loses details or a diagnosis of an actual failure."
+  },
+  {
+    "id": "C4",
+    "text": "Skills save reusable instructions and resources; source-checking checklists are a proposed use.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E4"
+    ],
+    "locator": "Anatomy; progressive disclosure and context example",
+    "status": "supported",
+    "confidence": "high for documented technique",
+    "limitations": "No assertion that a skill guarantees source use, correctness or improved product quality."
+  },
+  {
+    "id": "C5",
+    "text": "Quran 96:1 contains the call to read used as the owner’s reflective anchor.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E5"
+    ],
+    "locator": "96:1; translator attribution",
+    "status": "supported",
+    "confidence": "textual",
+    "limitations": "The application to workplace decisions is explicitly personal interpretation."
+  },
+  {
+    "id": "C6",
+    "text": "Hasrizal connects Iqra and AI with verification and accountability.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E6"
+    ],
+    "locator": "Echoes; Time-Tested Safeguards",
+    "status": "supported",
+    "confidence": "high for the author’s stated position",
+    "limitations": "Attribution, not independent validation of underlying historical claims."
+  },
+  {
+    "id": "C9",
+    "text": "Following navigation directions without learning the route illustrates the owner’s concern about output without understanding.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "GPS analogy paragraph; not an author journey or an AI effect claim",
+    "status": "qualified",
+    "confidence": "analogy",
+    "limitations": "No author trip or causal GPS/AI memory claim."
+  },
+  {
+    "id": "C10",
+    "text": "If an agent skips a check, investigate why before calling it lazy.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Final sentence of the AI skills paragraph",
+    "status": "qualified",
+    "confidence": "editorial interpretation",
+    "limitations": "Alternative causes are possibilities, not findings from an agent trace."
+  },
+  {
+    "id": "C11",
+    "text": "The owner connects Iqra with reading carefully, understanding work put forward and taking responsibility for it.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Closing personal reflection and commitment",
+    "status": "qualified",
+    "confidence": "supplied viewpoint",
+    "limitations": "Personal reflection, not a religious ruling, invented biography or claim of an already proven habit."
+  },
+  {
+    "id": "C13",
+    "text": "The 2024 review covered 23 studies, pooled 18, and found small negative relationships for knowledge of places and self-rated sense of direction; results for finding routes were inconclusive.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E8"
+    ],
+    "locator": "Methods pp. 2–3; section 3.3 p. 8; quality assessment and limitations pp. 8, 10–11",
+    "status": "qualified",
+    "confidence": "bounded meta-analytic synthesis",
+    "limitations": "Mixed designs, substantial heterogeneity, most studies at moderate/high bias risk. Overlaps E7."
+  },
+  {
+    "id": "C14",
+    "text": "Published pooled r [95% CI]: environmental knowledge -0.18 [-0.28,-0.08]; sense of direction -0.25 [-0.39,-0.12]; wayfinding 0.07 [-0.28,0.41].",
+    "kind": "external-fact",
+    "source_ids": [
+      "E8"
+    ],
+    "locator": "Section 3.3 p. 8; figures/gps-navigation-effects.csv",
+    "status": "supported",
+    "confidence": "direct transcription of aggregate estimates",
+    "limitations": "Not percentage loss, not individual observations or a new meta-analysis, not a longitudinal reasoning measure."
+  },
+  {
+    "id": "C15",
+    "text": "The owner expresses frustration with colleagues producing far more with AI, struggling to make decisions, sometimes passing on unread work and still expecting an action plan.",
+    "kind": "personal-experience",
+    "source_ids": [],
+    "locator": "Owner’s supplied struggle and requested emotional tone; opening conflict paragraphs, revised 19 October 2026",
+    "status": "qualified",
+    "confidence": "author-reported",
+    "limitations": "Frustration is a direct expression of the supplied struggle. No new incident, feeling of abandonment, motive, identity, measured exponential growth or population-wide claim is added."
+  },
+  {
+    "id": "C16",
+    "text": "The owner wants clear leadership direction, a named person responsible for each scope, a checked recommendation and action plan, and KPIs tied to agreed results and follow-through.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Owner message, 19 October 2026; four-point proposed response",
+    "status": "qualified",
+    "confidence": "proposed practice",
+    "limitations": "Not an implemented or validated intervention; no numerical targets, employee ratings or improvement results invented."
+  },
+  {
+    "id": "C17",
+    "text": "The proposed ownership approach needs decision authority, clarity about help from others, escalation outside one’s control and leaders settling conflicting priorities.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Ownership and leadership paragraph",
+    "status": "qualified",
+    "confidence": "editorial development of the proposed practice",
+    "limitations": "Explores a tradeoff; not a research finding or a claim about this employer’s actual authority arrangements."
+  }
+]

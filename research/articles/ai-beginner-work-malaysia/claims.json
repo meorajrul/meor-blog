@@ -1,0 +1,145 @@
+[
+  {
+    "id": "C01",
+    "text": "Established experience can supply context and judgment when working with AI, potentially giving incumbents an advantage if junior tasks are reassigned.",
+    "kind": "inference",
+    "source_ids": [
+      "S8",
+      "S7"
+    ],
+    "locator": "Opening and experience section; S8 Findings/Limitations; S7 V.B and VI",
+    "status": "qualified",
+    "confidence": "conditional explanatory mechanism",
+    "limitations": "Not a measured universal senior advantage; illustrated analyst example is hypothetical. Tenure, age and skill differ. S7 demonstrates the opposite distribution of task gains in its setting."
+  },
+  {
+    "id": "C02",
+    "text": "The South Korean preprint describes junior tasks moving to senior-plus-AI workflows, based on 14 interviews.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S8"
+    ],
+    "locator": "Method/Participants, Findings: Absorption, Limitations",
+    "status": "qualified",
+    "confidence": "exploratory qualitative accounts",
+    "limitations": "Network/purposive recruitment; not population prevalence, causal estimation or China/Malaysia evidence."
+  },
+  {
+    "id": "C03",
+    "text": "Liu and Wang's abstract reports increasingly selective Chinese AI recruitment, including postgraduate and one-to-five-year experience requirements.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Directly inspected public ScienceDirect abstract; full text not appraised",
+    "status": "qualified",
+    "confidence": "abstract-level only",
+    "limitations": "Abstract attribution only; complete methods not appraised. Describes AI-related ads, not all graduates or hires. No causal youth-unemployment conclusion."
+  },
+  {
+    "id": "C04",
+    "text": "Malaysia's 2025 exposure report maps model-scored tasks to 2021 LFS employment; age shares differ by exposure group.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S3"
+    ],
+    "locator": "PDF pages 14–16 zero-based; Figures 6–7 and methods",
+    "status": "supported",
+    "confidence": "high for transcription; model-dependent interpretation",
+    "limitations": "Exposure is overlap in tasks, not adoption or displacement. 2021 employment composition, not a current graduate survey."
+  },
+  {
+    "id": "C05",
+    "text": "Highest-exposure percentages by age 15–24 through 55–64 are 26,32,29,24,17; lowest-exposure percentages are 44,37,31,33,36.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S3"
+    ],
+    "locator": "Figures 6–7 on PDF page 17 (zero-based page 16), visually inspected",
+    "status": "supported",
+    "confidence": "high for published rounded values",
+    "limitations": "Denominator is workers within each age group. Two middle categories omitted. No confidence interval or new estimate claimed."
+  },
+  {
+    "id": "C06",
+    "text": "The World Bank–ISIS authors identify a possible bottleneck in progression into specialised work.",
+    "kind": "inference",
+    "source_ids": [
+      "S3"
+    ],
+    "locator": "Age discussion immediately before Figures 6–7",
+    "status": "qualified",
+    "confidence": "risk discussed by authors",
+    "limitations": "Not observed individual career transitions or a finding that all young workers lose."
+  },
+  {
+    "id": "C07",
+    "text": "Cheng reports exposure–employment-loss associations including for ages 25–34, without causal identification or measuring first hiring.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S4"
+    ],
+    "locator": "Sections 2.3,3.3; Appendix A1/A2",
+    "status": "qualified",
+    "confidence": "descriptive association",
+    "limitations": "Formal-private-sector separations; fixed LFS denominators; no firm adoption measure; no significant positive 15–24 finding."
+  },
+  {
+    "id": "C08",
+    "text": "Rosli argues that exposure cannot establish adoption or AI-caused losses and calls for linked adoption/outcome data.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S5"
+    ],
+    "locator": "Why attribution is premature; Measure better",
+    "status": "supported",
+    "confidence": "high for attributed methodological argument",
+    "limitations": "Commentary, not an independent causal outcome study. Critiques S3/S4; not independent replication."
+  },
+  {
+    "id": "C09",
+    "text": "In a 5,172-agent customer-support study, less experienced/lower-skilled employees gained more from AI assistance; most agents were based in the Philippines.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S7"
+    ],
+    "locator": "Abstract; III.B; IV.B; V.B",
+    "status": "supported",
+    "confidence": "bounded workplace evidence",
+    "limitations": "Non-random staggered rollout at one firm/subcontractors. Task productivity among employees, not graduate recruitment."
+  },
+  {
+    "id": "C10",
+    "text": "The authors describe AI-from-joining agents reaching about 2.5 resolutions/hour after two months; never-treated agents reached roughly that level after 8–10 months.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S7"
+    ],
+    "locator": "V.B.3 Moving Down the Experience Curve, Figure V narrative",
+    "status": "qualified",
+    "confidence": "authors' approximate curve summary",
+    "limitations": "Not exact time-to-target estimates, graph digitization, individual guarantees, effect-size confidence intervals or Malaysian forecasts. The 8–10 range is descriptive."
+  },
+  {
+    "id": "C11",
+    "text": "The US CPS working paper finds no significant broad relative recent-graduate unemployment increase in summer 2026.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S10"
+    ],
+    "locator": "Abstract and PDF pp.19–23 zero-based results/conclusions",
+    "status": "qualified",
+    "confidence": "null finding within study window/design",
+    "limitations": "US, bachelor’s holders ages22–25 not enrolled; no causal proof of absence or exclusion of occupation-specific harm."
+  },
+  {
+    "id": "C12",
+    "text": "Preserving supervised assignments and assessing verification/judgment are proposals worth testing.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Closing section",
+    "status": "qualified",
+    "confidence": "editorial proposal",
+    "limitations": "No intervention or outcome evaluation run; no policy guarantee. No author personal experience asserted."
+  }
+]

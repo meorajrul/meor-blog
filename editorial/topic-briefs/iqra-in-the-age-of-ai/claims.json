@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TC01",
+    "text": "Agents can retrieve externally stored task material into active context.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S7"
+    ],
+    "locator": "Context retrieval and agentic search; Structured note-taking",
+    "status": "supported-with-scope",
+    "confidence": "high for described design",
+    "limitations": "Describes an architecture; no prevalence claim about most platforms."
+  },
+  {
+    "id": "TC02",
+    "text": "Skills package reusable instructions and resources for loading as needed.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S8",
+      "S9"
+    ],
+    "locator": "S8 anatomy/context sections; S9 Progressive disclosure",
+    "status": "supported-with-scope",
+    "confidence": "high for documented format",
+    "limitations": "Related ecosystem sources; host behavior varies; no guaranteed output improvement."
+  },
+  {
+    "id": "TC03",
+    "text": "Compaction can preserve continuity; excessive compression risks losing important details.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S7"
+    ],
+    "locator": "Compaction",
+    "status": "supported-with-scope",
+    "confidence": "high for documented tradeoff",
+    "limitations": "Does not establish that a particular mistake was caused by compaction."
+  },
+  {
+    "id": "TC04",
+    "text": "Information position affected retrieval and QA performance in the tested long-context models.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S10"
+    ],
+    "locator": "PDF pp. 157–161; conclusion p. 167",
+    "status": "supported-with-scope",
+    "confidence": "high within studied setup",
+    "limitations": "Historical model versions, bounded tasks; not a universal degradation law or current-product diagnosis."
+  },
+  {
+    "id": "TC05",
+    "text": "A multi-turn study summary reports premature assumptions and poor recovery in simulated tasks.",
+    "kind": "source-based-summary",
+    "source_ids": [
+      "S11"
+    ],
+    "locator": "Publication-page abstract",
+    "status": "qualified-summary-only",
+    "confidence": "limited by inspection depth",
+    "limitations": "Full paper not appraised. No inference that conversation length or compaction alone caused the reported behavior."
+  },
+  {
+    "id": "TC06",
+    "text": "Current context should guide both people and agents in AI-first organizations.",
+    "kind": "author-argument",
+    "source_ids": [],
+    "locator": "Owner follow-up of 18 October 2026",
+    "status": "normative-position",
+    "confidence": "not an empirical estimate",
+    "limitations": "Organizational principle; no adoption survey or productivity effect established."
+  },
+  {
+    "id": "TC07",
+    "text": "What feels like laziness should be described through skipped checks, stale assumptions or missed constraints.",
+    "kind": "editorial-interpretation",
+    "source_ids": [],
+    "locator": "Owner metaphor and technical synthesis",
+    "status": "proposed-framing",
+    "confidence": "requires case-specific evidence",
+    "limitations": "No motives inferred; possible mechanisms require an observed trace to diagnose."
+  },
+  {
+    "id": "TC08",
+    "text": "Use reusable procedures while checking current source versions for decision-relevant facts.",
+    "kind": "proposed-practice",
+    "source_ids": [
+      "S7",
+      "S8",
+      "S9"
+    ],
+    "locator": "Proposed source-check practice in context-and-skills.md",
+    "status": "proposal-not-tested",
+    "confidence": "not a validated intervention",
+    "limitations": "Inspired by documentation; routine rereading of every file is not proposed."
+  },
+  {
+    "id": "TC09",
+    "text": "Iqra can inspire renewed attention to sources for human and AI-assisted decisions.",
+    "kind": "author-reflection",
+    "source_ids": [
+      "S3",
+      "S4"
+    ],
+    "locator": "Original topic brief and owner follow-up",
+    "status": "contemporary-reflection",
+    "confidence": "not an empirical claim",
+    "limitations": "Do not present the technical application as formal tafsir or a religious ruling."
+  }
+]

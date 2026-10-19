@@ -1,0 +1,17 @@
+{
+  "article_id": "ai-beginner-work-malaysia",
+  "publish_at": "2026-10-23T09:00:00+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
+  "time_assumption": "09:00 chosen because owner specified date only",
+  "state": "approved-awaiting-scheduled-release-preparation",
+  "author_approved_on": "2026-10-19",
+  "approval_instruction": "publish this on 23 october",
+  "approved_content_sha256": "7a036b7674b48d73d8dedf46cc9a4690253c2e5afb129a6d4e62a393fedc4f52",
+  "target_branch": "staging",
+  "release_branch": "codex/schedule-ai-first-job-oct23",
+  "main_and_deployment": "owner-managed; no automated main modification or deployment",
+  "live_url": "https://meorajrul.com/posts/ai-beginner-work-malaysia/",
+  "automation_id": "ai-essay-release-check-23-october",
+  "automation_kind": "one-time thread heartbeat",
+  "automation_scope": "Prepare release PR and verify; owner performs main merge and deployment"
+}
