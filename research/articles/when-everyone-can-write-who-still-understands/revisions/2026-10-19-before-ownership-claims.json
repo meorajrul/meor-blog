@@ -1,0 +1,138 @@
+[
+  {
+    "id": "C2",
+    "text": "The authors report faster, better-rated writing in a bounded experiment.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E2"
+    ],
+    "locator": "Experimental design; Results; Conclusion",
+    "status": "qualified",
+    "confidence": "bounded to authors’ summary",
+    "limitations": "Full paper not appraised; no effect size or recipient-understanding outcome stated."
+  },
+  {
+    "id": "C3",
+    "text": "The guidance describes retrieval and compaction, including possible loss from excessive compression.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E3"
+    ],
+    "locator": "Context retrieval and agentic search; Compaction",
+    "status": "qualified",
+    "confidence": "high for described design",
+    "limitations": "Does not establish actual failure causes, universal model behavior or market prevalence."
+  },
+  {
+    "id": "C4",
+    "text": "Skills can package instructions, scripts and resources for loading as needed.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E4"
+    ],
+    "locator": "Anatomy; progressive disclosure and context example",
+    "status": "supported",
+    "confidence": "high for documented technique",
+    "limitations": "No assertion that a skill guarantees source use, correctness or improved product quality."
+  },
+  {
+    "id": "C5",
+    "text": "Quran 96:1 contains the call to read used as the owner’s reflective anchor.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E5"
+    ],
+    "locator": "96:1; translator attribution",
+    "status": "supported",
+    "confidence": "textual",
+    "limitations": "The application to workplace decisions is explicitly personal interpretation."
+  },
+  {
+    "id": "C6",
+    "text": "Hasrizal connects Iqra and AI with verification and accountability.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E6"
+    ],
+    "locator": "Echoes; Time-Tested Safeguards",
+    "status": "supported",
+    "confidence": "high for the author’s stated position",
+    "limitations": "Attribution, not independent validation of underlying historical claims."
+  },
+  {
+    "id": "C7",
+    "text": "A useful handoff should provide enough current context to explain and question the next action.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Proposed three-part handoff list and closing question",
+    "status": "qualified",
+    "confidence": "author proposal",
+    "limitations": "No intervention evaluation or productivity guarantee."
+  },
+  {
+    "id": "C9",
+    "text": "Navigation illustrates the distinction between following an answer and explaining the route.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Google Maps/Waze analogy; no author journey or brand-specific result asserted",
+    "status": "qualified",
+    "confidence": "analogy",
+    "limitations": "No author trip or causal GPS/AI memory claim."
+  },
+  {
+    "id": "C10",
+    "text": "Skipped checks and stale assumptions need investigation before attributing them to context size.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Paragraph beginning This is also why I would be careful",
+    "status": "qualified",
+    "confidence": "editorial interpretation",
+    "limitations": "Alternative causes are possibilities, not findings from an agent trace."
+  },
+  {
+    "id": "C11",
+    "text": "Iqra gives the owner a personal framing for careful engagement with knowledge before acting.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Final religious reflection",
+    "status": "qualified",
+    "confidence": "supplied viewpoint",
+    "limitations": "Contemporary reflection, not a ruling or invented religious biography."
+  },
+  {
+    "id": "C12",
+    "text": "Greater GPS use was associated with spatial-memory decline in 13 drivers retested roughly three years later.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E7"
+    ],
+    "locator": "Participants p. 2; follow-up pp. 10–11; caution p. 12",
+    "status": "qualified",
+    "confidence": "limited by small observational sample",
+    "limitations": "No broad reasoning decline or named-app causal claim. Follow-up was unplanned."
+  },
+  {
+    "id": "C13",
+    "text": "The 2024 review pooled 18 of 23 studies and reported small negative spatial-knowledge and self-rated direction relationships, with inconclusive wayfinding.",
+    "kind": "external-fact",
+    "source_ids": [
+      "E8"
+    ],
+    "locator": "Methods pp. 2–3; section 3.3 p. 8; quality assessment and limitations pp. 8, 10–11",
+    "status": "qualified",
+    "confidence": "bounded meta-analytic synthesis",
+    "limitations": "Mixed designs, substantial heterogeneity, most studies at moderate/high bias risk. Overlaps E7."
+  },
+  {
+    "id": "C14",
+    "text": "Published pooled r [95% CI]: environmental knowledge -0.18 [-0.28,-0.08]; sense of direction -0.25 [-0.39,-0.12]; wayfinding 0.07 [-0.28,0.41].",
+    "kind": "external-fact",
+    "source_ids": [
+      "E8"
+    ],
+    "locator": "Section 3.3 p. 8; figures/gps-navigation-effects.csv",
+    "status": "supported",
+    "confidence": "direct transcription of aggregate estimates",
+    "limitations": "Not percentage loss, not individual observations or a new meta-analysis, not a longitudinal reasoning measure."
+  }
+]

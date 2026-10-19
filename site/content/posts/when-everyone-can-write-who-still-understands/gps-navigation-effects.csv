@@ -1,0 +1,4 @@
+outcome,plain_language_label,pooled_r,ci95_lower,ci95_upper,source_id,source_locator
+Environmental knowledge,Remembering an area,-0.18,-0.28,-0.08,E8,"Miola et al. 2024, section 3.3, p. 8; abstract p. 1"
+Sense of direction,Self-reported,-0.25,-0.39,-0.12,E8,"Miola et al. 2024, section 3.3, p. 8; abstract p. 1"
+Wayfinding performance,Finding a route,0.07,-0.28,0.41,E8,"Miola et al. 2024, section 3.3, p. 8; abstract p. 1"
