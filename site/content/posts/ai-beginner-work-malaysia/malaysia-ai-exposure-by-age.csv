@@ -1,0 +1,6 @@
+age_group,highest_quartile_pct,lowest_quartile_pct,denominator,employment_year,source_id,locator
+15-24,26,44,workers within age group,2021,S3,Figures 6-7
+25-34,32,37,workers within age group,2021,S3,Figures 6-7
+35-44,29,31,workers within age group,2021,S3,Figures 6-7
+45-54,24,33,workers within age group,2021,S3,Figures 6-7
+55-64,17,36,workers within age group,2021,S3,Figures 6-7
