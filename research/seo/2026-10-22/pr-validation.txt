@@ -9,3 +9,5 @@ Existing test suite: PASS, 23 tests.
 Focused generated HTML check: PASS, 5 correctly encoded canonical share URLs per public post (3 posts), noopener/noreferrer and new-window attributes; drafts absent and About has no share links.
 No screenshots or authenticated social composer checks performed. No indexing/ranking gain measured.
 Package rebuilt from staging-based source; prior validation.txt describes the original local checkout rather than this candidate.
+
+Sharing layout revision: production gate/build/output checks passed again. Focused HTML checks passed on all 3 public posts: exactly one sharing row inside the header after metadata, exact visible label Share this entry:, 6 SVG icons with accessible platform labels/tooltips, correctly decoded canonical URLs and Threads /intent/post endpoint. Draft and About exclusion passed. Inline layout uses flex with wrapping at narrow widths and 44px icon targets. No browser screenshot or authenticated composer check performed. Meta official web-intents documentation fetch failed; Threads composer behavior remains unverified.

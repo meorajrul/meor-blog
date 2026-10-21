@@ -4,13 +4,14 @@
 {{- with .Params.canonicalURL -}}{{- $url = trim . " " -}}{{- end -}}
 {{- $title := .Title | plainify -}}
 <nav class="journal-share" aria-label="Share this entry">
-  <p>Share this entry</p>
+  <span class="journal-share-label">Share this entry:</span>
   <ul>
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://api.whatsapp.com/send?%s" (querify "text" (printf "%s — %s" $title $url)) | safeURL }}">WhatsApp</a></li>
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://www.linkedin.com/sharing/share-offsite/?%s" (querify "url" $url) | safeURL }}">LinkedIn</a></li>
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://www.facebook.com/sharer/sharer.php?%s" (querify "u" $url) | safeURL }}">Facebook</a></li>
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://x.com/intent/tweet?%s" (querify "text" $title "url" $url) | safeURL }}">X</a></li>
-    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://t.me/share/url?%s" (querify "text" $title "url" $url) | safeURL }}">Telegram</a></li>
+    <li><a target="_blank" aria-label="Share on WhatsApp" title="Share on WhatsApp" rel="noopener noreferrer" href="{{ printf "https://api.whatsapp.com/send?%s" (querify "text" (printf "%s — %s" $title $url)) | safeURL }}"><span aria-hidden="true">{{ partial "svg.html" (dict "name" "whatsapp") }}</span></a></li>
+    <li><a target="_blank" aria-label="Share on LinkedIn" title="Share on LinkedIn" rel="noopener noreferrer" href="{{ printf "https://www.linkedin.com/sharing/share-offsite/?%s" (querify "url" $url) | safeURL }}"><span aria-hidden="true">{{ partial "svg.html" (dict "name" "linkedin") }}</span></a></li>
+    <li><a target="_blank" aria-label="Share on Facebook" title="Share on Facebook" rel="noopener noreferrer" href="{{ printf "https://www.facebook.com/sharer/sharer.php?%s" (querify "u" $url) | safeURL }}"><span aria-hidden="true">{{ partial "svg.html" (dict "name" "facebook") }}</span></a></li>
+    <li><a target="_blank" aria-label="Share on X" title="Share on X" rel="noopener noreferrer" href="{{ printf "https://x.com/intent/tweet?%s" (querify "text" $title "url" $url) | safeURL }}"><span aria-hidden="true">{{ partial "svg.html" (dict "name" "x") }}</span></a></li>
+    <li><a target="_blank" aria-label="Share on Telegram" title="Share on Telegram" rel="noopener noreferrer" href="{{ printf "https://t.me/share/url?%s" (querify "text" $title "url" $url) | safeURL }}"><span aria-hidden="true">{{ partial "svg.html" (dict "name" "telegram") }}</span></a></li>
+    <li><a target="_blank" aria-label="Share on Threads" title="Share on Threads" rel="noopener noreferrer" href="{{ printf "https://www.threads.com/intent/post?%s" (querify "text" $title "url" $url) | safeURL }}"><span aria-hidden="true">{{ partial "svg.html" (dict "name" "threads") }}</span></a></li>
   </ul>
 </nav>
 {{- end -}}
