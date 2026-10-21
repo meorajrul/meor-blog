@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "matplotlib": "3.11.2",
+  "method": "Published rounded percentages; no causal estimation or forecasting.",
+  "inputs": [
+    "malaysia-ai-exposure.csv",
+    "malaysia-income-shares.csv"
+  ],
+  "created_on": "2026-10-21"
+}

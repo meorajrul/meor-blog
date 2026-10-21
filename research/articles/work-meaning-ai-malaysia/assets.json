@@ -1,0 +1,30 @@
+[
+  {
+    "id": "malaysia-income-shares",
+    "path": "site/content/posts/work-meaning-ai-malaysia/malaysia-income-shares.png",
+    "kind": "data-chart",
+    "alt": "Malaysia nominal GDP income shares for 2024 and 2025.",
+    "rights": "Original plot of attributed numerical facts. No publisher artwork reproduced.",
+    "attribution": "DOSM GDP Income Approach 2025",
+    "source_url": "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-income-approach-2025",
+    "input_paths": [
+      "research/articles/work-meaning-ai-malaysia/figures/malaysia-income-shares.csv",
+      "research/articles/work-meaning-ai-malaysia/figures/gen_fig_malaysia.py"
+    ],
+    "sha256": "78262b808ad3a1d8b65511e052be2df826f199eb505bf08ade59994af191f700"
+  },
+  {
+    "id": "malaysia-ai-exposure",
+    "path": "site/content/posts/work-meaning-ai-malaysia/malaysia-ai-exposure.png",
+    "kind": "data-chart",
+    "alt": "Historical IMF occupational exposure estimates using employment extrapolated to 2018.",
+    "rights": "Original plot of attributed numerical facts. No publisher artwork reproduced.",
+    "attribution": "IMF Country Report 25/57 Annex IV paragraphs 7\u201310",
+    "source_url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1mysea2025001-print-pdf.pdf",
+    "input_paths": [
+      "research/articles/work-meaning-ai-malaysia/figures/malaysia-ai-exposure.csv",
+      "research/articles/work-meaning-ai-malaysia/figures/gen_fig_malaysia.py"
+    ],
+    "sha256": "f5c7f617db02ba4616623c72efba4d062af2691f9fe380dbc929fec045b0e440"
+  }
+]

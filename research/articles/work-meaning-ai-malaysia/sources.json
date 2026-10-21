@@ -1,0 +1,58 @@
+[
+  {
+    "id": "S11",
+    "title": "Malaysia: 2025 Article IV Consultation — Annex IV",
+    "publisher": "IMF",
+    "published": "2025-03",
+    "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1mysea2025001-print-pdf.pdf",
+    "locator": "Printed pp. 56–62; paragraphs 7–10 (PDF pp. 62–64)",
+    "appraisal": "Task-exposure model, not observed displacement; 2000 detailed job shares extrapolated to 2018. Rounded categories 27/20 are not normalized: paragraph 8 says about 48% exposed while paragraph 9 components sum to 47%; no total reconstructed.",
+    "accessed": "2026-10-21",
+    "inspection": "inspected",
+    "evidence_type": "relevant full-text sections",
+    "origin_group": "IMF-Malaysia-2025",
+    "rechecked_on": "2026-10-22"
+  },
+  {
+    "id": "S13",
+    "title": "GDP Income Approach 2025",
+    "publisher": "Department of Statistics Malaysia",
+    "published": "2026 release; reference year 2025",
+    "url": "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-income-approach-2025",
+    "locator": "Overview; 2024 comparative and 2025 income-component shares",
+    "appraisal": "Official nominal national accounts; no AI-adoption attribution. Employee compensation is not household disposable income or a complete labor-income share.",
+    "accessed": "2026-10-21",
+    "inspection": "inspected",
+    "evidence_type": "official release",
+    "origin_group": "DOSM-income-2025",
+    "rechecked_on": "2026-10-22"
+  },
+  {
+    "id": "S14",
+    "title": "Technical Notes — GDP Income Approach 2025",
+    "publisher": "Department of Statistics Malaysia",
+    "published": "2026 release",
+    "url": "https://www.dosm.gov.my/portal-main/release-document-log?release_document_id=20282",
+    "locator": "Section 3, PDF p. 2; statistical discrepancy discussion p. 3",
+    "appraisal": "GOS includes operating surplus, mixed income, depreciation and statistical discrepancy. It cannot be treated as corporate profit or all capital owners' disposable income.",
+    "accessed": "2026-10-21",
+    "inspection": "inspected",
+    "evidence_type": "relevant full-text sections",
+    "origin_group": "DOSM-income-2025",
+    "rechecked_on": "2026-10-22"
+  },
+  {
+    "id": "S15",
+    "title": "Why AI Is Not (Yet) Behind Malaysia’s Job Losses",
+    "publisher": "Mikhail Rosli / Khazanah Research Institute",
+    "published": "2026-09-28",
+    "url": "https://www.krinstitute.org/publications/why-ai-is-not-yet-behind-malaysias-job-losses",
+    "locator": "Key Takeaways, methodological attribution argument",
+    "appraisal": "Commentary inspected directly; not an independent causal study or validation of the IMF model.",
+    "accessed": "2026-10-21",
+    "inspection": "inspected",
+    "evidence_type": "research commentary",
+    "origin_group": "KRI-attribution",
+    "rechecked_on": "2026-10-22"
+  }
+]
