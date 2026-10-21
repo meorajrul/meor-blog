@@ -17,3 +17,5 @@ Write concrete findings in review.md: issue, implication, required change and ac
 After final wording and evidence are stable, print the digest with `python scripts/blog.py hash <slug>`. Record it only with the actual review. Use current official sources and a review_by date for time-sensitive entries. Run the structural gate and report its results separately from editorial judgment. If content or evidence changes, re-review the affected material and update the digest.
 
 Return publish-ready, revise or hold with reasons. This assesses readiness, not truth certification or formal peer review.
+
+For requested SEO, AI search or ranking reviews, read [the SEO workflow](../../references/seo-workflow.md). Separate crawl eligibility, documented platform practices and observed performance; leave unsupported ranking effects open.

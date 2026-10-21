@@ -1,0 +1,11 @@
+Staging-based PR validation — 22 October 2026
+Base: origin/staging b555f8a. Earlier journal-seo-workflow changes excluded.
+Plugin packaging: PASS, 7 skills, 25 source files, version 1.1.1; archive integrity and all relative Markdown references validated.
+Skill-creator quick_validate: unavailable in default Python (missing PyYAML). Package validation passed; no dependency installation performed.
+Article gate: PASS, 3 public and 2 drafts.
+Pinned Hugo 0.167.0 production build: PASS, 31 pages. Existing theme LanguageDirection/LanguageCode deprecation warnings remain.
+Output gate: PASS, 26 HTML pages; internal links, source boundaries and draft exclusion. Staging does not include the earlier expanded metadata validator.
+Existing test suite: PASS, 23 tests.
+Focused generated HTML check: PASS, 5 correctly encoded canonical share URLs per public post (3 posts), noopener/noreferrer and new-window attributes; drafts absent and About has no share links.
+No screenshots or authenticated social composer checks performed. No indexing/ranking gain measured.
+Package rebuilt from staging-based source; prior validation.txt describes the original local checkout rather than this candidate.

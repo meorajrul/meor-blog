@@ -22,6 +22,7 @@ timeZone = "Asia/Kuala_Lumpur"
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+  ShowShareButtons = true
   ShowCodeCopyButtons = true
   ShowToc = true
   disableSpecial1stPost = true

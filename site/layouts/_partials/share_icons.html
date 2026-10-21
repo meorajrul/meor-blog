@@ -1,0 +1,16 @@
+{{- /* Share public journal entries only; previews of unfinished drafts must not invite sharing. */ -}}
+{{- if and (eq .Section "posts") (not .Draft) -}}
+{{- $url := .Permalink -}}
+{{- with .Params.canonicalURL -}}{{- $url = trim . " " -}}{{- end -}}
+{{- $title := .Title | plainify -}}
+<nav class="journal-share" aria-label="Share this entry">
+  <p>Share this entry</p>
+  <ul>
+    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://api.whatsapp.com/send?%s" (querify "text" (printf "%s — %s" $title $url)) | safeURL }}">WhatsApp</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://www.linkedin.com/sharing/share-offsite/?%s" (querify "url" $url) | safeURL }}">LinkedIn</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://www.facebook.com/sharer/sharer.php?%s" (querify "u" $url) | safeURL }}">Facebook</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://x.com/intent/tweet?%s" (querify "text" $title "url" $url) | safeURL }}">X</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="{{ printf "https://t.me/share/url?%s" (querify "text" $title "url" $url) | safeURL }}">Telegram</a></li>
+  </ul>
+</nav>
+{{- end -}}
