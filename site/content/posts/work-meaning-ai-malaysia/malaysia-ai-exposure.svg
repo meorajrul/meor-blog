@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="648pt" viewBox="0 0 864 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T23:55:38.698995</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648
+L 864 648
+L 864 0
+L 0 0
+z
+" style="fill: #fbf9f4"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 345.6 330.48
+L 794.88 330.48
+L 794.88 181.44
+L 345.6 181.44
+z
+" style="fill: #fbf9f4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 345.6 330.48
+L 345.6 181.44
+" clip-path="url(#p1c7fae4c03)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m3784cb5b85" d="M 0 0
+L 0 3.5
+" style="stroke: #526055; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3784cb5b85" x="345.6" y="330.48" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="345.6" y="346.597188" transform="rotate(-0 345.6 346.597188)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 435.456 330.48
+L 435.456 181.44
+" clip-path="url(#p1c7fae4c03)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="435.456" y="330.48" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="435.456" y="346.597188" transform="rotate(-0 435.456 346.597188)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 525.312 330.48
+L 525.312 181.44
+" clip-path="url(#p1c7fae4c03)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="525.312" y="330.48" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="525.312" y="346.597188" transform="rotate(-0 525.312 346.597188)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 615.168 330.48
+L 615.168 181.44
+" clip-path="url(#p1c7fae4c03)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="615.168" y="330.48" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="615.168" y="346.597188" transform="rotate(-0 615.168 346.597188)">30%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 705.024 330.48
+L 705.024 181.44
+" clip-path="url(#p1c7fae4c03)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="705.024" y="330.48" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="705.024" y="346.597188" transform="rotate(-0 705.024 346.597188)">40%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 794.88 330.48
+L 794.88 181.44
+" clip-path="url(#p1c7fae4c03)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="794.88" y="330.48" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="794.88" y="346.597188" transform="rotate(-0 794.88 346.597188)">50%</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #26352e" x="570.24" y="361.078438" transform="rotate(-0 570.24 361.078438)">Denominator: all employed people</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #26352e" transform="translate(247.703125 208.144052)">High exposure /</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #26352e" transform="translate(215.021875 222.547333)">low complementarity</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #26352e" transform="translate(247.703125 299.691964)">High exposure /</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #26352e" transform="translate(209.35 314.095245)">high complementarity</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 345.6 232.157543
+L 588.2112 232.157543
+L 588.2112 188.214545
+L 345.6 188.214545
+z
+" clip-path="url(#p1c7fae4c03)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 345.6 323.705455
+L 525.312 323.705455
+L 525.312 279.762457
+L 345.6 279.762457
+z
+" clip-path="url(#p1c7fae4c03)" style="fill: #0072b2"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="594.50112" y="213.303232" transform="rotate(-0 594.50112 213.303232)">27%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="531.60192" y="304.851143" transform="rotate(-0 531.60192 304.851143)">20%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="345.6" y="163.44" transform="rotate(-0 345.6 163.44)">Share of all employed people</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 345.6 544.32
+L 794.88 544.32
+L 794.88 395.28
+L 345.6 395.28
+z
+" style="fill: #fbf9f4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_15">
+      <path d="M 345.6 544.32
+L 345.6 395.28
+" clip-path="url(#p2a28630bc9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="345.6" y="544.32" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="345.6" y="560.437187" transform="rotate(-0 345.6 560.437187)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_17">
+      <path d="M 435.456 544.32
+L 435.456 395.28
+" clip-path="url(#p2a28630bc9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="435.456" y="544.32" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="435.456" y="560.437187" transform="rotate(-0 435.456 560.437187)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_19">
+      <path d="M 525.312 544.32
+L 525.312 395.28
+" clip-path="url(#p2a28630bc9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="525.312" y="544.32" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="525.312" y="560.437187" transform="rotate(-0 525.312 560.437187)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_21">
+      <path d="M 615.168 544.32
+L 615.168 395.28
+" clip-path="url(#p2a28630bc9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="615.168" y="544.32" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="615.168" y="560.437187" transform="rotate(-0 615.168 560.437187)">30%</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_23">
+      <path d="M 705.024 544.32
+L 705.024 395.28
+" clip-path="url(#p2a28630bc9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="705.024" y="544.32" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="705.024" y="560.437187" transform="rotate(-0 705.024 560.437187)">40%</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_25">
+      <path d="M 794.88 544.32
+L 794.88 395.28
+" clip-path="url(#p2a28630bc9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m3784cb5b85" x="794.88" y="544.32" style="fill: #526055; stroke: #526055; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="794.88" y="560.437187" transform="rotate(-0 794.88 560.437187)">50%</text>
+     </g>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #26352e" x="570.24" y="574.918437" transform="rotate(-0 570.24 574.918437)">Denominator: employed people within each sex</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_27"/>
+     <g id="text_20">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26352e" x="342.1" y="428.584638" transform="rotate(-0 342.1 428.584638)">Women</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_28"/>
+     <g id="text_21">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26352e" x="342.1" y="520.13255" transform="rotate(-0 342.1 520.13255)">Men</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 345.6 445.997543
+L 705.024 445.997543
+L 705.024 402.054545
+L 345.6 402.054545
+z
+" clip-path="url(#p2a28630bc9)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 345.6 537.545455
+L 525.312 537.545455
+L 525.312 493.602457
+L 345.6 493.602457
+z
+" clip-path="url(#p2a28630bc9)" style="fill: #0072b2"/>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="711.31392" y="427.143232" transform="rotate(-0 711.31392 427.143232)">40%</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="531.60192" y="518.691143" transform="rotate(-0 531.60192 518.691143)">20%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="345.6" y="377.28" transform="rotate(-0 345.6 377.28)">High exposure + low complementarity, by sex</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526055" x="56.16" y="35.64" transform="rotate(-0 56.16 35.64)">MALAYSIA  /  IMF EXPOSURE ESTIMATES</text>
+  </g>
+  <g id="text_26">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="56.16" y="74.52" transform="rotate(-0 56.16 74.52)">AI could help some roles and disrupt others</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526055" x="56.16" y="106.92" transform="rotate(-0 56.16 106.92)">Modelled task exposure using employment data extrapolated to 2018; published in 2025.</text>
+  </g>
+  <g id="text_28">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26352e" x="56.16" y="612.36" transform="rotate(-0 56.16 612.36)">Exposure is not adoption, retrenchment, or a probability of job loss.</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526055" x="56.16" y="633.096" transform="rotate(-0 56.16 633.096)">Source: IMF Country Report 25/57, Annex IV, paragraphs 7–10. Published rounded values; no re-estimation.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1c7fae4c03">
+   <rect x="345.6" y="181.44" width="449.28" height="149.04"/>
+  </clipPath>
+  <clipPath id="p2a28630bc9">
+   <rect x="345.6" y="395.28" width="449.28" height="149.04"/>
+  </clipPath>
+ </defs>
+</svg>

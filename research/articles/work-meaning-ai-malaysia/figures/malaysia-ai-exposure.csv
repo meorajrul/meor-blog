@@ -1,0 +1,5 @@
+panel,category,percent,denominator,reference_period,source,locator
+all_employed,High exposure / low complementarity,27,All employed people,2018 extrapolated,IMF Country Report 25/57,Annex IV paragraph 9
+all_employed,High exposure / high complementarity,20,All employed people,2018 extrapolated,IMF Country Report 25/57,Annex IV paragraph 9
+gender_low_complementarity,Women,40,Employed women,2018 extrapolated,IMF Country Report 25/57,Annex IV paragraph 10
+gender_low_complementarity,Men,20,Employed men,2018 extrapolated,IMF Country Report 25/57,Annex IV paragraph 10
