@@ -1,0 +1,11 @@
+Validation — 22 October 2026
+python scripts/blog.py check: PASS (3 public, 4 draft).
+Hugo 0.167.0 production build --minify --cleanDestinationDir: PASS (31 pages).
+Existing vendor deprecation warnings: LanguageDirection and LanguageCode. Vendor files unchanged.
+python scripts/blog.py check-output --directory site/public: PASS (26 HTML pages, 14 sitemap URLs; links, boundaries, drafts, SEO metadata, sitemap consistency, article discovery).
+Focused HTML inspection: PASS. Each of 3 public posts has 5 share links, decoded query parameters contain its canonical URL, and links have noopener noreferrer and target=_blank. About has no share links. Draft output is absent.
+Initial share query check detected double escaping; fixed by formatting the complete encoded URL before HTML attribute rendering, then repeated all checks above successfully.
+No screenshots/mobile browser review or authenticated social composer checks performed.
+No validator changes; rejection behavior tests not required.
+No rankings, traffic uplift, backlink data or live indexing verified. Live robots/sitemap web fetch failed with tool access errors; local production robots permits all crawlers.
+No commit, push, merge, deployment or article approval performed. Existing user changes preserved.

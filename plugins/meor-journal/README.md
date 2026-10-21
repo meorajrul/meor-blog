@@ -1,4 +1,4 @@
-# Meor Journal plugin — 1.0.1
+# Meor Journal plugin — 1.1.1
 
 The maintained source for a broad personal journal workflow. Skills: **blog-topics**, **blog-research**, **blog-think**, **blog-write**, **blog-review**, **blog-publish**, and the retained **evidence-backed-blog** advanced resource/visual workflow.
 
@@ -36,3 +36,5 @@ Run `python scripts/package-plugin.py` from the repository root. It validates th
 Use the actual workflow on several author-approved entries before claiming benefit. Track consequential corrections and time spent if useful; optional controlled benchmarking remains **not run**. No reader study or model-quality improvement is asserted. The inherited evaluation reference is available only for an explicit future evaluation request.
 
 Support details: [editorial contract](references/editorial-contract.md), [frameworks](references/frameworks.md), templates in `assets/`, implementation in `scripts/`, and source research in the repository's `research/` folder. This package provides source and local installation; it is not submitted to the universal plugin directory.
+
+For discovery, AI search and reader sharing reviews, see [the SEO workflow](references/seo-workflow.md). Version 1.1.1 includes this guidance and canonical share-link checks.
