@@ -1,0 +1,86 @@
+[
+  {
+    "id": "C1",
+    "text": "Employee compensation / GOS / net-tax shares in 2024 are 33.6 / 63.6 / 2.8 and in 2025 are 33.9 / 62.0 / 4.1 percent of nominal GDP.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S13"
+    ],
+    "locator": "Overview; 2024 comparative and 2025 income-component shares",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "National income shares, not household incomes or AI effects."
+  },
+  {
+    "id": "C2",
+    "text": "The employee-compensation share increased by 0.3 percentage point.",
+    "kind": "calculation",
+    "source_ids": [
+      "S13"
+    ],
+    "locator": "Overview; 2024 comparative and 2025 income-component shares",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "33.9 minus 33.6, using rounded published shares; not 0.3 percent growth."
+  },
+  {
+    "id": "C3",
+    "text": "Compensation includes pay, benefits in kind and employer contributions; GOS includes mixed income and depreciation.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S14"
+    ],
+    "locator": "Section 3, PDF p. 2; statistical discrepancy discussion p. 3",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "GOS is not simply corporate profit; mixed income contains owner/household labor."
+  },
+  {
+    "id": "C4",
+    "text": "The IMF reports 27% high-exposure low-complementarity and 20% high-exposure high-complementarity among all employed.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S11"
+    ],
+    "locator": "Printed pp. 56–62; paragraphs 7–10 (PDF pp. 62–64)",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Historical employment estimates extrapolated to 2018; not realized displacement or wage gains."
+  },
+  {
+    "id": "C5",
+    "text": "The IMF reports the high-exposure low-complementarity category for about 40% of employed women and 20% of employed men.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S11"
+    ],
+    "locator": "Printed pp. 56–62; paragraphs 7–10 (PDF pp. 62–64)",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Denominators are employed people within each sex; not individual job-loss probabilities."
+  },
+  {
+    "id": "C6",
+    "text": "The IMF extrapolates fixed detailed 2000 occupational shares to broad 2018 employment totals.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S11"
+    ],
+    "locator": "Printed pp. 56–62; paragraphs 7–10 (PDF pp. 62–64)",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Fixed within-category shares were not independently validated here; not 2026 workforce measurement."
+  },
+  {
+    "id": "C8",
+    "text": "Rosli argues that exposure cannot attribute job losses to AI without adoption-linked outcome data.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S15"
+    ],
+    "locator": "Key Takeaways, methodological attribution argument",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Attributed methodological commentary; not independent causal evidence and not proof of no harm."
+  }
+]

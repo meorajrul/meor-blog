@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "author_approved": true,
+  "reviewer": "Codex — AI-assisted draft review, not independent peer review",
+  "reviewed_on": "2026-10-22",
+  "review_by": "2026-11-22",
+  "content_sha256": "c7f11ac23e078080017ac58a8fac7035f16d61e8a688ecbe84dcb2f1cf596afb",
+  "unresolved_issues": [],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true,
+  "author_approval": {
+    "source": "Direct owner instruction in this conversation",
+    "instruction": "make the draft more personal and easier to read in simple English, keep the Malaysia charts and all factual claims backed by data then publish now",
+    "approved_on": "2026-10-22",
+    "scope": "Requested simple-English personal revision with existing Malaysia charts; release via codex/ branch and PR to staging. Main and live deployment remain owner-managed."
+  }
+}
