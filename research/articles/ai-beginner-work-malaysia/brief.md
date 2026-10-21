@@ -1,30 +1,24 @@
-# Illustrated essay draft brief
+# Revised essay brief — 22 October 2026
 
-Created 19 October 2026, following the owner's explicit request to draft the recommended topic with a hero image and necessary charts.
+Owner request: check the existing article against the new evidence rule; remove unsupported assumptions and hypothetical examples; investigate China's anticipatory education planning and the suggestion that AI could increase demand for TVET/physical work. Earlier requested publication date remains 23 October 2026, 09:00 MYT.
 
-Question: How might established experience give workers a head start with AI, and what could China's recruitment changes mean for young Malaysians?
+Question: What do inspected recruitment research, Chinese education decisions and Malaysian labour data establish about first jobs and vocational training?
 
-Intended reader: Malaysians entering skilled careers and people responsible for hiring and developing them.
+Reader: young Malaysians considering work/training and readers assessing education policy. Broad personal journal, clear and curious, with no corporate positioning.
 
-Author-supplied material: the concern about seniors' existing experience and younger entrants' barriers. No firsthand career event, feeling or hiring incident supplied. The opening and analyst example are explicitly hypothetical.
+Author-supplied views: concern about experienced workers' head start; interest in Chinese advance planning and TVET. These are research questions, not findings to presume. No firsthand event, feeling or hiring incident was supplied or invented.
 
-Scope: mainland Chinese AI recruitment; Malaysian task exposure and separations; labelled South Korean interviews and US graduate evidence; Philippines-based workplace counterevidence. Underlying years differ and are stated.
+Evidence boundaries: a Chinese AI-advertising abstract; exploratory Korean interviews; Philippines-based workplace counterevidence; official Chinese administrative actions/process reports; Malaysian Q2 2026 private-sector vacancy estimates; ILO's published 2025 data-based exposure assessment. Keep their outcomes/populations separate. No general senior-advantage mechanism or China-to-Malaysia forecast is adopted.
 
-Structure: question-led researched essay → conditional mechanism → Chinese recruitment and access limits → Malaysian evidence → strongest novice-benefit counterevidence → bounded implications.
+Original contribution: compare documented education adjustment with the outcome evidence required to establish successful demand matching; distinguish existing vacancies, TVET qualification requirements and technological exposure.
 
-Provisional view: incumbents may benefit from accumulated context/judgment when beginner tasks move to AI. Strongest alternative: AI can transfer expertise to novices and accelerate their learning. Hiring choices and training design determine whether that translates into accessible entry opportunities.
+Visuals: administrative-count cover (China 2024 round, announced April 2025), Malaysia Q2 2026 vacancy chart, retained approximate learning-curve summary. All have CSV data, source scope, alternative text and explicit limitations. Remove the generated staircase cover because it communicates an unverified senior-advantage pathway. Remove the age-exposure chart from the page because it no longer answers the revised question; its original factual data remain in the research history.
 
-What would change the view: linked adoption/junior-hiring and career-transition data; full-method appraisal of the Chinese study. No deterministic China-to-Malaysia forecast or population-wide causal youth-unemployment claim.
+Discovery question: What can Malaysia learn from China's education planning about AI, first jobs and TVET?
+Title: AI, First Jobs and TVET: What Malaysia Can Learn from China
+Description: China is adjusting education to anticipated industry needs. What do recruitment studies, Malaysian vacancies and AI research actually establish for young workers and TVET?
+Slug retained: ai-beginner-work-malaysia. No search-volume or ranking claim.
 
-Visuals: generated conceptual hero; original chart of published Malaysian age shares; original approximate learning-curve summary. Preserve CSVs, figure code, vector PDFs, source locators and rights notes. Labels separate exposure from losses, ranges from confidence intervals, and productivity from hiring.
+Conclusion permitted: China reports planning arrangements and actual changes to education provision; Malaysian vacancies are a starting point for examining training. Forecast accuracy, reduced labour gaps, universal senior AI advantage, and AI-caused future growth of TVET jobs are unverified in this packet and remain open.
 
-Discovery question: Will AI make it harder for young Malaysians to enter skilled jobs?
-Intent: understand the experience paradox and its implications.
-Title: If AI Does the Beginner Work, Where Do Young Malaysians Start?
-Description: Experience may give established workers a head start with AI. What can China's changing recruitment tell Malaysia about young people's first chance at skilled work?
-Slug: ai-beginner-work-malaysia.
-Demand/analytics: unmeasured.
-Related entries: earlier journal entry on AI, reading and responsibility exists locally, but live publication was not verified for this task; no internal link invented.
-Close precedents: S8 already studies the senior-development pathway; S4 discusses the Malaysian experience pipeline. Explicit attribution used; no novelty claim.
-
-Research decision: enough for a conditional draft. S1 full-text appraisal and author final review remain open. No original job-ad audit or experiment has been performed.
+Review status: substantive revision complete for author review, draft=true. Earlier approval of the superseded version is preserved in review.json. No author approval of the final revised wording has been invented. The one-time release check is guarded accordingly.

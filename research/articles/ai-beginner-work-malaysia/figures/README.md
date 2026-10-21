@@ -1,8 +1,8 @@
 # Figure provenance and reuse
 
-Both charts are original visualizations of published numerical summaries. No publisher figure artwork is reproduced, no microdata were used, and no new statistical effect was estimated.
+The original charts are visualizations of published numerical summaries. No publisher figure artwork is reproduced, no microdata were used, and no new statistical effect was estimated.
 
-## Malaysian age exposure
+## Superseded Malaysian age-exposure chart (removed from current page)
 Input: malaysia-ai-exposure-by-age.csv.
 Source: Cheng, Calvin, Hanson Chong, Matthew Dornan and Alyssa Farha Jasmin (2025), Novel AI Technologies and the Future of Work in Malaysia, World Bank / ISIS Malaysia.
 URL: https://documents1.worldbank.org/curated/en/099092325013010451/pdf/P181093-2e5b89c5-f3be-43b3-868c-8890b74bef21.pdf
@@ -24,3 +24,16 @@ Reuse statement: article footer specifies CC BY-NC4.0. Original numerical summar
 Run gen_fig_experience.py using Python3.12 and matplotlib3.11.2, or a compatible local environment. The script can use the project's ignored .tools/research-figure/python-packages.
 Outputs: web PNGs in the Hugo page bundle, vector PDFs here; CSVs also copied into the bundle for accessible download.
 Palette: Okabe–Ito blue/orange, pattern distinction and direct value labels. Data ranges start at zero; no invented uncertainty. Captions and alt text identify geography, period and measurement limits.
+
+
+## China programme decisions — added 22 October 2026
+Input: china-programme-changes.csv. Source: China Ministry of Education, 22 April 2025, 2024 undergraduate filing/approval round. Official inspected mirror: https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202504/t20250422_1188245.html .
+Values: 1839 added, 2220 stopped admissions, 1428 withdrawn, 157 degree-category/duration changes. Unit is an institution-level undergraduate programme offering. No net-change calculation, student count, labour-gap effect or forecast. Original plot of factual counts; no official artwork, logos or prose copied. Attribution is on the chart and in article text.
+
+## Malaysia vacancies — added 22 October 2026
+Input: malaysia-vacancies-q2-2026.csv. Source: DOSM, Employment Statistics Q2 2026, released 13 August 2026. Official full overview: https://www.dosm.gov.my/portal-main/release-content/employment-statistics-Q22026 .
+Values in thousands: semi-skilled107.3, skilled50.2, low-skilled38.2; published rounded total195.7. Quarterly Employment Survey of covered registered private-sector businesses. No forecast, no inferred TVET/first-job count, and no invented sampling-error interval. Original visualization of factual estimates, not DOSM chart artwork; source attribution included. Manufacturing114.0k is a sector cut of the same total and is not added to the chart.
+
+Reproduce new plots with gen_fig_planning.py using Python3.12 and matplotlib3.11.2; planning-plot-environment.json records the actual runtime. Web PNGs and CSVs are in the bundle; vector PDFs remain here. Both quantitative axes start at zero. New cover is the China data chart; the conceptual staircase hero and prompt were removed from the current version. The age-exposure data/PDF remain only as superseded provenance.
+
+Reference-period recheck22October2026: QJE IV.A says rollout mainly autumn2020 and winter2021. Chart and downloadable inputs now identify this; 2025 is the publication year, not the deployment period. ILO initial scoring uses models available at end2024; May2025 is its publication date, not October2026 capability testing.

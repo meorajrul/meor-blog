@@ -12,7 +12,7 @@
     "summary": "Authors report more selective AI recruitment and increased education and experience requirements in Chinese postings from 2018–2025.",
     "appraisal": "The public abstract and preview were inspected directly on ScienceDirect. The article attributes only what that abstract reports; it does not validate methods or infer causation. Full paper remains access-restricted. Ads are not hires or all graduate employment.",
     "accessed": "2026-10-19",
-    "usage_status": "cited-as-abstract-only",
+    "usage_status": "cited-in-revision",
     "inspection_scope": "Public abstract and publisher preview only. Full text and complete methods NOT inspected.",
     "full_text_inspected": false
   },
@@ -29,7 +29,7 @@
     "summary": "Models Malaysian occupational exposure and raises a risk to progression into skilled work. Highest-exposure shares peak at ages 25–34; ages 15–24 are most represented in the lowest-exposure quartile.",
     "appraisal": "MASCO tasks scored with GPT-4o, linked to LFS. Static task feasibility, not observed adoption, displacement or hiring. Explicitly agnostic about replacement versus complementarity; cannot directly capture new job creation. Age bands are not Gen Z or experience measures. Chart percentages visually checked against original PDF. Employment composition is from 2021.",
     "accessed": "2026-10-19",
-    "usage_status": "cited-in-draft"
+    "usage_status": "superseded-not-cited-in-2026-10-22-revision"
   },
   {
     "id": "S4",
@@ -44,7 +44,7 @@
     "summary": "Reports higher employment-loss measures in more AI-exposed Malaysian occupations, including a positive association for ages 25–34.",
     "appraisal": "PERKESO/EIS formal private-sector separations, not first-job hiring. Main occupation-month analysis 2023–2025 with fixed 2021 LFS denominators. No firm-level adoption; cross-sectional conditional exposure gradient, expressly non-causal. Subgroup denominators are not stratum-specific. Ages 15–24 do not show a significant positive association. Shares index derives from S3: related, not independent exposure validation. Avoid headline risk percentages.",
     "accessed": "2026-10-19",
-    "usage_status": "cited-in-draft"
+    "usage_status": "superseded-not-cited-in-2026-10-22-revision"
   },
   {
     "id": "S5",
@@ -59,7 +59,7 @@
     "summary": "Argues that exposure-based associations cannot attribute Malaysian retrenchments to AI without adoption and linked worker-outcome data.",
     "appraisal": "Primary source for Rosli’s methodological argument; commentary, not a new causal employment study. Discusses S3/S4 and other studies, so repeated evidence is not independent replication. Do not adopt its reported retrenchment totals without inspecting underlying records.",
     "accessed": "2026-10-19",
-    "usage_status": "cited-in-draft"
+    "usage_status": "superseded-not-cited-in-2026-10-22-revision"
   },
   {
     "id": "S7",
@@ -69,12 +69,13 @@
     "authors": "Erik Brynjolfsson; Danielle Li; Lindsey Raymond",
     "published": "2025-02-04",
     "inspection": "inspected",
-    "locator": "Abstract; III.B; IV.B; V.B.3 and FigureV narrative; final licensing paragraph",
+    "locator": "Abstract; III.B; IV.B; V.B.3 and FigureV narrative; final licensing paragraph; IV.A rollout timing rechecked22October2026",
     "origin_group": "brynjolfsson-li-raymond-customer-support",
     "summary": "A staggered workplace rollout across 5,172 customer-support agents found larger gains for less-experienced and lower-skilled workers.",
     "appraisal": "Peer-reviewed field study; primarily Philippines-based support for a US software firm. Non-random rollout with identification checks, not a randomized graduate-hiring experiment. Productivity and learning of employed agents do not establish increased entry hiring or universal benefits. Learning-time chart preserves authors approximate narrative:2 versus8–10 months, not an exact estimated target time.",
-    "accessed": "2026-10-19",
-    "usage_status": "cited-in-draft"
+    "accessed": "2026-10-22",
+    "usage_status": "cited-in-revision",
+    "reference_period": "Rollout mainly autumn2020 and winter2021; paper published February2025. These dates are rollout timing, not a claimed full sample window."
   },
   {
     "id": "S8",
@@ -87,9 +88,9 @@
     "locator": "Method: Study Design and Participants; Findings: Absorption; Limitations",
     "origin_group": "yu-moon-korea-interviews",
     "summary": "Fourteen South Korean interviews describe beginner tasks moving into senior-plus-AI workflows and concerns over lost learning opportunities.",
-    "appraisal": "Eight junior and six senior participants recruited through personal/professional networks. Qualitative, cross-sectional, exploratory and not representative. Supports a possible mechanism, not prevalence or a China/Malaysia causal finding. Credit this close conceptual precedent.",
+    "appraisal": "Eight junior and six senior participants recruited through networks. Exploratory qualitative accounts, not representative prevalence or causal identification. The revision reports only the participants' described task reassignment; no extrapolated senior-advantage model is adopted.",
     "accessed": "2026-10-19",
-    "usage_status": "cited-in-draft"
+    "usage_status": "cited-in-revision"
   },
   {
     "id": "S10",
@@ -104,6 +105,88 @@
     "summary": "Finds no significant broad relative increase in unemployment for recent US graduates in summer 2026.",
     "appraisal": "CPS-based observational working paper; bachelor’s holders aged 22–25 not enrolled. Seasonal comparisons and older-graduate/young-nongraduate groups. Different population and outcome from S6; a null broad effect does not rule out occupation-specific harm or future effects. Not Malaysian or Chinese data.",
     "accessed": "2026-10-19",
-    "usage_status": "cited-in-draft"
+    "usage_status": "superseded-not-cited-in-2026-10-22-revision"
+  },
+  {
+    "id": "S11",
+    "title": "Expanding jobs and improving services: education departments support graduate employment",
+    "url": "https://hudong.moe.gov.cn/jyb_xwfb/s5147/202606/t20260615_1440719.html",
+    "publisher": "Xinhua, reproduced by China Ministry of Education",
+    "authors": "Wang Peng",
+    "published": "2026-06-11",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "inspection_scope": "Relevant passages and measurement limits listed in locator; no unreported forecast method or policy impact inferred.",
+    "locator": "Section on supply-demand matching, paragraph beginning 注重技术赋能 (web lines 39–44)",
+    "origin_group": "china-graduate-employment-planning-2026",
+    "summary": "Reports operation of a national talent supply-demand data platform and forecasting to support programme adjustments.",
+    "appraisal": "Official news account of process, not the underlying forecasting model or an evaluation. It gives no forecast-error series, graduate cohort matching outcomes or identified reduction in shortages. No numerical demand forecast is used.",
+    "usage_status": "cited-in-revision"
+  },
+  {
+    "id": "S12",
+    "title": "2024 undergraduate programme filing and approval results and 2025 catalogue",
+    "url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202504/t20250422_1188245.html",
+    "publisher": "China Ministry of Education",
+    "authors": "Ministry of Education",
+    "published": "2025-04-22",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "inspection_scope": "Relevant passages and measurement limits listed in locator; no unreported forecast method or policy impact inferred.",
+    "locator": "Opening paragraph; catalogue additions and green-channel mechanism; official hudong mirror inspected (web lines 7–14)",
+    "origin_group": "china-moe-undergraduate-2024-round",
+    "summary": "2024 round: 1839 added offerings; 2220 admissions stopped; 1428 withdrawn; 157 degree-category/duration changes. Catalogue adds 29 subjects.",
+    "appraisal": "Administrative counts, not student places or employment outcomes. 专业点 is an institution-level offering; 专业 is a catalogue subject. No net-change calculation, causal attribution or policy-impact claim. No underlying forecast method or matched graduate outcomes reported.",
+    "usage_status": "cited-in-revision"
+  },
+  {
+    "id": "S13",
+    "title": "MOE Q&A on new and revised vocational education teaching standards",
+    "url": "https://hudong.moe.gov.cn/jyb_xwfb/s271/202502/t20250211_1178747.html",
+    "publisher": "China Ministry of Education",
+    "authors": "Department of Vocational and Adult Education",
+    "published": "2025-02-11",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "inspection_scope": "Relevant passages and measurement limits listed in locator; no unreported forecast method or policy impact inferred.",
+    "locator": "Scope Q&A: 758 standards, 2024 offerings coverage; characteristics 3–5: advanced manufacturing, practical teaching and digital/AI tools (web lines 18–29)",
+    "origin_group": "china-moe-vocational-standards-2025",
+    "summary": "758 new/revised standards cover 82.1% of 2024 vocational institution-level offerings; practical and digital/AI content.",
+    "appraisal": "Coverage refers to programme offerings, not students, employment or forecast accuracy. Standards publication does not show implementation quality or that shortages fell. Programme count and 82.1% denominator kept distinct.",
+    "usage_status": "cited-in-revision"
+  },
+  {
+    "id": "S14",
+    "title": "Employment Statistics, Second Quarter 2026",
+    "url": "https://www.dosm.gov.my/portal-main/release-content/employment-statistics-Q22026",
+    "publisher": "Department of Statistics Malaysia",
+    "authors": "DOSM",
+    "published": "2026-08-13",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "inspection_scope": "Relevant passages and measurement limits listed in locator; no unreported forecast method or policy impact inferred.",
+    "locator": "Introduction; Labour Demand by Skills Category; Labour Demand by Economic Activity. Full official HTML downloaded and inspected 22 October; corroborating DOSM two-page release file_20260813110950.pdf page 2.",
+    "origin_group": "dosm-quarterly-employment-survey-q22026",
+    "summary": "Q2 2026: 195.7k vacancies; semi-skilled107.3k, skilled50.2k, low-skilled38.2k. Manufacturing114.0k/58.3% of total.",
+    "appraisal": "Quarterly Employment Survey among covered registered private-sector businesses, not whole economy. Rounded survey estimates, no uncertainty interval reported in overview. Occupational skill groups do not identify educational qualifications, age, new entrants, pay, reasons for vacancies or AI use. Sector and skill counts are two classifications of the same vacancies, not additive.",
+    "usage_status": "cited-in-revision",
+    "corroborating_url": "https://www.dosm.gov.my/uploads/release-content/file_20260813110950.pdf"
+  },
+  {
+    "id": "S15",
+    "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+    "url": "https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf",
+    "publisher": "International Labour Organization, Working Paper 140",
+    "authors": "Paweł Gmyrek et al.",
+    "published": "2025-05-20",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "inspection_scope": "Relevant passages and measurement limits listed in locator; no unreported forecast method or policy impact inferred.",
+    "locator": "Introduction; sections 3.4,4–8; printed pp.29,38–39 (PDF pp.31,40–41); footnote18 equal task weights; section3.1 initial models available end2024",
+    "origin_group": "ilo-nask-genai-index-2025",
+    "summary": "Clerical occupations most exposed; manual-task exposure assessed lower. Worker ratings, expert review and AI predictions; equally weighted task scores.",
+    "appraisal": "Data-based assessment of technological exposure published in May2025, with initial AI scoring from models available at the end of2024, not realised adoption or job-demand outcomes. Survey of 1640 employed Polish respondents plus expert judgments and LLM predictions. Most rated tasks were not performed by the respondent. Equal task weights because frequency/importance unavailable. Assumptions and ratings not established as observed automation probabilities. Global classification lacks local Malaysian nuance; not an index of all robotics/automation. No new model created here.",
+    "usage_status": "cited-in-revision",
+    "reference_period": "Initial AI scoring: models available at end2024; classification validated1January2025. No precise survey fieldwork dates identified in inspected methods, so none invented."
   }
 ]

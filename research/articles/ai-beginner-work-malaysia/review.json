@@ -1,12 +1,14 @@
 {
   "schema_version": 1,
-  "status": "approved",
-  "author_approved": true,
-  "reviewer": "Codex - AI-assisted evidence and visual review; owner approved publication",
-  "reviewed_on": "2026-10-19",
-  "review_by": "2026-11-19",
-  "content_sha256": "7a036b7674b48d73d8dedf46cc9a4690253c2e5afb129a6d4e62a393fedc4f52",
-  "unresolved_issues": [],
+  "status": "pending",
+  "author_approved": false,
+  "reviewer": "Codex — evidence-rule revision; final author review pending",
+  "reviewed_on": "2026-10-22",
+  "review_by": "2026-11-22",
+  "content_sha256": "3a4e7c3b1277300feaa82838be2f3ecb19ecb54b79524f7b6ff55c15ff041690",
+  "unresolved_issues": [
+    "Author approval of the substantially revised China/education/TVET essay and new data cover. The 19 October approval remains recorded for the superseded version only."
+  ],
   "claims_complete": true,
   "citations_checked": true,
   "numbers_checked": true,
@@ -14,10 +16,16 @@
   "privacy_checked": true,
   "first_person_checked": true,
   "counterevidence_checked": true,
-  "author_approval": {
-    "source": "Direct owner instruction in this chat",
-    "instruction": "publish this on 23 october",
-    "approved_on": "2026-10-19",
-    "scope": "Illustrated essay with existing hero and two charts; planned publication 23 October 2026. Main and production deployment remain owner-managed."
+  "previous_version_approval": {
+    "status": "approved",
+    "author_approved": true,
+    "reviewed_on": "2026-10-19",
+    "content_sha256": "7a036b7674b48d73d8dedf46cc9a4690253c2e5afb129a6d4e62a393fedc4f52",
+    "author_approval": {
+      "source": "Direct owner instruction in this chat",
+      "instruction": "publish this on 23 october",
+      "approved_on": "2026-10-19",
+      "scope": "Illustrated essay with existing hero and two charts; planned publication 23 October 2026. Main and production deployment remain owner-managed."
+    }
   }
 }

@@ -1,6 +1,6 @@
 +++
-title = "If AI Does the Beginner Work, Where Do Young Malaysians Start?"
-description = "Experience may give established workers a head start with AI. What can China's changing recruitment tell Malaysia about young people's first chance at skilled work?"
+title = "AI, First Jobs and TVET: What Malaysia Can Learn from China"
+description = "China is adjusting education to anticipated industry needs. What do recruitment studies, Malaysian vacancies and AI research actually establish for young workers and TVET?"
 slug = "ai-beginner-work-malaysia"
 article_id = "ai-beginner-work-malaysia"
 genre = "essay"
@@ -8,94 +8,82 @@ date = 2026-10-23T09:00:00+08:00
 draft = true
 time_sensitive = true
 author = "Meor Ajrul"
-tags = ["AI", "work", "Malaysia", "China", "learning"]
+tags = ["AI", "work", "Malaysia", "China", "education", "TVET"]
 
 [cover]
-image = "hero.png"
-alt = "Two professionals use similar AI interfaces on different stairways toward a shared workplace; one stairway is built from accumulated project notebooks, while the other has an unfinished step."
-caption = "Conceptual illustration, generated with AI. The unequal steps represent a question about access to experience."
+image = "china-programme-changes.png"
+alt = "China's 2024 undergraduate programme decisions, reported in April 2025: 1,839 offerings added, 2,220 stopped admitting students, 1,428 withdrawn and 157 changed degree category or duration. Counts concern institution-level offerings, not graduates or jobs."
+caption = "China's reported education changes. Source: Ministry of Education, April 2025. These administrative counts do not measure whether labour shortages fell."
 relative = true
 hidden = false
 +++
 
-Imagine an experienced professional and a fresh graduate being given the same AI tool. They can both ask it to write, analyse and suggest a plan. Access to the tool looks equal.
+What should a young Malaysian train for as AI changes work? China offers evidence of an attempt to answer that question through education planning. It also offers recruitment evidence that deserves a careful reading.
 
-What they bring to it may be very different.
+China's records describe anticipating industry needs and changing what institutions teach. They do not establish whether the predictions proved accurate or graduates filled the expected gaps.
 
-The experienced person may recognise a bad assumption, remember why a previous project failed, or know which question a client has not yet asked. The graduate is still learning how to notice those things. A polished answer does not necessarily help either person decide whether it fits the situation.
+The same care applies to experience and technical and vocational education and training, or TVET. The research does not establish that seniors always benefit more from AI, or that physical work will inevitably become more plentiful. There is still useful evidence to examine.
 
-This is the concern worth examining as AI changes work: people who already had a chance to build experience may get a head start with the new tools. People arriving now could be expected to demonstrate that experience before anyone gives them a first job.
+## What the evidence says about experience
 
-China offers a useful comparison. For Malaysia, it raises a question about how young people will enter skilled careers, and who will help them learn once they arrive.
+[Research by Mingyou Liu and Yitao Wang](https://doi.org/10.1016/j.techsoc.2026.103487) examines more than a million Chinese AI-related job advertisements from 2018 to 2025. The abstract reports increasingly selective recruitment, including greater demand for postgraduate qualifications and candidates with one to five years of experience.
 
-## The head start comes from what experience contains
+That is evidence about advertised requirements in a particular labour market. It is relevant to newcomers who have not yet accumulated that experience. The evidence inspected here is limited to the abstract and public publisher preview; the full methods have not been appraised. Advertisements do not reveal completed hires or establish that AI caused China's wider youth employment difficulties.
 
-Experience is more than the number of years on a CV. For this argument, it means having dealt with consequences: a calculation that did not survive checking, an unhappy customer, an ambiguous brief, or a decision that looked sensible until it met reality.
+There are also accounts of experienced staff taking on work previously done by juniors. A [South Korean preprint by Sumin Yu and Taesup Moon](https://arxiv.org/html/2607.17067v1) reports this in interviews about software development with AI. Its 14 participants were recruited through personal and professional networks. These are reported experiences within a small sample, with no estimate of how widespread the pattern is in China or Malaysia.
 
-Consider a hypothetical analyst preparing a report. AI might produce a first draft quickly. Someone familiar with the business may know which figures need checking, which comparison would mislead, and which recommendation the organisation can actually carry out. A beginner might produce equally fluent prose while still needing help with those judgments.
+The strongest counterweight comes from [*Generative AI at Work*](https://doi.org/10.1093/qje/qjae044). In a study covering 5,172 customer-support agents, mostly based in the Philippines, less-experienced and lower-skilled workers gained more from AI assistance. The rollout mainly took place in autumn 2020 and winter 2021.
 
-If an employer values the remaining judgment and lets AI handle more preparation, that could favour someone already trusted with the work. It could also reduce the beginner assignments available for learning.
+![In one customer-support workplace, the authors describe agents with AI from joining reaching about 2.5 resolved issues per hour after two months; those without AI reached roughly that level after eight to ten months. These are approximate curve summaries, not hiring outcomes or confidence intervals.](ai-learning-curve.png)
 
-This is a possible mechanism, not a finding that every senior uses AI better. Age and expertise are different. A senior title cannot guarantee good judgment, and a young worker may have valuable experience.
+*Original visual summary of section V.B.3 and Figure V. The approximate 8–10-month range comes from the authors' narrative, rather than a new time-to-target calculation. The rollout was not random, and the findings concern employed agents at one firm and its contractors. [Chart data](ai-learning-curve.csv).*
 
-The mechanism has a close precedent in [Sumin Yu and Taesup Moon's South Korean interview study](https://arxiv.org/html/2607.17067v1). Their preprint describes beginner software tasks moving into workflows handled by seniors with AI. It draws on just 14 interviews, recruited through personal and professional networks. Those accounts help explain how a learning pathway could weaken; they cannot tell us how common this is in China or Malaysia.
+These results do not settle first-job access. They do rule out treating a general senior advantage as an established finding. China's advertised experience requirements and the customer-support study's novice productivity gains concern different outcomes.
 
-## What China's recruitment can tell us
+## China is changing education around anticipated demand
 
-[A study by Mingyou Liu and Yitao Wang](https://doi.org/10.1016/j.techsoc.2026.103487) examines more than a million Chinese AI-related job advertisements from 2018 to 2025. Its abstract reports more selective recruitment, including greater demand for postgraduate qualifications and candidates with one to five years of experience.
+China's [June 2026 account of graduate-employment measures](https://hudong.moe.gov.cn/jyb_xwfb/s5147/202606/t20260615_1440719.html) describes a national talent supply-and-demand data platform, forecasting for urgently needed fields, and data sharing to inform programme adjustments. This is an official account of the planning process. It does not publish a forecast-accuracy evaluation.
 
-That matters to the question here. Demand for AI talent can grow while the requirements for particular roles become harder for a new graduate to meet.
+There are concrete records of education changes. For the 2024 undergraduate programme approval and filing round, [the Ministry of Education reported](https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202504/t20250422_1188245.html) 1,839 programme offerings added, 2,220 stopping admissions, 1,428 withdrawn, and 157 changing their degree category or duration. The announcement was published on 22 April 2025. The chart at the top of this article shows those counts.
 
-The access limit matters too: the evidence used here is limited to the abstract and publisher preview. The full methods have not been appraised. These are advertisements for AI-related work, rather than a measure of all graduate opportunities or completed hires.
+Here, an offering means a programme at an institution. It is neither a student place nor a distinct subject nationwide. The figures are administrative changes, with no comparison showing what would have happened without the policy. [Chart data](china-programme-changes.csv).
 
-It would be too large a leap to say this proves AI caused China's wider youth employment difficulties. Separating technology from graduate supply, business demand and other changes requires more evidence.
+The ministry also added 29 subjects to its 2025 undergraduate catalogue, including AI education and low-altitude technology and engineering. That documents a response to stated strategic and industry priorities. It does not establish how many graduates will find relevant jobs.
 
-China's experience is useful as a question for Malaysia: when employers talk about needing AI talent, how much of that demand includes people they are willing to train?
+Vocational education is part of this effort. In February 2025, China [issued 758 new or revised vocational teaching standards](https://hudong.moe.gov.cn/jyb_xwfb/s271/202502/t20250211_1178747.html). The ministry says they covered 82.1% of institution-level vocational programme offerings recorded in 2024. The standards address advanced manufacturing and other fields, strengthen practical teaching, and incorporate digital and AI tools.
 
-## Malaysia needs to watch the route into skilled work
+This supports a precise conclusion: China has documented arrangements for anticipating skills needs and revising education provision. The records examined here do not establish that it always predicts demand correctly, or that these changes have minimised labour gaps by the time industries expand. That outcome remains unverified here.
 
-A [World Bank–ISIS Malaysia study](https://documents1.worldbank.org/curated/en/099092325013010451/pdf/P181093-2e5b89c5-f3be-43b3-868c-8890b74bef21.pdf) estimates how much job tasks overlap with generative AI capabilities, using Malaysia's occupational classifications and 2021 Labour Force Survey data.
+## TVET has a case grounded in demand already visible
 
-Its age pattern is more complicated than a claim that the youngest workers face the greatest exposure. Among workers aged 25–34, 32% are in the highest-exposure group. For ages 15–24, the figure is 26%; 44% of that youngest group are in the lowest-exposure group.
+For Malaysia, it is possible to start with vacancies rather than a prediction about AI.
 
-![Share of Malaysian workers in the highest and lowest AI-exposure quartiles, respectively: ages 15–24, 26% and 44%; 25–34, 32% and 37%; 35–44, 29% and 31%; 45–54, 24% and 33%; 55–64, 17% and 36%. These are modelled task-exposure categories using 2021 employment data, not job-loss rates.](malaysia-ai-exposure-by-age.png)
+[DOSM's Quarterly Employment Survey](https://www.dosm.gov.my/portal-main/release-content/employment-statistics-Q22026) estimated 195,700 vacancies in registered private-sector businesses in the second quarter of 2026. Of these, 107,300 were in the semi-skilled category, 50,200 in the skilled category, and 38,200 in the low-skilled category.
 
-*Original chart of the report's Figures 6–7. Percentages use workers within each age group as the denominator; the two middle exposure groups are omitted. Exposure describes task overlap with AI capabilities, not actual adoption or job losses. [Chart data](malaysia-ai-exposure-by-age.csv).*
+![Malaysia's estimated registered private-sector vacancies in Q2 2026: semi-skilled 107,300, skilled 50,200, low-skilled 38,200. Total 195,700. These are DOSM occupational skill groups, not counts of TVET jobs or vacancies reserved for beginners.](malaysia-vacancies-q2-2026.png)
 
-The authors flag a possible problem with progression: younger workers could remain in less-skilled jobs while routes into more specialised cognitive work become harder to enter. This is a risk inferred from the occupational pattern, not an observed account of today's graduates' careers.
+*Source: DOSM, Employment Statistics, Q2 2026, released 13 August 2026. Survey estimates of vacancies in covered registered private-sector businesses. Counts are rounded to the nearest hundred; the categories are not educational qualifications. [Chart data](malaysia-vacancies-q2-2026.csv).*
 
-A newer [ISIS Malaysia study by Calvin Cheng](https://www.cert.isis.org.my/publications/automation-anxiety/) examines employment-insurance records and finds associations between AI exposure and employment loss, including among workers aged 25–34. The paper explicitly treats its estimates as non-causal. It measures separations among existing formal private-sector workers, leaving first-job hiring unmeasured.
+Manufacturing accounted for 114,000 vacancies, or 58.3% of the same total. That is a sector breakdown of the vacancies already counted above; it must not be added to the skill-category figures.
 
-[Mikhail Rosli's methodological critique for Khazanah Research Institute](https://www.krinstitute.org/publications/why-ai-is-not-yet-behind-malaysias-job-losses) makes the attribution problem clear: exposure does not establish that a firm adopted AI or dismissed someone because of it. Malaysia needs evidence connecting actual use to worker outcomes, including hiring.
+These figures establish existing demand in the covered businesses. They do not identify which vacancies require a TVET qualification, accept fresh graduates, offer progression, or pay enough to attract suitable applicants. A vacancy is also not, by itself, proof of a skills shortage: this release does not establish why each position is unfilled.
 
-For a young Malaysian, the practical concern could therefore be quite specific: getting some work while struggling to obtain the kind of work through which a professional career develops.
+TVET deserves examination against these actual opportunities. The aggregate figures alone cannot establish which courses should expand or how many places they should add.
 
-## AI can also help a beginner catch up
+## Physical work and AI exposure are different questions
 
-The evidence does not support an automatic victory for experience.
+There is evidence behind part of the intuition about practical skills. The [ILO's 2025 occupational-exposure study](https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf) places clerical work at the highest exposure to generative AI and assesses manual tasks as less exposed. Its scores combine worker survey responses from Poland, expert judgments and AI predictions. Initial AI scoring used models available at the end of 2024. Tasks within each occupation receive equal weight because their relative frequency and importance are unavailable.
 
-In [*Generative AI at Work*](https://doi.org/10.1093/qje/qjae044), researchers studied an AI assistant introduced across 5,172 customer-support agents, mostly based in the Philippines. Less-experienced and lower-skilled workers benefited more. AI could pass useful practices from stronger performers to newer colleagues.
+Those scores estimate technical exposure; they are not observed automation rates or forecasts of Malaysian vacancies. Nor does this measure establish protection from robotics or other automation. It cannot show that demand for physical work will grow because AI performs more cognitive tasks.
 
-The authors describe workers with AI from the start reaching about 2.5 resolved issues per hour after two months. Workers without it reached that level after roughly eight to ten months of learning from their starting point.
+China's vocational standards also incorporate AI and digital teaching. They do not present vocational education as an escape from technology.
 
-![Authors' approximate learning-curve comparison in one customer-support workplace: AI from joining reached about 2.5 resolved issues per hour after two months; the group without AI reached roughly the same level after eight to ten months. The range is descriptive, not a confidence interval or a hiring outcome.](ai-learning-curve.png)
+For a Malaysian student, the unanswered question is specific: which training programmes lead to sustained employment, relevant work, acceptable wages and progression? The vacancy totals and exposure estimates in this article do not answer it. Course-level graduate outcomes and occupation-level hiring evidence are needed before claiming that a particular TVET route is the future winner.
 
-*Original visual summary of section V.B.3 and Figure V. Values are approximate descriptions from the authors' text, rather than a new analysis or exact time-to-target estimates. The 8–10-month range is not a confidence interval. [Chart data](ai-learning-curve.csv).*
+## What Malaysia can take from this
 
-This study concerns productivity among people who already had jobs. It cannot tell us whether employers will hire more beginners. Its result does show why the way AI is introduced matters.
+There is a useful practice to examine in China's approach: connecting education decisions to stated industry needs and updating provision. The education changes are documented. Their success in closing future gaps still needs to be demonstrated.
 
-A firm could use AI to help a newcomer learn under supervision. It could also use experienced staff and AI to do work for which it previously considered recruiting someone. Which response dominates is an empirical question.
+Malaysia's current vacancies give that discussion a factual starting point. The AI studies add a second reason for care: experience requirements can rise in a recruitment dataset while beginners gain more from an AI tool in a particular workplace. Neither finding settles the other.
 
-Even broader employment evidence remains mixed. A [US working paper using household survey data](https://docs.iza.org/dp18945.pdf) found no significant broad relative rise in recent graduates' unemployment in summer 2026. A finding about one occupation, workplace or measure should not become a claim about an entire generation.
-
-## A head start should leave room for someone else to begin
-
-For Malaysia, counting new AI roles will answer only part of the question. It would also help to know how many accept fresh graduates, what supervision they provide, and whether new hires gain responsibility over time.
-
-Employers could preserve supervised assignments that have learning value, even when AI can accelerate the output. Universities could assess how students check an answer, explain a tradeoff and respond when an assumption changes. These are proposals worth testing, not proven remedies.
-
-There is a responsibility for experienced people here too. Their judgment was developed somewhere. If organisations continue to need that judgment, they need a way for another generation to acquire it.
-
-The concern is that AI could help those already inside a profession while making its entrance more demanding. The hopeful possibility is that the same technology could make good guidance available earlier.
-
-What China can offer Malaysia is a reason to examine that choice now. The outcome will depend partly on whether a beginner is treated as a person worth developing, and given enough real work to become experienced.
+The evidence supports taking TVET and first-job access seriously. It leaves open how much demand AI will create, which qualifications will be needed, and whether young Malaysians will receive the opportunities those qualifications are supposed to prepare them for.
