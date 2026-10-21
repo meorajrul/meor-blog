@@ -26,5 +26,18 @@
       "research/articles/work-meaning-ai-malaysia/figures/gen_fig_malaysia.py"
     ],
     "sha256": "f5c7f617db02ba4616623c72efba4d062af2691f9fe380dbc929fec045b0e440"
+  },
+  {
+    "id": "hero",
+    "path": "site/content/posts/work-meaning-ai-malaysia/hero.png",
+    "alt": "A blank notebook and pencil beside a laptop on a sunlit wooden desk.",
+    "rights": "Generated with the built-in image_gen tool for this journal at the owner's request. No third-party source image supplied.",
+    "attribution": "AI-generated editorial illustration.",
+    "source_url": "",
+    "kind": "illustration",
+    "input_paths": [
+      "research/articles/work-meaning-ai-malaysia/figures/hero-generation.json"
+    ],
+    "sha256": "985339f63bcb0b9e8a863e48e5267299a1a462babe5cb8e253d0b1ea47050fcf"
   }
 ]

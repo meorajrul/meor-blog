@@ -17,3 +17,5 @@ What could change the answer: inspected empirical studies linking AI use to meas
 The owner instructed: “make the draft more personal and easier to read in simple English, keep the Malaysia charts and all factual claims backed by data then publish now”. This authorizes the requested language revision and publication preparation. The revised first-person questions stay within the supplied art/gig/personal-flavour/meaning concern; no lived scene, emotion or proven future outcome was introduced. The UK model paragraph was removed for focus; remaining facts use S11, S13, S14 and S15. Both charts are unchanged.
 
 Scope constraint: codex/ branch and PR to staging; main and production deployment remain owner-managed under project instructions. Approval is not authority to edit main or bypass that workflow.
+
+Hero update authorized 22 October 2026: decorative editorial artwork requested by owner. No conceptual model or new factual claim; article and data charts unchanged.

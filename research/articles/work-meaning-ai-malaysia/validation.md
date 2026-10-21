@@ -16,3 +16,9 @@
 - Reopened all four cited source URLs successfully near release. Existing inspected passages support the unchanged factual claims. This does not turn a structural check into truth verification.
 - Updated readable preview reflects revised article. Full browser visual QA not performed; chart visuals were inspected earlier and copies are unchanged.
 - Explicit owner authorization recorded. PR targets staging; main promotion and live deployment remain owner-managed. Do not describe this as live until the actual Pages deployment and URL are verified.
+
+## Hero update — 22 October 2026
+
+Generated artwork visually inspected: notebook, pencil and blank laptop screen, no person, text, statistical diagram or predicted outcome. Source retained in generated-image storage; final project copy, exact prompt, tool and hash recorded. Article prose and two data-chart PNGs unchanged.
+
+Publication packet check passed (3 public / 2 drafts); production Hugo 0.167.0 passed (31 pages; existing theme warnings); output checks passed (26 HTML pages, boundaries/links/drafts). Direct rendered checks confirm three article images, visible AI disclosure, hero on homepage, and correct og:image/twitter:image URLs. All registered image hashes verified. Whole-page browser visual QA not performed.

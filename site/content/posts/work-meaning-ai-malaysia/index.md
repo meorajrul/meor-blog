@@ -9,6 +9,12 @@ draft = false
 time_sensitive = true
 author = "Meor Ajrul"
 tags = ["AI", "work", "Malaysia", "meaning"]
+[cover]
+image = "hero.png"
+alt = "A blank notebook and pencil beside a laptop on a sunlit wooden desk."
+caption = "AI-generated editorial illustration."
+relative = true
+hidden = false
 +++
 
 If AI can do everything, what would be left for me to do?
