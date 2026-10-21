@@ -1,0 +1,5 @@
+.journal-share { margin-top: 28px; }
+.journal-share p { color: var(--secondary); font-size: 14px; margin-bottom: 10px; }
+.journal-share ul { display: flex; flex-wrap: wrap; gap: 10px; list-style: none; padding: 0; }
+.journal-share a { display: inline-flex; align-items: center; min-height: 44px; padding: 8px 14px; border: 1px solid var(--border); border-radius: 4px; font-size: 14px; }
+.journal-share a:hover { background: var(--code-bg); }
