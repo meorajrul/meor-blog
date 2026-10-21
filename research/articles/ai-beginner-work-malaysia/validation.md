@@ -2,7 +2,7 @@
 
 Article remains draft=true, with 23 October 2026 at09:00MYT retained. Existing publication authorization remains in force for the explicitly requested revisions; earlier version/digest remains historical.
 
-Final digest: a6772c307da113c2df8d2de6bf272758e00f89bbf27a670a607cdbefcee95a55. Primary workspace and revision worktree match.
+Final digest: b5ef04c1c65005c30d84854e879b2c939e6666190fde8ec74a1fd48d01883748. Primary workspace and revision worktree match.
 
 Primary workspace checks after final content/figure updates:
 - python scripts/blog.py check: passed,3public/4draft.

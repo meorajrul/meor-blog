@@ -37,3 +37,5 @@ On 19 October the owner instructed “publish this on 23 october”. On 22 Octob
 Accordingly, the publication authorization remains in force for these requested revisions. This records the two actual instructions; it does not claim that the owner read or individually endorsed every newly generated sentence. The previous version's approval/digest remains in previous_version_approval in review.json. The current review digest covers the corrected article, charts and evidence packet. The article stays draft=true until the scheduled date, 23 October 2026 at09:00MYT. The release check must use this revision and verify its current digest, rather than restoring the superseded text. Main/deployment remain owner-managed.
 
 Technical results are recorded separately in validation.md. Structural checks do not establish source truth, entailment, forecast validity or author approval.
+
+Final heading check: the Malaysia section names current vacancies without implying that the occupational skill categories establish demand for TVET qualifications.

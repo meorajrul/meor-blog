@@ -54,7 +54,7 @@ Vocational education is part of this effort. In February 2025, China [issued 758
 
 This supports a precise conclusion: China has documented arrangements for anticipating skills needs and revising education provision. The records examined here do not establish that it always predicts demand correctly, or that these changes have minimised labour gaps by the time industries expand. That outcome remains unverified here.
 
-## TVET has a case grounded in demand already visible
+## Start with Malaysia's current vacancies
 
 For Malaysia, it is possible to start with vacancies rather than a prediction about AI.
 
