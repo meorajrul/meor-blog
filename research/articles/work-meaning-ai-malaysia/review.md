@@ -21,3 +21,7 @@ Re-read the revised complete article and checked each factual statement against 
 IMF estimates retain their dates, fixed-share assumption, denominators and inability to identify present losses. DOSM definitions retain mixed income/depreciation and prohibit a pure-profit interpretation. Rosli is attributed as commentary. Removed the UK-calibration paragraph and its now-unused source/claim, without changing the Malaysian data.
 
 The explicit request to revise and publish now supplies author authorization for this requested version. Previous pending-approval notes above describe earlier stages. Final review is approved within the instruction's scope; main/deployment remain owner-managed. This is AI-assisted editorial review, not independent peer review. Rendered production and discovery checks are recorded in validation.md.
+
+## Hero update — 22 October 2026
+
+Owner requested: “add hero image for this blog which i forgot to do and update back repo”. Created and visually inspected a decorative still life of a blank notebook, pencil and laptop. It depicts no identified person, factual event, statistical relationship or future outcome. Cover caption explicitly says AI-generated editorial illustration. No text, logo, chart or fabricated data appears in the image. Existing article prose and both Malaysia data charts are unchanged. Prompt, tool and output hash recorded; source image remains intact. This image request authorizes the hero integration and repo update, within the existing staging-only release boundary.
