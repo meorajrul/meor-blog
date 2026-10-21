@@ -21,4 +21,4 @@ Slug retained: ai-beginner-work-malaysia. No search-volume or ranking claim.
 
 Conclusion permitted: China reports planning arrangements and actual changes to education provision; Malaysian vacancies are a starting point for examining training. Forecast accuracy, reduced labour gaps, universal senior AI advantage, and AI-caused future growth of TVET jobs are unverified in this packet and remain open.
 
-Review status: substantive revision complete for author review, draft=true. Earlier approval of the superseded version is preserved in review.json. No author approval of the final revised wording has been invented. The one-time release check is guarded accordingly.
+Review status: substantive revision reviewed, draft=true until the scheduled date. The actual19October publication instruction and22October revision instruction are recorded in review.json; existing authorization remains in force for these requested corrections. No claim is made that the owner individually read or approved every revised sentence. The one-time release check must verify the revised digest and keep the intended23Octoberdate.
