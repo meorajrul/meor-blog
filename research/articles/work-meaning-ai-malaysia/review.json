@@ -5,7 +5,7 @@
   "reviewer": "Codex — AI-assisted draft review, not independent peer review",
   "reviewed_on": "2026-10-22",
   "review_by": "2026-11-22",
-  "content_sha256": "c7f11ac23e078080017ac58a8fac7035f16d61e8a688ecbe84dcb2f1cf596afb",
+  "content_sha256": "444588275cc458569f41ec859dc77d9c837da810fccc4964cdfc7f963f4f0d23",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -18,6 +18,11 @@
     "source": "Direct owner instruction in this conversation",
     "instruction": "make the draft more personal and easier to read in simple English, keep the Malaysia charts and all factual claims backed by data then publish now",
     "approved_on": "2026-10-22",
-    "scope": "Requested simple-English personal revision with existing Malaysia charts; release via codex/ branch and PR to staging. Main and live deployment remain owner-managed."
+    "scope": "Requested simple-English personal revision with existing Malaysia charts; release via codex/ branch and PR to staging. Main and live deployment remain owner-managed.",
+    "hero_update": {
+      "instruction": "add hero image for this blog which i forgot to do and update back repo",
+      "approved_on": "2026-10-22",
+      "scope": "Generate and integrate editorial hero; update repository via PR to staging."
+    }
   }
 }
