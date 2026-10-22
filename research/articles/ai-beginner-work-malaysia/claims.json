@@ -103,7 +103,7 @@
     "source_ids": [
       "S22"
     ],
-    "locator": "Where young workers are facing pressure; cover chart",
+    "locator": "Where young workers are facing pressure; inline US employment chart",
     "status": "supported",
     "confidence": "bounded to inspected source",
     "limitations": "Descriptive not causal; pretrends, education composition and sample representativeness; age is not graduate status."

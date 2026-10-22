@@ -49,3 +49,6 @@ China administrative chart removed from active article/assets on owner English-s
 US cover chart: S22 printed p3 directly reports approximately -11%/+10% from November2022 to June2026. No interpolation, counterfactual path or forecast. Exposure groupings and age are explicit. Singapore chart: S25 answer paragraph2; shares19/14/8/6 among adopting firms, reported5August2026. The answer does not give fieldwork dates; labels disclose that gap, rather than equating reporting date with collection. Categories are not added. Neither chart supplies invented confidence intervals.
 
 Original matplotlib charts, Okabe-Ito colours, numerical labels and zero baselines, PNG300dpi and vectorPDF. Factual values transcribed with attribution; no publisher artwork reproduced. Code, CSV inputs and software environment retained. Images visually inspected for clipping, labels, scale and source/caveat legibility. Existing graduate employment graphic remains supplementary; first-job chart is now the cover.
+
+
+Hero-first-job.png: built-in image-generation tool,23October2026. Original generated still life, no source image or documentary claim; explicitly labelled in article. Full prompt in hero-first-job-prompt.txt. Generation output copied unedited into article bundle. US chart moved inline; all numerical charts preserved.

@@ -9,3 +9,7 @@ Owner requested implementation of the recommended first-job focus. Article date 
 - New charts visually compared with source transcription: US approximate -11/+10, Singapore19/14/8/6. CSVs, vector PDFs, code and environment record retained. Missing Singapore fieldwork dates explicitly disclosed.
 
 Existing theme warnings concern LanguageDirection/LanguageCode deprecations. These checks establish structure/rendering, not truth, causal identification, generalisability or policy effectiveness. No main merge or production deployment performed.
+
+## Hero replacement — 23 October 2026
+
+Owner-requested generated hero installed; US chart preserved inline. Current digest8d2e331dfbc9a69e6f6bfd62d34e979ef9400993c3059e49e8f9557dd26d67da. Primary and staging checks/builds/output checks passed with the same counts and existing theme warnings as above. Isolated scheduled-release gate passed as_of24October. Browser confirmed hero loaded, US chart present in body and no horizontal overflow. Screenshot: hero-article-preview.png in task visualization directory. Built-in image tool; prompt and generated asset saved in repository. Publication date unchanged; no deployment.

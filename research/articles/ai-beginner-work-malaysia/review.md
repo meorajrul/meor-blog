@@ -23,3 +23,8 @@ MJ01 not applicable: no personal biography or attributed feelings. MJ02/03 pass:
 Both new matplotlib charts inspected after rendering: source values, labels, axes, zero baseline, legible notes, colourblind-safe palette and no clipping. Original artwork, factual transcription, CSVs/code/PDF and environment metadata retained. The US chart replaces the graduate-rate cover; existing novice, graduate-position and vacancy charts remain in the body. All have text alternatives. The old graduate employment chart remains supplementary, not a second cover.
 
 Title, description, opening and conclusion address first-job access and Malaysian decisions. Stable slug retained. No forecast claim or promised job-security list. No forced links to unrelated published posts. Article remains draft=true until scheduled release preparation; preview deliberately includes drafts/future content. Technical checks are recorded separately and do not verify source truth or causal identification.
+
+
+## Hero change — 23 October 2026
+
+Owner explicitly requested “change the first image charts to a hero image”. Generated decorative still life inspected: graduation cap, notebook and laptop, no depicted hiring outcome, invented event, person, chart or causal model. Caption and alt text identify AI generation. The actual US chart and CSV remain in the first evidence section; values and limits unchanged. Prompt/provenance registered. No change to the24October09:00MYT schedule. MJ01–04 and MJ12 remain satisfied within the authorized visual change.

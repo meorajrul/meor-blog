@@ -133,5 +133,22 @@
     "sha256": "fe339caea9f1b494d714126908365ea2047b6197289564d8877610047da6ecf7",
     "created_on": "2026-10-23",
     "vector_path": "research/articles/ai-beginner-work-malaysia/figures/singapore-ai-employer-responses.pdf"
+  },
+  {
+    "id": "hero-first-job",
+    "path": "site/content/posts/ai-beginner-work-malaysia/hero-first-job.png",
+    "alt": "AI-generated editorial still life of a graduation cap, open notebook and laptop on a sunlit desk.",
+    "kind": "generated-image",
+    "rights": "Generated for this journal using the built-in image generation tool. No supplied third-party image, identifiable person or real event. Decorative illustration, not evidence.",
+    "attribution": "AI-generated editorial illustration, 23 October 2026.",
+    "source_url": "",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/hero-first-job-prompt.txt"
+    ],
+    "width": 1672,
+    "height": 941,
+    "bytes": 2378486,
+    "sha256": "b5185483e5b82ddf34996f2397e910c7c032fade1d38a9da4af9dacb7abe40ce",
+    "created_on": "2026-10-23"
   }
 ]

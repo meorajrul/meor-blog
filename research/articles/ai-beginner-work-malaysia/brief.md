@@ -13,3 +13,6 @@ Discovery: title “AI and the First Job: What Global Evidence Means for Young M
 Visuals: original US observed-change cover and Singapore firm-response chart; retained novice-learning, graduate employee-position and vacancy charts. Malaysia values remain context, not AI effects. Publication and data dates differ and are labelled. Singapore field dates absent from cited answer and disclosed.
 
 Open: Malaysian adoption-linked junior hiring; course-level wages/jobmatch/retention; programme counterfactuals; future occupational demand. Recommendations are editorial proposals, not proven policy effects. Full decision trail: follow-up-2026-10-23/.
+
+
+Hero change,23October: owner requested replacing the first chart with a hero image. Built-in image generation produced a decorative graduation-cap/notebook/laptop still life, labelled AI-generated. US data chart moved into its evidence section, with unchanged values.24October09:00MYT retained.

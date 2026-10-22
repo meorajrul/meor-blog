@@ -11,9 +11,9 @@ author = "Meor Ajrul"
 tags = ["AI", "work", "Malaysia", "education", "TVET"]
 
 [cover]
-image = "us-young-worker-employment.png"
-alt = "US ADP sample, ages 22–25: employment changed approximately minus 11% in more AI-exposed occupations and plus 10% in less-exposed occupations, November 2022 to June 2026. Descriptive comparison, not an estimated causal AI effect."
-caption = "US payroll evidence raises a first-job question. These observed changes do not establish how much AI caused."
+image = "hero-first-job.png"
+alt = "AI-generated editorial still life of a graduation cap, open notebook and laptop on a sunlit desk."
+caption = "AI-generated editorial illustration."
 relative = true
 hidden = false
 +++
@@ -30,7 +30,9 @@ The useful question is what these measured changes tell us about entry into work
 
 The difference arose mainly through reduced hiring rather than increased departures. Experienced workers showed no comparable gap between more- and less-exposed occupations.
 
-The cover chart presents those approximate changes. [Download its data](us-young-worker-employment.csv).
+![US ADP sample, ages 22–25: employment changed approximately minus 11% in more AI-exposed occupations and plus 10% in less-exposed occupations, November 2022 to June 2026. Descriptive comparison, not an estimated causal AI effect.](us-young-worker-employment.png)
+
+*Approximate observed changes in the payroll sample; not a causal AI estimate. [Chart data](us-young-worker-employment.csv).*
 
 This is descriptive evidence, not an estimate of jobs destroyed by AI. Some trends began before ChatGPT; differences in education matter; the gap is more pronounced in this payroll sample than in national surveys. Ages 22–25 also do not identify graduates specifically. The finding warrants attention without establishing a nationwide graduate-employment collapse.
 
