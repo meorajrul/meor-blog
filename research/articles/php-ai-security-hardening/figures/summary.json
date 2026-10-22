@@ -1,0 +1,178 @@
+{
+  "period_start_utc": "2026-01-01T00:00:00.000Z",
+  "period_end_utc": "2026-10-21T23:59:59.999Z",
+  "retrieval_date": "2026-10-22",
+  "ytd_total": 85344,
+  "october_total": 12543,
+  "months": [
+    {
+      "month": "2026-01",
+      "count": 4302,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:09.800"
+    },
+    {
+      "month": "2026-02",
+      "count": 4616,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:16.935"
+    },
+    {
+      "month": "2026-03",
+      "count": 6234,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:23.912"
+    },
+    {
+      "month": "2026-04",
+      "count": 5810,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:30.956"
+    },
+    {
+      "month": "2026-05",
+      "count": 6936,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:37.966"
+    },
+    {
+      "month": "2026-06",
+      "count": 7942,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:44.987"
+    },
+    {
+      "month": "2026-07",
+      "count": 9770,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:52.010"
+    },
+    {
+      "month": "2026-08",
+      "count": 12258,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:45:58.868"
+    },
+    {
+      "month": "2026-09",
+      "count": 14933,
+      "partial": false,
+      "api_timestamp": "2026-10-22T04:46:05.860"
+    },
+    {
+      "month": "2026-10",
+      "count": 12543,
+      "partial": true,
+      "api_timestamp": "2026-10-22T04:46:12.990"
+    }
+  ],
+  "days": [
+    {
+      "date_utc": "2026-10-01",
+      "count": 392,
+      "api_timestamp": "2026-10-22T04:47:43.050"
+    },
+    {
+      "date_utc": "2026-10-02",
+      "count": 393,
+      "api_timestamp": "2026-10-22T04:47:51.230"
+    },
+    {
+      "date_utc": "2026-10-03",
+      "count": 115,
+      "api_timestamp": "2026-10-22T04:47:57.872"
+    },
+    {
+      "date_utc": "2026-10-04",
+      "count": 68,
+      "api_timestamp": "2026-10-22T04:48:04.596"
+    },
+    {
+      "date_utc": "2026-10-05",
+      "count": 405,
+      "api_timestamp": "2026-10-22T04:48:12.857"
+    },
+    {
+      "date_utc": "2026-10-06",
+      "count": 1014,
+      "api_timestamp": "2026-10-22T04:48:19.832"
+    },
+    {
+      "date_utc": "2026-10-07",
+      "count": 340,
+      "api_timestamp": "2026-10-22T04:48:26.445"
+    },
+    {
+      "date_utc": "2026-10-08",
+      "count": 497,
+      "api_timestamp": "2026-10-22T04:48:33.162"
+    },
+    {
+      "date_utc": "2026-10-09",
+      "count": 315,
+      "api_timestamp": "2026-10-22T04:48:40.947"
+    },
+    {
+      "date_utc": "2026-10-10",
+      "count": 412,
+      "api_timestamp": "2026-10-22T04:48:47.646"
+    },
+    {
+      "date_utc": "2026-10-11",
+      "count": 229,
+      "api_timestamp": "2026-10-22T04:48:54.258"
+    },
+    {
+      "date_utc": "2026-10-12",
+      "count": 674,
+      "api_timestamp": "2026-10-22T04:49:00.874"
+    },
+    {
+      "date_utc": "2026-10-13",
+      "count": 2303,
+      "api_timestamp": "2026-10-22T04:49:08.055"
+    },
+    {
+      "date_utc": "2026-10-14",
+      "count": 824,
+      "api_timestamp": "2026-10-22T04:49:17.105"
+    },
+    {
+      "date_utc": "2026-10-15",
+      "count": 546,
+      "api_timestamp": "2026-10-22T04:49:33.937"
+    },
+    {
+      "date_utc": "2026-10-16",
+      "count": 465,
+      "api_timestamp": "2026-10-22T04:49:42.145"
+    },
+    {
+      "date_utc": "2026-10-17",
+      "count": 100,
+      "api_timestamp": "2026-10-22T04:49:50.704"
+    },
+    {
+      "date_utc": "2026-10-18",
+      "count": 549,
+      "api_timestamp": "2026-10-22T04:49:57.405"
+    },
+    {
+      "date_utc": "2026-10-19",
+      "count": 437,
+      "api_timestamp": "2026-10-22T04:50:04.136"
+    },
+    {
+      "date_utc": "2026-10-20",
+      "count": 1923,
+      "api_timestamp": "2026-10-22T04:50:10.877"
+    },
+    {
+      "date_utc": "2026-10-21",
+      "count": 542,
+      "api_timestamp": "2026-10-22T04:50:17.589"
+    }
+  ],
+  "excluded": "Rejected records; CVE ID year is not a filter",
+  "method": "Direct API totalResults by non-overlapping UTC publication windows; cumulative sums of observed counts; no extrapolation, severity split or AI attribution."
+}

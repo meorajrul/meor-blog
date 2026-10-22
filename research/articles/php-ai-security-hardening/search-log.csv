@@ -1,0 +1,24 @@
+date,platform,query,filters,source_ids,selection_decision
+2026-10-22,web.run,PHP CVE October 2026 vulnerability AI discovered PHP,none,S1;S2;S6,Discovery: selected maintainers/ENISA over news. AP and Axios not used as factual support.
+2026-10-22,web.run,site.php.net security releases CVE 2026 PHP October,none,S1,Locate current incident advisory; inspect released rather than pre-release guidance.
+2026-10-22,web.run,site.anthropic.com Firefox vulnerabilities 22 two weeks Mozilla March 2026,none,S4;S5,Locate original AI-assisted discovery account and maintainer corroboration.
+2026-10-22,web.run,site.react.dev blog critical security vulnerability react server components December 2025 CVE-2025-55182,none,S3,"Cross-ecosystem comparison; select maintainer source, do not claim AI attribution."
+2026-10-22,web.run,site.cisa.gov secure by design eliminate default passwords least privilege software inventory patch management,none,,Discovery only; no CISA claims retained. Prefer directly inspected ENISA/OWASP/NIST passages for final recommendations.
+2026-10-22,web.run,"site.anthropic.com/news/mozilla-firefox-security ""two cases"" ""sandbox""",none,S4,"Targeted countercheck pass 1: search returned mirrors; use already directly opened Anthropic source, not mirror, for exploit limits. No further change beyond initial qualification."
+2026-10-22,web.run,"site.php.net/archive/2026.php ""only an update""",none,S1,Targeted countercheck pass 2: corroborates incomplete mitigation warning; original archive directly inspected. No further change beyond patch requirement.
+2026-10-22,web.run,Claude Mythos introduced withheld release Project Glasswing April 2026 Node.js vulnerabilities,none,S9,Discover original April announcement/research.
+2026-10-22,web.run,"site.anthropic.com Mythos ""Node.js""",none,,Search did not establish AI attribution for the Node.js CVE.
+2026-10-22,web.run,site.anthropic.com Mythos preview not release general public cybersecurity,none,S9,Inspect original limited-release statement.
+2026-10-22,web.run,"site.anthropic.com ""June 12"" ""suspend""",none,S10,Identify separate later suspension and restoration account.
+2026-10-22,web.run,"site.nodejs.org ""Mythos"" vulnerability",none,,No retained evidence of a Mythos-specific Node.js discovery.
+2026-10-22,web.run,"site.anthropic.com ""Mythos"" ""suspended""",none,S10,Primary source preferred to stale third-party status trackers.
+2026-10-22,web.run,"site.nodejs.org/en/blog ""AI"" ""security"" ""2026""",none,,Background event reports not used for new factual claims.
+2026-10-22,web.run,"site.nodejs.org ""security releases"" ""October"" ""2026""",none,S11,Inspect October 21 advisory; Node.js CVEs already published.
+2026-10-22,web.run / direct HTTPS API,CVE statistics 2026 October total published CVE 2026 monthly October 22 2026,UTC publication windows; noRejected,,Third-party dashboards have differing counts/snapshot dates; do not combine.
+2026-10-22,web.run / direct HTTPS API,site.nvd.nist.gov developers vulnerabilities pubStartDate pubEndDate totalResults,UTC publication windows; noRejected,S12,NVD HTML inaccessible; original JSON API inspected directly.
+2026-10-22,web.run / direct HTTPS API,site.cve.org cvelistV5 datePublished published records data downloads,UTC publication windows; noRejected,,Official repository considered; NVD aggregate queries selected.
+2026-10-22,web.run / direct HTTPS API,NVD API direct publication-window queries Jan–Oct 2026 and Oct 1–21 daily,UTC publication windows; noRejected,S12,31 retained successful JSON count queries; detailed record download timed out; no severity dataset retained.
+2026-10-22,web.run,site.djangoproject.com weblog 2026 security releases CVE October,none,S13,Selected and inspected Oct 6 maintainer release; use one precisely bounded issue.
+2026-10-22,web.run,site.spring.io security CVE-2026 October Spring Framework,none,S14,"Security index led to Aug 20 component advisory; actual date preserved, not presented as October."
+2026-10-22,web.run,site.rubyonrails.org 2026 CVE security,none,,Discovery search only; no Rails claim retained or secondary report used.
+2026-10-22,web.run,site.react.dev CVE-2025-55182 security server components,none,S3,Reopened original React advisory; retain Dec 2025 date and unaffected deployment boundaries.
