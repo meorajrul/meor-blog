@@ -13,5 +13,7 @@
   "automation_kind": "one-time thread heartbeat",
   "automation_status": "ACTIVE",
   "live_url": "https://meorajrul.com/posts/universal-high-income/",
-  "release_worktree": "/Users/meorajrul/.codex/worktrees/uhi-oct26-release/211 Blog"
+  "release_worktree": "/Users/meorajrul/.codex/worktrees/uhi-oct26-release/211 Blog",
+  "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/23",
+  "preparation_commit": "6ef284a"
 }
