@@ -39,3 +39,7 @@ Accordingly, the publication authorization remains in force for these requested 
 Technical results are recorded separately in validation.md. Structural checks do not establish source truth, entailment, forecast validity or author approval.
 
 Final heading check: the Malaysia section names current vacancies without implying that the occupational skill categories establish demand for TVET qualifications.
+
+## Date change — 23 October 2026
+
+The owner explicitly instructed “set the publish date to 24 october”. Publication is now planned for 24 October 2026 at09:00 Asia/Kuala_Lumpur, retaining the existing time. This supersedes earlier schedule dates above. Article content, sources and numerical charts are unchanged. The existing publication authority continues; no new research claim or line-by-line author approval is asserted.

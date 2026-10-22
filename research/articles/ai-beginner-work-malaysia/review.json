@@ -5,7 +5,7 @@
   "reviewer": "Codex — evidence-rule review; continuing owner publication authorization for explicitly requested revisions",
   "reviewed_on": "2026-10-22",
   "review_by": "2026-11-22",
-  "content_sha256": "b5ef04c1c65005c30d84854e879b2c939e6666190fde8ec74a1fd48d01883748",
+  "content_sha256": "d6d790204d044d24ad26a8777b31be13be15d245711efb61e76f45132bb64c49",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -32,6 +32,8 @@
     "approved_on": "2026-10-19",
     "revision_instruction": "Check this article against my new evidence rule. Remove unsupported assumptions and hypothetical examples, keep the data and limitations clear",
     "revision_authorized_on": "2026-10-22",
-    "scope": "Same article, corrected and extended with supported China education/TVET evidence as explicitly requested. Existing23October publication authorization retained. No claim of new line-by-line owner review. Main/deployment remain owner-managed."
+    "scope": "Same article, corrected and extended with supported China education/TVET evidence as explicitly requested. Existing23October publication authorization retained. No claim of new line-by-line owner review. Main/deployment remain owner-managed.",
+    "reschedule_instruction": "set the publish date to 24 october",
+    "rescheduled_on": "2026-10-23"
   }
 }
