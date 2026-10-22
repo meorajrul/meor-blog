@@ -2,10 +2,10 @@
   "schema_version": 1,
   "status": "approved",
   "author_approved": true,
-  "reviewer": "Codex — evidence-rule review; continuing owner publication authorization for explicitly requested revisions",
+  "reviewer": "Codex — first-job evidence, chart and editorial review",
   "reviewed_on": "2026-10-23",
   "review_by": "2026-11-23",
-  "content_sha256": "659bd99f3672bdcc3550c45f9e88cd5109f024d09af9ed73f7061c0dce661772",
+  "content_sha256": "0a534852480c428d0718ac332be8a056b234c591ae8ae2dabcb9e82d314449c9",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -32,10 +32,10 @@
     "approved_on": "2026-10-19",
     "revision_instruction": "Check this article against my new evidence rule. Remove unsupported assumptions and hypothetical examples, keep the data and limitations clear",
     "revision_authorized_on": "2026-10-22",
-    "scope": "Same article; continuing owner publication authorization covers explicitly requested23October English-source/outcome revisions and24October schedule. No claim of new line-by-line owner review. Main/deployment owner-managed.",
+    "scope": "Existing publication authorization plus explicit instruction to implement the first-job recommendation, charts and policy/student recommendations. Retain24October09:00MYT. No claim of new line-by-line review; main/deployment owner-managed.",
     "reschedule_instruction": "set the publish date to 24 october",
     "rescheduled_on": "2026-10-23",
-    "current_revision_instruction": "Add TalentCorp and Ministry of HR perspectives with verified graduate outcome data/charts, use English sources, remove Chinese news and do not presume the conclusion; keep evidence rule and24Octoberdate.",
+    "current_revision_instruction": "do the recommended",
     "current_revision_authorized_on": "2026-10-23"
   }
 }

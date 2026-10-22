@@ -1,6 +1,6 @@
 +++
-title = "AI, First Jobs and TVET: What Malaysia Can Learn from China"
-description = "What AI research, TalentCorp programmes and Malaysia’s 2025 graduate outcomes reveal about experience, first jobs and TVET—and what remains unproven."
+title = "AI and the First Job: What Global Evidence Means for Young Malaysians"
+description = "What observed hiring, employment and graduate outcomes reveal about AI, experience and first jobs—and what Malaysia should measure before choosing its response."
 slug = "ai-beginner-work-malaysia"
 article_id = "ai-beginner-work-malaysia"
 genre = "essay"
@@ -8,96 +8,109 @@ date = 2026-10-24T09:00:00+08:00
 draft = true
 time_sensitive = true
 author = "Meor Ajrul"
-tags = ["AI", "work", "Malaysia", "China", "education", "TVET"]
+tags = ["AI", "work", "Malaysia", "education", "TVET"]
 
 [cover]
-image = "kesuma-graduate-employment-2025.png"
-alt = "KESUMA institutions, 2025: 5,367 employed and 339 unemployed graduates in the reported labour-force group of 5,706. Employment rate 94.1%."
-caption = "MOHE Graduate Tracer Study, 2025. Employment at survey time; this does not measure long-term job quality."
+image = "us-young-worker-employment.png"
+alt = "US ADP sample, ages 22–25: employment changed approximately minus 11% in more AI-exposed occupations and plus 10% in less-exposed occupations, November 2022 to June 2026. Descriptive comparison, not an estimated causal AI effect."
+caption = "US payroll evidence raises a first-job question. These observed changes do not establish how much AI caused."
 relative = true
 hidden = false
 +++
 
-What should a young Malaysian train for as AI changes work? The concern about experienced workers getting a head start is understandable. But the research does not establish that seniors always benefit more from AI, or that physical work will inevitably become more plentiful.
+Getting better at a job and getting the chance to start one are different questions. For a young Malaysian choosing a course or applying for work, that distinction matters more than a confident prediction about which careers AI will leave behind.
 
-China’s recruitment research raises questions about entry requirements. Malaysia’s own graduate outcomes and workforce programmes give us a more direct way to examine the local response. The useful question is whether training leads to work, and what kind of work graduates obtain.
+The evidence now gives us reasons to scrutinise first-job access. Some overseas studies find weaker employment growth for young workers or a shift towards senior employees. Other findings show changing tasks without comparable losses in average earnings, or entry-level vacancies holding up. None establishes a single path that Malaysia must follow.
 
-## What the evidence says about experience
+The useful question is what these measured changes tell us about entry into work—and what we still need to know before advising the next generation.
 
-[Research by Mingyou Liu and Yitao Wang](https://doi.org/10.1016/j.techsoc.2026.103487) examines more than a million Chinese AI-related job advertisements from 2018 to 2025. The abstract reports increasingly selective recruitment, including greater demand for postgraduate qualifications and candidates with one to five years of experience.
+## Where young workers are facing pressure
 
-That is evidence about advertised requirements in a particular labour market. It is relevant to newcomers who have not yet accumulated that experience. The evidence inspected here is limited to the abstract and public publisher preview; the full methods have not been appraised. Advertisements do not reveal completed hires or establish that AI caused China's wider youth employment difficulties.
+[Stanford's August 2026 payroll study](https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf) follows a sample of US workers through June 2026. Between November 2022 and June 2026, employment among 22–25-year-olds fell about **11% in the two most AI-exposed occupation groups**, while growing about **10% in the three least-exposed groups**. The groups are quintiles: five bands ranked by exposure.
 
-There are also accounts of experienced staff taking on work previously done by juniors. A [South Korean preprint by Sumin Yu and Taesup Moon](https://arxiv.org/html/2607.17067v1) reports this in interviews about software development with AI. Its 14 participants were recruited through personal and professional networks. These are reported experiences within a small sample, with no estimate of how widespread the pattern is in China or Malaysia.
+The difference arose mainly through reduced hiring rather than increased departures. Experienced workers showed no comparable gap between more- and less-exposed occupations.
 
-The strongest counterweight comes from [*Generative AI at Work*](https://doi.org/10.1093/qje/qjae044). In a study covering 5,172 customer-support agents, mostly based in the Philippines, less-experienced and lower-skilled workers gained more from AI assistance. The rollout mainly took place in autumn 2020 and winter 2021.
+The cover chart presents those approximate changes. [Download its data](us-young-worker-employment.csv).
 
-![In one customer-support workplace, the authors describe agents with AI from joining reaching about 2.5 resolved issues per hour after two months; those without AI reached roughly that level after eight to ten months. These are approximate curve summaries, not hiring outcomes or confidence intervals.](ai-learning-curve.png)
+This is descriptive evidence, not an estimate of jobs destroyed by AI. Some trends began before ChatGPT; differences in education matter; the gap is more pronounced in this payroll sample than in national surveys. Ages 22–25 also do not identify graduates specifically. The finding warrants attention without establishing a nationwide graduate-employment collapse.
 
-*Original visual summary of section V.B.3 and Figure V. The approximate 8–10-month range comes from the authors' narrative, rather than a new time-to-target calculation. The rollout was not random, and the findings concern employed agents at one firm and its contractors. [Chart data](ai-learning-curve.csv).*
+## Is employment shifting towards seniors?
 
-These results do not settle first-job access. They do rule out treating a general senior advantage as an established finding. China's advertised experience requirements and the customer-support study's novice productivity gains concern different outcomes.
+A [September 2026 working paper covering 41 countries](https://digitaleconomy.stanford.edu/app/uploads/2026/09/HowDoesAIChangeLaborDemand.pdf) examines multinational firms' foreign affiliates using records from January 2021 to March 2026. It infers company AI adoption from job advertisements mentioning generative-AI work.
 
-## China also shows the limits of expanding education
+By March 2026, its estimated junior workforce share at adopting affiliates was **1.9 percentage points below comparable controls**. This mainly reflected senior employment growth: the senior estimate was **6.7% higher**, while the junior estimate was **2.5% lower and not statistically significant**. A falling junior share is therefore different from a demonstrated fall in junior headcount.
 
-An English-language [World Bank China Economic Update](https://documents1.worldbank.org/curated/en/099062002232318248/pdf/P1757970fbdcf3053096ae006cda0a3e01a.pdf), published in December 2022, describes expanding college education and TVET alongside evidence of graduate skills mismatch. It reports that the ratio of advertised vacancies to applications for college graduates fell from an average of 1.6 in 2018–19 to 1.0 in 2020–22, using China Institute for Employment Research data drawn from Zhaopin.com.
+The estimates depend on an assumption: adoption by firms near a foreign parent's headquarters affects the affiliate's employment only through that company's AI adoption. The authors test its plausibility; those tests cannot establish it as fact. These digitally connected multinationals do not represent every employer, and the study's seniority categories do not identify graduate cohorts.
 
-These are platform-based indicators from a pandemic-affected period, before the subsequent generative-AI boom. They cannot establish an AI effect or evaluate China’s 2026 policies. They do challenge the assumption that expanding education automatically aligns graduates with demand. The report also identifies concerns about funding and teaching capacity during TVET expansion.
+This supports examining a shift towards seniors in a particular setting. It does not establish that experience always makes someone better at using AI, or explain every employer's hiring decision.
 
-The claim that China always predicts demand accurately and minimises future labour gaps is not established by the evidence examined here. Malaysia should assess outcomes rather than presume that planning itself demonstrates success.
+## The other evidence belongs in the same picture
 
-## TalentCorp: Malaysia already has skills-matching instruments
+In [Denmark, researchers linked chatbot-adoption surveys to administrative records](https://www.andershumlum.com/s/chatbots_260313.pdf) across 11 exposed occupations. They found changes in tasks but estimated average earnings and recorded-hours effects close to zero, ruling out effects larger than 2%. They also found no differential decline in early-career employment share at adopting workplaces.
 
-[TalentCorp’s MyCOL](https://www.talentcorp.com.my/mycol/) identifies occupations in demand and skills imbalances across 18 sectors, drawing on employer surveys and direct industry engagement. Its stated scope includes regional shortages. TalentCorp is an agency of the Ministry of Human Resources, or KESUMA, and was mandated as its strategic think tank in March 2024.
+Those records end in **December 2024**, although the paper was revised in March 2026. Its comparisons depend on observational research assumptions. It cannot settle the effects of later AI systems or establish that every worker was unaffected.
 
-This adds a local perspective: Malaysia already has an instrument for identifying hard-to-fill occupations. The relevant evidence is occupation- and location-specific. A broad vacancy total cannot tell a student which qualification an employer requires or whether the position accepts beginners. MyCOL’s published purpose is not a guarantee of employment for every graduate in a listed field.
+A separate [US study of recent graduates](https://docs.iza.org/dp18945.pdf), using national survey data through **August 2026**, found no statistically significant unemployment increase in summer 2026 relative to its comparison groups and periods. Its graduate definition covers 22–25-year-olds whose highest qualification is a bachelor's degree and who are not in school. It cannot isolate AI from other economic changes.
 
-TalentCorp’s [2024 workforce impact-study summary](https://www.mymahir.my/publication/1/impact-study-of-ai-digital-and-green-economy-on-the-malaysian-workforce) also describes sector skills assessments and periodic updates through the Future Skills Talent Council. Its three-to-five-year outlook is an assessment of anticipated change, not an observed count of jobs lost to AI. This article does not use its forward estimates as verified outcomes.
+Singapore supplies a nearby comparison. Its [Ministry of Manpower reported](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0805-written-answer-to-pq-on-trends-in-job-vacancies) that entry-level professional, managerial, executive and technician vacancies rose slightly, from **32,500 in December 2025 to 32,800 in March 2026**. Among firms adopting AI, reported role redesign was more common than reported headcount reduction.
 
-There is also a documented route to practical experience. [MySIP](https://www.talentcorp.com.my/mysip-incentives/) supports structured internships, including for TVET students, with approved learning modules and employer and intern evaluations. That establishes programme design. The inspected programme page does not establish how much participation improves later hiring, pay or retention compared with similar non-participants.
+![Among Singapore AI-adopting firms, 19% reported redesigning roles, 14% creating AI-related jobs, 8% lowering hiring and 6% reducing headcount. These are shares of firms, not workers.](singapore-ai-employer-responses.png)
 
-## KESUMA: examine graduate outcomes as well as training provision
+*Source: MOM parliamentary answer, 5 August 2026. The answer does not specify survey fieldwork dates. Responses are not treated as mutually exclusive; do not add them. [Chart data](singapore-ai-employer-responses.csv).*
 
-[MOHE’s 2025 bilingual tables](https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file) report 5,367 employed and 339 unemployed Malaysian graduates from KESUMA institutions: **94.1% employed**, from a labour-force group of 5,706. The cover chart shows this result.
+Vacancies are not completed hires, and employer reports do not establish causal effects. Together, these studies describe different populations, periods and outcomes. They should not be averaged into a single global AI job-loss rate.
 
-[MOHE’s English definition](https://ge.mohe.gov.my/CarianGraduateEmploymentBI.aspx) counts employed graduates divided by employed plus unemployed graduates. It excludes those outside the labour force. Status is recorded shortly after graduation, not over a sustained career. Pre-2024 “employability” figures included further study, training and waiting for placement; they should not be joined into an employment trend.
+## AI can help beginners who already have a job
 
-![KESUMA graduate employees in 2025: permanent 53.3%, contract 33.2%, temporary 10.9%, part-time 2.6%; denominator 4,694 government and private-sector employees.](kesuma-graduate-position-2025.png)
+The strongest challenge to a blanket senior advantage remains [*Generative AI at Work*](https://doi.org/10.1093/qje/qjae044). Among 5,172 customer-support agents, mostly based in the Philippines, less-experienced and lower-skilled workers gained more from AI assistance. The rollout mainly took place in autumn 2020 and winter 2021.
 
-*MOHE, Table 7.7, 2025. Denominator: government/private employees, excluding other employment categories. [Employment data](kesuma-graduate-employment-2025.csv); [position data](kesuma-graduate-position-2025.csv).*
+![In one customer-support workplace, agents with AI from joining reached about 2.5 resolved issues per hour after two months; those without AI reached roughly that level after eight to ten months. These are approximate author summaries, not hiring outcomes.](ai-learning-curve.png)
 
-The second chart separates permanent, contract, temporary and part-time posts. Neither table establishes wages, training relevance, progression or an AI effect. The chapter supplies no response-rate or confidence-interval information for these rows.
+*Original visual summary of section V.B.3 and Figure V. The 8–10-month range is the authors' narrative approximation, not a confidence interval or a new calculation. The rollout was not random. [Chart data](ai-learning-curve.csv).*
 
-For KESUMA, these published results make it possible to discuss its institutions’ graduate employment, rather than only enrolments or training places. They do not establish which policy caused the outcomes. For a prospective student, the next useful evidence would be course-level pay, job match and follow-up over time. Those questions remain open here.
+This is evidence about employed agents at one firm and its contractors. It shows why novice productivity and first-job access must be examined separately. It does not establish whether employers will recruit more beginners.
 
-## Start with Malaysia's current vacancies
+There is also evidence that hiring criteria can change. [Anthropic's October 2026 study of its own workplace](https://www.anthropic.com/research/employment-at-anthropic) reports greater emphasis on autonomy and judgment in hiring decisions. It draws on internal records and interviews. One rapidly expanding AI company reporting on itself is a bounded case, not a description of Malaysian employers or proof that technical knowledge no longer matters.
 
-For Malaysia, it is possible to start with vacancies rather than a prediction about AI.
+## What Malaysia's graduate data can actually tell us
 
-[DOSM's Quarterly Employment Survey](https://www.dosm.gov.my/portal-main/release-content/employment-statistics-Q22026) estimated 195,700 vacancies in registered private-sector businesses in the second quarter of 2026. Of these, 107,300 were in the semi-skilled category, 50,200 in the skilled category, and 38,200 in the low-skilled category.
+Malaysia already publishes outcomes worth examining. [The Ministry of Higher Education's 2025 Graduate Tracer Study tables](https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file), which include English labels, report **5,367 employed and 339 unemployed graduates from Ministry of Human Resources (KESUMA) institutions**: a **94.1% employment rate** within that labour-force group of 5,706.
 
-![Malaysia's estimated registered private-sector vacancies in Q2 2026: semi-skilled 107,300, skilled 50,200, low-skilled 38,200. Total 195,700. These are DOSM occupational skill groups, not counts of TVET jobs or vacancies reserved for beginners.](malaysia-vacancies-q2-2026.png)
+[MOHE's English definition](https://ge.mohe.gov.my/CarianGraduateEmploymentBI.aspx) excludes graduates outside the labour force and records status shortly after graduation. Earlier, pre-2024 “employability” measures also included further study, training and waiting for placement. Those figures should not be joined into one employment trend.
 
-*Source: DOSM, Employment Statistics, Q2 2026, released 13 August 2026. Survey estimates of vacancies in covered registered private-sector businesses. Counts are rounded to the nearest hundred; the categories are not educational qualifications. [Chart data](malaysia-vacancies-q2-2026.csv).*
+![Among 4,694 KESUMA graduate government and private-sector employees in 2025, 53.3% held permanent positions, 33.2% contract positions, 10.9% temporary positions and 2.6% part-time positions.](kesuma-graduate-position-2025.png)
 
-Manufacturing accounted for 114,000 vacancies, or 58.3% of the same total. That is a sector breakdown of the vacancies already counted above; it must not be added to the skill-category figures.
+*MOHE, Table 7.7, 2025. This employee denominator differs from the employment-rate denominator and excludes other employment categories. [Position data](kesuma-graduate-position-2025.csv); [employment data](kesuma-graduate-employment-2025.csv).*
 
-These figures establish existing demand in the covered businesses. They do not identify which vacancies require a TVET qualification, accept fresh graduates, offer progression, or pay enough to attract suitable applicants. A vacancy is also not, by itself, proof of a skills shortage: this release does not establish why each position is unfilled.
+These results describe employment and position type at survey time. They do not establish wages, whether work matches training, later progression, or an AI effect. The inspected chapter supplies no response rate or confidence interval for these rows.
 
-TVET deserves examination against these actual opportunities. The aggregate figures alone cannot establish which courses should expand or how many places they should add.
+## TVET needs an outcome test too
 
-## Physical work and AI exposure are different questions
+The [ILO's 2025 exposure study](https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf) assesses clerical work as most exposed to generative AI and manual tasks as less exposed. Its scores combine worker survey responses, expert judgment and AI predictions; tasks receive equal weights because their relative frequency and importance are unavailable.
 
-There is evidence behind part of the intuition about practical skills. The [ILO's 2025 occupational-exposure study](https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf) places clerical work at the highest exposure to generative AI and assesses manual tasks as less exposed. Its scores combine worker survey responses from Poland, expert judgments and AI predictions. Initial AI scoring used models available at the end of 2024. Tasks within each occupation receive equal weight because their relative frequency and importance are unavailable.
+That is an assessment of technical exposure, not observed job destruction or future demand. It does not assess protection from every form of automation, including robotics. It cannot establish that physical work will grow because AI performs more cognitive tasks.
 
-Those scores estimate technical exposure; they are not observed automation rates or forecasts of Malaysian vacancies. Nor does this measure establish protection from robotics or other automation. It cannot show that demand for physical work will grow because AI performs more cognitive tasks.
+Malaysia's current vacancies give us another starting point:
 
-For a Malaysian student, the unanswered question is specific: which training programmes lead to sustained employment, relevant work, acceptable wages and progression? The vacancy totals and exposure estimates in this article do not answer it. Course-level graduate outcomes and occupation-level hiring evidence are needed before claiming that a particular TVET route is the future winner.
+![DOSM estimated 195,700 registered private-sector vacancies in Q2 2026: semi-skilled 107,300, skilled 50,200 and low-skilled 38,200. These occupational categories do not count TVET jobs or beginner vacancies.](malaysia-vacancies-q2-2026.png)
 
-## What Malaysia can take from this
+*[DOSM, Employment Statistics, Q2 2026](https://www.dosm.gov.my/portal-main/release-content/employment-statistics-Q22026), released 13 August 2026. Rounded survey estimates for covered registered private-sector businesses. [Chart data](malaysia-vacancies-q2-2026.csv).*
 
-China’s experience is useful as a question, not a forecast for Malaysia. Recruitment requirements, education expansion and successful graduate matching are separate things. The English-language evidence examined here does not demonstrate that Chinese planning has eliminated labour gaps.
+Those occupational categories do not identify required qualifications, beginner eligibility or the reasons vacancies remain unfilled. TVET deserves assessment against actual occupations and graduate outcomes. Neither the vacancy totals nor exposure scores tell us which courses should expand.
 
-Malaysia already has TalentCorp’s occupation assessments, structured internship programmes and published graduate outcomes. The harder test is what these measures deliver for entrants: relevant work, wages and progression over time. Programme existence and a high employment rate cannot answer all of that.
+## A more useful task for TalentCorp and KESUMA
 
-TVET merits serious attention on the strength of actual hiring requirements and graduate results. The evidence does not yet justify telling young Malaysians that AI guarantees a boom in physical work—or that experience will always outweigh their ability to learn with the new tools.
+[TalentCorp's MyCOL](https://www.talentcorp.com.my/mycol/) uses employer surveys and industry engagement to identify occupations in demand and skills imbalances across 18 sectors. Its [MySIP programme](https://www.talentcorp.com.my/mysip-incentives/) supports structured internships, including for TVET students, with learning modules and evaluations. These establish existing instruments and programme design; they do not establish a causal improvement in later employment.
+
+The overseas evidence suggests questions for evaluating Malaysia's response. The following are recommendations, not findings that these interventions have already succeeded:
+
+- **For TalentCorp:** track whether monitored vacancies accept beginners, what experience they require, and how many junior hires actually result. Compare these measures over time alongside measured employer AI adoption.
+- **For KESUMA:** follow graduates and internship participants beyond initial placement. Publish course-level pay, job match and retention at six and twelve months, with response rates and clear denominators. Claims of programme effectiveness would also need credible comparisons with non-participants.
+- **For employers:** assess what junior applicants can demonstrate with AI and how they check its output. Evaluate supervised learning and progression rather than assume that years of experience fully measure capability.
+- **For students:** ask providers for those course-level outcomes and employers for concrete entry requirements. Practise using AI on assessed work and checking its results. This is preparation advice, not a guarantee that a qualification or portfolio will secure employment.
+
+## The next generation needs a route into work
+
+The concern about seniors getting a head start has some support in observed employment patterns. It is not a universal rule about who benefits from AI. The same evidence base includes novice productivity gains, changing tasks and settings without comparable entry-level declines.
+
+For Malaysia, the priority should be to examine access to that first job and the quality of the work that follows. University and TVET pathways both deserve that scrutiny. The evidence reviewed here cannot tell a student which career will be safe in ten years. It can tell us why training places, initial employment, relevant work and sustained progression need separate measures—and why a confident forecast cannot substitute for them.

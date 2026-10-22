@@ -1,36 +1,12 @@
 [
   {
-    "id": "C20",
-    "text": "Liu/Wang abstract reports more selective Chinese AI-related recruitment, including postgraduate and one-to-five-year experience requirements, in over one million 2018–2025 ads.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S1"
-    ],
-    "locator": "What evidence says about experience; public abstract",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Abstract/preview only; full methods unappraised. Ads are not hires; no national youth-employment causal inference."
-  },
-  {
-    "id": "C21",
-    "text": "Fourteen South Korean software-worker interviews report junior tasks being taken on in senior-plus-AI workflows.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S8"
-    ],
-    "locator": "Experience section; Methods/Findings",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Network sample of 8 junior/6 senior; qualitative accounts, not prevalence or China/Malaysia outcomes. No invented illustrative analyst or causal pathway."
-  },
-  {
     "id": "C22",
     "text": "Less-experienced/lower-skilled workers gained more in a 5172-agent customer-support study, mostly Philippines-based. Rollout mainly autumn2020 and winter2021.",
     "kind": "external-fact",
     "source_ids": [
       "S7"
     ],
-    "locator": "Experience section; S7 III.B,V.B; IV.A",
+    "locator": "AI can help beginners who already have a job",
     "status": "supported",
     "confidence": "bounded to inspected record",
     "limitations": "Non-random workplace rollout. Employed agents at one firm and contractors; productivity, not recruitment."
@@ -42,7 +18,7 @@
     "source_ids": [
       "S7"
     ],
-    "locator": "Learning chart and V.B.3/FigureV narrative",
+    "locator": "AI can help beginners who already have a job",
     "status": "supported",
     "confidence": "bounded to inspected record",
     "limitations": "Approximate descriptions, not exact target-time calculation, confidence interval, guarantee or Malaysian forecast."
@@ -54,22 +30,10 @@
     "source_ids": [
       "S14"
     ],
-    "locator": "Malaysia vacancies section/chart; official skills breakdown",
+    "locator": "TVET needs an outcome test too; DOSM chart",
     "status": "supported",
     "confidence": "bounded to inspected record",
     "limitations": "Covered registered private-sector survey, not total economy. Rounded estimates; not TVET qualification, fresh-graduate or physical-work counts. No error interval supplied in overview."
-  },
-  {
-    "id": "C29",
-    "text": "Manufacturing contributes114.0k or58.3% of the same Q22026 vacancies.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S14"
-    ],
-    "locator": "Malaysia paragraph after chart; economic activity breakdown",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Sector/skill cuts of same total, not additive. No attribution to AI and no demonstrated reason vacancies remain open."
   },
   {
     "id": "C30",
@@ -78,46 +42,10 @@
     "source_ids": [
       "S15"
     ],
-    "locator": "Physical work section; methods/printedpp29,38–39 andfootnote18",
+    "locator": "TVET needs an outcome test too; technical exposure limitations",
     "status": "supported",
     "confidence": "bounded to inspected record",
     "limitations": "Published data-based assessment; ratings are not observed automation. Equal weights and cross-country applicability remain assumptions; no Malaysian demand or all-automation forecast adopted. Initial AI scoring used models available at end2024; not a measurement of October2026 technology."
-  },
-  {
-    "id": "C32",
-    "text": "English World Bank report records education/TVET expansion alongside mismatch; graduate vacancy/application ratios1.6 in2018–19 and1.0 in2020–22.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S21"
-    ],
-    "locator": "China section; printedp37/Figure19 discussion",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "PreGenAI pandemic-period platform evidence; not national hires, forecast accuracy or AI causal effect."
-  },
-  {
-    "id": "C33",
-    "text": "TalentCorp is KESUMA agency and strategic thinktankMarch2024; MyCOL18sectors uses employer surveys/engagement and regional shortage analysis.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S18"
-    ],
-    "locator": "TalentCorp section; official overview/header/Highlights",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Published purpose/process not programme effectiveness or graduate job guarantee."
-  },
-  {
-    "id": "C34",
-    "text": "2024workforce study summary describes FSTC sector assessments/updates, forward3–5year horizon.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S20"
-    ],
-    "locator": "TalentCorp section; summary",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "No forecast numbers used as observed outcomes; full model not appraised."
   },
   {
     "id": "C35",
@@ -126,7 +54,7 @@
     "source_ids": [
       "S19"
     ],
-    "locator": "TalentCorp section; overview/requirements/Options1–2",
+    "locator": "A more useful task for TalentCorp and KESUMA",
     "status": "supported",
     "confidence": "bounded to inspected record",
     "limitations": "No causal claim on hiring/pay/retention; no hypothetical pathway."
@@ -167,5 +95,116 @@
     "status": "supported",
     "confidence": "bounded to inspected record",
     "limitations": "Do not create false trend across definition break. Survey-time status not long-term employment."
+  },
+  {
+    "id": "C39",
+    "text": "ADP panel ages 22-25: employment changed about -11% in top two exposure quintiles and +10% in bottom three, November 2022-June 2026; divergence mainly hiring; no comparable exposure gap for experienced workers.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S22"
+    ],
+    "locator": "Where young workers are facing pressure; cover chart",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Descriptive not causal; pretrends, education composition and sample representativeness; age is not graduate status."
+  },
+  {
+    "id": "C40",
+    "text": "International affiliate study estimates junior share -1.9 percentage points, senior employment +6.7%, junior -2.5% (not statistically significant), relative to controls by March 2026.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S23"
+    ],
+    "locator": "Is employment shifting towards seniors?",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Published empirical estimates, not directly observed causal changes. AI inferred from ads; foreign-headquarter peer-adoption exclusion assumption unverified; digitally attached multinationals not whole economies; no Malaysian forecast or structural-model interpretation."
+  },
+  {
+    "id": "C41",
+    "text": "Danish adoption-register study through December 2024 estimates near-zero average earnings/hours effects, rules out above 2%, and no differential early-career share decline at adopting workplaces.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S24"
+    ],
+    "locator": "The other evidence belongs in the same picture",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Observational comparison assumptions; 11 occupations, not later systems or every worker; publication March 2026 is not data date."
+  },
+  {
+    "id": "C42",
+    "text": "US CPS study through August 2026 finds no statistically significant recent-graduate unemployment increase in its comparisons; ages22-25 highest bachelor degree and not in school.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S10"
+    ],
+    "locator": "The other evidence belongs in the same picture",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Descriptive working paper; no identification of AI alone, no proof of no harms within occupations."
+  },
+  {
+    "id": "C43",
+    "text": "Singapore entry-level PMET vacancies 32500 December2025 to32800 March2026; among AI adopters6%headcount reduction8%lower hiring19%role redesign14%newAIjobs.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S25"
+    ],
+    "locator": "Singapore paragraphs and employer-response chart",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Official answer5August2026 does not supply survey field dates; firm shares not worker shares or mutually exclusive; vacancies not hires; self-report not causal identification."
+  },
+  {
+    "id": "C44",
+    "text": "Anthropic internal October2026 study reports greater hiring emphasis on autonomy and judgment.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S26"
+    ],
+    "locator": "AI can help beginners who already have a job",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Single growing AI company self-study; commercial interest; not representative of Malaysia or proof technical knowledge unimportant."
+  },
+  {
+    "id": "C45",
+    "text": "MyCOL uses employer surveys/engagement to identify occupations in demand and skills imbalances across18sectors.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S18"
+    ],
+    "locator": "A more useful task for TalentCorp and KESUMA",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Programme purpose/method, not established employment effect."
+  },
+  {
+    "id": "C46",
+    "text": "The examined studies differ in populations, reference periods and outcomes; they do not establish one global job-loss rate or universal senior AI advantage.",
+    "kind": "inference",
+    "source_ids": [
+      "S7",
+      "S10",
+      "S22",
+      "S23",
+      "S24",
+      "S25"
+    ],
+    "locator": "Opening, synthesis and conclusion",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Bounded synthesis of this evidence set, not systematic-review completeness or a prediction for Malaysia."
+  },
+  {
+    "id": "C47",
+    "text": "Propose tracking entry eligibility, junior hiring, internship conversion, pay/job match/retention at6and12months; assess practicalAIwork/output checking.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Four recommendations for TalentCorp, KESUMA, employers and students",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Owner-authorized editorial recommendations. Not empirically validated interventions, invented scenarios or guaranteed routes to employment. Six/twelve months are proposed evaluation windows."
   }
 ]

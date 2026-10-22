@@ -42,3 +42,10 @@ Reference-period recheck22October2026: QJE IV.A says rollout mainly autumn2020 a
 ## 23 October 2026: graduate outcomes replace China cover
 Two new charts transcribe MOHE Higher Education Statistics2025, Chapter7, Tables7.1/7.2 (printed210) and7.7 (printed215). gen_fig_graduates.py stores counts, calculates rounded percentages matching publication, and exports CSV/PNG/PDF. Employment denominator5706 is the employed+unemployed group; position denominator4694 is government+private employees (Table7.6:442+4252). No response rate/CI provided in this chapter; no causal policy/AI effect or long-term outcome asserted. Original factual-data charts, no copied ministry artwork. The source is bilingual with English table labels.
 China administrative chart removed from active article/assets on owner English-source instruction. Its old CSV/PDF and gen_fig_planning.py remain historical research artefacts, not support for current claims. Only the Malaysia vacancy output from that historical generator remains active.
+
+
+## First-job revision — 23 October 2026
+
+US cover chart: S22 printed p3 directly reports approximately -11%/+10% from November2022 to June2026. No interpolation, counterfactual path or forecast. Exposure groupings and age are explicit. Singapore chart: S25 answer paragraph2; shares19/14/8/6 among adopting firms, reported5August2026. The answer does not give fieldwork dates; labels disclose that gap, rather than equating reporting date with collection. Categories are not added. Neither chart supplies invented confidence intervals.
+
+Original matplotlib charts, Okabe-Ito colours, numerical labels and zero baselines, PNG300dpi and vectorPDF. Factual values transcribed with attribution; no publisher artwork reproduced. Code, CSV inputs and software environment retained. Images visually inspected for clipping, labels, scale and source/caveat legibility. Existing graduate employment graphic remains supplementary; first-job chart is now the cover.

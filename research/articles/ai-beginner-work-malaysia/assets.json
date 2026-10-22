@@ -65,7 +65,8 @@
     "bytes": 239551,
     "sha256": "b4ea7c3824f8f46bf3c8943f656aa4385375d1507a9e4f4230246d02ab28b1c7",
     "vector_path": "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-employment-2025.pdf",
-    "created_on": "2026-10-23"
+    "created_on": "2026-10-23",
+    "usage_status": "retained supplementary data; no longer cover"
   },
   {
     "id": "kesuma-graduate-position-2025",
@@ -88,5 +89,49 @@
     "sha256": "5ea19bf69b490e4fafc17c40d2d354ec13a96d89783d29f066d496b36762343f",
     "vector_path": "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-position-2025.pdf",
     "created_on": "2026-10-23"
+  },
+  {
+    "id": "us-young-worker-employment",
+    "path": "site/content/posts/ai-beginner-work-malaysia/us-young-worker-employment.png",
+    "alt": "US payroll sample ages22-25: employment changed approximately -11% in higher-exposure occupations and +10% in lower-exposure occupations, November2022-June2026. Descriptive, not causal.",
+    "kind": "chart",
+    "rights": "Original matplotlib artwork using factual published values; no source artwork, logo or substantial source prose reproduced. Attribution retained.",
+    "attribution": "Brynjolfsson, Chandar and Chen; Stanford Digital Economy Lab",
+    "source_url": "https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/us-young-worker-employment.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_first_jobs.py",
+      "research/articles/ai-beginner-work-malaysia/figures/first-jobs-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/us-young-worker-employment.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 237317,
+    "sha256": "ad62b1b219b42bc282adbe7a85d43249e58826380fb90264f01eb45217f503e9",
+    "created_on": "2026-10-23",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/us-young-worker-employment.pdf"
+  },
+  {
+    "id": "singapore-ai-employer-responses",
+    "path": "site/content/posts/ai-beginner-work-malaysia/singapore-ai-employer-responses.png",
+    "alt": "Among Singapore AI-adopting firms:19%redesign,14%AI-related jobs,8%lower hiring,6%headcount reductions. Firm shares reported5August2026; field dates unspecified.",
+    "kind": "chart",
+    "rights": "Original matplotlib artwork using factual published values; no source artwork, logo or substantial source prose reproduced. Attribution retained.",
+    "attribution": "Singapore Ministry of Manpower",
+    "source_url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0805-written-answer-to-pq-on-trends-in-job-vacancies",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/singapore-ai-employer-responses.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_first_jobs.py",
+      "research/articles/ai-beginner-work-malaysia/figures/first-jobs-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/singapore-ai-employer-responses.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 253585,
+    "sha256": "fe339caea9f1b494d714126908365ea2047b6197289564d8877610047da6ecf7",
+    "created_on": "2026-10-23",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/singapore-ai-employer-responses.pdf"
   }
 ]

@@ -1,15 +1,15 @@
-# Revised brief — 23 October 2026
+# First-job revision — 23 October 2026
 
-Owner explicitly requested TalentCorp/KESUMA perspectives, verified graduate outcomes/charts, English-language sources, removal of Chinese news and research that does not assume its conclusion. Preserve 24 October2026,09:00MYT publication date and evidence rule. Existing publication authorization continues for these explicitly requested revisions; no invented line-by-line approval.
+Owner instruction: “do the recommended”, following the evidence-led improvement brief. Apply that recommendation to the existing article; retain English sources, the evidence rule and24October2026at09:00MYT. Continuing publication authorization covers explicitly requested revisions; no claim of new line-by-line approval.
 
-Question: What does evidence about AI, experience and graduate outcomes establish for young Malaysians considering TVET?
-Reader: young Malaysians and readers of education/work policy; personal journal, no corporate positioning or invented personal experience.
-Research changed the argument: removed all Chinese news citations/process-success narrative and its administrative cover. English World Bank December2022 research supplies mismatch counterevidence, explicitly preGenAI/pandemic. TalentCorp already operates occupation assessments and structured internships. MOHE2025 graduate results provide observed survey outcomes, not proof of programme causation. No senior-superiority model, physical-work boom forecast or hypothetical illustration.
+Question: what do measured overseas changes in first-job access and senior/junior employment imply for the evidence Malaysia should examine? Audience: young Malaysians and education/work policy readers. Genre: personal-journal research essay; no invented personal experience.
 
-Sources: English original research/official programme descriptions; MOHE2025 original bilingual tables include English column labels, plus English denominator/method definition. Public China recruitment abstract remains explicitly abstract-only. Distinguish programmes, forward assessments, vacancy estimates, employed-agent productivity and graduate survey status.
+Argument: some samples show junior hiring pressure/senior growth; contrary findings are central. Productivity of employed novices differs from obtaining a first job. The evidence supports scrutiny of entry routes, not a uniform graduate collapse, senior-superiority mechanism, Chinese forecast-success claim or TVET boom forecast.
 
-Visuals: new KESUMA employment cover and employee-position chart with different explicit denominators; retained novice-learning approximation and DOSM vacancy chart. All active charts have CSV/code/PDF and limitations.
+Structure: US payroll → multinational seniority estimates → Denmark/US-graduate/Singapore counterevidence → novice productivity and bounded company hiring case → Malaysian graduate outcomes/TVET → explicitly labelled recommendations. No unsupported examples, conceptual model or future-winner ranking.
 
-Original contribution/discovery: connect local skills-matching tools to observed graduate outcomes while separating employment, permanent status, wage/jobmatch questions and AI causality. Stable slug ai-beginner-work-malaysia; title AI, First Jobs and TVET: What Malaysia Can Learn from China. Related published entries offer no necessary supporting first-job dataset; no forced internal link. No search demand/ranking claim.
+Discovery: title “AI and the First Job: What Global Evidence Means for Young Malaysians”; description/intro match the question; slug remains ai-beginner-work-malaysia. No search-volume or ranking claim. No forced links to unrelated published entries.
 
-Open questions: course-level wage/jobmatch, sustained outcomes, internship counterfactuals, Chinese forecast accuracy and AI-caused Malaysian hiring effects. No invented data fills them.
+Visuals: original US observed-change cover and Singapore firm-response chart; retained novice-learning, graduate employee-position and vacancy charts. Malaysia values remain context, not AI effects. Publication and data dates differ and are labelled. Singapore field dates absent from cited answer and disclosed.
+
+Open: Malaysian adoption-linked junior hiring; course-level wages/jobmatch/retention; programme counterfactuals; future occupational demand. Recommendations are editorial proposals, not proven policy effects. Full decision trail: follow-up-2026-10-23/.
