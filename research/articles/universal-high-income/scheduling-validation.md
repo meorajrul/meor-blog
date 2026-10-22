@@ -15,3 +15,7 @@ Checks completed:
 Scope limits: selected-source narrative review; no UHI affordability demonstration. Invented fiscal examples and conceptual causal pathway removed from active material; backup retained only under ignored .tools/. Source citations and structural checks cannot certify truth. The decorative hero is AI-generated and does not depict evidence or a predicted economy. LinkedIn copy delivered for owner use after the article is live; no LinkedIn account action.
 
 Isolated release branch: codex/uhi-oct26-release. Main untouched. Source PR targets staging.
+
+## Updated staging verification
+
+Fetched current origin/staging (6d46e1c) and resolved the topics.csv append conflict by retaining both T019 UHI and incoming T025 security essay. No other upstream content changed. Repeated checks passed: 4 public / 3 draft posts; 31 production HTML pages; 34 HTML pages in the at-release clock rehearsal. The full article gate and 08:59/09:00 exclusion/inclusion test passed again. PR #23 targets staging. GitHub reported no check runs at inspection time; local checks are the verified evidence.
