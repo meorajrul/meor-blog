@@ -43,3 +43,11 @@ Final heading check: the Malaysia section names current vacancies without implyi
 ## Date change — 23 October 2026
 
 The owner explicitly instructed “set the publish date to 24 october”. Publication is now planned for 24 October 2026 at09:00 Asia/Kuala_Lumpur, retaining the existing time. This supersedes earlier schedule dates above. Article content, sources and numerical charts are unchanged. The existing publication authority continues; no new research claim or line-by-line author approval is asserted.
+
+
+## 23 October2026 — owner-requested English-source/local-outcome revision
+Removed S11/S12/S13 Chinese news sources and dependent C24–27/C31 claims from active registries; China administrative cover removed from bundle. Historical logs are provenance, not current support. Revised opening/conclusion do not presume Chinese forecast accuracy or senior advantage. English WB2022 mismatch evidence dates/scopes are explicit; no pandemic-period evidence presented as AI-caused.
+
+Inspected TalentCorp English MyCOL/MySIP/MyMahir original descriptions. They support remit, assessment and programme design only; no causal success invented. Follow-up search for MySIP outcomes did not establish an appraised comparative effect in inspected sources; gap left open. Found MOHE2025 after first inspecting2024 and used newer original bilingual English-labelled tables. Employment5367+339=5706,94.1%; employee positions2501+1557+513+123=4694, shares53.3/33.2/10.9/2.6. Crosschecked position denominator442government+4252private. Different bases prominently labelled; no provider ranking, aggregate TVET causal advantage, response rate or confidence interval invented. English MOHE definition makes outside-labour-force exclusion, survey timing and pre2024 break explicit.
+
+Figures generated reproducibly with CSV+PDF; full-size PNGs inspected after render. Title/description/intro now promise local evidence rather than verified Chinese forecast success. No imaginary ministry quotations or firsthand events. Current owner request explicitly authorizes these revisions; retain actual19October publication authorization and23October rescheduling, without claiming new line-by-line review.

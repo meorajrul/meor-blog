@@ -3,9 +3,9 @@
   "status": "approved",
   "author_approved": true,
   "reviewer": "Codex — evidence-rule review; continuing owner publication authorization for explicitly requested revisions",
-  "reviewed_on": "2026-10-22",
-  "review_by": "2026-11-22",
-  "content_sha256": "d6d790204d044d24ad26a8777b31be13be15d245711efb61e76f45132bb64c49",
+  "reviewed_on": "2026-10-23",
+  "review_by": "2026-11-23",
+  "content_sha256": "659bd99f3672bdcc3550c45f9e88cd5109f024d09af9ed73f7061c0dce661772",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -32,8 +32,10 @@
     "approved_on": "2026-10-19",
     "revision_instruction": "Check this article against my new evidence rule. Remove unsupported assumptions and hypothetical examples, keep the data and limitations clear",
     "revision_authorized_on": "2026-10-22",
-    "scope": "Same article, corrected and extended with supported China education/TVET evidence as explicitly requested. Existing23October publication authorization retained. No claim of new line-by-line owner review. Main/deployment remain owner-managed.",
+    "scope": "Same article; continuing owner publication authorization covers explicitly requested23October English-source/outcome revisions and24October schedule. No claim of new line-by-line owner review. Main/deployment owner-managed.",
     "reschedule_instruction": "set the publish date to 24 october",
-    "rescheduled_on": "2026-10-23"
+    "rescheduled_on": "2026-10-23",
+    "current_revision_instruction": "Add TalentCorp and Ministry of HR perspectives with verified graduate outcome data/charts, use English sources, remove Chinese news and do not presume the conclusion; keep evidence rule and24Octoberdate.",
+    "current_revision_authorized_on": "2026-10-23"
   }
 }

@@ -1,0 +1,5 @@
+{
+  "python": "3.12.14",
+  "matplotlib": "3.11.2",
+  "method": "Counts transcribed directly from MOHE 2025 tables; percentage=count/row denominator*100 rounded one decimal, agrees with published percentages. No forecast or causal estimate. Source tables bilingual with English labels. Survey response rate and CI not supplied in inspected chapter."
+}

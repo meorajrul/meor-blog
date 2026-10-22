@@ -48,54 +48,6 @@
     "limitations": "Approximate descriptions, not exact target-time calculation, confidence interval, guarantee or Malaysian forecast."
   },
   {
-    "id": "C24",
-    "text": "China reports a talent supply-demand data platform and forecasting for urgent fields to inform education programme changes.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S11"
-    ],
-    "locator": "China planning section; final paragraph of supply-demand matching section",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Official process account; underlying model and forecast accuracy not appraised; no shortage reduction inferred."
-  },
-  {
-    "id": "C25",
-    "text": "2024 undergraduate round:1839 offerings added,2220 stopped admissions,1428 withdrawn,157 degree-category/duration changes; reported22April2025.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S12"
-    ],
-    "locator": "Cover chart and China section; announcement opening",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Institution-level offerings, not places, subjects, graduates or jobs. No summed net effect or causal policy effect."
-  },
-  {
-    "id": "C26",
-    "text": "The 2025 undergraduate catalogue adds29 subjects including AI education and low-altitude technology/engineering.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S12"
-    ],
-    "locator": "China section; announcement catalogue paragraph and green-channel paragraph",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Catalogue additions and strategic intent; not numbers of graduates or realised demand."
-  },
-  {
-    "id": "C27",
-    "text": "China issued758 new/revised vocational teaching standards in February2025, covering82.1% of institution-level offerings recorded in2024; includes practical, advanced-manufacturing and digital/AI teaching.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S13"
-    ],
-    "locator": "China TVET paragraph; Q&A scope and characteristics3–5",
-    "status": "supported",
-    "confidence": "bounded to inspected record",
-    "limitations": "Administrative standards coverage; not student share, implemented quality, measured shortage reduction or effectiveness."
-  },
-  {
     "id": "C28",
     "text": "DOSM estimates195.7k vacancies inQ22026:107.3k semi-skilled,50.2k skilled,38.2k low-skilled.",
     "kind": "external-fact",
@@ -132,22 +84,88 @@
     "limitations": "Published data-based assessment; ratings are not observed automation. Equal weights and cross-country applicability remain assumptions; no Malaysian demand or all-automation forecast adopted. Initial AI scoring used models available at end2024; not a measurement of October2026 technology."
   },
   {
-    "id": "C31",
-    "text": "These records do not establish universal senior AI advantage, reliable Chinese forecast accuracy or an AI-caused future TVET boom.",
-    "kind": "inference",
+    "id": "C32",
+    "text": "English World Bank report records education/TVET expansion alongside mismatch; graduate vacancy/application ratios1.6 in2018–19 and1.0 in2020–22.",
+    "kind": "external-fact",
     "source_ids": [
-      "S1",
-      "S7",
-      "S8",
-      "S11",
-      "S12",
-      "S13",
-      "S14",
-      "S15"
+      "S21"
     ],
-    "locator": "Opening and conclusions",
-    "status": "qualified",
-    "confidence": "limited to evidence examined",
-    "limitations": "Evidence-bound scope judgment, not proof that the outcomes can never occur; questions left open."
+    "locator": "China section; printedp37/Figure19 discussion",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "PreGenAI pandemic-period platform evidence; not national hires, forecast accuracy or AI causal effect."
+  },
+  {
+    "id": "C33",
+    "text": "TalentCorp is KESUMA agency and strategic thinktankMarch2024; MyCOL18sectors uses employer surveys/engagement and regional shortage analysis.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S18"
+    ],
+    "locator": "TalentCorp section; official overview/header/Highlights",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "Published purpose/process not programme effectiveness or graduate job guarantee."
+  },
+  {
+    "id": "C34",
+    "text": "2024workforce study summary describes FSTC sector assessments/updates, forward3–5year horizon.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S20"
+    ],
+    "locator": "TalentCorp section; summary",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "No forecast numbers used as observed outcomes; full model not appraised."
+  },
+  {
+    "id": "C35",
+    "text": "MySIP includes TVET practical structured modules and employer/intern evaluations.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S19"
+    ],
+    "locator": "TalentCorp section; overview/requirements/Options1–2",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "No causal claim on hiring/pay/retention; no hypothetical pathway."
+  },
+  {
+    "id": "C36",
+    "text": "2025 KESUMA labour-force graduate row5367employed339unemployed,n5706,94.1%.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S16",
+      "S17"
+    ],
+    "locator": "KESUMA section/cover; Tables7.1/7.2 printed210; definition opening",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "Malaysian survey respondents in labourforce; not all graduates, no exact universal follow-up interval supplied."
+  },
+  {
+    "id": "C37",
+    "text": "2025 KESUMA graduate employees permanent2501(53.3),contract1557(33.2),temporary513(10.9),parttime123(2.6),n4694.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S16"
+    ],
+    "locator": "Position chart; Table7.7 printed215; denominator crosscheckTable7.6 printed214",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "Government/private employee subset, not denominator5706 or all employed5367. Pay/jobmatch/progression not measured by rows; no AI causal claim."
+  },
+  {
+    "id": "C38",
+    "text": "From2024employment denominator excludes outside-labourforce; pre2024employability includes study/training/waiting placement.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S17"
+    ],
+    "locator": "KESUMA definition paragraph",
+    "status": "supported",
+    "confidence": "bounded to inspected record",
+    "limitations": "Do not create false trend across definition break. Survey-time status not long-term employment."
   }
 ]

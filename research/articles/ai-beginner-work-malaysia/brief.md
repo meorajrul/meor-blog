@@ -1,26 +1,15 @@
-# Revised essay brief — 22 October 2026
+# Revised brief — 23 October 2026
 
-Owner request: check the existing article against the new evidence rule; remove unsupported assumptions and hypothetical examples; investigate China's anticipatory education planning and the suggestion that AI could increase demand for TVET/physical work. Earlier requested publication date remains 23 October 2026, 09:00 MYT.
+Owner explicitly requested TalentCorp/KESUMA perspectives, verified graduate outcomes/charts, English-language sources, removal of Chinese news and research that does not assume its conclusion. Preserve 24 October2026,09:00MYT publication date and evidence rule. Existing publication authorization continues for these explicitly requested revisions; no invented line-by-line approval.
 
-Question: What do inspected recruitment research, Chinese education decisions and Malaysian labour data establish about first jobs and vocational training?
+Question: What does evidence about AI, experience and graduate outcomes establish for young Malaysians considering TVET?
+Reader: young Malaysians and readers of education/work policy; personal journal, no corporate positioning or invented personal experience.
+Research changed the argument: removed all Chinese news citations/process-success narrative and its administrative cover. English World Bank December2022 research supplies mismatch counterevidence, explicitly preGenAI/pandemic. TalentCorp already operates occupation assessments and structured internships. MOHE2025 graduate results provide observed survey outcomes, not proof of programme causation. No senior-superiority model, physical-work boom forecast or hypothetical illustration.
 
-Reader: young Malaysians considering work/training and readers assessing education policy. Broad personal journal, clear and curious, with no corporate positioning.
+Sources: English original research/official programme descriptions; MOHE2025 original bilingual tables include English column labels, plus English denominator/method definition. Public China recruitment abstract remains explicitly abstract-only. Distinguish programmes, forward assessments, vacancy estimates, employed-agent productivity and graduate survey status.
 
-Author-supplied views: concern about experienced workers' head start; interest in Chinese advance planning and TVET. These are research questions, not findings to presume. No firsthand event, feeling or hiring incident was supplied or invented.
+Visuals: new KESUMA employment cover and employee-position chart with different explicit denominators; retained novice-learning approximation and DOSM vacancy chart. All active charts have CSV/code/PDF and limitations.
 
-Evidence boundaries: a Chinese AI-advertising abstract; exploratory Korean interviews; Philippines-based workplace counterevidence; official Chinese administrative actions/process reports; Malaysian Q2 2026 private-sector vacancy estimates; ILO's published 2025 data-based exposure assessment. Keep their outcomes/populations separate. No general senior-advantage mechanism or China-to-Malaysia forecast is adopted.
+Original contribution/discovery: connect local skills-matching tools to observed graduate outcomes while separating employment, permanent status, wage/jobmatch questions and AI causality. Stable slug ai-beginner-work-malaysia; title AI, First Jobs and TVET: What Malaysia Can Learn from China. Related published entries offer no necessary supporting first-job dataset; no forced internal link. No search demand/ranking claim.
 
-Original contribution: compare documented education adjustment with the outcome evidence required to establish successful demand matching; distinguish existing vacancies, TVET qualification requirements and technological exposure.
-
-Visuals: administrative-count cover (China 2024 round, announced April 2025), Malaysia Q2 2026 vacancy chart, retained approximate learning-curve summary. All have CSV data, source scope, alternative text and explicit limitations. Remove the generated staircase cover because it communicates an unverified senior-advantage pathway. Remove the age-exposure chart from the page because it no longer answers the revised question; its original factual data remain in the research history.
-
-Discovery question: What can Malaysia learn from China's education planning about AI, first jobs and TVET?
-Title: AI, First Jobs and TVET: What Malaysia Can Learn from China
-Description: China is adjusting education to anticipated industry needs. What do recruitment studies, Malaysian vacancies and AI research actually establish for young workers and TVET?
-Slug retained: ai-beginner-work-malaysia. No search-volume or ranking claim.
-
-Conclusion permitted: China reports planning arrangements and actual changes to education provision; Malaysian vacancies are a starting point for examining training. Forecast accuracy, reduced labour gaps, universal senior AI advantage, and AI-caused future growth of TVET jobs are unverified in this packet and remain open.
-
-Review status: substantive revision reviewed, draft=true until the scheduled date. The actual19October publication instruction and22October revision instruction are recorded in review.json; existing authorization remains in force for these requested corrections. No claim is made that the owner individually read or approved every revised sentence. The one-time release check must verify the revised digest and keep the intended23Octoberdate.
-
-Schedule superseded23October2026: owner explicitly moved publication to24October2026;09:00MYT retained.
+Open questions: course-level wage/jobmatch, sustained outcomes, internship counterfactuals, Chinese forecast accuracy and AI-caused Malaysian hiring effects. No invented data fills them.

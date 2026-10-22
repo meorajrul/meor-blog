@@ -26,3 +26,16 @@ Chart provenance: new CSV values checked against official MOE announcement and d
 No main branch change, merge or deployment. The one-time23October check must use the current revised digest and continuing publication authority, never restore the superseded text.
 
 GitHub Actions passed for first revision commit cf8ff907f7e9f12211041cdcf93f3951380f4527 (run39638008739). Revision PR: https://github.com/meorajrul/meor-blog/pull/16 targeting staging.
+
+
+## 23 October2026 — English sources and2025graduate outcomes
+Current digest659bd99f3672bdcc3550c45f9e88cd5109f024d09af9ed73f7061c0dce661772. Publication24October2026,09:00Asia/Kuala_Lumpur retained; real source draft=true. Existing owner publication authorization and latest explicit revision instructions recorded without inventing new line-by-line approval.
+
+Primary workspace: python scripts/blog.py check passed(4public/6draft); Hugo0.167.0 production passed(36pages); check-output passed31HTML/17sitemapURLs, internal links/source boundary/draft exclusion/SEO/sitemap/discovery.
+Attached staging-based worktree: check passed(2public/2draft); first build invocation could not locate ignored .tools Hugo binary, corrected by explicit primary Hugo0.167.0 executable; fresh production build passed(28pages), check-output passed23HTML, links/boundary/draft exclusion. Worktree helper has fewerSEOchecks; primary helper supplies those checks. Existing LanguageDirection/LanguageCode theme warnings remain.
+
+Final scratch copy with draft=false and explicit as_of24October2026 passed full validate_article publication gate (public), including current digest/source/claim/assets/continuing authorization. Real source stays draft. No validator changes.
+
+Chart counts/rounding reconciled to downloaded official2025MOHE PDF English-labelled tables. New PNGs visually inspected; CSV/PDF and plotting code retained. Browser preview1338 loaded correctly, displays24Octoberdate and revised sections; all four images loaded at full natural widths and no horizontal overflow. Old1337preview superseded. Screenshot retained in local visualization directory. Structural checker does not establish source truth/entailment or causal policy efficacy.
+
+No main modification, merge or deployment; PR16 remains staging review/release path.

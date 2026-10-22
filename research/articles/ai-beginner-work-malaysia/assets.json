@@ -24,28 +24,6 @@
     "updated_on": "2026-10-22"
   },
   {
-    "id": "china-education-counts",
-    "path": "site/content/posts/ai-beginner-work-malaysia/china-programme-changes.png",
-    "alt": "2024 round of China undergraduate programme decisions:1839 added,2220 admissions stopped,1428 withdrawn,157 degree category/duration changes. Institution-level offerings; not labour-gap outcomes.",
-    "kind": "chart",
-    "rights": "Original visualization of factual administrative counts; no ministry chart, logo, photography or prose copied.",
-    "attribution": "Original chart from China Ministry of Education,22April2025.",
-    "source_url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202504/t20250422_1188245.html",
-    "input_paths": [
-      "research/articles/ai-beginner-work-malaysia/figures/china-programme-changes.csv",
-      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_planning.py",
-      "research/articles/ai-beginner-work-malaysia/figures/planning-plot-environment.json",
-      "research/articles/ai-beginner-work-malaysia/figures/README.md",
-      "site/content/posts/ai-beginner-work-malaysia/china-programme-changes.csv"
-    ],
-    "width": 3600,
-    "height": 2220,
-    "bytes": 234870,
-    "sha256": "c43d641560eeb6fd517c7faf3a00bd082d2c4a43f024428a8045eab2d454b2ba",
-    "created_on": "2026-10-22",
-    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/china-programme-changes.pdf"
-  },
-  {
     "id": "malaysia-current-vacancies",
     "path": "site/content/posts/ai-beginner-work-malaysia/malaysia-vacancies-q2-2026.png",
     "alt": "Q22026 covered Malaysian private-sector vacancy estimates:semi-skilled107.3k,skilled50.2k,low-skilled38.2k. Skill groups do not count TVET or first-job opportunities.",
@@ -66,5 +44,49 @@
     "sha256": "1d1e7f19a46f932c61b472b07ab2870e837a9b71973ce648115ce62d5542eeee",
     "created_on": "2026-10-22",
     "vector_path": "research/articles/ai-beginner-work-malaysia/figures/malaysia-vacancies-q2-2026.pdf"
+  },
+  {
+    "id": "kesuma-graduate-employment-2025",
+    "path": "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-employment-2025.png",
+    "alt": "KESUMA2025:5367employed339unemployed of5706;94.1%employed. Survey labourforce denominator, not all graduates.",
+    "kind": "chart",
+    "rights": "Original chart of factual public statistical counts; no ministry artwork, logo or copied prose. Source attribution and links provided.",
+    "attribution": "MOHE Graduate Tracer Study2025, Table7.1/7.2",
+    "source_url": "https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-employment-2025.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_graduates.py",
+      "research/articles/ai-beginner-work-malaysia/figures/graduate-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-employment-2025.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 239551,
+    "sha256": "b4ea7c3824f8f46bf3c8943f656aa4385375d1507a9e4f4230246d02ab28b1c7",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-employment-2025.pdf",
+    "created_on": "2026-10-23"
+  },
+  {
+    "id": "kesuma-graduate-position-2025",
+    "path": "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-position-2025.png",
+    "alt": "KESUMA2025graduate employees:53.3%permanent33.2%contract10.9%temporary2.6%part-time;denominator4694government/private employees.",
+    "kind": "chart",
+    "rights": "Original chart of factual public statistical counts; no ministry artwork, logo or copied prose. Source attribution and links provided.",
+    "attribution": "MOHE Graduate Tracer Study2025, Table7.7",
+    "source_url": "https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-position-2025.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_graduates.py",
+      "research/articles/ai-beginner-work-malaysia/figures/graduate-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-position-2025.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 260439,
+    "sha256": "5ea19bf69b490e4fafc17c40d2d354ec13a96d89783d29f066d496b36762343f",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-position-2025.pdf",
+    "created_on": "2026-10-23"
   }
 ]

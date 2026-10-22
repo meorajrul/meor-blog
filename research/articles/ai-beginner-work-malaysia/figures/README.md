@@ -37,3 +37,8 @@ Values in thousands: semi-skilled107.3, skilled50.2, low-skilled38.2; published 
 Reproduce new plots with gen_fig_planning.py using Python3.12 and matplotlib3.11.2; planning-plot-environment.json records the actual runtime. Web PNGs and CSVs are in the bundle; vector PDFs remain here. Both quantitative axes start at zero. New cover is the China data chart; the conceptual staircase hero and prompt were removed from the current version. The age-exposure data/PDF remain only as superseded provenance.
 
 Reference-period recheck22October2026: QJE IV.A says rollout mainly autumn2020 and winter2021. Chart and downloadable inputs now identify this; 2025 is the publication year, not the deployment period. ILO initial scoring uses models available at end2024; May2025 is its publication date, not October2026 capability testing.
+
+
+## 23 October 2026: graduate outcomes replace China cover
+Two new charts transcribe MOHE Higher Education Statistics2025, Chapter7, Tables7.1/7.2 (printed210) and7.7 (printed215). gen_fig_graduates.py stores counts, calculates rounded percentages matching publication, and exports CSV/PNG/PDF. Employment denominator5706 is the employed+unemployed group; position denominator4694 is government+private employees (Table7.6:442+4252). No response rate/CI provided in this chapter; no causal policy/AI effect or long-term outcome asserted. Original factual-data charts, no copied ministry artwork. The source is bilingual with English table labels.
+China administrative chart removed from active article/assets on owner English-source instruction. Its old CSV/PDF and gen_fig_planning.py remain historical research artefacts, not support for current claims. Only the Malaysia vacancy output from that historical generator remains active.

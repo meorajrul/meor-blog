@@ -1,6 +1,6 @@
 +++
 title = "AI, First Jobs and TVET: What Malaysia Can Learn from China"
-description = "China is adjusting education to anticipated industry needs. What do recruitment studies, Malaysian vacancies and AI research actually establish for young workers and TVET?"
+description = "What AI research, TalentCorp programmes and Malaysia’s 2025 graduate outcomes reveal about experience, first jobs and TVET—and what remains unproven."
 slug = "ai-beginner-work-malaysia"
 article_id = "ai-beginner-work-malaysia"
 genre = "essay"
@@ -11,18 +11,16 @@ author = "Meor Ajrul"
 tags = ["AI", "work", "Malaysia", "China", "education", "TVET"]
 
 [cover]
-image = "china-programme-changes.png"
-alt = "China's 2024 undergraduate programme decisions, reported in April 2025: 1,839 offerings added, 2,220 stopped admitting students, 1,428 withdrawn and 157 changed degree category or duration. Counts concern institution-level offerings, not graduates or jobs."
-caption = "China's reported education changes. Source: Ministry of Education, April 2025. These administrative counts do not measure whether labour shortages fell."
+image = "kesuma-graduate-employment-2025.png"
+alt = "KESUMA institutions, 2025: 5,367 employed and 339 unemployed graduates in the reported labour-force group of 5,706. Employment rate 94.1%."
+caption = "MOHE Graduate Tracer Study, 2025. Employment at survey time; this does not measure long-term job quality."
 relative = true
 hidden = false
 +++
 
-What should a young Malaysian train for as AI changes work? China offers evidence of an attempt to answer that question through education planning. It also offers recruitment evidence that deserves a careful reading.
+What should a young Malaysian train for as AI changes work? The concern about experienced workers getting a head start is understandable. But the research does not establish that seniors always benefit more from AI, or that physical work will inevitably become more plentiful.
 
-China's records describe anticipating industry needs and changing what institutions teach. They do not establish whether the predictions proved accurate or graduates filled the expected gaps.
-
-The same care applies to experience and technical and vocational education and training, or TVET. The research does not establish that seniors always benefit more from AI, or that physical work will inevitably become more plentiful. There is still useful evidence to examine.
+China’s recruitment research raises questions about entry requirements. Malaysia’s own graduate outcomes and workforce programmes give us a more direct way to examine the local response. The useful question is whether training leads to work, and what kind of work graduates obtain.
 
 ## What the evidence says about experience
 
@@ -40,19 +38,37 @@ The strongest counterweight comes from [*Generative AI at Work*](https://doi.org
 
 These results do not settle first-job access. They do rule out treating a general senior advantage as an established finding. China's advertised experience requirements and the customer-support study's novice productivity gains concern different outcomes.
 
-## China is changing education around anticipated demand
+## China also shows the limits of expanding education
 
-China's [June 2026 account of graduate-employment measures](https://hudong.moe.gov.cn/jyb_xwfb/s5147/202606/t20260615_1440719.html) describes a national talent supply-and-demand data platform, forecasting for urgently needed fields, and data sharing to inform programme adjustments. This is an official account of the planning process. It does not publish a forecast-accuracy evaluation.
+An English-language [World Bank China Economic Update](https://documents1.worldbank.org/curated/en/099062002232318248/pdf/P1757970fbdcf3053096ae006cda0a3e01a.pdf), published in December 2022, describes expanding college education and TVET alongside evidence of graduate skills mismatch. It reports that the ratio of advertised vacancies to applications for college graduates fell from an average of 1.6 in 2018–19 to 1.0 in 2020–22, using China Institute for Employment Research data drawn from Zhaopin.com.
 
-There are concrete records of education changes. For the 2024 undergraduate programme approval and filing round, [the Ministry of Education reported](https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202504/t20250422_1188245.html) 1,839 programme offerings added, 2,220 stopping admissions, 1,428 withdrawn, and 157 changing their degree category or duration. The announcement was published on 22 April 2025. The chart at the top of this article shows those counts.
+These are platform-based indicators from a pandemic-affected period, before the subsequent generative-AI boom. They cannot establish an AI effect or evaluate China’s 2026 policies. They do challenge the assumption that expanding education automatically aligns graduates with demand. The report also identifies concerns about funding and teaching capacity during TVET expansion.
 
-Here, an offering means a programme at an institution. It is neither a student place nor a distinct subject nationwide. The figures are administrative changes, with no comparison showing what would have happened without the policy. [Chart data](china-programme-changes.csv).
+The claim that China always predicts demand accurately and minimises future labour gaps is not established by the evidence examined here. Malaysia should assess outcomes rather than presume that planning itself demonstrates success.
 
-The ministry also added 29 subjects to its 2025 undergraduate catalogue, including AI education and low-altitude technology and engineering. That documents a response to stated strategic and industry priorities. It does not establish how many graduates will find relevant jobs.
+## TalentCorp: Malaysia already has skills-matching instruments
 
-Vocational education is part of this effort. In February 2025, China [issued 758 new or revised vocational teaching standards](https://hudong.moe.gov.cn/jyb_xwfb/s271/202502/t20250211_1178747.html). The ministry says they covered 82.1% of institution-level vocational programme offerings recorded in 2024. The standards address advanced manufacturing and other fields, strengthen practical teaching, and incorporate digital and AI tools.
+[TalentCorp’s MyCOL](https://www.talentcorp.com.my/mycol/) identifies occupations in demand and skills imbalances across 18 sectors, drawing on employer surveys and direct industry engagement. Its stated scope includes regional shortages. TalentCorp is an agency of the Ministry of Human Resources, or KESUMA, and was mandated as its strategic think tank in March 2024.
 
-This supports a precise conclusion: China has documented arrangements for anticipating skills needs and revising education provision. The records examined here do not establish that it always predicts demand correctly, or that these changes have minimised labour gaps by the time industries expand. That outcome remains unverified here.
+This adds a local perspective: Malaysia already has an instrument for identifying hard-to-fill occupations. The relevant evidence is occupation- and location-specific. A broad vacancy total cannot tell a student which qualification an employer requires or whether the position accepts beginners. MyCOL’s published purpose is not a guarantee of employment for every graduate in a listed field.
+
+TalentCorp’s [2024 workforce impact-study summary](https://www.mymahir.my/publication/1/impact-study-of-ai-digital-and-green-economy-on-the-malaysian-workforce) also describes sector skills assessments and periodic updates through the Future Skills Talent Council. Its three-to-five-year outlook is an assessment of anticipated change, not an observed count of jobs lost to AI. This article does not use its forward estimates as verified outcomes.
+
+There is also a documented route to practical experience. [MySIP](https://www.talentcorp.com.my/mysip-incentives/) supports structured internships, including for TVET students, with approved learning modules and employer and intern evaluations. That establishes programme design. The inspected programme page does not establish how much participation improves later hiring, pay or retention compared with similar non-participants.
+
+## KESUMA: examine graduate outcomes as well as training provision
+
+[MOHE’s 2025 bilingual tables](https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file) report 5,367 employed and 339 unemployed Malaysian graduates from KESUMA institutions: **94.1% employed**, from a labour-force group of 5,706. The cover chart shows this result.
+
+[MOHE’s English definition](https://ge.mohe.gov.my/CarianGraduateEmploymentBI.aspx) counts employed graduates divided by employed plus unemployed graduates. It excludes those outside the labour force. Status is recorded shortly after graduation, not over a sustained career. Pre-2024 “employability” figures included further study, training and waiting for placement; they should not be joined into an employment trend.
+
+![KESUMA graduate employees in 2025: permanent 53.3%, contract 33.2%, temporary 10.9%, part-time 2.6%; denominator 4,694 government and private-sector employees.](kesuma-graduate-position-2025.png)
+
+*MOHE, Table 7.7, 2025. Denominator: government/private employees, excluding other employment categories. [Employment data](kesuma-graduate-employment-2025.csv); [position data](kesuma-graduate-position-2025.csv).*
+
+The second chart separates permanent, contract, temporary and part-time posts. Neither table establishes wages, training relevance, progression or an AI effect. The chapter supplies no response-rate or confidence-interval information for these rows.
+
+For KESUMA, these published results make it possible to discuss its institutions’ graduate employment, rather than only enrolments or training places. They do not establish which policy caused the outcomes. For a prospective student, the next useful evidence would be course-level pay, job match and follow-up over time. Those questions remain open here.
 
 ## Start with Malaysia's current vacancies
 
@@ -76,14 +92,12 @@ There is evidence behind part of the intuition about practical skills. The [ILO'
 
 Those scores estimate technical exposure; they are not observed automation rates or forecasts of Malaysian vacancies. Nor does this measure establish protection from robotics or other automation. It cannot show that demand for physical work will grow because AI performs more cognitive tasks.
 
-China's vocational standards also incorporate AI and digital teaching. They do not present vocational education as an escape from technology.
-
 For a Malaysian student, the unanswered question is specific: which training programmes lead to sustained employment, relevant work, acceptable wages and progression? The vacancy totals and exposure estimates in this article do not answer it. Course-level graduate outcomes and occupation-level hiring evidence are needed before claiming that a particular TVET route is the future winner.
 
 ## What Malaysia can take from this
 
-There is a useful practice to examine in China's approach: connecting education decisions to stated industry needs and updating provision. The education changes are documented. Their success in closing future gaps still needs to be demonstrated.
+China’s experience is useful as a question, not a forecast for Malaysia. Recruitment requirements, education expansion and successful graduate matching are separate things. The English-language evidence examined here does not demonstrate that Chinese planning has eliminated labour gaps.
 
-Malaysia's current vacancies give that discussion a factual starting point. The AI studies add a second reason for care: experience requirements can rise in a recruitment dataset while beginners gain more from an AI tool in a particular workplace. Neither finding settles the other.
+Malaysia already has TalentCorp’s occupation assessments, structured internship programmes and published graduate outcomes. The harder test is what these measures deliver for entrants: relevant work, wages and progression over time. Programme existence and a high employment rate cannot answer all of that.
 
-The evidence supports taking TVET and first-job access seriously. It leaves open how much demand AI will create, which qualifications will be needed, and whether young Malaysians will receive the opportunities those qualifications are supposed to prepare them for.
+TVET merits serious attention on the strength of actual hiring requirements and graduate results. The evidence does not yet justify telling young Malaysians that AI guarantees a boom in physical work—or that experience will always outweigh their ability to learn with the new tools.
