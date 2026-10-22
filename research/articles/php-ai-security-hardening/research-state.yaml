@@ -1,0 +1,22 @@
+project: php-ai-security-hardening
+as_of: 2026-10-22
+timezone: Asia/Kuala_Lumpur
+stage: author-approved-release-candidate
+mode: bounded-source-research
+question: What supports preventive hardening after the October PHP disclosures?
+direction: conclude
+continuity: manual resume; no background schedule requested
+sources_inspected: 14
+experiments_performed: 0
+author_approved: true
+published: false
+remaining:
+  - Refresh rapidly changing vendor advisories before publication
+limitations:
+  - No general human versus AI reverse-engineering speed comparison
+  - No attributable future attack-rate estimate
+  - No audit or hardening of the owner's actual deployments
+
+selected_direction: We Already Had the Warning
+visuals: generated hero and two NVD publication timelines
+data_period_end_utc: 2026-10-21T23:59:59.999Z

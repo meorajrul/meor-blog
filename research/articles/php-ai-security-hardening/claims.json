@@ -1,0 +1,195 @@
+[
+  {
+    "id": "C1",
+    "text": "PHP announced fixes on 21 October 2026 for CVE-2026-109618 and CVE-2026-109619, two critical flaws that can allow unauthenticated remote code execution.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Opening; How to update",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Release-date versions, not evergreen installation instructions; no claim that every PHP site is exploitable."
+  },
+  {
+    "id": "C2",
+    "text": "Temporary PHP mitigations are incomplete; patching is required.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "If you cannot update immediately",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Generic hardening cannot be represented as remediation for these CVEs."
+  },
+  {
+    "id": "C7",
+    "text": "The PHP Foundation reports early signs during human audit follow-up in 2024 and stalled fixes amid compatibility, resource and decision constraints; later reports clarified RCE impact.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S2"
+    ],
+    "locator": "A first external audit; Building a sustainable professional security organization",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Attributed maintainer account, not independent causal study; no blame beyond described account."
+  },
+  {
+    "id": "C8",
+    "text": "ENISA recommends inventory including embedded PHP, provider coordination, urgent patching of exposed systems and considering isolation where fixes cannot immediately be applied.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S6"
+    ],
+    "locator": "Operational recommendations and embedded software paragraph",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Incident-specific guidance; no measured protection percentage."
+  },
+  {
+    "id": "C9",
+    "text": "OWASP recommends unprivileged Docker users, restricted capabilities and read-only filesystems where applicable.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S7"
+    ],
+    "locator": "Rules 2, 3, 8",
+    "status": "supported",
+    "confidence": "bounded to inspected source",
+    "limitations": "Docker-specific guidance, not a guarantee or verified control in the owner’s deployment."
+  },
+  {
+    "id": "C11",
+    "text": "Prepare now, harden deployments, patch known flaws and assign responsibility. No need to wait for an attack. ",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "Opening and closing viewpoint",
+    "status": "qualified",
+    "confidence": "owner-supplied position",
+    "limitations": "Develops supplied preventive position; no invented first-person incident, forecast or approval."
+  },
+  {
+    "id": "C12",
+    "text": "Anthropic introduced Mythos Preview on April 7 with limited partner access and reported overnight RCE discovery/exploit cases.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S9"
+    ],
+    "locator": "Date; Significance; Suggestions for defenders",
+    "status": "supported",
+    "confidence": "attributed original account",
+    "limitations": "Vendor-reported cases, not an independent benchmark or representative rate."
+  },
+  {
+    "id": "C13",
+    "text": "The April Preview restriction preceded a June 12 suspension of Mythos 5 and Fable 5; the June 30/July 1 account records restoration and initially limited US organizational Mythos access.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S9",
+      "S10"
+    ],
+    "locator": "S9 no general availability; S10 opening update and timeline",
+    "status": "supported",
+    "confidence": "attributed original account",
+    "limitations": "Historical vendor account. No permanent withdrawal, same-version conflation, current-access or legal-effect claim."
+  },
+  {
+    "id": "C14",
+    "text": "Node.js released October 21 security updates for 26.x, 24.x and 22.x, including high-severity CVE-2026-111497 affecting the Brotli decoder and permitting RCE.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S11"
+    ],
+    "locator": "Security releases available; Brotli decoder section",
+    "status": "supported",
+    "confidence": "attributed original account",
+    "limitations": "No AI attribution, in-the-wild exploitation claim or universal Node.js exposure claim."
+  },
+  {
+    "id": "C15",
+    "text": "The owner connects the Mythos warning with the PHP and Node.js releases and favours preparation and clear responsibility.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "New Mythos reflection; pace paragraph",
+    "status": "qualified",
+    "confidence": "owner-supplied viewpoint",
+    "limitations": "Owner-supplied viewpoint, no invented firsthand use, incident, forecast rate or certainty that Node.js will be next."
+  },
+  {
+    "id": "C16",
+    "text": "NVD publication-window queries contain 85,344 non-rejected CVE records for 1 January–21 October 2026, including 12,543 during 1–21 October.",
+    "kind": "calculation",
+    "source_ids": [
+      "S12"
+    ],
+    "locator": "figures/raw/month-01.json through month-10.json: totalResults; figures/cve-monthly-2026.csv and plot_cve_timelines.py",
+    "status": "supported",
+    "confidence": "direct aggregate queries and exact arithmetic",
+    "limitations": "Snapshot count, not discovery or exploitation count; partial October, complete UTC days only. Covers all indexed ecosystems; includes older CVE ID years when published in 2026."
+  },
+  {
+    "id": "C17",
+    "text": "The daily October counts reconcile exactly to the October monthly query; cumulative lines sum observed values without interpolation.",
+    "kind": "calculation",
+    "source_ids": [
+      "S12"
+    ],
+    "locator": "figures/raw/day-01.json through day-21.json; cve-daily-october-2026.csv; plot_cve_timelines.py assertions",
+    "status": "supported",
+    "confidence": "arithmetic reconciliation",
+    "limitations": "No attack, AI attribution, severity or forecasting claim; incomplete month and live database snapshot."
+  },
+  {
+    "id": "C18",
+    "text": "Django disclosed CVE-2026-84429 on October 6, 2026: potential denial of service through HTTP header parsing, rated moderate, with some unauthenticated request paths.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S13"
+    ],
+    "locator": "CVE-2026-84429 section; date/byline",
+    "status": "supported",
+    "confidence": "bounded to original maintainer advisories",
+    "limitations": "Specific parser and request paths, not universal deployment exposure or RCE. Django project severity wording, not an invented CVSS score."
+  },
+  {
+    "id": "C19",
+    "text": "Spring Security disclosed high-severity CVE-2026-41707 on August 20, 2026: DPoP proof replay after interception of a valid proof and forced cache eviction can lead to impersonation.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S14"
+    ],
+    "locator": "Heading; Description; affected versions",
+    "status": "supported",
+    "confidence": "bounded to original maintainer advisories",
+    "limitations": "Conditional Spring Security component issue, not all Java or Spring applications. Historical example, no current fix-version instructions."
+  },
+  {
+    "id": "C20",
+    "text": "React disclosed CVE-2025-55182 on December 3, 2025: unauthenticated RCE in affected RSC packages used by frameworks including Next.js; client-only/non-RSC applications are excluded.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S3"
+    ],
+    "locator": "Opening; Immediate Action Required; Affected frameworks",
+    "status": "supported",
+    "confidence": "bounded to original maintainer advisories",
+    "limitations": "Historical 2025 example explicitly dated, not an October/YTD 2026 count or independent Next.js CVE. React component and downstream framework are distinct."
+  },
+  {
+    "id": "C21",
+    "text": "The selected advisories demonstrate security issues beyond PHP, with different effects and conditions; they do not establish a stack ranking, universal deployment exposure or AI attribution.",
+    "kind": "inference",
+    "source_ids": [
+      "S1",
+      "S11",
+      "S13",
+      "S14",
+      "S3"
+    ],
+    "locator": "Article: PHP is one part of a wider problem; linked advisory conditions",
+    "status": "qualified",
+    "confidence": "bounded to original maintainer advisories",
+    "limitations": "Selected examples are not an exhaustive survey or denominator-adjusted comparison. No future discovery-speed or attack-rate model inferred."
+  }
+]

@@ -1,0 +1,60 @@
+# CVE chart data and method
+
+Snapshot retrieved 22 October 2026. Reference period: 1 January–21 October 2026, ending 23:59:59.999 UTC. October is incomplete. The ongoing day, 22 October, is excluded to avoid a partial-day comparison.
+
+Source: [NIST NVD CVE API](https://services.nvd.nist.gov/rest/json/cves/2.0).
+
+Observed values: the API's `totalResults` for non-overlapping UTC publication-date windows, using `pubStartDate`, `pubEndDate`, `noRejected`, and `resultsPerPage=1`. One query per calendar month and one per October day. The one returned CVE is only a sample, not the basis for the count. Rejected records are excluded; all CVE ID years are eligible when publication is in the reference period. ID reservation year, last modification and publication date are not interchangeable. Records are counted in the live database snapshot; later revisions or indexing can change counts.
+
+Derived values: cumulative totals are arithmetic sums of the observed publication counts. YTD: 85,344. October 1–21: 12,543. The 21 daily counts sum exactly to the October monthly query. No extrapolation, trend fit, forecast, causal model or filling of missing observations was used.
+
+These counts cover software/hardware vulnerability records across the NVD, not only PHP or Node.js. They do not measure discovery dates, research duration, attacks, exploitation, affected installations or AI involvement. The figures cannot attribute changes to AI. Full calendar months should not be compared directly with October's unfinished total.
+
+A severity split was considered but not produced: the detailed October record download timed out. Direct aggregate counts were successfully obtained instead. No incomplete severity dataset or third-party dashboard totals were substituted.
+
+[Monthly input and cumulative totals](cve-monthly-2026.csv) · [Daily input and cumulative totals](cve-daily-october-2026.csv).
+
+## Accessible monthly data
+
+| Month | Published CVE records | Cumulative YTD |
+| --- | ---: | ---: |
+| 2026-01 | 4,302 | 4,302 |
+| 2026-02 | 4,616 | 8,918 |
+| 2026-03 | 6,234 | 15,152 |
+| 2026-04 | 5,810 | 20,962 |
+| 2026-05 | 6,936 | 27,898 |
+| 2026-06 | 7,942 | 35,840 |
+| 2026-07 | 9,770 | 45,610 |
+| 2026-08 | 12,258 | 57,868 |
+| 2026-09 | 14,933 | 72,801 |
+| 2026-10 (1–21 only) | 12,543 | 85,344 |
+
+## Accessible October data
+
+| UTC date | Published CVE records | Cumulative October |
+| --- | ---: | ---: |
+| 2026-10-01 | 392 | 392 |
+| 2026-10-02 | 393 | 785 |
+| 2026-10-03 | 115 | 900 |
+| 2026-10-04 | 68 | 968 |
+| 2026-10-05 | 405 | 1,373 |
+| 2026-10-06 | 1,014 | 2,387 |
+| 2026-10-07 | 340 | 2,727 |
+| 2026-10-08 | 497 | 3,224 |
+| 2026-10-09 | 315 | 3,539 |
+| 2026-10-10 | 412 | 3,951 |
+| 2026-10-11 | 229 | 4,180 |
+| 2026-10-12 | 674 | 4,854 |
+| 2026-10-13 | 2,303 | 7,157 |
+| 2026-10-14 | 824 | 7,981 |
+| 2026-10-15 | 546 | 8,527 |
+| 2026-10-16 | 465 | 8,992 |
+| 2026-10-17 | 100 | 9,092 |
+| 2026-10-18 | 549 | 9,641 |
+| 2026-10-19 | 437 | 10,078 |
+| 2026-10-20 | 1,923 | 12,001 |
+| 2026-10-21 | 542 | 12,543 |
+
+## Reproduction
+
+Run fetch_cve_data.py and plot_cve_timelines.py in this folder. Cached raw API JSON responses and request URLs/timestamps/checksums are retained in raw/. Each totalResults was inspected; October daily aggregation reconciles to the monthly total. API documentation HTML requests returned HTTP 403, so no claim of full documentation inspection is made. The chart logic is an explicit transformation of observed API fields.
