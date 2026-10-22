@@ -1,0 +1,6 @@
+{
+  "request_url": "https://services.nvd.nist.gov/rest/json/cves/2.0?pubStartDate=2026-10-11T00%3A00%3A00.000Z&pubEndDate=2026-10-11T23%3A59%3A59.999Z&resultsPerPage=1&noRejected=",
+  "retrieved_at_utc": "2026-10-22T04:48:54.231959+00:00",
+  "api_timestamp": "2026-10-22T04:48:54.258",
+  "sha256": "e570811be004db7de111e7cd8fe7cfdb2a13a76e2946c9817f88ba8d2b582052"
+}
