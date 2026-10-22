@@ -1,0 +1,80 @@
+[
+  {
+    "id": "S03",
+    "title": "Fiscal Policy Can Help Broaden the Gains of AI to Humanity",
+    "publisher": "Era Dabla-Norris and Ruud de Mooij / IMF",
+    "published": "2024-06-17",
+    "url": "https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "locator": "Social protection; Tax policy; Broader implications",
+    "origin_group": "IMF-fiscal-2024",
+    "evidence_type": "Official policy summary, relevant sections inspected; underlying staff note not fully reviewed.",
+    "appraisal": "Supports considering capital taxation and protection during transitions; warns against a specific AI tax. Policy analysis does not prove that a generous universal transfer is affordable."
+  },
+  {
+    "id": "S05",
+    "title": "Unconditional Cash Study",
+    "publisher": "OpenResearch",
+    "published": "undated evolving study page",
+    "url": "https://www.openresearchlab.org/projects/unconditional-cash-study",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "locator": "About the study; participant counts and transfer; Employment; Agency",
+    "origin_group": "OpenResearch-US-cash-RCT",
+    "evidence_type": "Primary study-team summary inspected.",
+    "appraisal": "The same experiment as S04, not replication. Reports increased agency alongside modest reductions in work. Study-team framing and an older hosted paper must be distinguished from later NBER revisions."
+  },
+  {
+    "id": "S06",
+    "title": "General equilibrium effects of cash transfers: experimental evidence from Kenya",
+    "publisher": "Dennis Egger, Johannes Haushofer, Edward Miguel, Paul Niehaus and Michael Walker",
+    "published": "2019-11-21; inspected working-paper version",
+    "url": "https://economics.yale.edu/sites/default/files/cash_transfers_ge_ada-ns.pdf",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "locator": "PDF pp. 1, 4, 22–23 and 38–39; section 3.4.1 and conclusion",
+    "origin_group": "Kenya-GE-cash",
+    "evidence_type": "Relevant full-text design/results inspected.",
+    "appraisal": "Randomized local transfers produced spending gains and minimal local price inflation. External funding, local slack, trade and one-time payments constrain extrapolation to permanent national UHI. Coauthor Niehaus co-founded implementing charity GiveDirectly; later published estimates differ from this version."
+  },
+  {
+    "id": "S08",
+    "title": "Fund Structure",
+    "publisher": "Alaska Permanent Fund Corporation",
+    "published": "undated current page",
+    "url": "https://apfc.org/the-fund/fund-structure/",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "locator": "Generating Earnings; Principal; How are Realized Earnings Used?",
+    "origin_group": "Alaska-Permanent-Fund",
+    "evidence_type": "Official institutional explanation inspected.",
+    "appraisal": "Shows a real institution linking invested public wealth to services and resident dividends. Resource endowment and legislative rules differ from a prospective AI fund; dividends are not a high-income guarantee."
+  },
+  {
+    "id": "S10",
+    "title": "How might generative AI impact different occupations?",
+    "publisher": "International Labour Organization",
+    "published": "2025-05-20",
+    "url": "https://www.ilo.org/resource/article/how-might-generative-ai-impact-different-occupations",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "locator": "Task scoring; What is the possible effect of generative AI on employment?",
+    "origin_group": "ILO-2025-exposure",
+    "evidence_type": "Official methods/results explainer inspected.",
+    "appraisal": "Occupational task exposure is potential, not observed job destruction; infrastructure and adoption matter. Contemporary GenAI scope cannot establish or refute all-capable future AGI."
+  },
+  {
+    "id": "S12",
+    "title": "Elon Musk at Davos 2026: why technology could shape a more abundant future",
+    "publisher": "Sophia Akram / World Economic Forum",
+    "published": "2026-01-24",
+    "url": "https://www.weforum.org/stories/artificial-intelligence/elon-musk-technology-abundant-future-davos-2026",
+    "accessed": "2026-10-22",
+    "inspection": "inspected",
+    "locator": "AI and robotics’ potential for economic growth; Energy needs",
+    "origin_group": "Musk-Davos-2026",
+    "evidence_type": "Event organizer account inspected; standalone podcast page exposed no transcript.",
+    "appraisal": "Evidence of Musk’s publicly presented vision and its conditions, not empirical support for his predictions. Event organizer is primary for its event account; commercial speaker interests remain relevant."
+  }
+]

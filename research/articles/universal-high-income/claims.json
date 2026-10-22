@@ -1,0 +1,90 @@
+[
+  {
+    "id": "C01",
+    "text": "The WEF event account records Musk presenting AI and robotics as a route to abundance and discussing electricity constraints.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S12"
+    ],
+    "locator": "AI and robotics’ potential for economic growth; Energy needs",
+    "status": "supported",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "Attribution to an argument, not validation of its outcome."
+  },
+  {
+    "id": "C02",
+    "text": "The US study compared 1,000 recipients of $1,000 monthly with 2,000 recipients of $50 during 2020–2023; the team reports modest work reductions and planning/agency benefits.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S05"
+    ],
+    "locator": "About the study; participant counts and transfer; Employment; Agency",
+    "status": "supported",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "Study-team summary; temporary selected population. Avoid precise work-effect estimates across revised paper versions."
+  },
+  {
+    "id": "C03",
+    "text": "The inspected Kenyan working paper reports consumption/assets gains, spillovers and minimal local price inflation from a one-time externally funded transfer programme studied in 2014–2017.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S06"
+    ],
+    "locator": "PDF pp. 1, 4, 22–23 and 38–39; section 3.4.1 and conclusion",
+    "status": "supported",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "2019 working-paper version. Empirical estimates, not proof of permanent national price stability. Supply slack is an interpretation, not an assumed general condition."
+  },
+  {
+    "id": "C04",
+    "text": "Alaska investment earnings support services and resident dividends through a fund with separate principal and earnings accounts.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S08"
+    ],
+    "locator": "Generating Earnings; Principal; How are Realized Earnings Used?",
+    "status": "supported",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "Institutional description does not establish AI-fund returns or high-income affordability."
+  },
+  {
+    "id": "C05",
+    "text": "ILO occupational exposure estimates concern potential contemporary GenAI effects and do not measure realised job losses.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S10"
+    ],
+    "locator": "Task scoring; What is the possible effect of generative AI on employment?",
+    "status": "supported",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "Exposure/adoption framework; not a forecast of all-capable AGI."
+  },
+  {
+    "id": "C06",
+    "text": "The IMF fiscal discussion considers social protection, transitions and capital taxation; it is not a costed UHI programme.",
+    "kind": "inference",
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "Social protection; Tax policy; Broader implications",
+    "status": "qualified",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "Policy discussion, not an observed demonstration of funding adequacy."
+  },
+  {
+    "id": "C07",
+    "text": "The selected experiments and institutional records do not establish a permanent universal high income or a calibrated Malaysian payment.",
+    "kind": "inference",
+    "source_ids": [
+      "S05",
+      "S06",
+      "S08",
+      "S10",
+      "S03"
+    ],
+    "locator": "About the study; participant counts and transfer; Employment; Agency; PDF pp. 1, 4, 22–23 and 38–39; section 3.4.1 and conclusion; Generating Earnings; Principal; How are Realized Earnings Used?; Task scoring; What is the possible effect of generative AI on employment?; Social protection; Tax policy; Broader implications",
+    "status": "qualified",
+    "confidence": "bounded by identified source and scope",
+    "limitations": "Scope conclusion about this selected review; does not claim an exhaustive absence of evidence worldwide."
+  }
+]
