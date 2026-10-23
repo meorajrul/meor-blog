@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "author_approved": true,
+  "reviewer": "Codex editorial review; Meor author approval via direct publication request",
+  "reviewed_on": "2026-10-23",
+  "review_by": "2026-11-23",
+  "content_sha256": "44cdd466483a38024e953c5c8aec438d6d8eca3587b5393621c13ad94b8213d7",
+  "unresolved_issues": [],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true
+}
