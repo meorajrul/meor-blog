@@ -191,5 +191,17 @@
     "status": "qualified",
     "confidence": "bounded to original maintainer advisories",
     "limitations": "Selected examples are not an exhaustive survey or denominator-adjusted comparison. No future discovery-speed or attack-rate model inferred."
+  },
+  {
+    "id": "C22",
+    "text": "PHP published a session-upload-progress follow-up on23October describing an additional RCE path under unusual session configuration and runtime behaviour.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S15"
+    ],
+    "locator": "Article: Update24October paragraph; source23October heading and first2paragraphs",
+    "status": "supported",
+    "confidence": "bounded to maintainer statement",
+    "limitations": "Conditional path, not all installations; follow-up is not a replacement for original patches. No claim of current exploitation or tested protection."
   }
 ]
