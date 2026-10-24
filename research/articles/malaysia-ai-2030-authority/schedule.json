@@ -4,10 +4,10 @@
   "timezone": "Asia/Kuala_Lumpur",
   "utc_time": "2026-10-24T16:00:00Z",
   "time_basis": "Midnight convention retained from the prior article date; user specified25October without an hour.",
-  "state": "dated-release-preparation-awaiting-manual-release",
+  "state": "release-pr-prepared-awaiting-owner-merge-and-deployment",
   "approval_instruction": "set it to publish on25th october and get the pr to staging ready",
   "target_branch": "staging",
-  "release_branch": "codex/ai-malaysia-oct25-release",
+  "release_branch": "codex/ai-malaysia-oct25-publish",
   "release_worktree": "C:\\Users\\meor2\\.codex\\worktrees\\ai-malaysia-oct25-release\\211 Blog",
   "live_url": "https://meorajrul.com/posts/malaysia-ai-2030-authority/",
   "main_and_deployment": "Owner-managed. No main merge or production deployment performed.",
@@ -16,5 +16,7 @@
   "approved_content_sha256": "4b3e495cfddd87a3f7f02acdb16d0c0d1e4132d8493765906133dd02892cdd8d",
   "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/29",
   "preparation_commit": "ce12184",
-  "preparation_ci": "Build passed; deployment skipped on PR. Main untouched."
+  "preparation_ci": "Build passed; deployment skipped on PR. Main untouched.",
+  "release_checked_on": "2026-10-25",
+  "public_url_check": "HTTP404 on25October before release preparation; not live"
 }

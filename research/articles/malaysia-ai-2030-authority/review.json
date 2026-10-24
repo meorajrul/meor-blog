@@ -3,7 +3,7 @@
   "status": "approved",
   "author_approved": true,
   "reviewer": "Codex - AI-assisted evidence appraisal, not independent legal review",
-  "reviewed_on": "2026-10-24",
+  "reviewed_on": "2026-10-25",
   "review_by": "2026-10-25",
   "content_sha256": "4b3e495cfddd87a3f7f02acdb16d0c0d1e4132d8493765906133dd02892cdd8d",
   "unresolved_issues": [],
@@ -14,7 +14,7 @@
   "privacy_checked": true,
   "first_person_checked": true,
   "counterevidence_checked": true,
-  "blueprint_review": "Five-improvement editorial revision reviewed against MJWS1.0; hero plus three supporting figures retained; factual evidence review remains23October, author approval outstanding.",
+  "blueprint_review": "Author-approved24October final revision; approved digest verified25October and only draft flag changed for release. No new body or asset changes.",
   "approval_basis": "Direct user24October2026 request: set it to publish on25th october and get the pr to staging ready; approval covers the final revised article for that date, not main merge or deployment.",
   "release_not_before": "2026-10-25T00:00:00+08:00",
   "limitations": [
