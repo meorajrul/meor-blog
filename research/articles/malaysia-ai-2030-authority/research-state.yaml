@@ -1,0 +1,15 @@
+project: malaysia-ai-2030-authority
+as_of: 2026-10-24
+timezone: Asia/Kuala_Lumpur
+stage: author-approved-scheduled-release-preparation
+author_approved: true
+publication_date: 2026-10-25
+publish_at: 2026-10-25T00:00:00+08:00
+draft: true
+published: false
+deployed: false
+assets: 4
+supporting_figures: 3
+target_branch: staging
+release_branch: codex/ai-malaysia-oct25-release
+main_and_deployment: owner-managed

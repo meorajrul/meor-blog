@@ -1,0 +1,210 @@
+[
+  {
+    "id": "C01",
+    "text": "AI Malaysia was announced on 28 July 2026 as institutionalisation of NAIO.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S02"
+    ],
+    "locator": "Opening",
+    "status": "supported",
+    "confidence": "High for announced change",
+    "limitations": "Not proof of operational capacity or coercive powers.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C02",
+    "text": "The plan assigns PM-chaired MED4IRN oversight, an AI Malaysia secretariat and designated delivery leads; it proposes central AI oversight while retaining sector enforcement.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S01"
+    ],
+    "locator": "E11 printed p.80; Part 5 pp.89-90",
+    "status": "supported",
+    "confidence": "High for policy design",
+    "limitations": "Proposals are not statutory powers or verified implementation.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C03",
+    "text": "On 5 October the minister expected AI Governance Bill tabling in early 2027.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "Oral question 2, 10:20 response",
+    "status": "supported",
+    "confidence": "High for attributed statement",
+    "limitations": "Digital transcript marked draft; expected timetable only.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C04",
+    "text": "AICE is voluntary and not legally binding.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S04"
+    ],
+    "locator": "Opening and binding-status FAQ",
+    "status": "supported",
+    "confidence": "High",
+    "limitations": "Publisher explanation inspected; gated full code not obtained.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C05",
+    "text": "Act709 covers personal-data processing in commercial transactions within its scope and excludes Federal and State Governments; ActA1727 does not remove that exclusion.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S18",
+      "S19"
+    ],
+    "locator": "Act709 sections2(1),3(1),2023reprint; ActA1727 amendments; current F09",
+    "status": "supported",
+    "confidence": "High for regulator explanation",
+    "limitations": "Read2023 reprint alongside2024 Amendment Act; not comprehensive2026 consolidation or public-remedy audit. Other duties and government-linked company status require separate examination.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C06",
+    "text": "BNM has enforced technology requirements under existing financial legislation.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S07"
+    ],
+    "locator": "Section A and footnote 1",
+    "status": "supported",
+    "confidence": "High",
+    "limitations": "Example is technology service resilience, not AI-specific conduct.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C10",
+    "text": "A policy announcement or corporate title does not by itself establish general authority to penalise private AI users.",
+    "kind": "inference",
+    "source_ids": [
+      "S01",
+      "S04",
+      "S07"
+    ],
+    "locator": "E11 proposals; AICE FAQ; statutory bases in enforcement examples",
+    "status": "qualified",
+    "confidence": "High for distinction; incomplete powers audit",
+    "limitations": "No company constitution, full delegation inventory or final AI Act inspected. Do not assert AI Malaysia has no authority whatsoever.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C11",
+    "text": "Publish current powers and capability evidence before choosing whether institutional expansion or strengthening an existing body is justified.",
+    "kind": "opinion",
+    "source_ids": [
+      "S01",
+      "S02",
+      "S07"
+    ],
+    "locator": "Institutional design synthesis",
+    "status": "qualified",
+    "confidence": "Policy judgement",
+    "limitations": "Proposed policy judgement for the author; no measured effectiveness or best institutional form established. Policy judgement. Packet does not establish a best institutional form or a comparative effectiveness estimate.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C12",
+    "text": "Recommendations consolidate the prior six items into public authority/service-owner records, enforceable supplier commitments and usable correction with outcome reporting.",
+    "kind": "opinion",
+    "source_ids": [
+      "S01",
+      "S12",
+      "S14",
+      "S17",
+      "S18",
+      "S19"
+    ],
+    "locator": "Three changes: public powers/owner register, procurement clauses/decision record, usable review route; separate programme-evidence paragraph",
+    "status": "qualified",
+    "confidence": "Policy judgement",
+    "limitations": "Proposed policy judgement for the author; no measured effectiveness or best institutional form established. Specific policy recommendations grounded in published roles/guidance; not a validated reform model or measured benefit. No invented deadline, pilot count or scenario.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C15",
+    "text": "A policy can contain enforceable requirements when supported by a relevant statutory framework; voluntary recommendations alone do not establish an offence.",
+    "kind": "inference",
+    "source_ids": [
+      "S04",
+      "S07"
+    ],
+    "locator": "AICE binding-status FAQ; BNM Section A and IFSA footnote",
+    "status": "qualified",
+    "confidence": "High within examples",
+    "limitations": "Specific duties, powers, penalties, contracts and administrative instructions need their own valid legal bases; not a full Malaysian legal opinion.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C16",
+    "text": "JDN describes public-sector AI advisory services based on GPAISA.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S12"
+    ],
+    "locator": "Information Management (AI) and Big Data Analytics; advisory scope",
+    "status": "supported",
+    "confidence": "High for official service description",
+    "limitations": "Not evidence of binding force, spare capacity or service effectiveness.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C25",
+    "text": "GPAISA describes developer testing, deployer monitoring/logs and civil-servant documentation when AI decisions are rejected.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S17"
+    ],
+    "locator": "GPAISA chapter4, sections4.1,4.2,4.6, printed pp68-70,75; service-owner recommendation; no longer a separate figure",
+    "status": "supported",
+    "confidence": "High for attributed document content; no independently measured effect",
+    "limitations": "English paraphrase of guidance, not a finding of compliance or full binding-force analysis.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C26",
+    "text": "RMiT10.48 requires SLA provisions on access, confidentiality, availability, exit continuity and incident notice.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S14"
+    ],
+    "locator": "RMiT10.48(a),(c),(e),(f),(g), printedp24; procurement recommendation; no longer a separate figure",
+    "status": "supported",
+    "confidence": "High for attributed document content; no independently measured effect",
+    "limitations": "Selected provisions. Financial-sector scope; no automatic extension to government AI procurement.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C30",
+    "text": "BNM30July2025 notice reports RM1,745,000 penalty for prolonged Bank Islam service disruptions between1June2023 and31December2024, identifying IFSA58(1)(a), applicable RMiT10.32 and penalty power IFSA245(3)(b)(i).",
+    "kind": "external-fact",
+    "source_ids": [
+      "S07"
+    ],
+    "locator": "BNM sectionA and footnote1; narrative opening paraphrases legal basis; F13 names RMiT10.32 and IFSA245(3)(b)(i)",
+    "status": "supported",
+    "confidence": "High for attributed regulator record",
+    "limitations": "No independent case audit, AI-specific conduct or customer compensation claimed. Opening uses month-level period. September2026 RMiT is not applied retrospectively.",
+    "usage": "current article release candidate"
+  },
+  {
+    "id": "C31",
+    "text": "A new authority should be assessed against documented missing powers, unresolved cases and specialist capability; comparative institutional choice remains open.",
+    "kind": "opinion",
+    "source_ids": [
+      "S01",
+      "S07",
+      "S12"
+    ],
+    "locator": "Early position and closing section; institutional comparison explicitly open",
+    "status": "qualified",
+    "confidence": "Editorial recommendation; no measured comparative effect",
+    "limitations": "Proposed policy judgement for the author; no measured effectiveness or best institutional form established. No unsupported institutional model, hypothetical affected person or proven best agency design.",
+    "usage": "current article release candidate"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "author_approved": true,
+  "reviewer": "Codex - AI-assisted evidence appraisal, not independent legal review",
+  "reviewed_on": "2026-10-24",
+  "review_by": "2026-10-25",
+  "content_sha256": "4b3e495cfddd87a3f7f02acdb16d0c0d1e4132d8493765906133dd02892cdd8d",
+  "unresolved_issues": [],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true,
+  "blueprint_review": "Five-improvement editorial revision reviewed against MJWS1.0; hero plus three supporting figures retained; factual evidence review remains23October, author approval outstanding.",
+  "approval_basis": "Direct user24October2026 request: set it to publish on25th october and get the pr to staging ready; approval covers the final revised article for that date, not main merge or deployment.",
+  "release_not_before": "2026-10-25T00:00:00+08:00",
+  "limitations": [
+    "Selected primary-source narrative, not exhaustive operative-powers or current-law inventory.",
+    "Government AI contracts, measured outcomes and comparative institutional effectiveness remain explicitly open.",
+    "Owner must merge staging/main and deploy before public URL is available."
+  ]
+}
