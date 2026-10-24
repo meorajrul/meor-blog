@@ -39,3 +39,12 @@ Release prepared from origin/staging be7c3a7 in isolated codex/php-security-rele
 - Five maintainer advisory URLs returned HTTP 200 in same-day release check. Retained chart snapshot intentionally not replaced.
 
 PR targets staging; no main push or live deployment performed. No full browser screenshot of the published page was performed. Tests and structural checks do not validate source truth or establish AI causality.
+
+
+## CI expiry repair — 24 October 2026
+
+Original main run40067222280/job120793642682:23publication-gate tests passed; Validate article packets rejected expired PHP review_by23October. No other failure preceded the stop. Maintained expiry enforcement and genuinely re-reviewed active cited passages; added23Octoberfollow-up rather than stamping dates. Historical NVDsnapshot reconciled across31raw totals, derived JSON and published CSVs;85344/12543 unchanged.
+
+New branchcodex/refresh-php-evidence-review, based on fetchedstaging784984e. Journal check passes6public/1draft.23tests pass, including expired-review rejection. Hugo0.167.0production build42pages; branch's output checker passes37HTML, links/boundary/draft checks. gitdiff--check passes. Optional cross-version test using newer primary source checker passes, but applying its newer SEO output rules to this older staging template fails on404indexing; no unrelated template/validator change included. Primary workspace is checked separately with its matching template and helper. Review digest a8251722022cf8b44a1c3644bbd18d77f461f8431e3f1e212c7b5b5fadac74b6.
+
+No runtime application code, credentials, workflows, validator logic, date system or production/main branch changed. Structural tests cannot verify source truth or protection of an installation. Existing author publication authorization and current CI-fix request cover maintenance; no invented approval.

@@ -35,6 +35,8 @@ On 21 October 2026, PHP released fixes for two critical vulnerabilities: **CVE-2
 
 Node.js published security releases on the same day. They addressed several vulnerabilities, including **CVE-2026-111497**, a high-severity Brotli decoder flaw that can permit remote code execution. [Node.js security release](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases).
 
+**Update, 24 October 2026:** PHP published a further [session upload progress advisory on 23 October](https://www.php.net/archive/2026.php). It describes an additional remote-code-execution path under an unusual combination of session configuration and application behaviour. Check that follow-up as well as the original patch advisory when assessing an installation.
+
 ## PHP is one part of a wider problem
 
 PHP is a language and runtime; Node.js is a JavaScript runtime. Frameworks and the components they depend on have their own security advisories too. Here are three examples from other ecosystems:
@@ -85,4 +87,4 @@ My position is that we should make this work routine: know what we run, follow i
 
 We already had the warning with Mythos. The PHP and Node.js releases give us concrete work to do now.
 
-*Based on advisories and data inspected on 22 October 2026.*
+*Originally based on advisories and data inspected on 22 October 2026. Cited advisory passages rechecked on 24 October; the CVE publication charts retain the 22 October snapshot.*

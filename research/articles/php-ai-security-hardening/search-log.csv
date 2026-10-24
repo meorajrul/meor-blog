@@ -22,3 +22,4 @@ date,platform,query,filters,source_ids,selection_decision
 2026-10-22,web.run,site.spring.io security CVE-2026 October Spring Framework,none,S14,"Security index led to Aug 20 component advisory; actual date preserved, not presented as October."
 2026-10-22,web.run,site.rubyonrails.org 2026 CVE security,none,,Discovery search only; no Rails claim retained or secondary report used.
 2026-10-22,web.run,site.react.dev CVE-2025-55182 security server components,none,S3,Reopened original React advisory; retain Dec 2025 date and unaffected deployment boundaries.
+2026-10-24,web.run direct open/find,"Reopen cited PHP,PHPFoundation,Node,ENISA,React,Django,Spring,AnthropicMythos/access-history,OWASP original sources",Original URLs and cited passages only,S1;S2;S3;S6;S7;S9;S10;S11;S13;S14;S15,Freshness review after CI expiry. Found23OctoberPHPfollow-up;added bounded update. Kept22OctoberNVDsnapshot unchanged;not a systematic security survey.
