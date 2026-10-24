@@ -3,9 +3,9 @@
   "status": "approved",
   "author_approved": true,
   "reviewer": "Codex — first-job evidence, chart and editorial review",
-  "reviewed_on": "2026-10-23",
-  "review_by": "2026-11-23",
-  "content_sha256": "8d2e331dfbc9a69e6f6bfd62d34e979ef9400993c3059e49e8f9557dd26d67da",
+  "reviewed_on": "2026-10-24",
+  "review_by": "2026-11-24",
+  "content_sha256": "9045f150d5f6db5fa74f5e3586b97325bc1c9b0201886ea2450242502b5e710c",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -28,14 +28,14 @@
   },
   "author_approval": {
     "source": "Direct owner instructions in this chat; existing authorization persists within scope",
-    "instruction": "publish this on 23 october",
-    "approved_on": "2026-10-19",
+    "instruction": "set it to publish and gave me linkedin short story to tell",
+    "approved_on": "2026-10-24",
     "revision_instruction": "Check this article against my new evidence rule. Remove unsupported assumptions and hypothetical examples, keep the data and limitations clear",
     "revision_authorized_on": "2026-10-22",
-    "scope": "Existing publication authorization plus explicit instruction to implement the first-job recommendation, charts and policy/student recommendations. Retain24October09:00MYT. No claim of new line-by-line review; main/deployment owner-managed. Owner explicitly authorized hero replacement and retained inline evidence chart.",
+    "scope": "Current owner-edited article approved for publication; set draft=false, preserve24October date. Release PR targets staging; main/deployment owner-managed.",
     "reschedule_instruction": "set the publish date to 24 october",
     "rescheduled_on": "2026-10-23",
-    "current_revision_instruction": "change the first image charts to a hero image",
-    "current_revision_authorized_on": "2026-10-23"
+    "current_revision_instruction": "set it to publish and gave me linkedin short story to tell",
+    "current_revision_authorized_on": "2026-10-24"
   }
 }

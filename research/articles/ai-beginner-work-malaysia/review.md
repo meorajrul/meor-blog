@@ -28,3 +28,8 @@ Title, description, opening and conclusion address first-job access and Malaysia
 ## Hero change — 23 October 2026
 
 Owner explicitly requested “change the first image charts to a hero image”. Generated decorative still life inspected: graduation cap, notebook and laptop, no depicted hiring outcome, invented event, person, chart or causal model. Caption and alt text identify AI generation. The actual US chart and CSV remain in the first evidence section; values and limits unchanged. Prompt/provenance registered. No change to the24October09:00MYT schedule. MJ01–04 and MJ12 remain satisfied within the authorized visual change.
+
+
+## Publication setting — 24 October 2026
+
+Owner explicitly instructed “set it to publish and gave me linkedin short story to tell” after opening the Markdown for editing. Compared the owner-edited primary file with the reviewed worktree: description wording/pronoun, dash punctuation, age-range typography and concluding conjunction changed; no material evidence, number, citation or limitation removed. Preserved those owner edits exactly. The owner now authorizes this current version for publication. Set draft=false, retain24October2026at09:00MYT; local time at action approximately13:34MYT, after that date/time. Updated digest after this review. No new biography, anecdote or research result introduced. Main/deployment remain owner-managed under the repository workflow; release PR targets staging.

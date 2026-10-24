@@ -1,11 +1,11 @@
 +++
 title = "AI and the First Job: What Global Evidence Means for Young Malaysians"
-description = "What observed hiring, employment and graduate outcomes reveal about AI, experience and first jobs—and what Malaysia should measure before choosing its response."
+description = "What observed hiring, employment and graduate outcomes reveal about AI, experience and first jobs and what we should measure before choosing its response."
 slug = "ai-beginner-work-malaysia"
 article_id = "ai-beginner-work-malaysia"
 genre = "essay"
 date = 2026-10-24T09:00:00+08:00
-draft = true
+draft = false
 time_sensitive = true
 author = "Meor Ajrul"
 tags = ["AI", "work", "Malaysia", "education", "TVET"]
@@ -22,15 +22,15 @@ Getting better at a job and getting the chance to start one are different questi
 
 The evidence now gives us reasons to scrutinise first-job access. Some overseas studies find weaker employment growth for young workers or a shift towards senior employees. Other findings show changing tasks without comparable losses in average earnings, or entry-level vacancies holding up. None establishes a single path that Malaysia must follow.
 
-The useful question is what these measured changes tell us about entry into work—and what we still need to know before advising the next generation.
+The useful question is what these measured changes tell us about entry into work and what we still need to know before advising the next generation.
 
 ## Where young workers are facing pressure
 
-[Stanford's August 2026 payroll study](https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf) follows a sample of US workers through June 2026. Between November 2022 and June 2026, employment among 22–25-year-olds fell about **11% in the two most AI-exposed occupation groups**, while growing about **10% in the three least-exposed groups**. The groups are quintiles: five bands ranked by exposure.
+[Stanford's August 2026 payroll study](https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf) follows a sample of US workers through June 2026. Between November 2022 and June 2026, employment among 22-25-year-olds fell about **11% in the two most AI-exposed occupation groups**, while growing about **10% in the three least-exposed groups**. The groups are quintiles: five bands ranked by exposure.
 
 The difference arose mainly through reduced hiring rather than increased departures. Experienced workers showed no comparable gap between more- and less-exposed occupations.
 
-![US ADP sample, ages 22–25: employment changed approximately minus 11% in more AI-exposed occupations and plus 10% in less-exposed occupations, November 2022 to June 2026. Descriptive comparison, not an estimated causal AI effect.](us-young-worker-employment.png)
+![US ADP sample, ages 22-25: employment changed approximately minus 11% in more AI-exposed occupations and plus 10% in less-exposed occupations, November 2022 to June 2026. Descriptive comparison, not an estimated causal AI effect.](us-young-worker-employment.png)
 
 *Approximate observed changes in the payroll sample; not a causal AI estimate. [Chart data](us-young-worker-employment.csv).*
 
@@ -115,4 +115,4 @@ The overseas evidence suggests questions for evaluating Malaysia's response. The
 
 The concern about seniors getting a head start has some support in observed employment patterns. It is not a universal rule about who benefits from AI. The same evidence base includes novice productivity gains, changing tasks and settings without comparable entry-level declines.
 
-For Malaysia, the priority should be to examine access to that first job and the quality of the work that follows. University and TVET pathways both deserve that scrutiny. The evidence reviewed here cannot tell a student which career will be safe in ten years. It can tell us why training places, initial employment, relevant work and sustained progression need separate measures—and why a confident forecast cannot substitute for them.
+For Malaysia, the priority should be to examine access to that first job and the quality of the work that follows. University and TVET pathways both deserve that scrutiny. The evidence reviewed here cannot tell a student which career will be safe in ten years. It can tell us why training places, initial employment, relevant work and sustained progression need separate measures and why a confident forecast cannot substitute for them.
