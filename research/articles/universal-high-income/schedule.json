@@ -1,0 +1,19 @@
+{
+  "article_id": "universal-high-income",
+  "publish_at": "2026-10-26T09:00:00+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
+  "utc_time": "2026-10-26T01:00:00Z",
+  "state": "scheduled-release-preparation",
+  "approved_content_sha256": "45837d26a87ed1f1b6baa32720bc0fd21323af2a61d4eaa9bd1d21d1511967c3",
+  "approval_instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
+  "target_branch": "staging",
+  "release_branch": "codex/uhi-oct26-release",
+  "main_and_deployment": "Owner-managed; this automation prepares the release PR, not production deployment.",
+  "automation_id": "uhi-release-check-26-october-9am",
+  "automation_kind": "one-time thread heartbeat",
+  "automation_status": "ACTIVE",
+  "live_url": "https://meorajrul.com/posts/universal-high-income/",
+  "release_worktree": "/Users/meorajrul/.codex/worktrees/uhi-oct26-release/211 Blog",
+  "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/23",
+  "preparation_commit": "6ef284a"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "author_approved": true,
+  "reviewer": "Codex editorial self-review; owner requested scheduled publication",
+  "reviewed_on": "2026-10-22",
+  "review_by": "2026-11-22",
+  "content_sha256": "45837d26a87ed1f1b6baa32720bc0fd21323af2a61d4eaa9bd1d21d1511967c3",
+  "unresolved_issues": [],
+  "claims_complete": true,
+  "citations_checked": true,
+  "numbers_checked": true,
+  "rights_checked": true,
+  "privacy_checked": true,
+  "first_person_checked": true,
+  "counterevidence_checked": true,
+  "author_approval": {
+    "source": "Direct owner request in this chat on 22 October 2026",
+    "instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
+    "publish_at": "2026-10-26T09:00:00+08:00",
+    "timezone": "Asia/Kuala_Lumpur",
+    "scope": "Requested illustrated article, evidence-rule corrections and scheduled staging preparation; main and deployment owner-managed."
+  }
+}
