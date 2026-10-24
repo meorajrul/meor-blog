@@ -16,40 +16,12 @@ BLUE, ORANGE = '#0072B2', '#D55E00'
 plt.rcParams.update({'font.family':'DejaVu Sans','font.size':16,'axes.spines.top':False,
  'axes.spines.right':False,'axes.spines.left':False,'axes.edgecolor':'#BEC5BB',
  'text.color':INK,'axes.labelcolor':INK,'xtick.color':MUTED,'ytick.color':INK,'pdf.fonttype':42})
-with (folder/'malaysia-ai-exposure-by-age.csv').open(encoding='utf-8-sig',newline='') as f:
-    rows=list(csv.DictReader(f))
-assert [int(r['highest_quartile_pct']) for r in rows]==[26,32,29,24,17]
-assert [int(r['lowest_quartile_pct']) for r in rows]==[44,37,31,33,36]
-fig=plt.figure(figsize=(10.8,7.8),facecolor=BG)
-fig.text(.055,.94,'Malaysia: exposure differs across age groups',fontsize=23,weight='bold')
-fig.text(.055,.887,'Modelled task exposure, applied to 2021 employment',fontsize=15,color=MUTED)
-ax=fig.add_axes([.16,.27,.73,.51],facecolor=BG)
-y=np.arange(len(rows)); h=.30
-for field,offset,color,hatch,label in [
- ('highest_quartile_pct',-.17,BLUE,None,'Highest-exposure quartile'),
- ('lowest_quartile_pct',.17,ORANGE,'//','Lowest-exposure quartile')]:
-    vals=[int(r[field]) for r in rows]
-    bars=ax.barh(y+offset,vals,height=h,color=color,hatch=hatch,label=label,zorder=3)
-    for bar,val in zip(bars,vals):
-        ax.text(val+1,bar.get_y()+bar.get_height()/2,f'{val}%',va='center',fontsize=16,weight='bold')
-ax.set_yticks(y,[r['age_group'].replace('-','–') for r in rows])
-ax.invert_yaxis(); ax.set_xlim(0,55)
-ax.set_xticks([0,10,20,30,40,50],[f'{x}%' for x in [0,10,20,30,40,50]])
-ax.tick_params(axis='both',length=0,pad=10)
-ax.grid(axis='x',color='#D9DED5',linewidth=.8,zorder=0)
-ax.set_xlabel('Workers within each age group',fontsize=15,labelpad=12)
-ax.legend(loc='lower left',bbox_to_anchor=(-.14,1.025),ncol=2,fontsize=13,frameon=False,handlelength=1.5,columnspacing=1.3)
-fig.text(.055,.12,'Exposure is not a job-loss rate. The middle two quartiles are omitted.',fontsize=13,color=MUTED)
-fig.text(.055,.065,'Source: Cheng et al. (2025), World Bank–ISIS Malaysia, Figures 6–7.',fontsize=12,color=MUTED)
-fig.savefig(bundle/'malaysia-ai-exposure-by-age.png',dpi=300,facecolor=BG)
-fig.savefig(folder/'malaysia-ai-exposure-by-age.pdf',facecolor=BG)
-plt.close(fig)
 with (folder/'ai-learning-curve.csv').open(encoding='utf-8-sig',newline='') as f:
     learning=list(csv.DictReader(f))
 assert [(float(r['months_lower']),float(r['months_upper'])) for r in learning]==[(2,2),(8,10)]
 fig=plt.figure(figsize=(10.8,6.5),facecolor=BG)
-fig.text(.055,.93,'AI can help beginners learn faster',fontsize=24,weight='bold')
-fig.text(.055,.86,'One customer-support workplace: approximate time to',fontsize=15,color=MUTED)
+fig.text(.055,.93,'Customer support: faster early learning',fontsize=24,weight='bold')
+fig.text(.055,.86,'2020–21 rollout: authors’ approximate time to',fontsize=15,color=MUTED)
 fig.text(.055,.815,'about 2.5 resolved issues per hour',fontsize=15,color=MUTED)
 ax=fig.add_axes([.27,.33,.64,.36],facecolor=BG)
 for i,row in enumerate(learning):
@@ -77,11 +49,11 @@ fig.text(.055,.04,'Source: Brynjolfsson, Li & Raymond (2025), QJE, section V.B.3
 fig.savefig(bundle/'ai-learning-curve.png',dpi=300,facecolor=BG)
 fig.savefig(folder/'ai-learning-curve.pdf',facecolor=BG)
 plt.close(fig)
-for name in ['malaysia-ai-exposure-by-age.csv','ai-learning-curve.csv']:
+for name in ['ai-learning-curve.csv']:
     shutil.copyfile(folder/name,bundle/name)
 (folder/'plot-environment.json').write_text(json.dumps({
  'python':sys.version.split()[0],'matplotlib':matplotlib.__version__,'numpy':np.__version__,
- 'method':'Published age percentages transcribed verbatim. Learning chart uses only authors narrative approximations, no graph digitization, interpolation or re-estimation.',
- 'source_checks':'World Bank Figure 6–7 visually inspected; QJE V.B.3 and Figure V caption inspected.',
+ 'method':'Learning chart uses only authors narrative approximations, no graph digitization, interpolation or re-estimation.',
+ 'source_checks':'QJE V.B.3 and Figure V caption inspected.',
 },indent=2)+'\n',encoding='utf-8')
-print('Created two PNGs, two vector PDFs, and their downloadable CSV inputs.')
+print('Created the current learning-curve PNG, vector PDF and CSV input.')

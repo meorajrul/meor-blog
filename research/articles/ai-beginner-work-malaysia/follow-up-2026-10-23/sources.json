@@ -1,0 +1,93 @@
+[
+  {
+    "id": "F01",
+    "title": "Canaries in the Coal Mine, August 2026 revision",
+    "author": "Brynjolfsson, Chandar and Chen; Stanford Digital Economy Lab",
+    "url": "https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf",
+    "published": "2026-08-12",
+    "period": "January 2021-June 2026; reported changes November 2022-June 2026",
+    "locator": "Abstract; introduction; data section; hiring/separations analysis; education and national-data comparisons",
+    "inspection": "Relevant full-text passages inspected, not every appendix",
+    "origin": "Stanford-ADP payroll panel",
+    "finding": "In the balanced payroll panel, employment at ages 22-25 fell about 11% in the top two AI-exposure quintiles and grew about 10% in the bottom three. Reduced hiring accounts for most of the difference.",
+    "limits": "Descriptive, not causal. Age is not graduate status. Pre-existing trends, educational composition and sample coverage matter. The relative shortfall is not a count of jobs destroyed by AI."
+  },
+  {
+    "id": "F02",
+    "title": "How Does AI Change Labor Demand? Evidence from 41 Countries",
+    "author": "Bharat Chandar and Bouke Klein Teeselink",
+    "url": "https://digitaleconomy.stanford.edu/app/uploads/2026/09/HowDoesAIChangeLaborDemand.pdf",
+    "published": "2026-09-20 PDF; landing page September 21",
+    "period": "January 2021-March 2026; October 2022 comparison baseline",
+    "locator": "Printed pp. 2-6, 13-16, 26-27; Figure 7 definition of seniority",
+    "inspection": "Relevant empirical design, results and limitations inspected; structural model not adopted",
+    "origin": "Revelio records; overlapping Stanford author with F01, different underlying dataset",
+    "finding": "Estimated junior employment share at adopting foreign affiliates is 1.9 percentage points below controls by March 2026, primarily through senior growth. Senior employment estimate +6.7%; junior -2.5%, not statistically significant.",
+    "limits": "Working paper. Adoption inferred from job advertisements. Instrument assumes peer adoption near foreign headquarters affects affiliate employment only through company AI adoption. Tests cannot verify that assumption. Digitally attached multinationals, not representative national economies; junior is Revelio levels 1-2, not necessarily young graduates. No Malaysian estimate established. Structural decomposition and economy-wide model are excluded from our proposed claim."
+  },
+  {
+    "id": "F03",
+    "title": "Still Waters, Rapid Currents: Early Labor Market Transformation under Generative AI",
+    "author": "Anders Humlum and Emilie Vestergaard",
+    "url": "https://www.andershumlum.com/s/chatbots_260313.pdf",
+    "published": "2026-03-13",
+    "period": "Administrative outcomes through December 2024",
+    "locator": "Abstract; printed pp. 1-4; section 3.4; Figure 8",
+    "inspection": "Relevant full-text passages inspected",
+    "origin": "Danish adoption surveys linked to administrative records",
+    "finding": "Across 11 exposed occupations, estimated average earnings and recorded-hours effects are close to zero, ruling out effects larger than 2%. No differential early-career employment-share decline at adopting workplaces; tasks reorganised.",
+    "limits": "Observational difference-in-differences requires comparison assumptions. Ends in 2024; cannot describe later agent adoption. Average null effects do not establish safety for every occupation or person."
+  },
+  {
+    "id": "F04",
+    "title": "Written Answer to PQ on Trends in Job Vacancies",
+    "author": "Singapore Ministry of Manpower",
+    "url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0805-written-answer-to-pq-on-trends-in-job-vacancies",
+    "published": "2026-08-05",
+    "period": "Vacancies December 2025-March 2026; survey findings reported in August answer",
+    "locator": "Answer paragraphs 1-2",
+    "inspection": "Full substantive answer inspected",
+    "origin": "Singapore MOM official vacancy and firm survey reporting",
+    "finding": "Entry-level PMET vacancies increased from 32,500 to 32,800. Among AI-adopting firms, 6% reported headcount cuts, 8% reduced hiring, 19% role redesign and 14% creation of AI-related jobs.",
+    "limits": "Vacancies are not completed hires. Survey shares concern firms, not workers, and must not be added as mutually exclusive categories. Short period; self-reported changes do not identify causal effects or graduate outcomes."
+  },
+  {
+    "id": "F05",
+    "title": "The Early Impacts of AI on Employment among Recent College Graduates",
+    "author": "Robert Fairlie and Jane Wu; IZA discussion paper 18945",
+    "url": "https://docs.iza.org/dp18945.pdf",
+    "published": "2026-09",
+    "period": "US Current Population Survey, January 2022-August 2026",
+    "locator": "Abstract; definitions and comparison results in introduction and empirical sections",
+    "inspection": "Relevant full-text passages inspected",
+    "origin": "US Current Population Survey",
+    "finding": "No statistically significant unemployment increase for recent graduates in summer 2026 relative to the paper's comparison groups and periods.",
+    "limits": "Descriptive working paper, not proof of no AI harm. Recent graduates defined as ages 22-25 with a bachelor's degree as highest qualification and not in school. AI effects cannot be isolated from other labour-market changes."
+  },
+  {
+    "id": "F06",
+    "title": "Employment at Anthropic",
+    "author": "Anthropic research; Wilmers, Catipon, Massenkoff and McCrory",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "published": "2026-10-16",
+    "period": "Internal hiring and workforce records since 2024/early 2025, as reported October 2026",
+    "locator": "Labour demand and hiring-scorecard sections",
+    "inspection": "Relevant article passages inspected; exact chart endpoint not independently extracted",
+    "origin": "Company internal records, interviews and automated scorecard analysis",
+    "finding": "Reports changing technical hiring emphasis towards judgment, autonomy and creative AI use, alongside a declining junior share.",
+    "limits": "One rapidly growing AI company reporting on itself. Commercial interest and composition changes limit generalisation. Do not infer nationwide hiring requirements, older-worker superiority, or absolute junior job destruction. Numeric junior-share chart deferred until exact reference dates verified."
+  },
+  {
+    "id": "F07",
+    "title": "Do Job Postings Show Early Labor Market Effects of AI?",
+    "author": "Richard Audoly, Miles Guerin and Giorgio Topa; Federal Reserve Bank of New York",
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/",
+    "published": "2026-05-14",
+    "period": "US Lightcast posting trends, principally 2018-2025",
+    "locator": "AI exposure and junior/senior posting comparisons",
+    "inspection": "Relevant original analysis inspected",
+    "origin": "Lightcast postings; Anthropic exposure classification",
+    "finding": "Highly exposed job-posting declines began before ChatGPT; analysis finds no clear subsequent break or junior/senior divergence within exposed occupations.",
+    "limits": "Postings are not hires. Exposure is not actual firm adoption. Supports caution about causal interpretation rather than proof of no employment effect."
+  }
+]
