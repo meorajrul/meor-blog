@@ -12,3 +12,5 @@ Checks:
 - Selected source refresh24October confirmed attributed Hansard timetable, AICE status and BNM case; PDPA regulator homepage maintenance observed. No comprehensive legal-powers audit or complete current-law inventory claimed; known limitations remain explicit in article/review.
 
 PR scope: article Markdown and four PNGs, current evidence/rights/blueprint/release records, reproducible figure inputs/script and LinkedIn copy. No historical draft archive, raw264MBPDF, private material, cache, repository-wide settings or main changes.
+
+Remote verification: PR29 https://github.com/meorajrul/meor-blog/pull/29 is open, non-draft and mergeable against staging. Build check passed for preparation commit ce12184; deploy skipped as intended. No main change or deployment.

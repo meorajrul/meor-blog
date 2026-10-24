@@ -13,5 +13,8 @@
   "main_and_deployment": "Owner-managed. No main merge or production deployment performed.",
   "automation_created": false,
   "automation_status": "not-created: automatic approval review rejected future draft-state changes and remote PR pushes without explicit automation authorization",
-  "approved_content_sha256": "4b3e495cfddd87a3f7f02acdb16d0c0d1e4132d8493765906133dd02892cdd8d"
+  "approved_content_sha256": "4b3e495cfddd87a3f7f02acdb16d0c0d1e4132d8493765906133dd02892cdd8d",
+  "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/29",
+  "preparation_commit": "ce12184",
+  "preparation_ci": "Build passed; deployment skipped on PR. Main untouched."
 }
