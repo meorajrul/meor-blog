@@ -1,40 +1,35 @@
-# Draft review â€” 19 October 2026
+# Review — first-job revision, 23 October 2026
 
-Decision: **revise / author review pending**. Drafting and visual work requested by the owner are complete; publication is not authorized.
+Decision: ready within the continuing, explicitly revised publication task. Owner instruction “do the recommended” authorizes the proposed first-job rewrite and supported charts. Existing publication authorization and24October2026at09:00MYT remain; no new line-by-line owner approval is asserted. Main/deployment remain owner-managed.
 
-- Headline and conclusion: conditional question, focused on skilled entry and experience. No assertion that China proves Malaysia's future.
-- First person: no invented memory, feelings, biography or career event. Opening and analyst scenario are explicitly hypothetical.
-- Senior advantage: presented as a mechanism involving task allocation and context. Age, title and expertise are separated. S8 is credited and limited to 14 South Korean interviews.
-- China: S1 supports only an attributed abstract-level report. Its methods and causal claims remain unappraised. Publication requires resolving or narrowing this limited-access citation; do not mark it inspected-full-text.
-- Malaysia: exposure estimate is linked to 2021 employment, not current graduate outcomes. Both age panels use within-age denominators. S4 measures incumbent separations, not first hiring; S5 critiques causality. No 15â€“24 displacement estimate inferred.
-- Counterevidence: S7's novice benefits and S10's US survey null results retained. Different populations and outcomes are stated.
-- Numbers: Malaysian rounded percentages checked against a locally rendered original PDF page containing Figures 6â€“7. QJE learning times checked against V.B.3 text: approximate summaries, not digitized estimates or confidence limits.
-- Visuals: hero clearly labelled generated conceptual art. Both charts visually inspected for labels, baseline, contrast and clipping. Alternative text includes numeric values and limitations; downloadable CSV inputs preserved. Original plotting, no source figure artwork reproduced.
-- Rights: hero generated without third-party references. Original numerical plots with attribution; source reuse terms documented in figures/README.md. No sensitive information or likeness of a real person used.
-- Discovery: title, description, opening and headings address the same reader question. No fabricated search demand or contextual published link.
-- Closing recommendations: proposals to examine, not tested solutions.
+## Evidence and scope
 
-Remaining issues:
-1. Owner review and approval of the wording/argument.
-2. S1 full-method appraisal before stronger China conclusions or publication; presently used narrowly with an explicit access caveat.
-3. Direct Malaysian junior-hiring/adoption and career-transition evidence remains unavailable in this packet. This limits the thesis to a conditional concern rather than an established causal result.
+Removed China as the organising argument and removed abstract-only Chinese recruitment, South Korean interview and China planning/mismatch claims from this article. Their historical source records are marked not cited. The current narrative does not depend on Chinese news or an unverified claim that education forecasting eliminated labour gaps.
 
-Engineering and rendered-preview findings are recorded in validation.md separately. Structural gates do not verify truth, entailment or actual author approval.
+S22's approximate -11/+10 changes are transcribed from printedp3; ages22-25, November2022-June2026 and exposure quintiles are explicit. No19%causal job-loss headline or projected line. Pretrends, education, sample coverage and age-versus-graduate distinctions remain in the body. S23 estimates are labelled as estimates: junior share -1.9percentagepoints, senior+6.7%, junior-2.5%not significant. The adoption proxy and exclusion assumption are stated without asserting that the assumption is verified; its structural model is not imported as an explanation or forecast.
 
+S24's March2026paper ends its administrative outcomes inDecember2024. Earnings/hours and early-career share findings are distinguished, with observational-comparison limits. S10 uses CPS throughAugust2026 and an explicit recent-graduate definition; a null statistical result is not proof of no harm. S25 original official answer gives32,500/32,800vacancies and19/14/8/6firm shares. Its missing fieldwork dates are plainly disclosed in chart, CSV and caption. No invented date, firm-to-worker conversion or sum of potentially overlapping responses. S26 is labelled as one company's internal study, not representative Malaysian evidence.
 
-## Publication scheduling review — 19 October 2026
+Retained S7's non-random one-workplace novice-productivity evidence with actual rollout period and approximate chart meaning. Retained MOHE2025 labour-force employment5367+339=5706,94.1%, and employee positions2501+1557+513+123=4694with53.3/33.2/10.9/2.6percent. Denominators, status timing and unavailable response/uncertainty information remain visible. DOSM vacancy groups are occupational categories, not educational qualifications, beginner openings or demonstrated shortages. ILO exposure uses scored tasks/equal weights, not observed future demand or protection against all automation.
 
-The owner explicitly instructed: publish this on 23 october. This is final author approval of the illustrated essay, with a planned release of 23 October 2026 at 09:00 Asia/Kuala_Lumpur. Date/time and the abstract-access wording were updated for scheduling; no argument or chart values were strengthened.
+## Recommendations and voice
 
-The public ScienceDirect abstract and preview were directly inspected in the browser during this review. S1 now records that inspected resource and an explicit full_text_inspected=false scope. Its claim is an attribution of the abstract, which does not require full methods; no full-paper appraisal is asserted. The previous review demand for full methods is resolved by this narrow claim and explicit access boundary. Full-paper evaluation remains a limitation for any stronger conclusion. Direct Malaysian hiring evidence remains an openly stated limit, not an unresolved assertion.
+The four stakeholder recommendations are explicitly editorial proposals. Six/twelve months are proposed follow-up windows, not measured programme effects. No guarantee of employment, invented student/employer scenario or causal policy outcome. MyCOL/MySIP factual descriptions are bounded to documented design. The conclusion leaves Malaysian adoption-linked outcomes and course-level future demand unresolved.
 
-Final editorial decision: approved for the conditional, attributed essay as written. Retain draft=true until the scheduled day. User rules reserve main and deployment for the owner; the automated action can prepare/update only a codex/ branch and staging PR, verify CI and report the remaining manual release step.
+MJ01 not applicable: no personal biography or attributed feelings. MJ02/03 pass: observation, empirical estimates, synthesis and recommendations are distinguished; reference periods and uncertainty retained. MJ04 pass: no unsupported model, forecast or example. MJ05/06 pass: quintiles and PMET expanded, graduate/young/junior categories differentiated. MJ07 pass: one first-job question links the sections. MJ08/09 not applicable: no delivery blueprint or invented emotional directions. MJ10/11 pass: caveats survive prose edits and no planning controls appear in the article. MJ12 pass: actual authorization recorded, new digest computed after stable changes.
+
+## Visuals and discovery
+
+Both new matplotlib charts inspected after rendering: source values, labels, axes, zero baseline, legible notes, colourblind-safe palette and no clipping. Original artwork, factual transcription, CSVs/code/PDF and environment metadata retained. The US chart replaces the graduate-rate cover; existing novice, graduate-position and vacancy charts remain in the body. All have text alternatives. The old graduate employment chart remains supplementary, not a second cover.
+
+Title, description, opening and conclusion address first-job access and Malaysian decisions. Stable slug retained. No forecast claim or promised job-security list. No forced links to unrelated published posts. Article remains draft=true until scheduled release preparation; preview deliberately includes drafts/future content. Technical checks are recorded separately and do not verify source truth or causal identification.
 
 
-## Publication scheduling review - 19 October 2026
+## Hero change — 23 October 2026
 
-The owner explicitly instructed: publish this on 23 october. This approves the illustrated essay for 23 October 2026; 09:00 Asia/Kuala_Lumpur is the selected time because only a date was specified. Scheduling metadata and abstract-access wording were updated without strengthening the argument or changing chart data.
+Owner explicitly requested “change the first image charts to a hero image”. Generated decorative still life inspected: graduation cap, notebook and laptop, no depicted hiring outcome, invented event, person, chart or causal model. Caption and alt text identify AI generation. The actual US chart and CSV remain in the first evidence section; values and limits unchanged. Prompt/provenance registered. No change to the24October09:00MYT schedule. MJ01–04 and MJ12 remain satisfied within the authorized visual change.
 
-The public ScienceDirect abstract and preview were directly inspected in the browser. S1 records that inspected resource with full_text_inspected=false. Its claim attributes the abstract rather than endorsing methodology or causality. The previously open access issue is resolved by this narrow attribution and explicit scope; no full-paper appraisal is asserted. The absent Malaysian hiring evidence remains an acknowledged limitation of the conditional argument.
 
-Final editorial decision: approved for the conditional essay as written. Retain draft=true until the scheduled day. Standing project rules reserve main and deployment for the owner; the scheduled action prepares or updates a codex/ branch and staging PR, verifies CI and reports the manual release step still required.
+## Publication setting — 24 October 2026
+
+Owner explicitly instructed “set it to publish and gave me linkedin short story to tell” after opening the Markdown for editing. Compared the owner-edited primary file with the reviewed worktree: description wording/pronoun, dash punctuation, age-range typography and concluding conjunction changed; no material evidence, number, citation or limitation removed. Preserved those owner edits exactly. The owner now authorizes this current version for publication. Set draft=false, retain24October2026at09:00MYT; local time at action approximately13:34MYT, after that date/time. Updated digest after this review. No new biography, anecdote or research result introduced. Main/deployment remain owner-managed under the repository workflow; release PR targets staging.

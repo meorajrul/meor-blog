@@ -2,10 +2,10 @@
   "schema_version": 1,
   "status": "approved",
   "author_approved": true,
-  "reviewer": "Codex - AI-assisted evidence and visual review; owner approved publication",
-  "reviewed_on": "2026-10-19",
-  "review_by": "2026-11-19",
-  "content_sha256": "7a036b7674b48d73d8dedf46cc9a4690253c2e5afb129a6d4e62a393fedc4f52",
+  "reviewer": "Codex — first-job evidence, chart and editorial review",
+  "reviewed_on": "2026-10-24",
+  "review_by": "2026-11-24",
+  "content_sha256": "9045f150d5f6db5fa74f5e3586b97325bc1c9b0201886ea2450242502b5e710c",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -14,10 +14,28 @@
   "privacy_checked": true,
   "first_person_checked": true,
   "counterevidence_checked": true,
+  "previous_version_approval": {
+    "status": "approved",
+    "author_approved": true,
+    "reviewed_on": "2026-10-19",
+    "content_sha256": "7a036b7674b48d73d8dedf46cc9a4690253c2e5afb129a6d4e62a393fedc4f52",
+    "author_approval": {
+      "source": "Direct owner instruction in this chat",
+      "instruction": "publish this on 23 october",
+      "approved_on": "2026-10-19",
+      "scope": "Illustrated essay with existing hero and two charts; planned publication 23 October 2026. Main and production deployment remain owner-managed."
+    }
+  },
   "author_approval": {
-    "source": "Direct owner instruction in this chat",
-    "instruction": "publish this on 23 october",
-    "approved_on": "2026-10-19",
-    "scope": "Illustrated essay with existing hero and two charts; planned publication 23 October 2026. Main and production deployment remain owner-managed."
+    "source": "Direct owner instructions in this chat; existing authorization persists within scope",
+    "instruction": "set it to publish and gave me linkedin short story to tell",
+    "approved_on": "2026-10-24",
+    "revision_instruction": "Check this article against my new evidence rule. Remove unsupported assumptions and hypothetical examples, keep the data and limitations clear",
+    "revision_authorized_on": "2026-10-22",
+    "scope": "Current owner-edited article approved for publication; set draft=false, preserve24October date. Release PR targets staging; main/deployment owner-managed.",
+    "reschedule_instruction": "set the publish date to 24 october",
+    "rescheduled_on": "2026-10-23",
+    "current_revision_instruction": "set it to publish and gave me linkedin short story to tell",
+    "current_revision_authorized_on": "2026-10-24"
   }
 }

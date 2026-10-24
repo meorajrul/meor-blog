@@ -1,30 +1,18 @@
-# Illustrated essay draft brief
+# First-job revision — 23 October 2026
 
-Created 19 October 2026, following the owner's explicit request to draft the recommended topic with a hero image and necessary charts.
+Owner instruction: “do the recommended”, following the evidence-led improvement brief. Apply that recommendation to the existing article; retain English sources, the evidence rule and24October2026at09:00MYT. Continuing publication authorization covers explicitly requested revisions; no claim of new line-by-line approval.
 
-Question: How might established experience give workers a head start with AI, and what could China's recruitment changes mean for young Malaysians?
+Question: what do measured overseas changes in first-job access and senior/junior employment imply for the evidence Malaysia should examine? Audience: young Malaysians and education/work policy readers. Genre: personal-journal research essay; no invented personal experience.
 
-Intended reader: Malaysians entering skilled careers and people responsible for hiring and developing them.
+Argument: some samples show junior hiring pressure/senior growth; contrary findings are central. Productivity of employed novices differs from obtaining a first job. The evidence supports scrutiny of entry routes, not a uniform graduate collapse, senior-superiority mechanism, Chinese forecast-success claim or TVET boom forecast.
 
-Author-supplied material: the concern about seniors' existing experience and younger entrants' barriers. No firsthand career event, feeling or hiring incident supplied. The opening and analyst example are explicitly hypothetical.
+Structure: US payroll → multinational seniority estimates → Denmark/US-graduate/Singapore counterevidence → novice productivity and bounded company hiring case → Malaysian graduate outcomes/TVET → explicitly labelled recommendations. No unsupported examples, conceptual model or future-winner ranking.
 
-Scope: mainland Chinese AI recruitment; Malaysian task exposure and separations; labelled South Korean interviews and US graduate evidence; Philippines-based workplace counterevidence. Underlying years differ and are stated.
+Discovery: title “AI and the First Job: What Global Evidence Means for Young Malaysians”; description/intro match the question; slug remains ai-beginner-work-malaysia. No search-volume or ranking claim. No forced links to unrelated published entries.
 
-Structure: question-led researched essay → conditional mechanism → Chinese recruitment and access limits → Malaysian evidence → strongest novice-benefit counterevidence → bounded implications.
+Visuals: original US observed-change cover and Singapore firm-response chart; retained novice-learning, graduate employee-position and vacancy charts. Malaysia values remain context, not AI effects. Publication and data dates differ and are labelled. Singapore field dates absent from cited answer and disclosed.
 
-Provisional view: incumbents may benefit from accumulated context/judgment when beginner tasks move to AI. Strongest alternative: AI can transfer expertise to novices and accelerate their learning. Hiring choices and training design determine whether that translates into accessible entry opportunities.
+Open: Malaysian adoption-linked junior hiring; course-level wages/jobmatch/retention; programme counterfactuals; future occupational demand. Recommendations are editorial proposals, not proven policy effects. Full decision trail: follow-up-2026-10-23/.
 
-What would change the view: linked adoption/junior-hiring and career-transition data; full-method appraisal of the Chinese study. No deterministic China-to-Malaysia forecast or population-wide causal youth-unemployment claim.
 
-Visuals: generated conceptual hero; original chart of published Malaysian age shares; original approximate learning-curve summary. Preserve CSVs, figure code, vector PDFs, source locators and rights notes. Labels separate exposure from losses, ranges from confidence intervals, and productivity from hiring.
-
-Discovery question: Will AI make it harder for young Malaysians to enter skilled jobs?
-Intent: understand the experience paradox and its implications.
-Title: If AI Does the Beginner Work, Where Do Young Malaysians Start?
-Description: Experience may give established workers a head start with AI. What can China's changing recruitment tell Malaysia about young people's first chance at skilled work?
-Slug: ai-beginner-work-malaysia.
-Demand/analytics: unmeasured.
-Related entries: earlier journal entry on AI, reading and responsibility exists locally, but live publication was not verified for this task; no internal link invented.
-Close precedents: S8 already studies the senior-development pathway; S4 discusses the Malaysian experience pipeline. Explicit attribution used; no novelty claim.
-
-Research decision: enough for a conditional draft. S1 full-text appraisal and author final review remain open. No original job-ad audit or experiment has been performed.
+Hero change,23October: owner requested replacing the first chart with a hero image. Built-in image generation produced a decorative graduation-cap/notebook/laptop still life, labelled AI-generated. US data chart moved into its evidence section, with unchanged values.24October09:00MYT retained.
