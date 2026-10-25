@@ -4,7 +4,7 @@
   "timezone": "Asia/Kuala_Lumpur",
   "utc_time": "2026-10-26T01:00:00Z",
   "state": "scheduled-release-preparation",
-  "approved_content_sha256": "45837d26a87ed1f1b6baa32720bc0fd21323af2a61d4eaa9bd1d21d1511967c3",
+  "approved_content_sha256": "34e30ee9ac616de8ccd1f96e3088d52a9fab8fd911d2dea7c0326781f0ee1411",
   "approval_instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
   "target_branch": "staging",
   "release_branch": "codex/uhi-oct26-release",
@@ -15,5 +15,7 @@
   "live_url": "https://meorajrul.com/posts/universal-high-income/",
   "release_worktree": "/Users/meorajrul/.codex/worktrees/uhi-oct26-release/211 Blog",
   "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/23",
-  "preparation_commit": "6ef284a"
+  "preparation_commit": "6ef284a",
+  "revision_requested_on": "2026-10-25",
+  "revision_scope": "Malaysia delivery evidence and three published-data charts"
 }

@@ -8,5 +8,122 @@
     "source_url": "",
     "kind": "illustration",
     "input_paths": []
+  },
+  {
+    "id": "MY1-png",
+    "path": "site/content/posts/universal-high-income/sara-usage-2025.png",
+    "alt": "Reported 2025 usage: monthly SARA 99%, one-off SARA 96%; separate recipient denominators.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-usage-2025.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY1-pdf",
+    "path": "site/content/posts/universal-high-income/sara-usage-2025.pdf",
+    "alt": "Reported 2025 usage: monthly SARA 99%, one-off SARA 96%; separate recipient denominators.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-usage-2025.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY1-svg",
+    "path": "site/content/posts/universal-high-income/sara-usage-2025.svg",
+    "alt": "Reported 2025 usage: monthly SARA 99%, one-off SARA 96%; separate recipient denominators.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-usage-2025.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY2-png",
+    "path": "site/content/posts/universal-high-income/sara-monthly-spending-2025.png",
+    "alt": "2025 monthly SARA: RM5bn allocation and RM4.8bn purchases.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-monthly-spending-2025.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY2-pdf",
+    "path": "site/content/posts/universal-high-income/sara-monthly-spending-2025.pdf",
+    "alt": "2025 monthly SARA: RM5bn allocation and RM4.8bn purchases.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-monthly-spending-2025.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY2-svg",
+    "path": "site/content/posts/universal-high-income/sara-monthly-spending-2025.svg",
+    "alt": "2025 monthly SARA: RM5bn allocation and RM4.8bn purchases.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-monthly-spending-2025.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY3-png",
+    "path": "site/content/posts/universal-high-income/str-sara-allocations.png",
+    "alt": "STR/SARA: RM15bn 2026 allocation and RM16bn announced 2027 allocation.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/str-sara-allocations.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY3-pdf",
+    "path": "site/content/posts/universal-high-income/str-sara-allocations.pdf",
+    "alt": "STR/SARA: RM15bn 2026 allocation and RM16bn announced 2027 allocation.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/str-sara-allocations.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
+  },
+  {
+    "id": "MY3-svg",
+    "path": "site/content/posts/universal-high-income/str-sara-allocations.svg",
+    "alt": "STR/SARA: RM15bn 2026 allocation and RM16bn announced 2027 allocation.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
+    "source_url": "https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/str-sara-allocations.csv",
+      "research/articles/universal-high-income/figures/plot_malaysia.py"
+    ]
   }
 ]

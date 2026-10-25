@@ -86,5 +86,97 @@
     "status": "qualified",
     "confidence": "bounded by identified source and scope",
     "limitations": "Scope conclusion about this selected review; does not claim an exhaustive absence of evidence worldwide."
+  },
+  {
+    "id": "MY01",
+    "text": "STR provides bank-credit and BSN cash channels; SARA provides restricted MyKad-linked essentials credits.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S13",
+      "S18"
+    ],
+    "status": "supported",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Paragraphs on Phase 3 recipients, RM15bn annual allocation and bank/BSN channels; Introduction, eligibility, cashless MyKad account and approved purchases",
+    "limitations": "Delivery channels, not unrestricted universal high income."
+  },
+  {
+    "id": "MY02",
+    "text": "The February 2026 one-off SARA announcement allocated RM2.2bn for RM100 credits covering over 22m adult citizens.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S14"
+    ],
+    "status": "supported",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Opening: RM2.2bn, over 22m adult citizens, RM100 one-off",
+    "limitations": "Announced eligibility/allocation, not verified full take-up."
+  },
+  {
+    "id": "MY03",
+    "text": "A ministerial parliamentary response reported 2025 recipient usage rates of 99% for monthly SARA and 96% for one-off SARA, and monthly purchases of RM4.8bn against RM5bn allocation.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S15"
+    ],
+    "status": "supported",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Printed p.2, PDF p.10: 2025 usage rates and monthly transaction value/allocation",
+    "limitations": "Reported rounded administrative figures; separate recipient denominators; not impact or exclusion estimates."
+  },
+  {
+    "id": "MY04",
+    "text": "MOF acknowledged transaction-system performance degradation at some locations on 31 August 2025.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S16"
+    ],
+    "status": "supported",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Paragraphs on terminal performance degradation and capacity/maintenance response",
+    "limitations": "Launch incident; no inference about complete later uptime."
+  },
+  {
+    "id": "MY05",
+    "text": "STR/SARA allocations were RM15bn for 2026 and RM16bn announced for 2027.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S13",
+      "S17"
+    ],
+    "status": "supported",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Paragraphs on Phase 3 recipients, RM15bn annual allocation and bank/BSN channels; Paragraph 26: STR/SARA RM16bn versus RM15bn; 2027 design",
+    "limitations": "Not actual outturn or AI revenue. Different programme designs; 2027 still prospective."
+  },
+  {
+    "id": "MY06",
+    "text": "OECD recommends additional revenue and spending efficiency to improve Malaysian social protection.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S19"
+    ],
+    "status": "supported",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Executive summary: Growth will moderate but remain solid; revenue and protection discussion",
+    "limitations": "Attributed policy analysis, not a calibrated UHI funding model."
+  },
+  {
+    "id": "MY07",
+    "text": "Malaysia’s observed assistance delivery is a relevant foundation to investigate for distributing future gains, but does not establish abundance or UHI affordability.",
+    "kind": "inference",
+    "source_ids": [
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S19"
+    ],
+    "status": "qualified",
+    "confidence": "bounded by reported record and scope",
+    "locator": "Paragraphs on Phase 3 recipients, RM15bn annual allocation and bank/BSN channels; Opening: RM2.2bn, over 22m adult citizens, RM100 one-off; Printed p.2, PDF p.10: 2025 usage rates and monthly transaction value/allocation; Paragraphs on terminal performance degradation and capacity/maintenance response; Paragraph 26: STR/SARA RM16bn versus RM15bn; 2027 design; Introduction, eligibility, cashless MyKad account and approved purchases; Executive summary: Growth will moderate but remain solid; revenue and protection discussion",
+    "limitations": "Scope-limited interpretation; no transition forecast, fiscal simulation or tested UHI mechanism."
   }
 ]

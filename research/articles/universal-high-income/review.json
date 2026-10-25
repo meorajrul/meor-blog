@@ -3,9 +3,9 @@
   "status": "approved",
   "author_approved": true,
   "reviewer": "Codex editorial self-review; owner requested scheduled publication",
-  "reviewed_on": "2026-10-22",
-  "review_by": "2026-11-22",
-  "content_sha256": "45837d26a87ed1f1b6baa32720bc0fd21323af2a61d4eaa9bd1d21d1511967c3",
+  "reviewed_on": "2026-10-25",
+  "review_by": "2026-11-25",
+  "content_sha256": "34e30ee9ac616de8ccd1f96e3088d52a9fab8fd911d2dea7c0326781f0ee1411",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -19,6 +19,8 @@
     "instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
     "publish_at": "2026-10-26T09:00:00+08:00",
     "timezone": "Asia/Kuala_Lumpur",
-    "scope": "Requested illustrated article, evidence-rule corrections and scheduled staging preparation; main and deployment owner-managed."
+    "scope": "22 October scheduled-publication instruction, continued with owner-requested Malaysia extension and data charts on 25 October; main and deployment owner-managed.",
+    "revision_instruction": "malaysia have same welfare program giving cash to rakyat. Is there a possibility it also has the capabilities to deliver the abundance. Also add more graph/chart to support the claims",
+    "revision_requested_on": "2026-10-25"
   }
 }

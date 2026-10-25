@@ -1,6 +1,6 @@
 +++
 title = "Universal High Income: Who Gets the AI Dividend?"
-description = "What cash-transfer research and public-dividend institutions establish—and what remains unproven about universal high income in an AI economy."
+description = "Malaysia already delivers STR and SARA. What does that capability establish about sharing AI gains—and what remains unproven about universal high income?"
 slug = "universal-high-income"
 article_id = "universal-high-income"
 genre = "essay"
@@ -9,7 +9,7 @@ publishDate = 2026-10-26T09:00:00+08:00
 draft = true
 time_sensitive = true
 author = "Meor Ajrul"
-tags = ["AI", "Work", "Income", "Public policy"]
+tags = ["AI", "Malaysia", "Work", "Income", "Public policy"]
 
 [cover]
 image = "hero.png"
@@ -25,6 +25,40 @@ That question sits behind the promise of universal high income. The attraction i
 At Davos in January 2026, Elon Musk described AI and robotics as a route to global abundance. The [World Economic Forum’s account of the discussion](https://www.weforum.org/stories/artificial-intelligence/elon-musk-technology-abundant-future-davos-2026) also records his concern about electricity constraints. It establishes what he argued. It does not establish that an economy providing everyone with a high income has been demonstrated.
 
 There is useful evidence nearby: experiments with unconditional cash, an operating public-dividend institution and research on AI’s effects on work. Each answers a narrower question.
+
+## Malaysia already has part of the delivery capability
+
+Malaysia would not be starting from zero. STR and SARA already perform relevant functions, although they provide different kinds of support. [STR payments](https://www.mof.gov.my/portal/ms/berita/akhbar/5-3-juta-penerima-str-mula-terima-bayaran-secara-berperingkat-mulai-hari-ini-mof) go into bank accounts, with cash collection through Bank Simpanan Nasional for recipients without an account. [SARA](https://www.sara.gov.my/en/home.html) uses MyKad-linked accounts for purchases of approved essentials at participating retailers. Those credits are not unrestricted cash.
+
+There is also experience with broad adult eligibility. The [February 2026 SARA Untuk Semua announcement](https://mof.gov.my/portal/ms/berita/siaran-media/sara-untuk-semua-disalurkan-mulai-9-februari-2026) provided RM100 once, with RM2.2 billion allocated for more than 22 million adult Malaysian citizens. This was a one-off essentials credit, not a recurring high income.
+
+What happened when the system was used? In a [ministerial response recorded in Parliament on 5 February 2026](https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf), the government reported that 99% of monthly SARA recipients had used the programme in 2025, compared with 96% of recipients of the one-off SARA payment. The figures refer to each programme’s own recipients.
+
+![Horizontal bars show reported 2025 recipient usage of 99% for monthly SARA and 96% for one-off SARA, with separate programme denominators.](sara-usage-2025.png)
+
+*Reported administrative use, not a poverty-reduction estimate or a measure of eligible people excluded from the register. Source: the parliamentary response linked above. [Data](sara-usage-2025.csv) · [PDF](sara-usage-2025.pdf).*
+
+The same response reported RM4.8 billion in monthly SARA purchases against a RM5 billion allocation for 2025. These are recorded programme purchases and a stated allocation; they are not an estimate of additional economic output.
+
+![Horizontal bars compare the reported 2025 monthly SARA allocation of RM5 billion with RM4.8 billion in purchases.](sara-monthly-spending-2025.png)
+
+*2025 monthly SARA only; excludes the separate one-off programme. This does not measure a fiscal multiplier or establish lasting improvements in living standards. [Data](sara-monthly-spending-2025.csv) · [PDF](sara-monthly-spending-2025.pdf).*
+
+This gives a more grounded answer to the Malaysian question: there is demonstrated experience in distributing assistance and enabling purchases. Reusing that experience for a future dividend is worth investigating. Its suitability for a permanent universal high income has not been tested by these figures.
+
+## Reach is real; reliability and funding still need scrutiny
+
+The record includes a warning about scale. On [31 August 2025, MOF acknowledged degraded terminal performance at some locations](https://www.mof.gov.my/portal/ms/berita/siaran-media/850-ribu-penerima-penghargaan-sara-belanja-lebih-rm50-juta-pada-hari-pertama) after a surge in SARA transactions, and announced capacity work and maintenance. High eventual usage should not erase that incident. Neither source supplies a complete, independently audited measure of uptime or of people unable to access their entitlement.
+
+Funding is a separate unresolved question. The [2026 STR/SARA allocation was RM15 billion](https://www.mof.gov.my/portal/ms/berita/akhbar/5-3-juta-penerima-str-mula-terima-bayaran-secara-berperingkat-mulai-hari-ini-mof). The [Budget 2027 speech, presented on 9 October 2026](https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027), announced RM16 billion for 2027, alongside changes to the programme’s design.
+
+![Bars show RM15 billion allocated for STR and SARA in 2026 and RM16 billion announced in Budget 2027, with the future allocation shown using a hatched outline.](str-sara-allocations.png)
+
+*Allocations, not actual expenditure or AI-generated revenue. Programme design differs between years; the comparison does not measure equal benefits per person. [Data](str-sara-allocations.csv) · [PDF](str-sara-allocations.pdf).*
+
+A larger assistance budget establishes a spending commitment. It does not demonstrate a recurring AI surplus sufficient to finance universal high income. The [OECD’s 2026 Malaysia survey](https://www.oecd.org/en/publications/oecd-economic-surveys-malaysia-2026_9ab6b826-en.html) calls for both more efficient spending and additional revenue to improve social protection and education. That assessment supplies a fiscal constraint to examine, rather than a costed answer to this article’s question.
+
+Malaysia’s existing programmes therefore provide evidence for a delivery foundation. The reviewed records do not establish the productive capacity, affordable essential supplies or recurring revenue required for abundance. They also do not show how much a universal payment could sustainably provide. Those questions remain open.
 
 ## What happens when people receive cash?
 
@@ -58,7 +92,7 @@ That does not disprove future technological breakthroughs. It does mean these es
 
 The [IMF’s June 2024 fiscal-policy discussion](https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity) addresses social protection, worker transitions and taxation of capital income. These are policy responses to potential gains and disruption. They are not a demonstrated funding package for universal high income.
 
-For Malaysia, the evidence reviewed here does not establish an affordable monthly payment, a dependable AI revenue stream or a date when such a system could begin. Those gaps should remain visible.
+For Malaysia, the existing assistance programmes establish delivery experience. They do not establish an affordable universal high-income payment, a dependable AI revenue stream or a date when such a system could begin.
 
 ## The promise still needs evidence
 
@@ -66,4 +100,4 @@ The strongest conclusion available from this review is narrower than the promise
 
 A serious proposal should specify who receives support, how much purchasing power it provides, where the recurring revenue comes from and which existing benefits would change. Those are questions to answer with data.
 
-Universal high income remains an open proposition in this review. The question worth keeping is concrete: **what would give each person a dependable claim on the gains from AI?**
+Malaysia’s existing assistance system makes the delivery question more concrete, while the affordability of universal high income remains open. The question worth keeping is: **what would give each person a dependable claim on the gains from AI?**

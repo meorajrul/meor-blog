@@ -1,0 +1,7 @@
+{
+  "url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+  "downloaded_on": "2026-10-25",
+  "sha256": "9f051382602b982c67d7fc1690b9143eb8a79a9764f4aa2377ff14e2417d8f15",
+  "inspected_pages": "printed 2 / PDF 10",
+  "method": "pypdf text extraction from downloaded primary PDF"
+}

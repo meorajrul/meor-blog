@@ -9,3 +9,7 @@ Scope: international evidence review refreshed 22 October 2026. Historical studi
 Discovery: reader intent is explanatory; no measured search demand. Stable slug universal-high-income. Title and opening ask who receives the gains; conclusion states what remains unproven.
 
 Publication request: 26 October 2026 at 09:00 MYT (01:00 UTC). Technical draft flag stays true before the release check. Standing rules reserve main and deployment for the owner.
+
+## Malaysia extension — 25 October 2026
+
+Owner asks whether Malaysia’s existing cash welfare programmes could deliver abundance, and requests more charts. Expand the scheduled article with source-based delivery evidence and three published-data charts. Distinguish STR cash from SARA restricted credits, administrative usage from impact, and allocations from spending outcomes. No UHI cost or production forecast. This is a requested revision within the existing 26 October 09:00 MYT release preparation.

@@ -1,13 +1,12 @@
-# LinkedIn copy — for use after the article is live
+# LinkedIn copy — share after the article is live
 
-If AI does more of the work, who receives the income?
+Malaysia already distributes assistance through STR and SARA. Could that experience help it share the gains from AI?
 
-Universal high income is an appealing promise. Cash-transfer studies and Alaska’s dividend programme offer useful evidence, but they do not establish that AI can fund a permanent high income for everyone.
+There is a concrete starting point. Government-reported 2025 usage was 99% for monthly SARA and 96% for the one-off programme. These figures show use among registered recipients; they do not measure poverty reduction or people left outside the system.
 
-The questions remain practical: who qualifies, what would the payment buy, and where would dependable funding come from?
+STR provides cash channels. SARA provides restricted credits for approved essentials. Neither programme establishes that Malaysia can sustainably fund universal high income.
 
-The new article separates what the evidence shows from what remains open.
+The delivery experience matters. So do reliable access, recurring revenue and affordable essentials. The revised article examines that distinction with three charts drawn from official records.
 
 https://meorajrul.com/posts/universal-high-income/
-
-#AI #FutureOfWork #PublicPolicy
+#Malaysia #AI #PublicPolicy
