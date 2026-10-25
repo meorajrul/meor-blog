@@ -5,7 +5,6 @@ slug = "universal-high-income"
 article_id = "universal-high-income"
 genre = "essay"
 date = 2026-10-26T09:00:00+08:00
-publishDate = 2026-10-26T09:00:00+08:00
 draft = true
 time_sensitive = true
 author = "Meor Ajrul"

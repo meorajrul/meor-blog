@@ -51,3 +51,7 @@ Applied owner-requested Meor Journal 1.4.0 / MJWS 1.1 Alda pass. Editorial self-
 - MJ15 pass: opening orients; “More output matters to households” develops why national output does not answer household affordability; “Where that leaves Malaysia” returns to the same tests without claiming that AI caused the gains. Repetition of every statistic is deliberately avoided.
 
 Charts, underlying data, hero and rights unchanged; prior visual review remains applicable. No source-freshness claim beyond the previous research is made by this wording-only revision. Release preparation remains 26 October 2026 at 09:00 MYT; production merge/deployment remains owner-managed.
+
+## Draft requested — 26 October 2026
+
+Owner instruction: “set this article to draft”. This supersedes the earlier scheduled-publication authorization. Article remains draft, publishDate removed, and the one-time release automation deleted. Editorial findings are retained as history; release approval is withdrawn until a new explicit publication instruction.

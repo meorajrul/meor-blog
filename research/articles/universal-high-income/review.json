@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "status": "approved",
-  "author_approved": true,
+  "status": "pending",
+  "author_approved": false,
   "reviewer": "Codex editorial self-review; owner requested scheduled publication",
   "reviewed_on": "2026-10-26",
   "review_by": "2026-11-25",
-  "content_sha256": "df04403f1101bd04e4232fa5cb774ee2b5bb77375da7c666bef4c7be7e99038b",
+  "content_sha256": "f61fd01faa5966bc1b52b70e75ed7a1d86a69400e04e8fd22cdeae315cfe308e",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -25,5 +25,6 @@
     "productive_capacity_revision_instruction": "Can Malaysia actually create the abundance, beyond distributing cash? Research its AI, energy and productivity capabilities using actual data (look at MPC), then add the findings to this article.",
     "restructure_instruction": "Proceed with all the improvements. Research the household benefits and energy gaps using actual data, restructure the article around Malaysia, and update the charts and LinkedIn summary. Keep the 26 October 9am schedule.",
     "framework_revision_instruction": "rephrase this article using my latest blog framework"
-  }
+  },
+  "publication_authorization_status": "withdrawn by owner request to set article to draft"
 }
