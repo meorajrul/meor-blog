@@ -1,0 +1,82 @@
+[
+  {
+    "id": "C1",
+    "text": "The customer-support study reports about 15% greater resolutions per hour for 5,172 agents, with larger gains among less experienced workers.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Abstract; sections 3.1, 3.2, 3.3, 4.1 and 4.2",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Staggered rollout, primarily fall 2020 and winter 2021; 5,172 agents; adjusted estimate about 15%. One company, heterogeneous effects; not national employment evidence. Identification relies on parallel trends and related event-study assumptions, not verified universal assumptions."
+  },
+  {
+    "id": "C2",
+    "text": "METR reports an early-2025 slowdown and later selection and measurement problems that limit inference about newer productivity effects.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S2"
+    ],
+    "locator": "Opening findings and Wider adoption section, 24 February 2026",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Early result concerns February–June 2025 tasks; later recruitment, task selection and concurrent-agent time measurement weaken interpretation. No universal current effect claimed."
+  },
+  {
+    "id": "C3",
+    "text": "Agriculture, manufacturing and services coexist in Malaysian national accounts.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S3"
+    ],
+    "locator": "English highlights printed pp. 7–9; PDF pp. 27–29",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Official national accounts for 2025; only coexistence of sectors is cited. No growth number, historical transition chronology or AI attribution borrowed."
+  },
+  {
+    "id": "C4",
+    "text": "The official AI plan acknowledges incomplete large-scale multi-sector deployment and gaps in talent, investment mobilisation and commercialisation.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S4"
+    ],
+    "locator": "The National AI Strategic Context",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Official policy self-assessment acknowledges deployment and capability gaps; not independent evaluation or proof of primary bottleneck."
+  },
+  {
+    "id": "C5",
+    "text": "Vertex says its general partner encouraged MyTeksi relocation and provided regulatory introductions, taxi-company links and recruitment assistance.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S5"
+    ],
+    "locator": "Printed p. 147 / PDF p. 149; MyTeksi paragraph",
+    "status": "qualified",
+    "confidence": "source-bounded",
+    "limitations": "Interested retrospective investor testimony on relocation and assistance. Does not establish regulation-only cause or Malaysian counterfactual."
+  },
+  {
+    "id": "C6",
+    "text": "Author reports software work since 2010 and observed company/government digitisation changing tasks and roles.",
+    "kind": "personal-experience",
+    "source_ids": [],
+    "locator": "Original author message and final manually edited draft approved by publish request",
+    "status": "supported",
+    "confidence": "author-supplied",
+    "limitations": "Personal observations, not national job effects."
+  },
+  {
+    "id": "C7",
+    "text": "PC comparison, concern for new workers and hope for smoother policy adoption express questions and personal views.",
+    "kind": "opinion",
+    "source_ids": [],
+    "locator": "PC section and Conclusion; original and latest author messages",
+    "status": "qualified",
+    "confidence": "author-view",
+    "limitations": "No AGI forecast, causal policy claim or Singapore ranking asserted."
+  }
+]

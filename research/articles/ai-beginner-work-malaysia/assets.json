@@ -1,50 +1,8 @@
 [
   {
-    "id": "hero-01",
-    "path": "site/content/posts/ai-beginner-work-malaysia/hero.png",
-    "alt": "Two professionals use similar AI interfaces on unequal stairways toward a shared workplace; one path is built from project notebooks and the other has an unfinished step.",
-    "kind": "conceptual-illustration",
-    "rights": "Generated for this project with built-in image_gen; no third-party reference images.",
-    "attribution": "Conceptual illustration, generated with AI.",
-    "source_url": "",
-    "input_paths": [
-      "research/articles/ai-beginner-work-malaysia/hero-prompt.md"
-    ],
-    "width": 1672,
-    "height": 941,
-    "bytes": 3011839,
-    "sha256": "f07b3370d6afb56e8fc61b15c6a2d2c1552d21f23bdb763ca166f7b2d71a1515",
-    "created_on": "2026-10-19",
-    "generated_with": "built-in image_gen",
-    "prompt_path": "research/articles/ai-beginner-work-malaysia/hero-prompt.md"
-  },
-  {
-    "id": "malaysia-age-exposure",
-    "path": "site/content/posts/ai-beginner-work-malaysia/malaysia-ai-exposure-by-age.png",
-    "alt": "Highest/lowest exposure shares: ages15–24:26/44%;25–34:32/37%;35–44:29/31%;45–54:24/33%;55–64:17/36%. Modelled task exposure applied to2021 employment, not job losses.",
-    "kind": "chart",
-    "rights": "Original visualization of published factual percentages; no source figure artwork reused. Non-commercial attribution terms recorded in figures/README.md.",
-    "attribution": "Chart prepared for this journal from Cheng et al.(2025), World Bank–ISIS Malaysia, Figures6–7.",
-    "source_url": "https://documents1.worldbank.org/curated/en/099092325013010451/pdf/P181093-2e5b89c5-f3be-43b3-868c-8890b74bef21.pdf",
-    "input_paths": [
-      "research/articles/ai-beginner-work-malaysia/figures/malaysia-ai-exposure-by-age.csv",
-      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_experience.py",
-      "research/articles/ai-beginner-work-malaysia/figures/plot-environment.json",
-      "research/articles/ai-beginner-work-malaysia/figures/README.md",
-      "site/content/posts/ai-beginner-work-malaysia/malaysia-ai-exposure-by-age.csv"
-    ],
-    "width": 3240,
-    "height": 2340,
-    "bytes": 286479,
-    "sha256": "e40951a64cc0cdaaf596660765a93dd89b9e94e94d22824f52e5076d0408e472",
-    "created_on": "2026-10-19",
-    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/malaysia-ai-exposure-by-age.pdf",
-    "download_data_path": "site/content/posts/ai-beginner-work-malaysia/malaysia-ai-exposure-by-age.csv"
-  },
-  {
     "id": "learning-curve",
     "path": "site/content/posts/ai-beginner-work-malaysia/ai-learning-curve.png",
-    "alt": "One workplace: AI from joining reached about2.5resolved issues/hour after2months; without AI after about8–10months. Authors approximate summaries; range not confidence interval; not hiring outcomes.",
+    "alt": "One workplace: AI from joining reached about2.5resolved issues/hour after2months; without AI after about8–10months. Authors approximate summaries; range not confidence interval; not hiring outcomes. Rollout mainly autumn2020/winter2021.",
     "kind": "chart",
     "rights": "Original visualization of published approximate narrative summaries; no publisher figure artwork. Source article CC BY-NC4.0 and attribution documented in figures/README.md.",
     "attribution": "Chart prepared for this journal from Brynjolfsson,Li and Raymond(2025), QJE, V.B.3/FigureV.",
@@ -58,10 +16,139 @@
     ],
     "width": 3240,
     "height": 1950,
-    "bytes": 211197,
-    "sha256": "72a554d3c30121ccd6ae8a2bd2589cd4497a2bb45c7d36e499773b5d464e25eb",
+    "bytes": 212428,
+    "sha256": "0e3fac16d0e564ba4a22974fe76a335af15e48760d5ff18fd8b34860933bc39b",
     "created_on": "2026-10-19",
     "vector_path": "research/articles/ai-beginner-work-malaysia/figures/ai-learning-curve.pdf",
-    "download_data_path": "site/content/posts/ai-beginner-work-malaysia/ai-learning-curve.csv"
+    "download_data_path": "site/content/posts/ai-beginner-work-malaysia/ai-learning-curve.csv",
+    "updated_on": "2026-10-22"
+  },
+  {
+    "id": "malaysia-current-vacancies",
+    "path": "site/content/posts/ai-beginner-work-malaysia/malaysia-vacancies-q2-2026.png",
+    "alt": "Q22026 covered Malaysian private-sector vacancy estimates:semi-skilled107.3k,skilled50.2k,low-skilled38.2k. Skill groups do not count TVET or first-job opportunities.",
+    "kind": "chart",
+    "rights": "Original visualization of factual survey estimates; no DOSM artwork or logo copied. Attribution and source link provided.",
+    "attribution": "Original chart from DOSM Employment Statistics,Q22026,released13August2026.",
+    "source_url": "https://www.dosm.gov.my/portal-main/release-content/employment-statistics-Q22026",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/malaysia-vacancies-q2-2026.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_planning.py",
+      "research/articles/ai-beginner-work-malaysia/figures/planning-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/malaysia-vacancies-q2-2026.csv"
+    ],
+    "width": 3240,
+    "height": 2070,
+    "bytes": 224120,
+    "sha256": "1d1e7f19a46f932c61b472b07ab2870e837a9b71973ce648115ce62d5542eeee",
+    "created_on": "2026-10-22",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/malaysia-vacancies-q2-2026.pdf"
+  },
+  {
+    "id": "kesuma-graduate-employment-2025",
+    "path": "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-employment-2025.png",
+    "alt": "KESUMA2025:5367employed339unemployed of5706;94.1%employed. Survey labourforce denominator, not all graduates.",
+    "kind": "chart",
+    "rights": "Original chart of factual public statistical counts; no ministry artwork, logo or copied prose. Source attribution and links provided.",
+    "attribution": "MOHE Graduate Tracer Study2025, Table7.1/7.2",
+    "source_url": "https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-employment-2025.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_graduates.py",
+      "research/articles/ai-beginner-work-malaysia/figures/graduate-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-employment-2025.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 239551,
+    "sha256": "b4ea7c3824f8f46bf3c8943f656aa4385375d1507a9e4f4230246d02ab28b1c7",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-employment-2025.pdf",
+    "created_on": "2026-10-23",
+    "usage_status": "retained supplementary data; no longer cover"
+  },
+  {
+    "id": "kesuma-graduate-position-2025",
+    "path": "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-position-2025.png",
+    "alt": "KESUMA2025graduate employees:53.3%permanent33.2%contract10.9%temporary2.6%part-time;denominator4694government/private employees.",
+    "kind": "chart",
+    "rights": "Original chart of factual public statistical counts; no ministry artwork, logo or copied prose. Source attribution and links provided.",
+    "attribution": "MOHE Graduate Tracer Study2025, Table7.7",
+    "source_url": "https://mohe.gov.my/muat-turun/statistik/2025-1-1/1845-bab-7-skpg-2025-pdf/file",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-position-2025.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_graduates.py",
+      "research/articles/ai-beginner-work-malaysia/figures/graduate-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/kesuma-graduate-position-2025.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 260439,
+    "sha256": "5ea19bf69b490e4fafc17c40d2d354ec13a96d89783d29f066d496b36762343f",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/kesuma-graduate-position-2025.pdf",
+    "created_on": "2026-10-23"
+  },
+  {
+    "id": "us-young-worker-employment",
+    "path": "site/content/posts/ai-beginner-work-malaysia/us-young-worker-employment.png",
+    "alt": "US payroll sample ages22-25: employment changed approximately -11% in higher-exposure occupations and +10% in lower-exposure occupations, November2022-June2026. Descriptive, not causal.",
+    "kind": "chart",
+    "rights": "Original matplotlib artwork using factual published values; no source artwork, logo or substantial source prose reproduced. Attribution retained.",
+    "attribution": "Brynjolfsson, Chandar and Chen; Stanford Digital Economy Lab",
+    "source_url": "https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/us-young-worker-employment.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_first_jobs.py",
+      "research/articles/ai-beginner-work-malaysia/figures/first-jobs-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/us-young-worker-employment.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 237317,
+    "sha256": "ad62b1b219b42bc282adbe7a85d43249e58826380fb90264f01eb45217f503e9",
+    "created_on": "2026-10-23",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/us-young-worker-employment.pdf"
+  },
+  {
+    "id": "singapore-ai-employer-responses",
+    "path": "site/content/posts/ai-beginner-work-malaysia/singapore-ai-employer-responses.png",
+    "alt": "Among Singapore AI-adopting firms:19%redesign,14%AI-related jobs,8%lower hiring,6%headcount reductions. Firm shares reported5August2026; field dates unspecified.",
+    "kind": "chart",
+    "rights": "Original matplotlib artwork using factual published values; no source artwork, logo or substantial source prose reproduced. Attribution retained.",
+    "attribution": "Singapore Ministry of Manpower",
+    "source_url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0805-written-answer-to-pq-on-trends-in-job-vacancies",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/singapore-ai-employer-responses.csv",
+      "research/articles/ai-beginner-work-malaysia/figures/gen_fig_first_jobs.py",
+      "research/articles/ai-beginner-work-malaysia/figures/first-jobs-plot-environment.json",
+      "research/articles/ai-beginner-work-malaysia/figures/README.md",
+      "site/content/posts/ai-beginner-work-malaysia/singapore-ai-employer-responses.csv"
+    ],
+    "width": 3480,
+    "height": 2040,
+    "bytes": 253585,
+    "sha256": "fe339caea9f1b494d714126908365ea2047b6197289564d8877610047da6ecf7",
+    "created_on": "2026-10-23",
+    "vector_path": "research/articles/ai-beginner-work-malaysia/figures/singapore-ai-employer-responses.pdf"
+  },
+  {
+    "id": "hero-first-job",
+    "path": "site/content/posts/ai-beginner-work-malaysia/hero-first-job.png",
+    "alt": "AI-generated editorial still life of a graduation cap, open notebook and laptop on a sunlit desk.",
+    "kind": "generated-image",
+    "rights": "Generated for this journal using the built-in image generation tool. No supplied third-party image, identifiable person or real event. Decorative illustration, not evidence.",
+    "attribution": "AI-generated editorial illustration, 23 October 2026.",
+    "source_url": "",
+    "input_paths": [
+      "research/articles/ai-beginner-work-malaysia/figures/hero-first-job-prompt.txt"
+    ],
+    "width": 1672,
+    "height": 941,
+    "bytes": 2378486,
+    "sha256": "b5185483e5b82ddf34996f2397e910c7c032fade1d38a9da4af9dacb7abe40ce",
+    "created_on": "2026-10-23"
   }
 ]

@@ -5,11 +5,13 @@
     "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
     "publisher": "PHP project",
     "published": "2026-10-21",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "21 October security advisory: opening; Who is at risk; How to update; incomplete mitigations",
     "origin_group": "php-october-2026",
-    "appraisal": "Maintainer operational advisory inspected directly. Establishes release-specific fixes and vendor-update route, not prevalence or current exploitation. Recheck before operations; do not generalize temporary settings."
+    "appraisal": "Maintainer operational advisory inspected directly. Establishes release-specific fixes and vendor-update route, not prevalence or current exploitation. Recheck before operations; do not generalize temporary settings.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S2",
@@ -17,11 +19,13 @@
     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
     "publisher": "The PHP Foundation",
     "published": "2026-10-21",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "A first external audit and increased security focus; Building a sustainable professional security organization",
     "origin_group": "php-october-2026",
-    "appraisal": "First-party account of audit, early 2024 signs, stalled fixes, subsequent reports and human patch decisions. Fundraising interests disclosed in source. Shares incident origin with S1; not independent replication."
+    "appraisal": "First-party account of audit, early 2024 signs, stalled fixes, subsequent reports and human patch decisions. Fundraising interests disclosed in source. Shares incident origin with S1; not independent replication.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S3",
@@ -29,12 +33,14 @@
     "url": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
     "publisher": "The React Team",
     "published": "2025-12-03",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "Opening disclosure/date; Immediate Action Required: unaffected applications; Affected frameworks and bundlers including next",
     "origin_group": "react-rsc-2025",
     "appraisal": "Maintainer disclosure; inspected affected package and unaffected deployment qualifications. Updated January 26, 2026. Historical comparison only, no current React version instructions or AI discovery attribution adopted.",
-    "usage_status": "cited-again-in-framework-perspective"
+    "usage_status": "cited-again-in-framework-perspective",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S4",
@@ -66,11 +72,13 @@
     "url": "https://www.enisa.europa.eu/news/joint-statement-on-critical-php-vulnerabilities",
     "publisher": "ENISA and joint EU authorities",
     "published": "2026-10-21",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "Identify PHP-based applications; coordinate with providers; prioritize internet-facing systems; isolation; third-party products with embedded PHP",
     "origin_group": "eu-php-response-2026",
-    "appraisal": "Official operational recommendations for this incident. Normative guidance, not measured efficacy of a general security intervention. CVE information derives from PHP disclosure."
+    "appraisal": "Official operational recommendations for this incident. Normative guidance, not measured efficacy of a general security intervention. CVE information derives from PHP disclosure.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S7",
@@ -78,11 +86,13 @@
     "url": "https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html",
     "publisher": "OWASP Cheat Sheet Series",
     "published": "undated living guidance",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "Rules 2 (unprivileged user), 3 (capabilities), 8 (read-only filesystem)",
     "origin_group": "owasp-docker",
-    "appraisal": "Practitioner hardening guidance specific to Docker. Recommendations are not an empirical guarantee against unknown vulnerabilities. Only the relevant control passages were inspected; no deployment was audited."
+    "appraisal": "Practitioner hardening guidance specific to Docker. Recommendations are not an empirical guarantee against unknown vulnerabilities. Only the relevant control passages were inspected; no deployment was audited.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S8",
@@ -102,11 +112,13 @@
     "url": "https://www.anthropic.com/research/mythos-preview",
     "publisher": "Anthropic Frontier Red Team",
     "published": "2026-04-07",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "Introduction/date; The significance of Claude Mythos Preview: overnight RCE cases and limited partner release; Suggestions for defenders: no general availability",
     "origin_group": "anthropic-mythos-preview-2026",
-    "appraisal": "Vendor capability report. Relevant passages inspected directly; examples are attributed and do not yield a representative discovery rate, controlled human speed comparison or Node.js attribution. Later model; March Opus results cannot be treated as a ceiling."
+    "appraisal": "Vendor capability report. Relevant passages inspected directly; examples are attributed and do not yield a representative discovery rate, controlled human speed comparison or Node.js attribution. Later model; March Opus results cannot be treated as a ceiling.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S10",
@@ -114,11 +126,13 @@
     "url": "https://www.anthropic.com/news/redeploying-fable-5",
     "publisher": "Anthropic",
     "published": "2026-06-30",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "July 1 update: restored access; opening: June 12 suspension, June 30 lifting of controls, initially restored Mythos access for a set of US organizations; Timeline: June 9 release",
     "origin_group": "anthropic-mythos-access-2026",
-    "appraisal": "First-party historical account, updated July 1. Records vendor explanation of compliance and restoration, not an independent legal finding or current access guarantee. Distinguish Mythos Preview restrictions from Mythos 5/Fable 5 suspension."
+    "appraisal": "First-party historical account, updated July 1. Records vendor explanation of compliance and restoration, not an independent legal finding or current access guarantee. Distinguish Mythos Preview restrictions from Mythos 5/Fable 5 suspension.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S11",
@@ -126,11 +140,13 @@
     "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
     "publisher": "The Node.js Project",
     "published": "2026-10-21",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "Security releases available; CVE-2026-111497 Brotli decoder section",
     "origin_group": "nodejs-october-2026",
-    "appraisal": "Original project advisory inspected. Supports released updates, affected release lines and high-severity RCE issue. Does not establish AI discovery, exploitation in the wild, or faster future CVE discovery."
+    "appraisal": "Original project advisory inspected. Supports released updates, affected release lines and high-severity RCE issue. Does not establish AI discovery, exploitation in the wild, or faster future CVE discovery.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S12",
@@ -142,7 +158,8 @@
     "inspection": "inspected",
     "locator": "figures/raw/month-01.json through month-10.json and day-01.json through day-21.json: totalResults, timestamp; companion -request.json files contain exact queries and SHA-256",
     "origin_group": "nist-nvd-cve-snapshot-2026-10-22",
-    "appraisal": "Original API responses directly retrieved and inspected. Count by published UTC date with noRejected, not CVE ID year. All October daily windows reconcile to monthly count. Live database may change; cumulative sums are arithmetic transformations, not modelled estimates. No inference about discovery speed, attacks or AI attribution. HTML API documentation fetch returned 403; not represented as inspected."
+    "appraisal": "Original API responses directly retrieved and inspected. Count by published UTC date with noRejected, not CVE ID year. All October daily windows reconcile to monthly count. Live database may change; cumulative sums are arithmetic transformations, not modelled estimates. No inference about discovery speed, attacks or AI attribution. HTML API documentation fetch returned 403; not represented as inspected.",
+    "refresh_scope": "Retained22October snapshot. Reconciled31 raw API totalResults against monthly/daily JSON and published CSVs; no new live count retrieval or claim of current totals."
   },
   {
     "id": "S13",
@@ -151,11 +168,13 @@
     "publisher": "Django project",
     "authors": "Sarah Boyce",
     "published": "2026-10-06",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "CVE-2026-84429: Potential denial-of-service vulnerability in HTTP header parsing; severity paragraph; Affected supported versions and Resolution",
     "origin_group": "django-october-2026-security",
-    "appraisal": "Original maintainer disclosure directly inspected. Supports affected parser, unauthenticated header reachability and moderate severity according to Django policy. No AI discovery attribution or assertion every Django deployment is exposed. Other issues in the release not counted or pooled."
+    "appraisal": "Original maintainer disclosure directly inspected. Supports affected parser, unauthenticated header reachability and moderate severity according to Django policy. No AI discovery attribution or assertion every Django deployment is exposed. Other issues in the release not counted or pooled.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
   },
   {
     "id": "S14",
@@ -163,10 +182,24 @@
     "url": "https://spring.io/security/cve-2026-41707/",
     "publisher": "Spring / Broadcom",
     "published": "2026-08-20",
-    "accessed": "2026-10-22",
+    "accessed": "2026-10-24",
     "inspection": "inspected",
     "locator": "Heading: HIGH/August 20/CVE; Description; Affected Spring Products and Versions; Mitigation",
     "origin_group": "spring-security-dpop-2026",
-    "appraisal": "Original project advisory directly inspected. Component-specific conditional vulnerability, not all Spring applications. Attack requires intercepted valid proof and cache eviction. No exploit testing, AI attribution or current version recommendation adopted."
+    "appraisal": "Original project advisory directly inspected. Component-specific conditional vulnerability, not all Spring applications. Attack requires intercepted valid proof and cache eviction. No exploit testing, AI attribution or current version recommendation adopted.",
+    "previous_accessed": "2026-10-22",
+    "refresh_scope": "Reopened original source and inspected relevant cited passages on24October. No entire-site or operational security audit."
+  },
+  {
+    "id": "S15",
+    "title": "Informational advisory: Session upload progress",
+    "url": "https://www.php.net/archive/2026.php",
+    "publisher": "PHP project",
+    "published": "2026-10-23",
+    "accessed": "2026-10-24",
+    "inspection": "inspected",
+    "locator": "23October informational advisory immediately above21October security advisory; configuration/application preconditions",
+    "origin_group": "php-october-2026",
+    "appraisal": "Original maintainer follow-up. Conditional session path, not universal exposure. Only the advisory existence, date and bounded risk are added; no configuration-change command, exploit or guaranteed remediation is invented."
   }
 ]

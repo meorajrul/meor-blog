@@ -2,6 +2,6 @@
   "python": "3.12.14",
   "matplotlib": "3.11.2",
   "numpy": "2.5.4",
-  "method": "Published age percentages transcribed verbatim. Learning chart uses only authors narrative approximations, no graph digitization, interpolation or re-estimation.",
-  "source_checks": "World Bank Figure 6\u20137 visually inspected; QJE V.B.3 and Figure V caption inspected."
+  "method": "Learning chart uses only authors narrative approximations, no graph digitization, interpolation or re-estimation.",
+  "source_checks": "QJE V.B.3 and Figure V caption inspected."
 }

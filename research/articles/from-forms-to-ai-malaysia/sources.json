@@ -1,0 +1,57 @@
+[
+  {
+    "id": "S1",
+    "title": "Generative AI at Work",
+    "publisher": "Brynjolfsson, Li and Raymond",
+    "url": "https://arxiv.org/html/2304.11771v2",
+    "locator": "Abstract; sections 3.1, 3.2, 3.3, 4.1 and 4.2",
+    "appraisal": "Staggered rollout, primarily fall 2020 and winter 2021; 5,172 agents; adjusted estimate about 15%. One company, heterogeneous effects; not national employment evidence. Identification relies on parallel trends and related event-study assumptions, not verified universal assumptions.",
+    "accessed": "2026-10-23",
+    "inspection": "inspected",
+    "origin_group": "S1"
+  },
+  {
+    "id": "S2",
+    "title": "We are Changing our Developer Productivity Experiment Design",
+    "publisher": "METR",
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "locator": "Opening findings and Wider adoption section, 24 February 2026",
+    "appraisal": "Early result concerns February–June 2025 tasks; later recruitment, task selection and concurrent-agent time measurement weaken interpretation. No universal current effect claimed.",
+    "accessed": "2026-10-23",
+    "inspection": "inspected",
+    "origin_group": "S2"
+  },
+  {
+    "id": "S3",
+    "title": "GDP Fourth Quarter 2025",
+    "publisher": "Department of Statistics Malaysia",
+    "url": "https://storage.dosm.gov.my/gdp/gdp_2025-q4.pdf",
+    "locator": "English highlights printed pp. 7–9; PDF pp. 27–29",
+    "appraisal": "Official national accounts for 2025; only coexistence of sectors is cited. No growth number, historical transition chronology or AI attribution borrowed.",
+    "accessed": "2026-10-23",
+    "inspection": "inspected",
+    "origin_group": "S3"
+  },
+  {
+    "id": "S4",
+    "title": "AI Nation 2030 overview",
+    "publisher": "Ministry of Digital / AI Malaysia",
+    "url": "https://ai.gov.my/aiactionplan2030/",
+    "locator": "The National AI Strategic Context",
+    "appraisal": "Official policy self-assessment acknowledges deployment and capability gaps; not independent evaluation or proof of primary bottleneck.",
+    "accessed": "2026-10-23",
+    "inspection": "inspected",
+    "origin_group": "S4"
+  },
+  {
+    "id": "S5",
+    "title": "Offering circular dated 12 July 2021",
+    "publisher": "Vertex Venture Holdings",
+    "url": "https://links.sgx.com/FileOpen/Vertex%20Venture%20Holdings%20Ltd%20-%20OC%20dated%2012%20July%202021.ashx?App=Prospectus&FileID=52666",
+    "locator": "Printed p. 147 / PDF p. 149; MyTeksi paragraph",
+    "appraisal": "Interested retrospective investor testimony on relocation and assistance. Does not establish regulation-only cause or Malaysian counterfactual.",
+    "accessed": "2026-10-23",
+    "inspection": "inspected",
+    "origin_group": "S5"
+  }
+]

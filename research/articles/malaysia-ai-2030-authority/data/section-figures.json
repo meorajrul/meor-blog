@@ -1,0 +1,88 @@
+[
+  {
+    "id": "F13",
+    "file": "bank-islam-enforcement-record.png",
+    "type": "cards",
+    "title": "A duty with an enforcement record",
+    "eyebrow": "BANK ISLAM: BNM NOTICE, 30 JULY 2025",
+    "cards": [
+      [
+        "Requirement",
+        "Technology availability",
+        "Applicable RMiT paragraph 10.32"
+      ],
+      [
+        "BNM finding",
+        "Prolonged service disruptions",
+        "June 2023 to December 2024"
+      ],
+      [
+        "Consequence",
+        "RM1.745 million penalty",
+        "IFSA section 245(3)(b)(i)"
+      ]
+    ],
+    "source_ids": [
+      "S07"
+    ],
+    "locator": "Section A and footnote 1",
+    "footer": "A documented technology-resilience case. Not AI-specific enforcement or evidence of customer compensation.",
+    "alt": "BNM’s Bank Islam notice identifies the technology requirement, prolonged service disruptions between June 2023 and December 2024, and a RM1.745 million penalty. This is not an AI-specific case."
+  },
+  {
+    "id": "F06",
+    "file": "official-role-proposals.png",
+    "type": "cards",
+    "title": "The plan proposes different institutional roles",
+    "eyebrow": "AI NATION 2030: E11",
+    "cards": [
+      [
+        "Digital Ministry",
+        "Named as the key lead",
+        "Official plan"
+      ],
+      [
+        "Central AI authority",
+        "National principles and coordination",
+        "Proposed role"
+      ],
+      [
+        "Sector regulators",
+        "Enforcement in their domains",
+        "Authority retained in the proposal"
+      ]
+    ],
+    "source_ids": [
+      "S01"
+    ],
+    "locator": "E11 role proposals, printed page 81",
+    "footer": "A faithful summary of the plan proposal. It does not establish that every proposed power is in force.",
+    "alt": "E11 names the Digital Ministry as key lead, proposes central AI coordination and retains enforcement with sector regulators. These are proposed roles, not proof that new powers are in force."
+  },
+  {
+    "id": "F09",
+    "file": "pdpa-government-scope.png",
+    "type": "cards",
+    "title": "Public-sector safeguards need their own legal basis",
+    "eyebrow": "ACT 709: APPLICATION AND NON-APPLICATION",
+    "cards": [
+      [
+        "Commercial processing",
+        "Within the Act's stated application",
+        "Subject to its provisions"
+      ],
+      [
+        "Federal and State Governments",
+        "Excluded from Act 709",
+        "Other obligations may still apply"
+      ]
+    ],
+    "source_ids": [
+      "S18",
+      "S19"
+    ],
+    "locator": "Act 709, sections 2-3; Act A1727 (2024)",
+    "footer": "This exclusion is not a finding that government has no other legal duties.",
+    "alt": "Act 709 covers personal-data processing in commercial transactions within its stated scope, while section 3(1) excludes Federal and State Governments. Other legal obligations may still apply."
+  }
+]

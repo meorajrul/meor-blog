@@ -1,0 +1,53 @@
+[
+  {
+    "id": "FC01",
+    "claim": "The article should centre on access to the first job, rather than China as a validated TVET model.",
+    "type": "editorial recommendation",
+    "sources": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "status": "bounded recommendation"
+  },
+  {
+    "id": "FC02",
+    "claim": "Evidence of a shift towards senior workers exists in some samples; a universal experience advantage or explanation of its cause is not established.",
+    "type": "synthesis",
+    "sources": [
+      "F01",
+      "F02",
+      "F03",
+      "F06"
+    ],
+    "status": "supported within stated limits"
+  },
+  {
+    "id": "FC03",
+    "claim": "AI adoption has not produced a uniform observed graduate or entry-level employment outcome across the inspected settings.",
+    "type": "synthesis",
+    "sources": [
+      "F01",
+      "F03",
+      "F04",
+      "F05",
+      "F07"
+    ],
+    "status": "supported; measures and periods differ"
+  },
+  {
+    "id": "FC04",
+    "claim": "The inspected evidence does not establish a Malaysian TVET boom, an AI-proof career list, or Malaysian graduate displacement forecasts.",
+    "type": "evidence gap",
+    "sources": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "status": "leave unresolved"
+  }
+]

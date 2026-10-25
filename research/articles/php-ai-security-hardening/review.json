@@ -3,9 +3,9 @@
   "status": "approved",
   "author_approved": true,
   "reviewer": "Codex — AI-assisted self-review, not independent peer review",
-  "reviewed_on": "2026-10-22",
-  "review_by": "2026-10-23",
-  "content_sha256": "ad934717b2c35eecc5e78358ee0ceacec4608e516589b8605f092a3332d019ff",
+  "reviewed_on": "2026-10-24",
+  "review_by": "2026-10-31",
+  "content_sha256": "a8251722022cf8b44a1c3644bbd18d77f461f8431e3f1e212c7b5b5fadac74b6",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -18,6 +18,16 @@
     "source": "Direct owner instruction after viewing full updated draft in this conversation",
     "instruction": "push to my blog for ready to publish today",
     "approved_on": "2026-10-22",
-    "scope": "Full displayed We Already Had the Warning article with digital bug/cell hero, both CVE timelines and framework comparison; prepare publication dated today and push a codex branch/PR targeting staging. Main and live deployment remain owner-managed."
+    "scope": "Full displayed We Already Had the Warning article with digital bug/cell hero, both CVE timelines and framework comparison; prepare publication dated today and push a codex branch/PR targeting staging. Main and live deployment remain owner-managed.",
+    "maintenance_authorization": {
+      "source": "Direct user instruction in this chat,24October2026",
+      "instruction": "got some error on ci [GitHub Actions run40067222280/job120793642682]",
+      "scope": "Fix demonstrated CI failure through genuine source refresh, bounded maintenance update and tests; no new article approval or main/deployment authority inferred."
+    }
+  },
+  "previous_review": {
+    "reviewed_on": "2026-10-22",
+    "review_by": "2026-10-23",
+    "content_sha256": "ad934717b2c35eecc5e78358ee0ceacec4608e516589b8605f092a3332d019ff"
   }
 }

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "A01",
+    "path": "site/content/posts/malaysia-ai-2030-authority/hero.png",
+    "alt": "Conceptual Malaysian civic buildings connected by circuit-like paths to an open public-service doorway approached by several people.",
+    "rights": "AI-generated conceptual illustration created for this draft. No third-party source image or real identifiable person supplied; no claim of documentary accuracy or exclusive copyright.",
+    "attribution": "Created with the built-in OpenAI image-generation tool on 20 October 2026.",
+    "source_url": "",
+    "kind": "illustration",
+    "input_paths": [
+      "research/articles/malaysia-ai-2030-authority/hero-prompt.md"
+    ]
+  },
+  {
+    "id": "A14",
+    "path": "site/content/posts/malaysia-ai-2030-authority/bank-islam-enforcement-record.png",
+    "alt": "BNM’s Bank Islam notice identifies the technology requirement, prolonged service disruptions between June 2023 and December 2024, and a RM1.745 million penalty. This is not an AI-specific case.",
+    "rights": "Original Matplotlib rendering of attributed facts and concise document paraphrases; no source artwork or source graphic reproduced. Public facts are not claimed as exclusive copyright.",
+    "attribution": "Rendered and visually inspected23October2026. Sources S07.",
+    "source_url": "https://www.bnm.gov.my/-/eapn725",
+    "source_ids": [
+      "S07"
+    ],
+    "kind": "illustration",
+    "input_paths": [
+      "research/articles/malaysia-ai-2030-authority/data/section-figures.json",
+      "research/articles/malaysia-ai-2030-authority/data/story-case-value.csv",
+      "research/articles/malaysia-ai-2030-authority/src/build_section_figures.py"
+    ],
+    "figure_id": "F13",
+    "limitations": "A documented technology-resilience case. Not AI-specific enforcement or evidence of customer compensation."
+  },
+  {
+    "id": "A07",
+    "path": "site/content/posts/malaysia-ai-2030-authority/official-role-proposals.png",
+    "alt": "E11 names the Digital Ministry as key lead, proposes central AI coordination and retains enforcement with sector regulators. These are proposed roles, not proof that new powers are in force.",
+    "rights": "Original Matplotlib rendering of attributed facts and concise document paraphrases; no source artwork or source graphic reproduced. Public facts are not claimed as exclusive copyright.",
+    "attribution": "Rendered and visually inspected23October2026. Sources S01.",
+    "source_url": "https://ai.gov.my/aiactionplan2030/flip-pdf/en.pdf",
+    "source_ids": [
+      "S01"
+    ],
+    "kind": "illustration",
+    "input_paths": [
+      "research/articles/malaysia-ai-2030-authority/data/section-figures.json",
+      "research/articles/malaysia-ai-2030-authority/data/story-case-value.csv",
+      "research/articles/malaysia-ai-2030-authority/src/build_section_figures.py"
+    ],
+    "figure_id": "F06",
+    "limitations": "A faithful summary of the plan proposal. It does not establish that every proposed power is in force."
+  },
+  {
+    "id": "A10",
+    "path": "site/content/posts/malaysia-ai-2030-authority/pdpa-government-scope.png",
+    "alt": "Act 709 covers personal-data processing in commercial transactions within its stated scope, while section 3(1) excludes Federal and State Governments. Other legal obligations may still apply.",
+    "rights": "Original Matplotlib rendering of attributed facts and concise document paraphrases; no source artwork or source graphic reproduced. Public facts are not claimed as exclusive copyright.",
+    "attribution": "Rendered and visually inspected23October2026. Sources S18, S19.",
+    "source_url": "https://www.investmalaysia.gov.my/media/3x4fsqum/personal-data-protection-act-2010.pdf",
+    "source_ids": [
+      "S18",
+      "S19"
+    ],
+    "kind": "illustration",
+    "input_paths": [
+      "research/articles/malaysia-ai-2030-authority/data/section-figures.json",
+      "research/articles/malaysia-ai-2030-authority/data/story-case-value.csv",
+      "research/articles/malaysia-ai-2030-authority/src/build_section_figures.py"
+    ],
+    "figure_id": "F09",
+    "limitations": "This exclusion is not a finding that government has no other legal duties."
+  }
+]

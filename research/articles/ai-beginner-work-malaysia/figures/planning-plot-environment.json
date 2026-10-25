@@ -1,0 +1,7 @@
+{
+  "python": "3.12.14",
+  "matplotlib": "3.11.2",
+  "numpy": "2.5.4",
+  "method": "Direct transcription of published administrative counts and rounded survey estimates. No interpolation, forecast, causal model or invented counterfactual.",
+  "source_checks": "MOE 2024-round announcement inspected via official hudong mirror; DOSM full release overview directly downloaded and inspected."
+}
