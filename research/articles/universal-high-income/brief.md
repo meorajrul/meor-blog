@@ -21,3 +21,15 @@ Owner explicitly requested actual-data research on Malaysia’s AI, energy and p
 
 ## Owner-requested restructure
 Title: Can Malaysia Create—and Share—AI Abundance? Lead withMalaysia; define question, assessproduction/realwages/costs/AI/energy/distribution. Six new primarysources. No causalwagecomparison orhypotheticalenergybill. Preserve26October2026 09:00MYT releasepreparation.
+
+## Alda clarity plan — 26 October 2026
+
+Owner instruction: “rephrase this article using my latest blog framework”. Apply Meor Journal 1.4.0 / MJWS 1.1 as an editorial convention, not a validated communication model. This current plan supersedes the earlier international-first framing above.
+
+Central question: can Malaysia create enough additional value, improve household purchasing power and fund a dependable share for everyone?
+
+Three top-level points: (1) existing productive capacity and the limits of evidence for AI's added value; (2) measured household purchasing power and continuing costs; (3) demonstrated assistance delivery and unproven recurring AI funding. Story shape: evidence-led essay with an open conclusion.
+
+Difficult idea: productive capability, household benefits and sustainable transfers are distinct claims. Supported treatments: plain-language opening distinction; concrete evidence from DOSM output/wages (S20, S24–S27), MPC's selected 57 firms (S21), electricity records (S22, S28–S29) and SARA usage (S15); bounded implication that these do not establish an AI-funded universal payment. No invented analogy or causal pathway.
+
+Purposeful encounters: opening introduces the question; the household section moves from production to purchasing power, and the assistance section distinguishes delivery from funding; closing returns to the same three questions with uncertainty intact. The body needs several supporting subsections to retain energy details and international counterevidence; those do not introduce a fourth headline argument. Existing five data charts and decorative hero retained. No audio adaptation requested.

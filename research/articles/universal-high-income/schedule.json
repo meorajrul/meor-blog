@@ -4,7 +4,7 @@
   "timezone": "Asia/Kuala_Lumpur",
   "utc_time": "2026-10-26T01:00:00Z",
   "state": "scheduled-release-preparation",
-  "approved_content_sha256": "e0552db220f5e77cfb019ffcabd31d7ffd2186efc1368e35f5f1717484d80e28",
+  "approved_content_sha256": "df04403f1101bd04e4232fa5cb774ee2b5bb77375da7c666bef4c7be7e99038b",
   "approval_instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
   "target_branch": "staging",
   "release_branch": "codex/uhi-oct26-release",
@@ -16,6 +16,6 @@
   "release_worktree": "/Users/meorajrul/.codex/worktrees/uhi-oct26-release/211 Blog",
   "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/23",
   "preparation_commit": "6ef284a",
-  "revision_requested_on": "2026-10-25",
-  "revision_scope": "Malaysia restructure, household purchasing power and energy evidence, five updated charts and LinkedIn"
+  "revision_requested_on": "2026-10-26",
+  "revision_scope": "MJWS 1.1 and Alda rephrase; three Malaysia-focused points, unchanged data/charts, refreshed LinkedIn"
 }

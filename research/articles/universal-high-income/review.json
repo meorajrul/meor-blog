@@ -3,9 +3,9 @@
   "status": "approved",
   "author_approved": true,
   "reviewer": "Codex editorial self-review; owner requested scheduled publication",
-  "reviewed_on": "2026-10-25",
+  "reviewed_on": "2026-10-26",
   "review_by": "2026-11-25",
-  "content_sha256": "e0552db220f5e77cfb019ffcabd31d7ffd2186efc1368e35f5f1717484d80e28",
+  "content_sha256": "df04403f1101bd04e4232fa5cb774ee2b5bb77375da7c666bef4c7be7e99038b",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -23,6 +23,7 @@
     "revision_instruction": "malaysia have same welfare program giving cash to rakyat. Is there a possibility it also has the capabilities to deliver the abundance. Also add more graph/chart to support the claims",
     "revision_requested_on": "2026-10-25",
     "productive_capacity_revision_instruction": "Can Malaysia actually create the abundance, beyond distributing cash? Research its AI, energy and productivity capabilities using actual data (look at MPC), then add the findings to this article.",
-    "restructure_instruction": "Proceed with all the improvements. Research the household benefits and energy gaps using actual data, restructure the article around Malaysia, and update the charts and LinkedIn summary. Keep the 26 October 9am schedule."
+    "restructure_instruction": "Proceed with all the improvements. Research the household benefits and energy gaps using actual data, restructure the article around Malaysia, and update the charts and LinkedIn summary. Keep the 26 October 9am schedule.",
+    "framework_revision_instruction": "rephrase this article using my latest blog framework"
   }
 }
