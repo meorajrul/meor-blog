@@ -125,5 +125,83 @@
       "research/articles/universal-high-income/figures/str-sara-allocations.csv",
       "research/articles/universal-high-income/figures/plot_malaysia.py"
     ]
+  },
+  {
+    "id": "MY4-png",
+    "path": "site/content/posts/universal-high-income/productivity-q2-2026.png",
+    "alt": "Q2 2026 hourly productivity YoY growth by sector; national reference5.5%; no AI attribution.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from cited primary release.",
+    "source_url": "https://www.dosm.gov.my/uploads/release-content/file_20260820111723.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/productivity-q2-2026.csv",
+      "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
+  },
+  {
+    "id": "MY4-pdf",
+    "path": "site/content/posts/universal-high-income/productivity-q2-2026.pdf",
+    "alt": "Q2 2026 hourly productivity YoY growth by sector; national reference5.5%; no AI attribution.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from cited primary release.",
+    "source_url": "https://www.dosm.gov.my/uploads/release-content/file_20260820111723.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/productivity-q2-2026.csv",
+      "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
+  },
+  {
+    "id": "MY4-svg",
+    "path": "site/content/posts/universal-high-income/productivity-q2-2026.svg",
+    "alt": "Q2 2026 hourly productivity YoY growth by sector; national reference5.5%; no AI attribution.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from cited primary release.",
+    "source_url": "https://www.dosm.gov.my/uploads/release-content/file_20260820111723.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/productivity-q2-2026.csv",
+      "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
+  },
+  {
+    "id": "MY5-png",
+    "path": "site/content/posts/universal-high-income/electricity-mix-2025.png",
+    "alt": "2025 Peninsular-context electricity energy mix: coal58.5 gas33.5 renewables7.2 others0.8 percent.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from cited primary release.",
+    "source_url": "https://www.st.gov.my/sites/default/files/2026-04/ST_Performance-Booklet_Digital_FA_Hi-Res.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/electricity-mix-2025.csv",
+      "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
+  },
+  {
+    "id": "MY5-pdf",
+    "path": "site/content/posts/universal-high-income/electricity-mix-2025.pdf",
+    "alt": "2025 Peninsular-context electricity energy mix: coal58.5 gas33.5 renewables7.2 others0.8 percent.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from cited primary release.",
+    "source_url": "https://www.st.gov.my/sites/default/files/2026-04/ST_Performance-Booklet_Digital_FA_Hi-Res.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/electricity-mix-2025.csv",
+      "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
+  },
+  {
+    "id": "MY5-svg",
+    "path": "site/content/posts/universal-high-income/electricity-mix-2025.svg",
+    "alt": "2025 Peninsular-context electricity energy mix: coal58.5 gas33.5 renewables7.2 others0.8 percent.",
+    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
+    "attribution": "Original plot by Codex from cited primary release.",
+    "source_url": "https://www.st.gov.my/sites/default/files/2026-04/ST_Performance-Booklet_Digital_FA_Hi-Res.pdf",
+    "kind": "chart",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/electricity-mix-2025.csv",
+      "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
   }
 ]

@@ -5,7 +5,7 @@
   "reviewer": "Codex editorial self-review; owner requested scheduled publication",
   "reviewed_on": "2026-10-25",
   "review_by": "2026-11-25",
-  "content_sha256": "34e30ee9ac616de8ccd1f96e3088d52a9fab8fd911d2dea7c0326781f0ee1411",
+  "content_sha256": "db648c777f6d98910648e5c1fcefda21cc078022d99a13b1797dce995fbb42b3",
   "unresolved_issues": [],
   "claims_complete": true,
   "citations_checked": true,
@@ -19,8 +19,9 @@
     "instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
     "publish_at": "2026-10-26T09:00:00+08:00",
     "timezone": "Asia/Kuala_Lumpur",
-    "scope": "22 October scheduled-publication instruction, continued with owner-requested Malaysia extension and data charts on 25 October; main and deployment owner-managed.",
+    "scope": "Existing scheduled-publication instruction continued with explicitly requested delivery and productive-capacity revisions on25 October2026; main and deployment owner-managed.",
     "revision_instruction": "malaysia have same welfare program giving cash to rakyat. Is there a possibility it also has the capabilities to deliver the abundance. Also add more graph/chart to support the claims",
-    "revision_requested_on": "2026-10-25"
+    "revision_requested_on": "2026-10-25",
+    "productive_capacity_revision_instruction": "Can Malaysia actually create the abundance, beyond distributing cash? Research its AI, energy and productivity capabilities using actual data (look at MPC), then add the findings to this article."
   }
 }

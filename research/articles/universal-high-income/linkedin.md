@@ -1,12 +1,8 @@
-# LinkedIn copy — share after the article is live
+Malaysia can distribute assistance. Can it also create the abundance an AI dividend would require?
 
-Malaysia already distributes assistance through STR and SARA. Could that experience help it share the gains from AI?
+There is real capacity: hourly productivity rose 5.5% in Q2 2026, and advanced AI computing infrastructure exists in Johor. But MPC’s study of 57 manufacturers found no statistically significant link between AI spending and productivity. The electricity system also remains heavily dependent on coal and gas.
 
-There is a concrete starting point. Government-reported 2025 usage was 99% for monthly SARA and 96% for the one-off programme. These figures show use among registered recipients; they do not measure poverty reduction or people left outside the system.
-
-STR provides cash channels. SARA provides restricted credits for approved essentials. Neither programme establishes that Malaysia can sustainably fund universal high income.
-
-The delivery experience matters. So do reliable access, recurring revenue and affordable essentials. The revised article examines that distinction with three charts drawn from official records.
+The evidence supports productive progress. A dependable AI surplus—and a fair claim on it for every household—remains unproven.
 
 https://meorajrul.com/posts/universal-high-income/
-#Malaysia #AI #PublicPolicy
+#Malaysia #AI #Productivity

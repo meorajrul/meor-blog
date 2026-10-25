@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="748.8pt" height="420.48pt" viewBox="0 0 748.8 420.48" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T12:06:05.490499</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Original chart from cited public numerical data</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 420.48 
+L 748.8 420.48 
+L 748.8 0 
+L 0 0 
+z
+" style="fill: #fcfbf6"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 200.16 324.72 
+L 730.8 324.72 
+L 730.8 117.36 
+L 200.16 117.36 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 256.016842 324.72 
+L 256.016842 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="256.016842" y="343.597969" transform="rotate(-0 256.016842 343.597969)">−5.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 325.837895 324.72 
+L 325.837895 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="325.837895" y="343.597969" transform="rotate(-0 325.837895 343.597969)">−2.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 395.658947 324.72 
+L 395.658947 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="395.658947" y="343.597969" transform="rotate(-0 395.658947 343.597969)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 465.48 324.72 
+L 465.48 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="465.48" y="343.597969" transform="rotate(-0 465.48 343.597969)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 535.301053 324.72 
+L 535.301053 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="535.301053" y="343.597969" transform="rotate(-0 535.301053 343.597969)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 605.122105 324.72 
+L 605.122105 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="605.122105" y="343.597969" transform="rotate(-0 605.122105 343.597969)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 674.943158 324.72 
+L 674.943158 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.18; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526055" x="674.943158" y="343.597969" transform="rotate(-0 674.943158 343.597969)">10.0</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23382e" x="465.48" y="360.179531" transform="rotate(-0 465.48 360.179531)">Year-on-year change in value added per hour (%)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_9">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23382e" x="191.16" y="143.117846" transform="rotate(-0 191.16 143.117846)">Mining and quarrying</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_10">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23382e" x="191.16" y="184.548415" transform="rotate(-0 191.16 184.548415)">Manufacturing</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_11">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23382e" x="191.16" y="225.978984" transform="rotate(-0 191.16 225.978984)">Construction</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_12">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23382e" x="191.16" y="267.409554" transform="rotate(-0 191.16 267.409554)">Services</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19"/>
+     <g id="text_13">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23382e" x="191.16" y="308.840123" transform="rotate(-0 191.16 308.840123)">Agriculture</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 395.658947 149.572268 
+L 649.807579 149.572268 
+L 649.807579 126.785455 
+L 395.658947 126.785455 
+z
+" clip-path="url(#p694244c6f1)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 395.658947 191.002837 
+L 593.950737 191.002837 
+L 593.950737 168.216024 
+L 395.658947 168.216024 
+z
+" clip-path="url(#p694244c6f1)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 395.658947 232.433407 
+L 552.058105 232.433407 
+L 552.058105 209.646593 
+L 395.658947 209.646593 
+z
+" clip-path="url(#p694244c6f1)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 395.658947 273.863976 
+L 546.472421 273.863976 
+L 546.472421 251.077163 
+L 395.658947 251.077163 
+z
+" clip-path="url(#p694244c6f1)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 395.658947 315.294545 
+L 272.773895 315.294545 
+L 272.773895 292.507732 
+L 395.658947 292.507732 
+z
+" clip-path="url(#p694244c6f1)" style="fill: #d55e00"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 395.658947 324.72 
+L 395.658947 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke: #526055; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 549.265263 324.72 
+L 549.265263 117.36 
+" clip-path="url(#p694244c6f1)" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #009e73; stroke-width: 1.4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 200.16 324.72 
+L 730.8 324.72 
+" style="fill: none; stroke: #adb7ae; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23382e" x="658.186105" y="141.766049" transform="rotate(-0 658.186105 141.766049)">9.1%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23382e" x="602.329263" y="183.196618" transform="rotate(-0 602.329263 183.196618)">7.1%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23382e" x="560.436632" y="224.627187" transform="rotate(-0 560.436632 224.627187)">5.6%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23382e" x="554.850947" y="266.057757" transform="rotate(-0 554.850947 266.057757)">5.4%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23382e" x="264.395368" y="307.488326" transform="rotate(-0 264.395368 307.488326)">-4.4%</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_22">
+     <path d="M 586.991562 305.766406 
+L 599.991562 305.766406 
+L 612.991562 305.766406 
+" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #009e73; stroke-width: 1.4"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23382e" x="623.391562" y="310.316406" transform="rotate(-0 623.391562 310.316406)">National: 5.5%</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_20">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23382e" x="18" y="34.716562" transform="rotate(-0 18 34.716562)">Malaysia’s productivity gains differ across sectors</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526055" x="18" y="71.077969" transform="rotate(-0 18 71.077969)">Q2 2026 · hourly labour productivity · observed year-on-year growth</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #526055" transform="translate(18 387.87475)">Source: DOSM, Labour Productivity Q2 2026, 20 August 2026, PDF p. 2.</text>
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #526055" transform="translate(18 400.192344)">Output per hour, not wages. The release does not identify AI’s contribution.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p694244c6f1">
+   <rect x="200.16" y="117.36" width="530.64" height="207.36"/>
+  </clipPath>
+ </defs>
+</svg>

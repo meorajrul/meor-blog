@@ -167,5 +167,57 @@
     "origin_group": "OECD-Malaysia2026",
     "evidence_type": "Primary programme/public record or institution’s own assessment; relevant passages inspected",
     "appraisal": "Inspected relevant policy assessment, not every chapter. Revenue recommendation is OECD analysis, not a forecast adopted here or proof of UHI infeasibility."
+  },
+  {
+    "id": "S20",
+    "title": "Labour Productivity, Second Quarter 2026",
+    "publisher": "Department of Statistics Malaysia",
+    "published": "2026-08-20",
+    "url": "https://www.dosm.gov.my/uploads/release-content/file_20260820111723.pdf",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "PDF p. 2, national and sectoral hourly productivity; note p. 1 defines changes as year-on-year",
+    "origin_group": "S20-Malaysia-capacity",
+    "evidence_type": "Primary publication; relevant full text inspected.",
+    "appraisal": "Observed quarterly national accounts / labour productivity release. No attribution to AI; no wages inference."
+  },
+  {
+    "id": "S21",
+    "title": "Productivity Report 2026",
+    "publisher": "Malaysia Productivity Corporation",
+    "published": "2026; launched 20 August",
+    "url": "https://irp.cdn-website.com/d9b8bd4d/files/uploaded/02.+MPC_APR2026_Website+.pdf",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Printed pp. 87–89 (PDF pp. 88–90), Figure 41 and Box 4",
+    "origin_group": "S21-Malaysia-capacity",
+    "evidence_type": "Primary publication; relevant full text inspected.",
+    "appraisal": "Selected sample of 57 manufacturers, not nationally representative causal evidence. Readiness summary lacks sample size/fieldwork dates. IPP proxy broader than AI; correlation not causation."
+  },
+  {
+    "id": "S22",
+    "title": "2025 performance booklet",
+    "publisher": "Energy Commission / Suruhanjaya Tenaga",
+    "published": "2026; file hosted April",
+    "url": "https://www.st.gov.my/sites/default/files/2026-04/ST_Performance-Booklet_Digital_FA_Hi-Res.pdf",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Printed pp. 2 and 4 (PDF pp. 3 and 5), Year in Review and Energy Mix",
+    "origin_group": "S22-Malaysia-capacity",
+    "evidence_type": "Primary publication; relevant full text inspected.",
+    "appraisal": "Peninsular scope from year-in-review context, not nationwide. Capacity is transmission-connected; energy shares are not capacity shares. Dashboard reserve figures differ, so reserve margin excluded."
+  },
+  {
+    "id": "S23",
+    "title": "YTL AI Cloud Among Asia’s First Cloud Providers to Achieve NVIDIA Exemplar Cloud Status",
+    "publisher": "YTL AI Cloud",
+    "published": "2026-05-31",
+    "url": "https://www.ytlaicloud.com/press-releases/ytl-ai-cloud-among-asias-first-cloud-providers-to-achieve-nvidia-exemplar-cloud-status/",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Benchmark environment paragraph; infrastructure located in Johor",
+    "origin_group": "S23-Malaysia-capacity",
+    "evidence_type": "Primary publication; relevant full text inspected.",
+    "appraisal": "Interested provider report, not independent capacity or national economic-impact audit. 512 GPUs is benchmark environment, not total fleet size."
   }
 ]

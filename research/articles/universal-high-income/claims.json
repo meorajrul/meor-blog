@@ -178,5 +178,68 @@
     "confidence": "bounded by reported record and scope",
     "locator": "Paragraphs on Phase 3 recipients, RM15bn annual allocation and bank/BSN channels; Opening: RM2.2bn, over 22m adult citizens, RM100 one-off; Printed p.2, PDF p.10: 2025 usage rates and monthly transaction value/allocation; Paragraphs on terminal performance degradation and capacity/maintenance response; Paragraph 26: STR/SARA RM16bn versus RM15bn; 2027 design; Introduction, eligibility, cashless MyKad account and approved purchases; Executive summary: Growth will moderate but remain solid; revenue and protection discussion",
     "limitations": "Scope-limited interpretation; no transition forecast, fiscal simulation or tested UHI mechanism."
+  },
+  {
+    "id": "MY08",
+    "text": "Q2 2026 hourly productivity RM46.5, up 5.5% YoY; GDP +6.0%, hours +0.5%; sector rates plotted as published.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S20"
+    ],
+    "locator": "PDF pp. 1–2",
+    "status": "supported",
+    "confidence": "bounded by source design and reference period",
+    "limitations": "Aggregate output/hour, not pay, purchasing power or AI causal contribution."
+  },
+  {
+    "id": "MY09",
+    "text": "MPC reports weak insignificant AI investment/productivity relationship in selected 57 manufacturers (R² .003, p .664); readiness summary 72.9% improved outcomes and 29.7% high readiness; IPP proxy not AI-specific/causal.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S21"
+    ],
+    "locator": "Printed pp. 87–89",
+    "status": "supported",
+    "confidence": "bounded by source design and reference period",
+    "limitations": "No causal generalisation; readiness denominator and fieldwork dates unstated. Do not infer AI failure or inevitable later payoff."
+  },
+  {
+    "id": "MY10",
+    "text": "YTL reports 512-GPU benchmarking for Exemplar validation and Johor location.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S23"
+    ],
+    "locator": "Benchmark and infrastructure paragraphs",
+    "status": "supported",
+    "confidence": "bounded by source design and reference period",
+    "limitations": "Provider report; benchmark size is not total installed GPUs, utilisation or national benefit."
+  },
+  {
+    "id": "MY11",
+    "text": "ST reports Peninsular 2025 transmission capacity 28,192 MW, peak 21,049 MW, Pulau Indah addition 1,200 MW; energy shares coal58.5 gas33.5 RE7.2 others0.8.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S22"
+    ],
+    "locator": "Printed pp. 2 and 4",
+    "status": "supported",
+    "confidence": "bounded by source design and reference period",
+    "limitations": "Peninsular context, not nationwide. Energy versus capacity distinguished; no invented free-capacity subtraction."
+  },
+  {
+    "id": "MY12",
+    "text": "These records establish productive capabilities and recent gains, while sustained AI surplus and household distribution remain unestablished.",
+    "kind": "inference",
+    "source_ids": [
+      "S20",
+      "S21",
+      "S22",
+      "S23"
+    ],
+    "locator": "Article productive-capacity conclusion",
+    "status": "supported",
+    "confidence": "bounded by source design and reference period",
+    "limitations": "Bounded synthesis of reviewed evidence, not a forecast or proof of impossibility."
   }
 ]

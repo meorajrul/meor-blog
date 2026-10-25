@@ -1,0 +1,14 @@
+[
+  {
+    "file": "MPC-APR2026.pdf",
+    "sha256": "bf27b97ae7d5a6a2c77ec90346d641a6be836a0cbb22f9e147f9b64241dc444a",
+    "local_path": ".tools/uhi-source-records/MPC-APR2026.pdf",
+    "public_copy": false
+  },
+  {
+    "file": "ST-performance-2025.pdf",
+    "sha256": "73fcbe934381b718f2abab55db3fbe69ee30a72ed2f15d427205a4a44e98835e",
+    "local_path": ".tools/uhi-source-records/ST-performance-2025.pdf",
+    "public_copy": false
+  }
+]
