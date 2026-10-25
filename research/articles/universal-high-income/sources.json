@@ -219,5 +219,83 @@
     "origin_group": "S23-Malaysia-capacity",
     "evidence_type": "Primary publication; relevant full text inspected.",
     "appraisal": "Interested provider report, not independent capacity or national economic-impact audit. 512 GPUs is benchmark environment, not total fleet size."
+  },
+  {
+    "id": "S24",
+    "title": "Annual real salaries and wages by state",
+    "publisher": "DOSM",
+    "published": "2026-09-21",
+    "url": "https://open.dosm.gov.my/data-catalogue/wages_real_state",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Malaysia rows 2019–2025; linked CSV and metadata",
+    "origin_group": "S24-Malaysia-households-energy",
+    "evidence_type": "Primary data/publication and relevant passages inspected",
+    "appraisal": "All employees including non-citizens; 2010 prices; not a panel of identical people or all households."
+  },
+  {
+    "id": "S25",
+    "title": "Annual productivity by economic sector",
+    "publisher": "DOSM",
+    "published": "Dataset retrieved2026-10-25",
+    "url": "https://open.dosm.gov.my/data-catalogue/productivity_annual",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "CSV abs/p0/output_hour,2019–2025; metadata",
+    "origin_group": "S25-Malaysia-households-energy",
+    "evidence_type": "Primary data/publication and relevant passages inspected",
+    "appraisal": "GDP at2015 prices; latest3 years revisable; retrieved CSV supersedes older release values. Whole economy population differs from wage survey."
+  },
+  {
+    "id": "S26",
+    "title": "Household income",
+    "publisher": "DOSM",
+    "published": "2025-12-31 dataset update",
+    "url": "https://open.dosm.gov.my/data-catalogue/hh_income",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "2022 and2024 CSV income_median; metadata",
+    "origin_group": "S26-Malaysia-households-energy",
+    "evidence_type": "Primary data/publication and relevant passages inspected",
+    "appraisal": "Nominal gross citizen-household income, includes nonwage sources; not disposable income or individual pay."
+  },
+  {
+    "id": "S27",
+    "title": "Analysis of Annual Consumer Price Index2025: Summary of findings",
+    "publisher": "DOSM",
+    "published": "2026-04-29",
+    "url": "https://www.dosm.gov.my/uploads/release-content/file_20260429112321.pdf",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Printedpp.39–43, Table1/Table2",
+    "origin_group": "S27-Malaysia-households-energy",
+    "evidence_type": "Primary data/publication and relevant passages inspected",
+    "appraisal": "National average basket; individual spending patterns differ; slower inflation is not falling price levels."
+  },
+  {
+    "id": "S28",
+    "title": "Analyst Briefing2QFY2026",
+    "publisher": "Tenaga Nasional Berhad",
+    "published": "2026-08-28",
+    "url": "https://www.tnb.com.my/assets/quarterly_results/Analyst_Briefing_-_2QFY2026.pdf",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Slides3–5: actual load, project stages and network performance",
+    "origin_group": "S28-Malaysia-households-energy",
+    "evidence_type": "Primary data/publication and relevant passages inspected",
+    "appraisal": "Utility-reported data; data centres not AI-only; maximum demand not actual draw; no site connection queue or AI output attribution."
+  },
+  {
+    "id": "S29",
+    "title": "New electricity tariff structure announcement",
+    "publisher": "Energy Commission",
+    "published": "2025-06-20",
+    "url": "https://www.st.gov.my/ms/node/766",
+    "accessed": "2026-10-25",
+    "inspection": "inspected",
+    "locator": "Average base tariff; charge structure; fuel adjustment sections",
+    "origin_group": "S29-Malaysia-households-energy",
+    "evidence_type": "Primary data/publication and relevant passages inspected",
+    "appraisal": "45.40sen/kWh is regulatory average base tariff, not actual customer bill or guaranteed future price. Monthly fuel adjustment; site-specific costs unmeasured."
   }
 ]

@@ -4,7 +4,7 @@
   "timezone": "Asia/Kuala_Lumpur",
   "utc_time": "2026-10-26T01:00:00Z",
   "state": "scheduled-release-preparation",
-  "approved_content_sha256": "db648c777f6d98910648e5c1fcefda21cc078022d99a13b1797dce995fbb42b3",
+  "approved_content_sha256": "e0552db220f5e77cfb019ffcabd31d7ffd2186efc1368e35f5f1717484d80e28",
   "approval_instruction": "add hero image and set it to publish on 26th october 9am, then give short summary to be publish on my linkedin",
   "target_branch": "staging",
   "release_branch": "codex/uhi-oct26-release",
@@ -17,5 +17,5 @@
   "preparation_pr": "https://github.com/meorajrul/meor-blog/pull/23",
   "preparation_commit": "6ef284a",
   "revision_requested_on": "2026-10-25",
-  "revision_scope": "Delivery evidence plus AI, energy and productivity capabilities; five published-data charts"
+  "revision_scope": "Malaysia restructure, household purchasing power and energy evidence, five updated charts and LinkedIn"
 }

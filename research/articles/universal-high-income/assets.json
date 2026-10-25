@@ -10,123 +10,6 @@
     "input_paths": []
   },
   {
-    "id": "MY1-png",
-    "path": "site/content/posts/universal-high-income/sara-usage-2025.png",
-    "alt": "Reported 2025 usage: monthly SARA 99%, one-off SARA 96%; separate recipient denominators.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/sara-usage-2025.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY1-pdf",
-    "path": "site/content/posts/universal-high-income/sara-usage-2025.pdf",
-    "alt": "Reported 2025 usage: monthly SARA 99%, one-off SARA 96%; separate recipient denominators.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/sara-usage-2025.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY1-svg",
-    "path": "site/content/posts/universal-high-income/sara-usage-2025.svg",
-    "alt": "Reported 2025 usage: monthly SARA 99%, one-off SARA 96%; separate recipient denominators.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/sara-usage-2025.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY2-png",
-    "path": "site/content/posts/universal-high-income/sara-monthly-spending-2025.png",
-    "alt": "2025 monthly SARA: RM5bn allocation and RM4.8bn purchases.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/sara-monthly-spending-2025.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY2-pdf",
-    "path": "site/content/posts/universal-high-income/sara-monthly-spending-2025.pdf",
-    "alt": "2025 monthly SARA: RM5bn allocation and RM4.8bn purchases.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/sara-monthly-spending-2025.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY2-svg",
-    "path": "site/content/posts/universal-high-income/sara-monthly-spending-2025.svg",
-    "alt": "2025 monthly SARA: RM5bn allocation and RM4.8bn purchases.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/sara-monthly-spending-2025.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY3-png",
-    "path": "site/content/posts/universal-high-income/str-sara-allocations.png",
-    "alt": "STR/SARA: RM15bn 2026 allocation and RM16bn announced 2027 allocation.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/str-sara-allocations.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY3-pdf",
-    "path": "site/content/posts/universal-high-income/str-sara-allocations.pdf",
-    "alt": "STR/SARA: RM15bn 2026 allocation and RM16bn announced 2027 allocation.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/str-sara-allocations.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
-    "id": "MY3-svg",
-    "path": "site/content/posts/universal-high-income/str-sara-allocations.svg",
-    "alt": "STR/SARA: RM15bn 2026 allocation and RM16bn announced 2027 allocation.",
-    "rights": "Original chart of published numerical facts; no source graphic reproduced.",
-    "attribution": "Original plot by Codex from the cited Malaysian government/parliamentary records.",
-    "source_url": "https://www.mof.gov.my/portal/ms/berita/ucapan/ucapan-belanjawan-madani-kelima-tahun-2027",
-    "kind": "chart",
-    "input_paths": [
-      "research/articles/universal-high-income/figures/str-sara-allocations.csv",
-      "research/articles/universal-high-income/figures/plot_malaysia.py"
-    ]
-  },
-  {
     "id": "MY4-png",
     "path": "site/content/posts/universal-high-income/productivity-q2-2026.png",
     "alt": "Q2 2026 hourly productivity YoY growth by sector; national reference5.5%; no AI attribution.",
@@ -202,6 +85,129 @@
     "input_paths": [
       "research/articles/universal-high-income/figures/electricity-mix-2025.csv",
       "research/articles/universal-high-income/figures/plot_capacity.py"
+    ]
+  },
+  {
+    "id": "MY6-png",
+    "path": "site/content/posts/universal-high-income/production-and-real-wages.png",
+    "kind": "chart",
+    "alt": "Separate2019\u20132025 productivity and real-wage panels; different populations and price bases.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://open.dosm.gov.my/data-catalogue/wages_real_state",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/production-and-real-wages.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py",
+      "research/articles/universal-high-income/figures/wages-real-source.csv",
+      "research/articles/universal-high-income/figures/productivity-source.csv"
+    ]
+  },
+  {
+    "id": "MY6-pdf",
+    "path": "site/content/posts/universal-high-income/production-and-real-wages.pdf",
+    "kind": "chart",
+    "alt": "Separate2019\u20132025 productivity and real-wage panels; different populations and price bases.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://open.dosm.gov.my/data-catalogue/wages_real_state",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/production-and-real-wages.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py",
+      "research/articles/universal-high-income/figures/wages-real-source.csv",
+      "research/articles/universal-high-income/figures/productivity-source.csv"
+    ]
+  },
+  {
+    "id": "MY6-svg",
+    "path": "site/content/posts/universal-high-income/production-and-real-wages.svg",
+    "kind": "chart",
+    "alt": "Separate2019\u20132025 productivity and real-wage panels; different populations and price bases.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://open.dosm.gov.my/data-catalogue/wages_real_state",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/production-and-real-wages.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py",
+      "research/articles/universal-high-income/figures/wages-real-source.csv",
+      "research/articles/universal-high-income/figures/productivity-source.csv"
+    ]
+  },
+  {
+    "id": "MY7-png",
+    "path": "site/content/posts/universal-high-income/data-centre-load.png",
+    "kind": "chart",
+    "alt": "Actual data-centre load Jun2025\u2013Jun2026:603,710,850,1054,1256MW.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://www.tnb.com.my/assets/quarterly_results/Analyst_Briefing_-_2QFY2026.pdf",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/data-centre-load.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py"
+    ]
+  },
+  {
+    "id": "MY7-pdf",
+    "path": "site/content/posts/universal-high-income/data-centre-load.pdf",
+    "kind": "chart",
+    "alt": "Actual data-centre load Jun2025\u2013Jun2026:603,710,850,1054,1256MW.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://www.tnb.com.my/assets/quarterly_results/Analyst_Briefing_-_2QFY2026.pdf",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/data-centre-load.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py"
+    ]
+  },
+  {
+    "id": "MY7-svg",
+    "path": "site/content/posts/universal-high-income/data-centre-load.svg",
+    "kind": "chart",
+    "alt": "Actual data-centre load Jun2025\u2013Jun2026:603,710,850,1054,1256MW.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://www.tnb.com.my/assets/quarterly_results/Analyst_Briefing_-_2QFY2026.pdf",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/data-centre-load.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py"
+    ]
+  },
+  {
+    "id": "MY8-png",
+    "path": "site/content/posts/universal-high-income/sara-delivery.png",
+    "kind": "chart",
+    "alt": "Two panels: separate SARA recipient usage rates and monthly allocation/purchases.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-delivery.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py"
+    ]
+  },
+  {
+    "id": "MY8-pdf",
+    "path": "site/content/posts/universal-high-income/sara-delivery.pdf",
+    "kind": "chart",
+    "alt": "Two panels: separate SARA recipient usage rates and monthly allocation/purchases.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-delivery.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py"
+    ]
+  },
+  {
+    "id": "MY8-svg",
+    "path": "site/content/posts/universal-high-income/sara-delivery.svg",
+    "kind": "chart",
+    "alt": "Two panels: separate SARA recipient usage rates and monthly allocation/purchases.",
+    "rights": "Original redraw of numerical facts. DOSM open data attributed underCC BY4.0; source figures not reproduced.",
+    "attribution": "Original chart by Codex from cited primary sources.",
+    "source_url": "https://www.parlimen.gov.my/files/hindex/pdf/DR-05022026.pdf",
+    "input_paths": [
+      "research/articles/universal-high-income/figures/sara-delivery.csv",
+      "research/articles/universal-high-income/figures/plot_households_energy.py"
     ]
   }
 ]

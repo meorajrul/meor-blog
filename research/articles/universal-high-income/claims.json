@@ -1,17 +1,5 @@
 [
   {
-    "id": "C01",
-    "text": "The WEF event account records Musk presenting AI and robotics as a route to abundance and discussing electricity constraints.",
-    "kind": "external-fact",
-    "source_ids": [
-      "S12"
-    ],
-    "locator": "AI and robotics’ potential for economic growth; Energy needs",
-    "status": "supported",
-    "confidence": "bounded by identified source and scope",
-    "limitations": "Attribution to an argument, not validation of its outcome."
-  },
-  {
     "id": "C02",
     "text": "The US study compared 1,000 recipients of $1,000 monthly with 2,000 recipients of $50 during 2020–2023; the team reports modest work reductions and planning/agency benefits.",
     "kind": "external-fact",
@@ -241,5 +229,94 @@
     "status": "supported",
     "confidence": "bounded by source design and reference period",
     "limitations": "Bounded synthesis of reviewed evidence, not a forecast or proof of impossibility."
+  },
+  {
+    "id": "MY13",
+    "text": "Real median monthly wages for all employees at2010 prices were1798(2019),1582(2020),1978(2025); full2019–2025 chart reproduces CSV.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S24"
+    ],
+    "locator": "Malaysia annual rows",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "Includes non-citizens, not same-person panel or household income."
+  },
+  {
+    "id": "MY14",
+    "text": "Annual whole-economy output per hour at2015 prices2019–2025:40.7,42.1,41.1,42.0,42.0,43.5,45.3.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S25"
+    ],
+    "locator": "abs/p0/output_hour CSV rows",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "Revised vintage retrieved25October; no causal comparison with wage series; different populations and price bases."
+  },
+  {
+    "id": "MY15",
+    "text": "Citizen-household nominal gross median monthly income6338 in2022 and7017 in2024.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S26"
+    ],
+    "locator": "CSV and metadata",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "Not inflation-adjusted, disposable or per-person income."
+  },
+  {
+    "id": "MY16",
+    "text": "2025 CPI inflation1.4%, food/beverages2.1%, food away4.0%, food at home0.1%.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S27"
+    ],
+    "locator": "Printedpp.39–43 Tables1–2",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "National average basket, not universal cost experience or falling prices."
+  },
+  {
+    "id": "MY17",
+    "text": "TNB actual data-centre load603,710,850,1054,1256MW Jun25–Jun26;42 projects5.65GW in system,61projects8.35GW pipeline; H1 distribution SAIDI23.45min.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S28"
+    ],
+    "locator": "Slides3–5",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "Utility-reported; not exclusivelyAI; capacity not actualdraw; aggregate reliability does not guarantee site outcomes."
+  },
+  {
+    "id": "MY18",
+    "text": "RP4 average base tariff45.40sen/kWh; distinct energy/capacity/network/retail charges and monthly fuel/FX adjustment.",
+    "kind": "external-fact",
+    "source_ids": [
+      "S29"
+    ],
+    "locator": "Announcement tariff and adjustment sections",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "Not actual all-in price or forecast; no guaranteed cheap electricity."
+  },
+  {
+    "id": "MY19",
+    "text": "Evidence supports improved real median employee purchasing power and operating supply, but not universal household affordability or AI-attributable surplus.",
+    "kind": "inference",
+    "source_ids": [
+      "S24",
+      "S25",
+      "S26",
+      "S27",
+      "S28",
+      "S29"
+    ],
+    "locator": "Article synthesis",
+    "status": "supported",
+    "confidence": "bounded by published scope",
+    "limitations": "Bounded inference; no claim workers captured a measured share of productivity gains."
   }
 ]
